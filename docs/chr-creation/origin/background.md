@@ -70,8 +70,8 @@ These backgrounds are available as part as the new 2024 PHB, these options act a
 
 You were a devoted servant in a place of worship. You learned the rituals of your faith and how to channel divine power as part of your service.
 
-- **Ability Scores:** **:abl-int: Intelligence**, **:abl-wis: Wisdom**, **:abl-cha: Charisma**
-- **Feat:** Magic Initiate
+- **Ability Scores:** **:abl-int: Intelligence**{ .calc }, **:abl-wis: Wisdom**{ .calc }, **:abl-cha: Charisma**{ .calc }
+- **Feat:** :option-feat-origin: Magic Initiate
 - **Skill Proficiencies:** Insight, Religion
 - **Tool Proficiency:** *Calligrapher's Supplies*
 - **Equipment:** Choose **A** or **B**: 
@@ -85,8 +85,8 @@ You were a devoted servant in a place of worship. You learned the rituals of you
 
 You worked your way up from scrubbing floors to an apprenticeship creating your own crafts. You know how to schmooze a customer and have a keen eye for detail
 
-- **Ability Scores:** **:abl-str: Strength**{ .back }, **:abl-dex: Dexterity**{ .back }, **:abl-int: Intelligence**{ .back }
-- **Feat:** Crafter
+- **Ability Scores:** **:abl-str: Strength**{ .calc }, **:abl-dex: Dexterity**{ .calc }, **:abl-int: Intelligence**{ .calc }
+- **Feat:** :option-feat-origin: Crafter
 - **Skill Proficiencies:** Investigation, Persuasion
 - **Tool Proficiency:** Choose one kind of *Artisan's Tools*
 - **Equipment:** Choose **A** or **B**: 
@@ -100,8 +100,8 @@ You worked your way up from scrubbing floors to an apprenticeship creating your 
 
 You have learned to seek out a mark in taverns and pubs, and find the people most in search of less than honest goods, such as forgeries or sham magic items.
 
-- **Ability Scores:** **:abl-dex: Dexterity**, **:abl-cons: Constitution**, **:abl-cha: Charisma**
-- **Feat:** Skilled
+- **Ability Scores:** **:abl-dex: Dexterity**{ .calc }, **:abl-cons: Constitution**{ .calc }, **:abl-cha: Charisma**{ .calc }
+- **Feat:** :option-feat-origin: Skilled
 - **Skill Proficiencies:** Deception, Sleight of Hand
 - **Tool Proficiency:** *Forgery Kit*
 - **Equipment:** Choose **A** or **B**: 
@@ -115,8 +115,8 @@ You have learned to seek out a mark in taverns and pubs, and find the people mos
 
 Whether you were a member of a criminal crew or a solo thief who only looked out for yourself, you know the best ways to slice some purse strings or how to find alternative means to enter a locked shop.
 
-- **Ability Scores:** **:abl-dex: Dexterity**, **:abl-cons: Constitution**, **:abl-int: Intelligence**
-- **Feat:** Alert
+- **Ability Scores:** **:abl-dex: Dexterity**{ .calc }, **:abl-cons: Constitution**{ .calc }, **:abl-int: Intelligence**{ .calc }
+- **Feat:** :option-feat-origin: Alert
 - **Skill Proficiencies:** Sleight of Hand, Stealth
 - **Tool Proficiency:** *Thieves' Tools*
 - **Equipment:** Choose **A** or **B**: 
@@ -130,8 +130,8 @@ Whether you were a member of a criminal crew or a solo thief who only looked out
 
 You've spent your life on either a literal or proverbial stage, performing for willing audiences. You have learned how to channel your talent for creation into a crowd-pleasing art form.
 
-- **Ability Scores:** **:abl-str: Strength**, **:abl-dex: Dexterity**, **:abl-cha: Charisma**
-- **Feat:** Musician
+- **Ability Scores:** **:abl-str: Strength**{ .calc }, **:abl-dex: Dexterity**{ .calc }, **:abl-cha: Charisma**{ .calc }
+- **Feat:** :option-feat-origin: Musician
 - **Skill Proficiencies:** Acrobatics, Performance
 - **Tool Proficiency:** Choose one kind of *Musical Instrument*
 - **Equipment:** Choose **A** or **B**: 
@@ -145,8 +145,8 @@ You've spent your life on either a literal or proverbial stage, performing for w
 
 You've tilled the soil or raised animals as livestock or to aid you in cultivating your fields. You've gained a healthy respect for nature, in both its bounty and its wrath.
 
-- **Ability Scores:** **:abl-str: Strength**, **:abl-cons: Constitution**, **:abl-wis: Wisdom**
-- **Feat:** Tough
+- **Ability Scores:** **:abl-str: Strength**{ .calc }, **:abl-cons: Constitution**{ .calc }, **:abl-wis: Wisdom**{ .calc }
+- **Feat:** :option-feat-origin: Tough
 - **Skill Proficiencies:** Animal Handling, Nature
 - **Tool Proficiency:** *Carpenter's Tools*
 - **Equipment:** Choose **A** or **B**: 
@@ -160,8 +160,8 @@ You've tilled the soil or raised animals as livestock or to aid you in cultivati
 
 You've put in your time standing watch over a city or location. You've had your head on a swivel, keeping a watchful eye on raiding enemies on one side of a wall or criminal elements on the other
 
-- **Ability Scores:** **:abl-str: Strength**, **:abl-int: Intelligence**, **:abl-wis: Wisdom**
-- **Feat:** Alert
+- **Ability Scores:** **:abl-str: Strength**{ .calc }, **:abl-int: Intelligence**{ .calc }, **:abl-wis: Wisdom**{ .calc }
+- **Feat:** :option-feat-origin: Alert
 - **Skill Proficiencies:** Athletics, Perception
 - **Tool Proficiency:** Choose one kind of *Gaming Set*
 - **Equipment:** Choose **A** or **B**: 
@@ -175,8 +175,8 @@ You've put in your time standing watch over a city or location. You've had your 
 
 Your life was mostly spent outdoors, exploring the natural wonders around you. In your travels, you learned the basics of how to channel the magic of the wild world around you.
 
-- **Ability Scores:** **:abl-dex: Dexterity**, **:abl-cons: Constitution**, **:abl-wis: Wisdom**
-- **Feat:** Magic Initiate
+- **Ability Scores:** **:abl-dex: Dexterity**{ .calc }, **:abl-cons: Constitution**{ .calc }, **:abl-wis: Wisdom**{ .calc }
+- **Feat:** :option-feat-origin: Magic Initiate
 - **Skill Proficiencies:** Stealth, Survival
 - **Tool Proficiency:** *Cartographer's Tools*
 - **Equipment:** Choose **A** or **B**: 
@@ -190,8 +190,8 @@ Your life was mostly spent outdoors, exploring the natural wonders around you. I
 
 Whether alone in a hut or as part of a monastery, you've spent a considerable amount of time outside the trappings of society. You've grown comfortable pondering the wonders and mysteries of creation
 
-- **Ability Scores:** **:abl-cons: Constitution**, **:abl-wis: Wisdom**, **:abl-cha: Charisma**
-- **Feat:** Healer
+- **Ability Scores:** **:abl-cons: Constitution**{ .calc }, **:abl-wis: Wisdom**{ .calc }, **:abl-cha: Charisma**{ .calc }
+- **Feat:** :option-feat-origin: Healer
 - **Skill Proficiencies:** Medicine, Religion
 - **Tool Proficiency:** *Herbalism Kit*
 - **Equipment:** Choose **A** or **B**: 
@@ -205,8 +205,8 @@ Whether alone in a hut or as part of a monastery, you've spent a considerable am
 
 As an apprentice to a trader or shopkeeper, you traveled either supplying artisans with the materials they needed or acquiring their goods to sell to your customers. You know how to make a deal and how to handle a long journey.
 
-- **Ability Scores:** **:abl-cons: Constitution**, **:abl-int: Intelligence**, **:abl-cha: Charisma**
-- **Feat:** Lucky
+- **Ability Scores:** **:abl-cons: Constitution**{ .calc }, **:abl-int: Intelligence**{ .calc }, **:abl-cha: Charisma**{ .calc }
+- **Feat:** :option-feat-origin: Lucky
 - **Skill Proficiencies:** Animal Handling, Persuasion
 - **Tool Proficiency:** *Navigator's Tools*
 - **Equipment:** Choose **A** or **B**: 
@@ -220,8 +220,8 @@ As an apprentice to a trader or shopkeeper, you traveled either supplying artisa
 
 You grew up in the opulence and structure of wealth and societal privilege. You may have bristled against the restrictions and expectations of your role, but you learned a lot about courtly intrigue and the skills of leadership.
 
-- **Ability Scores:** **:abl-str: Strength**, **:abl-int: Intelligence**, **:abl-cha: Charisma**
-- **Feat:** Skilled
+- **Ability Scores:** **:abl-str: Strength**{ .calc }, **:abl-int: Intelligence**{ .calc }, **:abl-cha: Charisma**{ .calc }
+- **Feat:** :option-feat-origin: Skilled
 - **Skill Proficiencies:** History, Persuasion
 - **Tool Proficiency:** Choose one kind of *Gaming Set*
 - **Equipment:** Choose **A** or **B**: 
@@ -235,8 +235,8 @@ You grew up in the opulence and structure of wealth and societal privilege. You 
 
 Your thirst for knowledge drew you to some of the greatest libraries and archives in the world. You've got a knack for research and perhaps a rudimentary knowledge of magic gleaned from a book or two
 
-- **Ability Scores:** **:abl-cons: Constitution**, **:abl-int: Intelligence**, **:abl-wis: Wisdom**
-- **Feat:** Magic Initiate
+- **Ability Scores:** **:abl-cons: Constitution**{ .calc }, **:abl-int: Intelligence**{ .calc }, **:abl-wis: Wisdom**{ .calc }
+- **Feat:** :option-feat-origin: Magic Initiate
 - **Skill Proficiencies:** Arcana, History
 - **Tool Proficiency:** *Calligrapher's Supplies*
 - **Equipment:** Choose **A** or **B**: 
@@ -250,8 +250,8 @@ Your thirst for knowledge drew you to some of the greatest libraries and archive
 
 You called the open water your home, survived some of the sea's harshest storms. You've swapped stories with the best of them, whether that's on the barstool of a random port or the denizens of the world beneath the waves.
 
-- **Ability Scores:** **:abl-str: Strength**, **:abl-dex: Dexterity**, **:abl-wis: Wisdom**
-- **Feat:** Tavern Brawler
+- **Ability Scores:** **:abl-str: Strength**{ .calc }, **:abl-dex: Dexterity**{ .calc }, **:abl-wis: Wisdom**{ .calc }
+- **Feat:** :option-feat-origin: Tavern Brawler
 - **Skill Proficiencies:** Acrobatics, Perception
 - **Tool Proficiency:** *Navigator's Tools*
 - **Equipment:** Choose **A** or **B**: 
@@ -265,8 +265,8 @@ You called the open water your home, survived some of the sea's harshest storms.
 
 The written word has been your domain, either copying tomes, crafting government documents, or producing your own texts. Your eye for detail and ability to catch errors and mistakes is finely honed. 
 
-- **Ability Scores:** **:abl-dex: Dexterity**, **:abl-int: Intelligence**, **:abl-wis: Wisdom**
-- **Feat:** Skilled
+- **Ability Scores:** **:abl-dex: Dexterity**{ .calc }, **:abl-int: Intelligence**{ .calc }, **:abl-wis: Wisdom**{ .calc }
+- **Feat:** :option-feat-origin: Skilled
 - **Skill Proficiencies:** Investigation, Perception
 - **Tool Proficiency:** *Calligrapher's Supplies*
 - **Equipment:** Choose **A** or **B**: 
@@ -280,8 +280,8 @@ The written word has been your domain, either copying tomes, crafting government
 
 You can hardly remember a time when you didn't wield a weapon. You're well-versed in the ways of battle and war to protect the realm, and you have the muscle memory to prove it.
 
-- **Ability Scores:** **:abl-str: Strength**, **:abl-dex: Dexterity**, **:abl-cons: Constitution**
-- **Feat:** Savage Attacker
+- **Ability Scores:** **:abl-str: Strength**{ .calc }, **:abl-dex: Dexterity**{ .calc }, **:abl-cons: Constitution**{ .calc }
+- **Feat:** :option-feat-origin: Savage Attacker
 - **Skill Proficiencies:** Athletics, Intimidation
 - **Tool Proficiency:** Choose one kind of *Gaming Set*
 - **Equipment:** Choose **A** or **B**: 
@@ -295,8 +295,8 @@ You can hardly remember a time when you didn't wield a weapon. You're well-verse
 
 An urchin or societal castoff, you learned to survive. Forging your own path on the streets and possibly turning to crime when needed, you've managed to keep your pride and hope that destiny has more for you yet
 
-- **Ability Scores:** **:abl-dex: Dexterity**, **:abl-wis: Wisdom**, **:abl-cha: Charisma**
-- **Feat:** Lucky
+- **Ability Scores:** **:abl-dex: Dexterity**{ .calc }, **:abl-wis: Wisdom**{ .calc }, **:abl-cha: Charisma**{ .calc }
+- **Feat:** :option-feat-origin: Lucky
 - **Skill Proficiencies:** Insight, Stealth
 - **Tool Proficiency:** *Thieves' Tools*
 - **Equipment:** Choose **A** or **B**: 
