@@ -26,7 +26,7 @@ Whenever a creature you can see starts its turn within 30 feet of you while your
 
 ### Level 10: Battering Roots
 
-Tendrils of the World Tree extend from your Melee weapons. During your turn, while you wield a Melee weapon with the **:weapon-prop-heavy: Heavy**{ .em } or **:weapon-prop-versatile: Versatile**{ .em } property, your reach with that weapon increases by 10 feet. When you hit with this weapon, you can activate the Push or Topple property in addition to any other Mastery property you are using with that weapon.
+Tendrils of the World Tree extend from your Melee weapons. During your turn, while you wield a Melee weapon with the **:wp-prop-heavy: Heavy**{ .em } or **:wp-prop-versatile: Versatile**{ .em } property, your reach with that weapon increases by 10 feet. When you hit with this weapon, you can activate the Push or Topple property in addition to any other Mastery property you are using with that weapon.
 
 ### Level 14: Travel Along the Tree
 

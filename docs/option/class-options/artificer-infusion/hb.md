@@ -100,7 +100,7 @@ While holding the item, the wielder can take a **:rsc-b: Bonus Action**{ .rsc } 
 |---|---|
 | **Weapon Category** | Simple Melee |
 | **Damage on a Hit** | 1d8+1 (1d8+2 at level 14) :dmg-radi: Radiant + Ability Modifier used for the attack roll |
-| **Properties** | :weapon-prop-finesse: ^^Finesse^^ | 
+| **Properties** | :wp-prop-finesse: ^^Finesse^^ | 
 | **Mastery** | Vex <br>You can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery |
 
 The luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is considered sunlight.

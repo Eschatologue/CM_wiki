@@ -46,19 +46,19 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### Ammunition { .hide }
 
-:weapon-prop-ammunition:{ .xl }<br>Ammunition
+:wp-prop-ammunition:{ .xl }<br>Ammunition
 
-:   You can use a weapon that has the **:weapon-prop-ammunition: Ammunition** property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
+:   You can use a weapon that has the **:wp-prop-ammunition: Ammunition** property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
 
-    At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with **[:weapon-prop-explosive: Explosive](#explosive)**{ .nowrap } property can't benefit from this.
+    At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with **[:wp-prop-explosive: Explosive](#explosive)**{ .nowrap } property can't benefit from this.
 
 ---
 
 ### Automatic { .hide }
 
-:weapon-prop-automatic:{ .xl }<br>Automatic 
+:wp-prop-automatic:{ .xl }<br>Automatic 
 
-:   Each time you make an attack with an **:weapon-prop-automatic: Automatic** weapon, you can make one extra attack later on the same turn. This extra attack must be made with the *same weapon* provided it has enough Ammunition for the attack, and you don't add your ability modifier to the additional attack's damage roll, unless that modifier is negative. 
+:   Each time you make an attack with an **:wp-prop-automatic: Automatic** weapon, you can make one extra attack later on the same turn. This extra attack must be made with the *same weapon* provided it has enough Ammunition for the attack, and you don't add your ability modifier to the additional attack's damage roll, unless that modifier is negative. 
 
     If the Automatic property includes a plus and a number (e.g., Automatic (+3)), that number determines the maximum additional attacks you can make each time you attack with the weapon. For example, a Sub-Machine Gun with Automatic (+3) allows up to 3 extra attacks per attack.
 
@@ -66,7 +66,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### Explosive { .hide }
 
-:weapon-prop-explosive:{ .xl }<br>Explosive 
+:wp-prop-explosive:{ .xl }<br>Explosive 
 
 :   When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, originating from the target. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a **:d20-save: DEX save**{ .d20 } against your Weapon Save DC. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one.
 
@@ -76,15 +76,15 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### Finesse { .hide }
 
-:weapon-prop-finesse:{ .xl }<br>Finesse 
+:wp-prop-finesse:{ .xl }<br>Finesse 
 
-:   When making an attack with a **:weapon-prop-finesse: Finesse** weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+:   When making an attack with a **:wp-prop-finesse: Finesse** weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
 ---
 
 ### Heavy { .hide }
 
-:weapon-prop-heavy:{ .xl }<br>Heavy 
+:wp-prop-heavy:{ .xl }<br>Heavy 
 
 :   Heavy weapon is unwieldy compared to other weapons. You have **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
@@ -92,7 +92,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### Light { .hide }
 
-:weapon-prop-light:{ .xl }<br>Light 
+:wp-prop-light:{ .xl }<br>Light 
 
 :   When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with a Light weapon, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a *different Light weapon*, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
@@ -100,7 +100,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### Loading { .hide }
 
-:weapon-prop-loading:{ .xl }<br>Loading 
+:wp-prop-loading:{ .xl }<br>Loading 
 
 :   Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc } to fire it, regardless of the number of attacks you can normally make.
 
@@ -108,7 +108,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### Mounted { .hide }
 
-:weapon-prop-mounted:{ .xl }<br>Mounted 
+:wp-prop-mounted:{ .xl }<br>Mounted 
 
 :   This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an **:rsc-a: Action**{ .rsc }. While it is mounted, it can't be moved. It can only be used to make an attack while unmounted if held by a creature with a Strength score of at least 15.
 
@@ -116,7 +116,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### Range { .hide }
 
-:weapon-prop-range:{ .xl }<br>Range 
+:wp-prop-range:{ .xl }<br>Range 
 
 :   This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. 
 
@@ -126,7 +126,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### Reach { .hide }
 
-:weapon-prop-reach:{ .xl }<br>Reach 
+:wp-prop-reach:{ .xl }<br>Reach 
 
 :   This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for **:rsc-r: Opportunity Attacks** with a reach weapon.
 
@@ -134,7 +134,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### Reload { .hide }
 
-:weapon-prop-reload:{ .xl }<br>Reload 
+:wp-prop-reload:{ .xl }<br>Reload 
 
 :   This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a **:rsc-b: Bonus Action**{ .rsc }; otherwise, reloading it takes an **:rsc-a: Action**{ .rsc }. Some weapons require an **:rsc-a: Action**{ .rsc } or longer to reload, even if you have Proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
 
@@ -142,7 +142,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### Scatter { .hide }
 
-:weapon-prop-scatter:{ .xl }<br>Scatter 
+:wp-prop-scatter:{ .xl }<br>Scatter 
 
 :   If you make an attack against a target that is within half this weapon's normal range (round up), you deal the damage value listed in parenthesis instead of the weapon's normal damage dice.
 
@@ -150,7 +150,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### Sighted { .hide }
 
-:weapon-prop-sighted:{ .xl }<br>Sighted 
+:wp-prop-sighted:{ .xl }<br>Sighted 
 
 :   This weapon has **:d20-dis: Disadvantage**{ .d20 } on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your turn.
 
@@ -158,15 +158,15 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### Thrown { .hide }
  
-:weapon-prop-thrown:{ .xl }<br>Thrown 
+:wp-prop-thrown:{ .xl }<br>Thrown 
 
-:   You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. If the weapon has the [:weapon-prop-finesse: Finesse](#finesse) property, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls.
+:   You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. If the weapon has the [:wp-prop-finesse: Finesse](#finesse) property, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls.
 
 ---
 
 ### Two-Handed { .hide }
 
-:weapon-prop-two-handed:{ .xl }<br>Two-Handed 
+:wp-prop-two-handed:{ .xl }<br>Two-Handed 
 
 :   This weapon requires two hands when you attack with it. This property is relevant only when you attack with the weapon, not when you simply hold it.
 
@@ -174,12 +174,12 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### Versatile { .hide }
 
-:weapon-prop-versatile:{ .xl }<br>Versatile 
+:wp-prop-versatile:{ .xl }<br>Versatile 
 
-:   A **:weapon-prop-versatile: Versatile** weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
+:   A **:wp-prop-versatile: Versatile** weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
 
     **Improved Versatile**^*CM*^
-    :   A Mastery property appears within parentheses. You can use that Mastery property when you attack using a **:weapon-prop-versatile: Versatile** weapon with two hands.
+    :   A Mastery property appears within parentheses. You can use that Mastery property when you attack using a **:wp-prop-versatile: Versatile** weapon with two hands.
 
 ---
 

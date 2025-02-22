@@ -47,7 +47,7 @@ You can manifest your psionic power as shimmering blades of psychic energy. When
 |---|---|
 | **Weapon Category** | Simple Melee |
 | **Base Damage** | **1d6 + Ability Modifier :dmg-psyc: Psychic**{ .dmg-psyc } |
-| **Properties** | :weapon-prop-finesse: ^^Finesse^^, :weapon-prop-thrown: ^^Thrown (20/60)^^ | 
+| **Properties** | :wp-prop-finesse: ^^Finesse^^, :wp-prop-thrown: ^^Thrown (20/60)^^ | 
 | **Mastery** | Vex (you can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery) |
 
 The blade vanishses immediately after it hits or misses its target, and leaves no mark if it deals damage.

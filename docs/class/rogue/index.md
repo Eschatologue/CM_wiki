@@ -45,7 +45,7 @@ You have the following Core Traits
 :   Choose 4: Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, or Stealth  
 
 **Weapon Proficiencies** 
-:   Simple weapons and Martial weapons that have the :weapon-prop-finesse: ^^Finesse^^ or :weapon-prop-light: ^^Light^^ property  
+:   Simple weapons and Martial weapons that have the :wp-prop-finesse: ^^Finesse^^ or :wp-prop-light: ^^Light^^ property  
 
 **Tool Proficiencies** 
 :   Thieves' Tools  
@@ -111,7 +111,7 @@ At Rogue level 6, you gain Expertise in two more of your skill proficiencies of 
 
 ### Level 1: Sneak Attack
 
-You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have **:d20-adv: Advantage**{ .d20 } on the roll and the attack uses a :weapon-prop-finesse: Finesse or a :weapon-prop-range: Ranged weapon. The extra damage's type is the same as the weapon's type.
+You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have **:d20-adv: Advantage**{ .d20 } on the roll and the attack uses a :wp-prop-finesse: Finesse or a :wp-prop-range: Ranged weapon. The extra damage's type is the same as the weapon's type.
 
 You don't need **:d20-adv: Advantage**{ .d20 } on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the ^^Incapacitated^^ condition, and you don't have **:d20-dis: Disadvantage**{ .d20 } on the attack roll.
 

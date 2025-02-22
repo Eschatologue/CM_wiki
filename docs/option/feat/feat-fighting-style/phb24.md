@@ -42,7 +42,7 @@ When you are wielding a Melee Weapon in one hand and no other Weapons, you gain 
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When you roll damage for an attack you make with a Melee Weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the [:weapon-prop-two-handed: Two-Handed] or [:weapon-prop-versatile: Versatile] property to gain this benefit.
+When you roll damage for an attack you make with a Melee Weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the [:wp-prop-two-handed: Two-Handed] or [:wp-prop-versatile: Versatile] property to gain this benefit.
 
 ---
 
@@ -66,7 +66,7 @@ When a creature you can see attacks a target other than you that is within 5 fee
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When you hit with a ranged attack using a weapon that has the [:weapon-prop-thrown: Thrown] property, you gain a +2 bonus to the damage roll
+When you hit with a ranged attack using a weapon that has the [:wp-prop-thrown: Thrown] property, you gain a +2 bonus to the damage roll
 
 ---
 
@@ -74,7 +74,7 @@ When you hit with a ranged attack using a weapon that has the [:weapon-prop-thro
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-When you make the extra attack of the [:weapon-prop-light: Light] weapon property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.
+When you make the extra attack of the [:wp-prop-light: Light] weapon property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.
 
 ---
 
@@ -86,8 +86,8 @@ When you do damage with **:rsc-a: Unarmed Strike**{ .rsc } , it deals :dmg-bldg:
 
 At the start of each of your turns, you can deal 1d4 :dmg-bldg: Bludgeoning damage to one creature that receive the Grappled condition from you.
 
-[:weapon-prop-versatile: Versatile]: ../../../equipment/weapon/index.md#versatile
-[:weapon-prop-two-handed: Two-Handed]: ../../../equipment/weapon/index.md#two-handed
+[:wp-prop-versatile: Versatile]: ../../../equipment/weapon/index.md#versatile
+[:wp-prop-two-handed: Two-Handed]: ../../../equipment/weapon/index.md#two-handed
 
-[:weapon-prop-light: Light]: ../../../equipment/weapon/index.md#light
-[:weapon-prop-thrown: Thrown]: ../../../equipment/weapon/index.md#thrown
+[:wp-prop-light: Light]: ../../../equipment/weapon/index.md#light
+[:wp-prop-thrown: Thrown]: ../../../equipment/weapon/index.md#thrown

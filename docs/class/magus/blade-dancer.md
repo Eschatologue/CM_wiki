@@ -19,7 +19,7 @@ Typically, Magi of this Order take on a single apprentice, teaching them, and on
 
 Your Order's style of combat is an art. You gain proficiency in Performance, and you can use your Strength or Dexterity, in place of Charisma, when making a Performance check.
 
-So long as you are not wearing Heavy armour or wielding a weapon with :weapon-prop-heavy: Heavy Property, you can use your **:rsc-b: Bonus Action**{ .rsc } to enter the trance known as the **Blade Dance**. This trance lasts for 1 minute, and while it is active, you gain the benefits below:
+So long as you are not wearing Heavy armour or wielding a weapon with :wp-prop-heavy: Heavy Property, you can use your **:rsc-b: Bonus Action**{ .rsc } to enter the trance known as the **Blade Dance**. This trance lasts for 1 minute, and while it is active, you gain the benefits below:
 
 **Speed Increase**{ .inl } Your **:rsc-spd: Speed**{ .em } increases by 10 feet.
 
@@ -29,7 +29,7 @@ So long as you are not wearing Heavy armour or wielding a weapon with :weapon-pr
 
 **Bonus to Checks**{ .inl } You add your Intelligence modifier (minimum of +1) to all Strength (Athletics) and Dexterity (Acrobatics) checks
 
-Your Blade Dance ends if you have the ^^Incapacitated^^ condition, if you don Heavy armour or a weapon with :weapon-prop-heavy: Heavy Property, or if you end it (no action required). 
+Your Blade Dance ends if you have the ^^Incapacitated^^ condition, if you don Heavy armour or a weapon with :wp-prop-heavy: Heavy Property, or if you end it (no action required). 
 
 Once you enter a Blade Dance you must complete a **:rest-short: Short** or **:rest-long: Long Rest** before you can do so again. You can also restore your use of it by expending a level 1+ spell slot (no action required).
 

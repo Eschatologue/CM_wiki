@@ -72,7 +72,7 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 Increase your Dexterity score by 1, to a maximum of 20.
     
 **Dual Wielding**{ .inl }  
-When you make the extra attack of the :weapon-prop-light: **Light** weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a Firearm that has the :weapon-prop-light: **Light** property.
+When you make the extra attack of the :wp-prop-light: **Light** weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a Firearm that has the :wp-prop-light: **Light** property.
     
 **Quickshot**{ .inl }  
 After you roll for **:d20-inv: Initiative**{.d20 }, you can take a **:rsc-r: Reaction**{ .rsc } to make a single attack with a Firearm.
@@ -226,7 +226,7 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 You increase your Dexterity by 1, up to a maximum of 20.
     
 **Dynamic Swordplay**{ .inl }  
-When you take the **:rsc-a: Attack**{ .rsc } action and attack with melee weapon that has the :weapon-prop-finesse: **Finesse** property, you can choose to deal either :dmg-slsh: **Slashing** or :dmg-prcg: **Piercing** damage.
+When you take the **:rsc-a: Attack**{ .rsc } action and attack with melee weapon that has the :wp-prop-finesse: **Finesse** property, you can choose to deal either :dmg-slsh: **Slashing** or :dmg-prcg: **Piercing** damage.
 
 **Fleuret**{ .inl }  
 The first creature you hit on your turn has **:d20-dis: Disadvantage**{ .d20 } on any attack against you until the start of your next turn.
@@ -243,13 +243,13 @@ You've honed your ability to lob weaponry into the fray, including weapons not m
 Increase your Strength or Dexterity by 1, to a maximum of 20.
 
 **Throwable Weapons**{ .inl }  
-Simple and Martial melee weapons without the :weapon-prop-thrown: **Thrown** property have the :weapon-prop-thrown: **Thrown** property for you. One-handed weapons has :weapon-prop-thrown: **Thrown (30/60)**, while Two-handed weapons has :weapon-prop-thrown: **Thrown (15/30)**
+Simple and Martial melee weapons without the :wp-prop-thrown: **Thrown** property have the :wp-prop-thrown: **Thrown** property for you. One-handed weapons has :wp-prop-thrown: **Thrown (30/60)**, while Two-handed weapons has :wp-prop-thrown: **Thrown (15/30)**
 
 **Improved Throw Range**{ .inl }  
-Weapons that already have the :weapon-prop-thrown: **Thrown** property has their range is increased by (+20/+40)
+Weapons that already have the :wp-prop-thrown: **Thrown** property has their range is increased by (+20/+40)
 
 **Boomerang**{ .inl }  
-When you miss with a :weapon-prop-thrown: **Thrown** weapon attack using a weapon with :weapon-prop-light: **Light** property, the weapon returns to your grasp like a boomerang at the end of your turn, unless something prevents it from returning. You can catch and stow as many weapons as you threw in this way.
+When you miss with a :wp-prop-thrown: **Thrown** weapon attack using a weapon with :wp-prop-light: **Light** property, the weapon returns to your grasp like a boomerang at the end of your turn, unless something prevents it from returning. You can catch and stow as many weapons as you threw in this way.
 
 ---
 
@@ -263,6 +263,6 @@ You gain the following benefits:
 Increase your Dexterity by 1, to a maximum of 20.
 
 **Return Fire**{ .inl }   
-When a creature you can see hits or misses you with a ranged attack, you can take a **:rsc-r: Reaction**{ .rsc } and make one ranged weapon attack against that creature with ranged or thrown weapon that has the :weapon-prop-light: **Light** property.
+When a creature you can see hits or misses you with a ranged attack, you can take a **:rsc-r: Reaction**{ .rsc } and make one ranged weapon attack against that creature with ranged or thrown weapon that has the :wp-prop-light: **Light** property.
 
 ---

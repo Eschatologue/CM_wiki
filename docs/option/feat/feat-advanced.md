@@ -19,13 +19,13 @@ You learn to wield even more weapon variety with both of your hands.
 You gain a +1 bonus to your AC while you are wielding a separate melee weapon in each hand.
 
 **Strong Arm**{ .inl }  
-While you are wielding two Melee weapons, both are treated as if they had the **:weapon-prop-light: Light** property.
+While you are wielding two Melee weapons, both are treated as if they had the **:wp-prop-light: Light** property.
 
 **Flurry**{ .inl }  
-When you make the extra off-hand attack using the **:weapon-prop-light: Light** property, you can make it as part of the **:rsc-a: Attack**{ .rsc } action, instead of as a  **:rsc-b: Bonus Action**{ .rsc }. You can still make this extra attack only once per turn.
+When you make the extra off-hand attack using the **:wp-prop-light: Light** property, you can make it as part of the **:rsc-a: Attack**{ .rsc } action, instead of as a  **:rsc-b: Bonus Action**{ .rsc }. You can still make this extra attack only once per turn.
 
 **Quick Draw**{ .inl }  
-You can draw or stow two weapons that lack the **:weapon-prop-two-handed: Two-Handed** property when you would normally be able to draw or stow only one.
+You can draw or stow two weapons that lack the **:wp-prop-two-handed: Two-Handed** property when you would normally be able to draw or stow only one.
 
 ---
 
@@ -130,7 +130,7 @@ When a creature you can see hits you *or* an ally within 5 feet of you with an a
 When you take the **:rsc-a: Attack**{ .rsc } action on your turn while wielding a Shield, you can replace one of your attacks with a shield throw. Choose a creature that you can see within 30 ft. and it must succeed a Strength saving throw (DC 8 plus your Strength modifier and Proficiency Bonus), or take **:dmg-bldg: Bludgeoning**{ .dmg-phys } damage equals to your Shield's AC. Additionally, the target is also either pushed 10 feet from you or it gains the Prone condition (your choice). The shield harmlessly bounces back you your hand thereafter.
 
 **Transforming Shield**{ .inl }  
-As a **:rsc-b: Bonus Action**{ .rsc }, while wielding both a Shield and a melee weapon, you can combine the two, transforming the weapon. The melee weapon gains the :weapon-prop-two-handed: ^^Two-handed^^ property and deals extra damage the equals to the Shield's AC on hit. You lose the AC bonus you gain from the Shield in this form. 
+As a **:rsc-b: Bonus Action**{ .rsc }, while wielding both a Shield and a melee weapon, you can combine the two, transforming the weapon. The melee weapon gains the :wp-prop-two-handed: ^^Two-handed^^ property and deals extra damage the equals to the Shield's AC on hit. You lose the AC bonus you gain from the Shield in this form. 
 
 You can take a **:rsc-b: Bonus Action**{ .rsc } to end this transformation, reverting both the weapon and shield, to its original form.
 

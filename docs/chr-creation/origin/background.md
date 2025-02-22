@@ -39,7 +39,7 @@ Mechanically, your background contains six plus one aspects detailed as follow, 
 **:trt-language: Languages**
 :   Your character knows ^^3 languages^^: **Common** plus two additional languages chosen or rolled from the [Standard Languages] table.
 
-**:weapon-spear: Equipment**
+**:wp-spear: Equipment**
 :   Start with either an [Equipment Package] or **500 SP** to spend on equipment of your choice (e.g., weapons, tools, clothing, etc.).
 
 **:material-transit-connection-variant: Affiliation** ^*CM*^

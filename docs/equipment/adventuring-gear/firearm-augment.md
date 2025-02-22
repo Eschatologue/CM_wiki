@@ -39,9 +39,9 @@ Once you have crafted or bought an Augmentation for a particular firearm categor
 
 **Stacking Benefits**{ .inl }  If an Augmentation is marked as "stackable," you can apply two or more of the same Augmentation to a single firearm, and their benefits will stack.
 
-Keep in mind that stackable Augmentations can change the parameters of specific weapon properties, such as  :weapon-prop-reload: **Reload** or  :weapon-prop-automatic: **Automatic**, allowing those properties to function more effectively.
+Keep in mind that stackable Augmentations can change the parameters of specific weapon properties, such as  :wp-prop-reload: **Reload** or  :wp-prop-automatic: **Automatic**, allowing those properties to function more effectively.
 
-However, certain weapon properties themselves do not stack. For example, applying two of the same Augmentation that grants a weapon property like :weapon-prop-sighted: **Sighted** will not double the benefit of that specific property.
+However, certain weapon properties themselves do not stack. For example, applying two of the same Augmentation that grants a weapon property like :wp-prop-sighted: **Sighted** will not double the benefit of that specific property.
 
 ### Augmentation Limits
 
@@ -61,23 +61,23 @@ Below are Firearm Augmentations available in Crown & Misery.
 
 ### Bayonet Lug
 
-**Cost:** 800 SP and A Melee Weapon that has :weapon-prop-light: **Light** property   
+**Cost:** 800 SP and A Melee Weapon that has :wp-prop-light: **Light** property   
 **Prerequisite:** None  
 **Stackable:** Yes, up to 2 times.
 
 Making melee attack with the firearm will instead use the the melee weapon expended in the **Cost**. You can choose to destroy this Augmentation and get the weapon back.
 
-Taking this Augmentation again removes the :weapon-prop-light: **Light** property restriction for the melee weapon. You can't have more than one weapon in a single firearm.
+Taking this Augmentation again removes the :wp-prop-light: **Light** property restriction for the melee weapon. You can't have more than one weapon in a single firearm.
 
 ---
 
 ### Capacity
 
 **Cost:** 1,000 SP  
-**Prerequisite:** Has :weapon-prop-reload: **Reload** property  
+**Prerequisite:** Has :wp-prop-reload: **Reload** property  
 **Stackable:** Yes, up to 2 times.
 
-Increase the :weapon-prop-reload: **Reload** property value by half of the default value.
+Increase the :wp-prop-reload: **Reload** property value by half of the default value.
 
 ---
 
@@ -104,31 +104,31 @@ Adds +1 bonus to the firearm's attack & damage roll. If the firearm forces a sav
 ### Enlarged
 
 **Cost:** 1,000 SP  
-**Prerequisite:** Has :weapon-prop-explosive: **Explosive** property  
+**Prerequisite:** Has :wp-prop-explosive: **Explosive** property  
 **Stackable:** Yes, up to 2 times  
 
-Increase the :weapon-prop-explosive: **Explosive** property value by half of the default value.
+Increase the :wp-prop-explosive: **Explosive** property value by half of the default value.
 
 ---
 
 ### Extended Barrel
 
 **Cost:** 1,000 SP  
-**Prerequisite:** Has :weapon-prop-range: **Range** property, no *Sawn Off* augmentation  
+**Prerequisite:** Has :wp-prop-range: **Range** property, no *Sawn Off* augmentation  
 **Stackable:** No
 
-Increase the firearm :weapon-prop-range: **Range** property value by half of the default value.
+Increase the firearm :wp-prop-range: **Range** property value by half of the default value.
 
 ---
 
 ### Increased Calibre
 
 **Cost:** 1,800 SP  
-**Prerequisite:** No :weapon-prop-scatter: **Scatter** property  
+**Prerequisite:** No :wp-prop-scatter: **Scatter** property  
 **Stackable:** No
 
-- Removes the :weapon-prop-light: **Light** property if it has any.
-- Reduce :weapon-prop-reload: **Reload** property value by one-third (Round Up) of its default value.
+- Removes the :wp-prop-light: **Light** property if it has any.
+- Reduce :wp-prop-reload: **Reload** property value by one-third (Round Up) of its default value.
 - Increases the weapon **Damage Die** by one size larger. If the weapon Damage Die is 1d12 or 2d6, it gains +1 bonus to its damage roll.
 
 ---
@@ -136,17 +136,17 @@ Increase the firearm :weapon-prop-range: **Range** property value by half of the
 ### Overclocked
 
 **Cost:** 1,800 SP  
-**Prerequisite:** Has :weapon-prop-automatic: **Automatic** property   
+**Prerequisite:** Has :wp-prop-automatic: **Automatic** property   
 **Stackable:** No
 
-Increase the :weapon-prop-automatic: **Automatic** property value by half of the default value.
+Increase the :wp-prop-automatic: **Automatic** property value by half of the default value.
 
 ---
 
 ### Pinpoint 
 
 **Cost:** 2.500 SP  
-**Prerequisite:** Has :weapon-prop-sighted: **Sighted** property   
+**Prerequisite:** Has :wp-prop-sighted: **Sighted** property   
 **Stackable:** Yes, up to 2 times
 
 Reduce the number you need to roll for Critical Hit by 1.
@@ -156,30 +156,30 @@ Reduce the number you need to roll for Critical Hit by 1.
 ### Sawn Off
 
 **Cost:** 800 SP  
-**Prerequisite:** Has :weapon-prop-two-handed: **Two-handed** property, no *Extended Barrel* augmentation  
+**Prerequisite:** Has :wp-prop-two-handed: **Two-handed** property, no *Extended Barrel* augmentation  
 **Stackable:** No
 
-Removes the :weapon-prop-two-handed: **Two-handed** property from this firearm. Reduce the firearm's :weapon-prop-range: **Range** property value by half.
+Removes the :wp-prop-two-handed: **Two-handed** property from this firearm. Reduce the firearm's :wp-prop-range: **Range** property value by half.
 
 ---
 
 ### Scoped
 
 **Cost:** 500 SP  
-**Prerequisite:** No :weapon-prop-sighted: **Sighted** property  
+**Prerequisite:** No :wp-prop-sighted: **Sighted** property  
 **Stackable:** No
 
-Adds the :weapon-prop-sighted: **Sighted** property to this firearm.
+Adds the :wp-prop-sighted: **Sighted** property to this firearm.
 
 ---
 
 ### Skeletonised 
 
 **Cost:** 300 SP  
-**Prerequisite:** No :weapon-prop-light: **Light** property  
+**Prerequisite:** No :wp-prop-light: **Light** property  
 **Stackable:** Yes
 
-Removes the :weapon-prop-sighted: **Heavy** property from this firearm. If the firearm doesn't have the :weapon-prop-heavy: **Heavy** property, it gains the :weapon-prop-light: **Light** property.
+Removes the :wp-prop-sighted: **Heavy** property from this firearm. If the firearm doesn't have the :wp-prop-heavy: **Heavy** property, it gains the :wp-prop-light: **Light** property.
 
 ---
 

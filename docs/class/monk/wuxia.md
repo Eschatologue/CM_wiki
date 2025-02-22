@@ -15,7 +15,7 @@ While all Monks are able to wield the weapons of their style to great effect, th
 
 ### Level 3: The Study of Iron
 
-Your special martial arts training leads you to master the use more weapons. Your selection of Monk Weapons is expanded. Simple and Martial melee weapons that lacks the **:weapon-prop-heavy: Heavy** property and *Longbow* is now considered a Monk Weapon for you. You also gain proficiency with these weapons if you don't already have it.
+Your special martial arts training leads you to master the use more weapons. Your selection of Monk Weapons is expanded. Simple and Martial melee weapons that lacks the **:wp-prop-heavy: Heavy** property and *Longbow* is now considered a Monk Weapon for you. You also gain proficiency with these weapons if you don't already have it.
 
 You also gain additional benefits using your Monk Weapons:
 

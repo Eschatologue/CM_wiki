@@ -51,7 +51,7 @@ Your groundbreaking research has led to the development of your signature Arcane
 |---|---|
 | **Weapon Category** | Simple Ranged |
 | **Base Damage** | **1d10 + Ability Modifier :dmg-force: Force**{ .dmg-force } |
-| **Properties** | :weapon-prop-reload: Reload (6), :weapon-prop-range: Ranged (80/320) | 
+| **Properties** | :wp-prop-reload: Reload (6), :wp-prop-range: Ranged (80/320) | 
 
 At certain Artificer levels, your Arcane Firearm gains more Upgrades: at level 5 (3), 10 (4), and 15 (5)
 
@@ -127,7 +127,7 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     _**Prerequisite:** Level 3+ Artificer_
 
-    You increase the firepower of the Arcane Firearm. Its range increases to (100/400), its damage die increases from 1d10 to 2d6, and it gains the **:weapon-prop-heavy: Heavy** and **:weapon-prop-two-handed: Two-handed** properties.
+    You increase the firepower of the Arcane Firearm. Its range increases to (100/400), its damage die increases from 1d10 to 2d6, and it gains the **:wp-prop-heavy: Heavy** and **:wp-prop-two-handed: Two-handed** properties.
 
     ---
 

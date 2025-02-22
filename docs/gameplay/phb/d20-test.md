@@ -117,7 +117,7 @@ The Attack Roll Abilities table shows which ability modifier to use for differen
 | Ability | Attack Type |
 |---|---|
 | Strength | Melle attack with a weapon or an **:rsc-a: Unarmed Strike**{ .rsc } |
-| Dexterity | Ranged attack with a weapon or Melee weapon with :weapon-prop-finesse: Finesse property |
+| Dexterity | Ranged attack with a weapon or Melee weapon with :wp-prop-finesse: Finesse property |
 | Varies | Spell attack (The Ability used is determined by the spellcaster's spellcasting feature) |
 
 ### Armour Class

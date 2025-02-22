@@ -69,7 +69,7 @@ You gain the Armour Class benefit of a Shield only if you have training with it.
 
 Buckler is a small shield, gripped in fist, rather than strapped onto the arm. 
 
-When wielding a Buckler, a creature can still use a weapon's **:weapon-prop-versatile: Versatile**{ .em } property.
+When wielding a Buckler, a creature can still use a weapon's **:wp-prop-versatile: Versatile**{ .em } property.
 
 #### Pavise
 

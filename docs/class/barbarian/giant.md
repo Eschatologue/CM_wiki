@@ -27,7 +27,7 @@ The primal force of giants wreaths within you.
 
 Your rage pulls strength from the primal might of giants, transforming you into a hulking force of destruction. When your **:ui-rage: Rage**{ .em } is active, you gain the following benefits:
 
-**Giant's Cleaver**{ .inl } You choose one weapon you are holding and infuse it with primordial power. It gains the :weapon-prop-thrown: Thrown (20/60) property and if it already has the Thrown property its normal and long range increase by 20 feet. If you throw the weapon, it instantly reappears in your hand after you hit or miss a target. The weapon's infusion is suppressed while a creature other than you wields it.
+**Giant's Cleaver**{ .inl } You choose one weapon you are holding and infuse it with primordial power. It gains the :wp-prop-thrown: Thrown (20/60) property and if it already has the Thrown property its normal and long range increase by 20 feet. If you throw the weapon, it instantly reappears in your hand after you hit or miss a target. The weapon's infusion is suppressed while a creature other than you wields it.
 
 **Giant Stature**{ .inl } Your reach increases by 5 feet, and if you are smaller than Large, you can choose to become Large, along with anything you are wearing. If there isn't enough room for you to increase your size, your size doesn't change.
 

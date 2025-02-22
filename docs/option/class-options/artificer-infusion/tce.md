@@ -107,7 +107,7 @@ The infused item can send a jolt to the wearer to refocus their mind. The item h
 
 ### Repeating Shot
 
-_**Prerequisite:** Level 2+, **Item:** Weapon with :weapon-prop-ammunition: ^^Ammunition^^ property (requires attunement)_
+_**Prerequisite:** Level 2+, **Item:** Weapon with :wp-prop-ammunition: ^^Ammunition^^ property (requires attunement)_
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.
 
@@ -200,7 +200,7 @@ In the tables, an item's entry tells you whether the item requires attunement. S
 
 ### Returning Weapon
 
-_**Prerequisite:** Level 2+, **Item:** Weapon with the :weapon-prop-thrown: ^^Thrown^^ property_
+_**Prerequisite:** Level 2+, **Item:** Weapon with the :wp-prop-thrown: ^^Thrown^^ property_
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder's hand immediately after it is used to make a ranged attack.
 
@@ -274,7 +274,7 @@ The wearer of this armour gains these benefits:
 |---|---|
 | **Weapon Category** | Simple Melee |
 | **Base Damage** | 1d8 :dmg-force: Force + Ability Modifier used for the attack roll |
-| **Properties** | :weapon-prop-thrown: ^^Thrown (20/60)^^<br>When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches. | 
+| **Properties** | :wp-prop-thrown: ^^Thrown (20/60)^^<br>When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches. | 
 | **Mastery** | Push (you can use this property, and it doesn't count against the number of properties you can use with Weapon Mastery) |
 
 **Second Skin**{ .inl } The armour can't be removed against the wearer's will.

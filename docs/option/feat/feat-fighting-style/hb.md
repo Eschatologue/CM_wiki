@@ -10,7 +10,7 @@ These Fighting Style Feature are homebrew.
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-While wielding a [:weapon-prop-finesse: Finesse] weapon and no other weapon, you gain a +2 bonus to your attack rolls with the weapon and +1 to your AC. 
+While wielding a [:wp-prop-finesse: Finesse] weapon and no other weapon, you gain a +2 bonus to your attack rolls with the weapon and +1 to your AC. 
 
 You only gain these benefits so long you are not wearing Heavy Armour or wielding Shield.
 
@@ -20,7 +20,7 @@ You only gain these benefits so long you are not wearing Heavy Armour or wieldin
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
 
-When you make an attack with a [:weapon-prop-heavy: Heavy] Cold Weapon as part of your **:rsc-a: Attack**{ .rsc } action and the total damage roll from your weapon is 5 or lower, you treat it as 6
+When you make an attack with a [:wp-prop-heavy: Heavy] Cold Weapon as part of your **:rsc-a: Attack**{ .rsc } action and the total damage roll from your weapon is 5 or lower, you treat it as 6
 
 --- 
 
@@ -28,7 +28,7 @@ When you make an attack with a [:weapon-prop-heavy: Heavy] Cold Weapon as part o
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
 
-While you are wielding only [:weapon-prop-light: Light] weapons, and nothing else, your **:rsc-spd: Speed**{ .rsc } increases by 10 feet. You also gain a +1 bonus to damage rolls with [:weapon-prop-light: Light] weapons.
+While you are wielding only [:wp-prop-light: Light] weapons, and nothing else, your **:rsc-spd: Speed**{ .rsc } increases by 10 feet. You also gain a +1 bonus to damage rolls with [:wp-prop-light: Light] weapons.
 
 You only gain these benefits so long as you are not wearing Medium or Heavy armor, or wielding a Shield
 
@@ -88,9 +88,9 @@ You specialise one weapon rather than many. Choose one Weapon that you are Profi
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-You gain a +1 bonus to damage rolls with Quarterstaves, Spears, War Scythes, and weapons that has the [:weapon-prop-heavy: Heavy] and [:weapon-prop-reach: Reach] properties. While wielding one of these weapons, creatures provoke an **:rsc-r: Opportunity Attack**{ .rsc } from you when they *enter* or *move* within your reach with that weapon. 
+You gain a +1 bonus to damage rolls with Quarterstaves, Spears, War Scythes, and weapons that has the [:wp-prop-heavy: Heavy] and [:wp-prop-reach: Reach] properties. While wielding one of these weapons, creatures provoke an **:rsc-r: Opportunity Attack**{ .rsc } from you when they *enter* or *move* within your reach with that weapon. 
 
-Moreover, Quarterstaves, Spears, and War Scythes gains the **:weapon-prop-reach: Reach** property when wielded with two hands.
+Moreover, Quarterstaves, Spears, and War Scythes gains the **:wp-prop-reach: Reach** property when wielded with two hands.
 
 ---
 
@@ -116,7 +116,7 @@ When a creature within 10 feet of you makes an attack against a creature that yo
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-You can use your Strength modifier, in place of Dexterity, for attack rolls, damage rolls, and to meet the [:weapon-prop-heavy: Heavy] weapon property requirement with Compound Bows, Longbows, and Shortbows. You also gain a +1 to damage rolls with those weapons.
+You can use your Strength modifier, in place of Dexterity, for attack rolls, damage rolls, and to meet the [:wp-prop-heavy: Heavy] weapon property requirement with Compound Bows, Longbows, and Shortbows. You also gain a +1 to damage rolls with those weapons.
 
 ---
 
@@ -124,15 +124,15 @@ You can use your Strength modifier, in place of Dexterity, for attack rolls, dam
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-While wielding a single weapon with the [:weapon-prop-versatile: Versatile] property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can take one of the following actions as a **:rsc-b: Bonus Action**{ .rsc }: **:rsc-a: Unarmed Strike**{ .rsc } (Grapple or Shove only), or Utilise action.
+While wielding a single weapon with the [:wp-prop-versatile: Versatile] property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can take one of the following actions as a **:rsc-b: Bonus Action**{ .rsc }: **:rsc-a: Unarmed Strike**{ .rsc } (Grapple or Shove only), or Utilise action.
 
 ---
 
-[:weapon-prop-finesse: Finesse]: ../../../equipment/weapon/index.md#finesse
-[:weapon-prop-versatile: Versatile]: ../../../equipment/weapon/index.md#versatile
-[:weapon-prop-heavy: Heavy]: ../../../equipment/weapon/index.md#heavy
-[:weapon-prop-two-handed: Two-Handed]: ../../../equipment/weapon/index.md#two-handed
-[:weapon-prop-reach: Reach]: ../../../equipment/weapon/index.md#reach
+[:wp-prop-finesse: Finesse]: ../../../equipment/weapon/index.md#finesse
+[:wp-prop-versatile: Versatile]: ../../../equipment/weapon/index.md#versatile
+[:wp-prop-heavy: Heavy]: ../../../equipment/weapon/index.md#heavy
+[:wp-prop-two-handed: Two-Handed]: ../../../equipment/weapon/index.md#two-handed
+[:wp-prop-reach: Reach]: ../../../equipment/weapon/index.md#reach
 
-[:weapon-prop-light: Light]: ../../../equipment/weapon/index.md#light
-[:weapon-prop-thrown: Thrown]: ../../../equipment/weapon/index.md#thrown
+[:wp-prop-light: Light]: ../../../equipment/weapon/index.md#light
+[:wp-prop-thrown: Thrown]: ../../../equipment/weapon/index.md#thrown

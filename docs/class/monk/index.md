@@ -48,7 +48,7 @@ You have the following Core Traits
 :   Choose 2: Acrobatics, Athletics, History, Insight, Religion, or Stealth  
 
 **Weapon Proficiencies** 
-:   Simple weapons and Martial weapons that have the **:weapon-prop-light: Light** property  
+:   Simple weapons and Martial weapons that have the **:wp-prop-light: Light** property  
 
 **Tool Proficiencies** 
 :   Choose one type of Artisan's Tools or Musical Instrument (see chapter 6)  
@@ -110,7 +110,7 @@ As a Monk, you gain the following class features when you reach the specified Mo
 Your practice of martial arts gives you mastery of combat styles that use your **:rsc-a: Unarmed Strike**{ .rsc } and **Monk weapons**, which are the following:
 
 - Simple Melee weapons
-- Martial Melee weapons that have the **:weapon-prop-light: Light** property
+- Martial Melee weapons that have the **:wp-prop-light: Light** property
 
 You gain the following benefits while you are unarmed or wielding only **Monk weapons** and you aren't wearing armour or wielding a Shield.
 

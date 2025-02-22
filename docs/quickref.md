@@ -189,7 +189,7 @@ icon: material/fast-forward
 
     - #### :material-sword-cross: Off-Hand Attack { .inl }
 
-        If you attack with a **:weapon-prop-light: Light weapon** weapon, you can make one Extra Attack with a different **:weapon-prop-light: Light weapon** weapon. Ability modifier is not added to damage roll (unless negative).
+        If you attack with a **:wp-prop-light: Light weapon** weapon, you can make one Extra Attack with a different **:wp-prop-light: Light weapon** weapon. Ability modifier is not added to damage roll (unless negative).
 
     - #### :fontawesome-solid-hand-sparkles: Cast a Spell { .inl }
 
