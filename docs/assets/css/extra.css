@@ -107,7 +107,7 @@
 .md-typeset h4 {
   color: var(--md-gbl-text-color-strong);
   font-size: calc(var(--default-font-size) * 1.25);
-  margin: 0.6rem 0 -0.2rem;
+  margin: 0.3rem -0.1rem;
 }
 .md-typeset h5 {
   font-size: var(--default-font-size);
