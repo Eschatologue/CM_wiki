@@ -20,17 +20,17 @@ Mechanically, your background contains six plus one aspects detailed as follow, 
 **:material-arrow-up-bold-box: Ability Scores**
 :   Increase your Ability Score, these increases cannot raise any score above **20**, choose **(A)** or **(B)**
 
-    - **(A)** Increase **_one_ Ability Score by +2 and _another_ by +1**
-    - **(B)** Increase **_three_ Ability Scores by +1 each**.
+    - **(A)** Increase **_one_ Ability Score by `+2`** and **_another_ by `+1`**
+    - **(B)** Increase **_three_ Ability Scores by `+1` each**.
 
 **:material-cards-diamond: Feat**
-:   Gain an [:option-feat-origin: Origin Feat]. This feat represents a talent your character developed or had during their background
+:   Gain an [:option-feat-origin: Origin Feat]. This feat represents a talent your character developed or had during their background.
 
 **:material-account-star: Skill Prof.**
-:   Gain ^^Proficiency in 2 skills^^ of your choice
+:   Gain Proficiency in 2 skills of your choice
 
 **:material-tools: Tool Prof.**
-:   Gain ^^Proficiency with 1 tool^^. This can be:
+:   Gain Proficiency with 1 tool. This can be:
 
     - a [:material-guitar-acoustic: Musical Instrument]
     - an [:material-google-nearby: other tools]
@@ -45,7 +45,7 @@ Mechanically, your background contains six plus one aspects detailed as follow, 
 **:material-transit-connection-variant: Affiliation** ^*CM*^
 :   You have ^^5 points^^ to distribute between 4 **Affiliations**: **Academe, Bohemia, Establishment, Villainy**. Affiliation connects your character's **past** to their **present**.
 
-[Origin Feat]: ../../../option/feat/feat-origin/index.md
+[:option-feat-origin: Origin Feat]: ../../../option/feat/feat-origin/index.md
 [Equipment Package]: ../../../equipment/adventuring-gear/equipment-packs.md
 
 [Standard Languages]: ../../create-your-character.md#25-choose-languages
@@ -70,11 +70,14 @@ These backgrounds are available as part as the new 2024 PHB, these options act a
 
 You were a devoted servant in a place of worship. You learned the rituals of your faith and how to channel divine power as part of your service.
 
-- **Ability Scores:** Intelligence, Wisdom, Charisma
+- **Ability Scores:** **:abl-int: Intelligence**, **:abl-wis: Wisdom**, **:abl-cha: Charisma**
 - **Feat:** Magic Initiate
 - **Skill Proficiencies:** Insight, Religion
 - **Tool Proficiency:** *Calligrapher's Supplies*
-- **Equipment:** Choose **A** or **B**: (A) *Calligrapher's Supplies*, *Book (prayers)*, *Holy Symbol*, *Patchment (10 sheets)*, *Robe*, 8 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *Calligrapher's Supplies*, *Book (prayers)*, *Holy Symbol*, *Patchment (10 sheets)*, *Robe*, 80 SP
+    - **(B)** 500 SP
 
 ---
 
@@ -82,11 +85,14 @@ You were a devoted servant in a place of worship. You learned the rituals of you
 
 You worked your way up from scrubbing floors to an apprenticeship creating your own crafts. You know how to schmooze a customer and have a keen eye for detail
 
-- **Ability Scores:** Strength, Dexterity, Intelligence
+- **Ability Scores:** **:abl-str: Strength**{ .back }, **:abl-dex: Dexterity**{ .back }, **:abl-int: Intelligence**{ .back }
 - **Feat:** Crafter
 - **Skill Proficiencies:** Investigation, Persuasion
 - **Tool Proficiency:** Choose one kind of *Artisan's Tools*
-- **Equipment:** Choose **A** or **B**: (A) *Artisan's Tools* (same as above), 2 *Pouches*, *Traveler's Clothes*, 32 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *Artisan's Tools* (same as above), 2 *Pouches*, *Traveler's Clothes*, 320 SP; or 
+    - **(B)** 500 SP
 
 ---
 
@@ -94,11 +100,14 @@ You worked your way up from scrubbing floors to an apprenticeship creating your 
 
 You have learned to seek out a mark in taverns and pubs, and find the people most in search of less than honest goods, such as forgeries or sham magic items.
 
-- **Ability Scores:** Dexterity, Constitution, Charisma
+- **Ability Scores:** **:abl-dex: Dexterity**, **:abl-cons: Constitution**, **:abl-cha: Charisma**
 - **Feat:** Skilled
 - **Skill Proficiencies:** Deception, Sleight of Hand
 - **Tool Proficiency:** *Forgery Kit*
-- **Equipment:** Choose **A** or **B**: (A) *Forgery Kit*, *Costume*, *Fine Clothes*, 15 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *Forgery Kit*, *Costume*, *Fine Clothes*, 150 SP; or 
+    - **(B)** 500 SP
 
 ---
 
@@ -106,11 +115,14 @@ You have learned to seek out a mark in taverns and pubs, and find the people mos
 
 Whether you were a member of a criminal crew or a solo thief who only looked out for yourself, you know the best ways to slice some purse strings or how to find alternative means to enter a locked shop.
 
-- **Ability Scores:** Dexterity, Constitution, Intelligence
+- **Ability Scores:** **:abl-dex: Dexterity**, **:abl-cons: Constitution**, **:abl-int: Intelligence**
 - **Feat:** Alert
 - **Skill Proficiencies:** Sleight of Hand, Stealth
 - **Tool Proficiency:** *Thieves' Tools*
-- **Equipment:** Choose **A** or **B**: (A) *2 Daggers*, *Thieves' Tools*, *Crowbar*, *2 Pouches*, *Traveler's Clothes*, 16 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *2 Daggers*, *Thieves' Tools*, *Crowbar*, *2 Pouches*, *Traveler's Clothes*, 160 SP; or 
+    - **(B)** 500 SP
 
 ---
 
@@ -118,11 +130,14 @@ Whether you were a member of a criminal crew or a solo thief who only looked out
 
 You've spent your life on either a literal or proverbial stage, performing for willing audiences. You have learned how to channel your talent for creation into a crowd-pleasing art form.
 
-- **Ability Scores:** Strength, Dexterity, Charisma
+- **Ability Scores:** **:abl-str: Strength**, **:abl-dex: Dexterity**, **:abl-cha: Charisma**
 - **Feat:** Musician
 - **Skill Proficiencies:** Acrobatics, Performance
 - **Tool Proficiency:** Choose one kind of *Musical Instrument*
-- **Equipment:** Choose **A** or **B**: (A) *Musical Instrument* (same as above), *2 Costumes*, *Mirror*, *Perfume*, *Traveler's Clothes*, 11 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *Musical Instrument* (same as above), *2 Costumes*, *Mirror*, *Perfume*, *Traveler's Clothes*, 110 SP; or 
+    - **(B)** 500 SP
 
 ---
 
@@ -130,11 +145,14 @@ You've spent your life on either a literal or proverbial stage, performing for w
 
 You've tilled the soil or raised animals as livestock or to aid you in cultivating your fields. You've gained a healthy respect for nature, in both its bounty and its wrath.
 
-- **Ability Scores:** Strength, Constitution, Wisdom
+- **Ability Scores:** **:abl-str: Strength**, **:abl-cons: Constitution**, **:abl-wis: Wisdom**
 - **Feat:** Tough
 - **Skill Proficiencies:** Animal Handling, Nature
 - **Tool Proficiency:** *Carpenter's Tools*
-- **Equipment:** Choose **A** or **B**: (A) *Sickle*, *Carpenter's Tools*, *Healer's Kit*, *Iron Pot*, *Shovel*, 30 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *Sickle*, *Carpenter's Tools*, *Healer's Kit*, *Iron Pot*, *Shovel*, 300 SP; or 
+    - **(B)** 500 SP
 
 ---
 
@@ -142,11 +160,14 @@ You've tilled the soil or raised animals as livestock or to aid you in cultivati
 
 You've put in your time standing watch over a city or location. You've had your head on a swivel, keeping a watchful eye on raiding enemies on one side of a wall or criminal elements on the other
 
-- **Ability Scores:** Strength, Intelligence, Wisdom
+- **Ability Scores:** **:abl-str: Strength**, **:abl-int: Intelligence**, **:abl-wis: Wisdom**
 - **Feat:** Alert
 - **Skill Proficiencies:** Athletics, Perception
 - **Tool Proficiency:** Choose one kind of *Gaming Set*
-- **Equipment:** Choose **A** or **B**: (A) *Spear*, *Light Crossbow*, 20 *Bolts*, *Gaming Set* (same as above), *Hooded Lantern*, *Manacles*, *Quiver*, *Traveler's Clothes*, 12 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *Spear*, *Light Crossbow*, 20 *Bolts*, *Gaming Set* (same as above), *Hooded Lantern*, *Manacles*, *Quiver*, *Traveler's Clothes*, 120 SP; or 
+    - **(B)** 500 SP
 
 ---
 
@@ -154,11 +175,14 @@ You've put in your time standing watch over a city or location. You've had your 
 
 Your life was mostly spent outdoors, exploring the natural wonders around you. In your travels, you learned the basics of how to channel the magic of the wild world around you.
 
-- **Ability Scores:** Dexterity, Constitution, Wisdom
+- **Ability Scores:** **:abl-dex: Dexterity**, **:abl-cons: Constitution**, **:abl-wis: Wisdom**
 - **Feat:** Magic Initiate
 - **Skill Proficiencies:** Stealth, Survival
 - **Tool Proficiency:** *Cartographer's Tools*
-- **Equipment:** Choose **A** or **B**: (A) *Shortbow*, *20 Arrows*, *Cartographer's Tools*, *Bedroll*, *Quiver*, *Tent*, *Traveler's Clothes*, 3 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *Shortbow*, *20 Arrows*, *Cartographer's Tools*, *Bedroll*, *Quiver*, *Tent*, *Traveler's Clothes*, 30 SP; or 
+    - **(B)** 500 SP
 
 ---
 
@@ -166,11 +190,14 @@ Your life was mostly spent outdoors, exploring the natural wonders around you. I
 
 Whether alone in a hut or as part of a monastery, you've spent a considerable amount of time outside the trappings of society. You've grown comfortable pondering the wonders and mysteries of creation
 
-- **Ability Scores:** Constitution, Wisdom, Charisma
+- **Ability Scores:** **:abl-cons: Constitution**, **:abl-wis: Wisdom**, **:abl-cha: Charisma**
 - **Feat:** Healer
 - **Skill Proficiencies:** Medicine, Religion
 - **Tool Proficiency:** *Herbalism Kit*
-- **Equipment:** Choose **A** or **B**: (A) *Quarterstaff*, *Herbalism Kit*, *Bedroll*, *Book* (philosophy), *Lamp*, *Oil* (3 flasks), *Traveler's Clothes*, 16 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *Quarterstaff*, *Herbalism Kit*, *Bedroll*, *Book* (philosophy), *Lamp*, *Oil* (3 flasks), *Traveler's Clothes*, 160 SP; or 
+    - **(B)** 500 SP
 
 ---
 
@@ -178,11 +205,14 @@ Whether alone in a hut or as part of a monastery, you've spent a considerable am
 
 As an apprentice to a trader or shopkeeper, you traveled either supplying artisans with the materials they needed or acquiring their goods to sell to your customers. You know how to make a deal and how to handle a long journey.
 
-- **Ability Scores:** Constitution, Intelligence, Charisma
+- **Ability Scores:** **:abl-cons: Constitution**, **:abl-int: Intelligence**, **:abl-cha: Charisma**
 - **Feat:** Lucky
 - **Skill Proficiencies:** Animal Handling, Persuasion
 - **Tool Proficiency:** *Navigator's Tools*
-- **Equipment:** Choose **A** or **B**: (A) *Navigator's Tools*, *2 Pouches*, *Traveler's Clothes*, 22 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *Navigator's Tools*, *2 Pouches*, *Traveler's Clothes*, 220 SP; or 
+    - **(B)** 500 SP
 
 ---
 
@@ -190,11 +220,14 @@ As an apprentice to a trader or shopkeeper, you traveled either supplying artisa
 
 You grew up in the opulence and structure of wealth and societal privilege. You may have bristled against the restrictions and expectations of your role, but you learned a lot about courtly intrigue and the skills of leadership.
 
-- **Ability Scores:** Strength, Intelligence, Charisma
+- **Ability Scores:** **:abl-str: Strength**, **:abl-int: Intelligence**, **:abl-cha: Charisma**
 - **Feat:** Skilled
 - **Skill Proficiencies:** History, Persuasion
 - **Tool Proficiency:** Choose one kind of *Gaming Set*
-- **Equipment:** Choose **A** or **B**: (A) *Gaming Set* (same as above), *Fine Clothes*, *Perfume*, 29 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *Gaming Set* (same as above), *Fine Clothes*, *Perfume*, 290 SP; or 
+    - **(B)** 500 SP
 
 ---
 
@@ -202,11 +235,14 @@ You grew up in the opulence and structure of wealth and societal privilege. You 
 
 Your thirst for knowledge drew you to some of the greatest libraries and archives in the world. You've got a knack for research and perhaps a rudimentary knowledge of magic gleaned from a book or two
 
-- **Ability Scores:** Constitution, Intelligence, Wisdom
+- **Ability Scores:** **:abl-cons: Constitution**, **:abl-int: Intelligence**, **:abl-wis: Wisdom**
 - **Feat:** Magic Initiate
 - **Skill Proficiencies:** Arcana, History
 - **Tool Proficiency:** *Calligrapher's Supplies*
-- **Equipment:** Choose **A** or **B**: (A) *Quarterstaff*, *Calligrapher's Supplies*, *Book* (history), *Parchment* (8 sheets), *Robe*, 8 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *Quarterstaff*, *Calligrapher's Supplies*, *Book* (history), *Parchment* (8 sheets), *Robe*, 80 SP; or 
+    - **(B)** 500 SP
 
 ---
 
@@ -214,11 +250,14 @@ Your thirst for knowledge drew you to some of the greatest libraries and archive
 
 You called the open water your home, survived some of the sea's harshest storms. You've swapped stories with the best of them, whether that's on the barstool of a random port or the denizens of the world beneath the waves.
 
-- **Ability Scores:** Strength, Dexterity, Wisdom
+- **Ability Scores:** **:abl-str: Strength**, **:abl-dex: Dexterity**, **:abl-wis: Wisdom**
 - **Feat:** Tavern Brawler
 - **Skill Proficiencies:** Acrobatics, Perception
 - **Tool Proficiency:** *Navigator's Tools*
-- **Equipment:** Choose **A** or **B**: (A) *Dagger*, *Navigator's Tools*, *Rope*, *Traveler's Clothes*, 20 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *Dagger*, *Navigator's Tools*, *Rope*, *Traveler's Clothes*, 200 SP; or 
+    - **(B)** 500 SP
 
 ---
 
@@ -226,11 +265,14 @@ You called the open water your home, survived some of the sea's harshest storms.
 
 The written word has been your domain, either copying tomes, crafting government documents, or producing your own texts. Your eye for detail and ability to catch errors and mistakes is finely honed. 
 
-- **Ability Scores:** Dexterity, Intelligence, Wisdom
+- **Ability Scores:** **:abl-dex: Dexterity**, **:abl-int: Intelligence**, **:abl-wis: Wisdom**
 - **Feat:** Skilled
 - **Skill Proficiencies:** Investigation, Perception
 - **Tool Proficiency:** *Calligrapher's Supplies*
-- **Equipment:** Choose **A** or **B**: (A) *Calligrapher's Supplies*, *Fine Clothes*, *Lamp*, *Oil* (3 flasks), *Parchment* (12 sheets), 23 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *Calligrapher's Supplies*, *Fine Clothes*, *Lamp*, *Oil* (3 flasks), *Parchment* (12 sheets), 230 SP; or 
+    - **(B)** 500 SP
 
 ---
 
@@ -238,11 +280,14 @@ The written word has been your domain, either copying tomes, crafting government
 
 You can hardly remember a time when you didn't wield a weapon. You're well-versed in the ways of battle and war to protect the realm, and you have the muscle memory to prove it.
 
-- **Ability Scores:** Strength, Dexterity, Constitution
+- **Ability Scores:** **:abl-str: Strength**, **:abl-dex: Dexterity**, **:abl-cons: Constitution**
 - **Feat:** Savage Attacker
 - **Skill Proficiencies:** Athletics, Intimidation
 - **Tool Proficiency:** Choose one kind of *Gaming Set*
-- **Equipment:** Choose **A** or **B**: (A) *Spear*, *Shortbow*, *20 Arrows*, *Gaming Set* (same as above), *Healer's Kit*, *Quiver*, *Traveler's Clothes*, 14 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *Spear*, *Shortbow*, *20 Arrows*, *Gaming Set* (same as above), *Healer's Kit*, *Quiver*, *Traveler's Clothes*, 140 SP; or 
+    - **(B)** 500 SP
 
 ---
 
@@ -250,8 +295,13 @@ You can hardly remember a time when you didn't wield a weapon. You're well-verse
 
 An urchin or societal castoff, you learned to survive. Forging your own path on the streets and possibly turning to crime when needed, you've managed to keep your pride and hope that destiny has more for you yet
 
-- **Ability Scores:** Dexterity, Wisdom, Charisma
+- **Ability Scores:** **:abl-dex: Dexterity**, **:abl-wis: Wisdom**, **:abl-cha: Charisma**
 - **Feat:** Lucky
 - **Skill Proficiencies:** Insight, Stealth
 - **Tool Proficiency:** *Thieves' Tools*
-- **Equipment:** Choose **A** or **B**: (A) *2 Daggers*, *Thieves' Tools*, *Gaming Set* (any), *Bedroll*, *2 Pouches*, *Traveler's Clothes*, 16 GP; or (B) 50 GP
+- **Equipment:** Choose **A** or **B**: 
+
+    - **(A)** *2 Daggers*, *Thieves' Tools*, *Gaming Set* (any), *Bedroll*, *2 Pouches*, *Traveler's Clothes*, 160 SP; or 
+    - **(B)** 500 SP
+
+---
