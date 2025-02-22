@@ -17,17 +17,24 @@ Each weapon has a Mastery property, which is usable only by a character who has 
 
 To give more options for martial classess, the folowing homebrew rules are implemented. You may refer to the Weapon Mastery table to see which weapon are eligible.
 
-| **Weapon Property** | **Cleave** | **Graze** | **Nick** | **Push** | **Sap** | **Slow** | **Topple** | **Vex** | **Agile** | **Brace** | **Expose** | **Flex** | **Flurry** | **Spray** | **Tap** |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **Ammunition** | - | - | - | - | - | :material-checkbox-marked: | - | :material-checkbox-marked: | - | - | :material-checkbox-marked: | - | - | - | - |
-| **Automatic** | - | - | - | - | - | :material-checkbox-marked: | - | - | - | - | :material-checkbox-marked: | - | - | :material-checkbox-marked: | :material-checkbox-marked: |
-| **Finesse** | - | - | - | - | - | :material-checkbox-marked: | - | :material-checkbox-marked: | - | - | :material-checkbox-marked: | - | - | - | - |
-| **Heavy** | :material-checkbox-marked: | :material-checkbox-marked: | - | :material-checkbox-marked: | - | :material-checkbox-marked: | :material-checkbox-marked: | - | - | :material-checkbox-marked: | :material-checkbox-marked: | - | - | - | - |
-| **Light** | - | - | :material-checkbox-marked: | - | - | :material-checkbox-marked: | - | :material-checkbox-marked: | :material-checkbox-marked: | - | - | - | :material-checkbox-marked: | - | - |
-| **Reach** | - | - | - | - | - | :material-checkbox-marked: | :material-checkbox-marked: | - | - | - | :material-checkbox-marked: | - | - | - | - |
-| **Reload (8+)** | - | - | - | - | - | :material-checkbox-marked: | - | - | - | - | :material-checkbox-marked: | - | - | :material-checkbox-marked: | - |
-| **Two-Handed** | - | - | - | :material-checkbox-marked: | - | :material-checkbox-marked: | - | - | - | - | :material-checkbox-marked: | - | - | - | - |
-| **Versatile** | - | - | - | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | - | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | - | - | - |
+| **Mastery \ Property** | Ammunition | Automatic | Finesse | Heavy | Light | Reach | Reload (8+) | *wo-Handed | Versatile |
+|---|---|---|---|---|---|---|---|---|---|
+| **Cleave** | - | - | - | :material-checkbox-marked: | - | - | - | - | - |
+| **Graze** | - | - | - | :material-checkbox-marked: | - | - | - | - | - |
+| **Nick** | - | - | - | - | :material-checkbox-marked: | - | - | - | - |
+| **Push** | - | - | - | :material-checkbox-marked: | - | - | - | :material-checkbox-marked: | :material-checkbox-marked: |
+| **Sap** | - | - | - | - | - | - | - | - | :material-checkbox-marked: |
+| **Slow** | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: |
+| **Topple** | - | - | - | :material-checkbox-marked: | - | :material-checkbox-marked: | - | - | :material-checkbox-marked: |
+| **Vex** | :material-checkbox-marked: | - | :material-checkbox-marked: | - | :material-checkbox-marked: | - | - | - | - |
+| **Agile** | - | - | - | - | :material-checkbox-marked: | - | - | - | :material-checkbox-marked: |
+| **Brace** | - | - | - | :material-checkbox-marked: | - | - | - | - | :material-checkbox-marked: |
+| **Expose** | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | - | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: |
+| **Flex** | - | - | - | - | - | - | - | - | :material-checkbox-marked: |
+| **Flurry** | - | - | - | - | :material-checkbox-marked: | - | - | - | - |
+| **Spray** | - | :material-checkbox-marked: | - | - | - | - | :material-checkbox-marked: | - | - |
+| **Tap** | - | :material-checkbox-marked: | - | - | - | - | - | - | - |
+
 
 
 ### Replaceable Weapon Mastery  
@@ -156,6 +163,7 @@ When you make an attack with this weapon, you can expend 15 feet of your **:rsc-
 **Properties:** No :weapon-prop-light: Light property.
 
 If you hit a creature with this weapon and deal damage to the creature, the next attack roll by a creature other than you against that creature has **:d20-adv: Advantage**{ .d20 } until the start of your next turn.
+
 ---
 
 ### Flex 
