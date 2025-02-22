@@ -17,25 +17,14 @@ Each weapon has a Mastery property, which is usable only by a character who has 
 
 To give more options for martial classess, the folowing homebrew rules are implemented. You may refer to the Weapon Mastery table to see which weapon are eligible.
 
-| **Mastery \ Property** | Ammunition | Automatic | Finesse | Heavy | Light | Reach | Reload (8+) | *wo-Handed | Versatile |
-|---|---|---|---|---|---|---|---|---|---|
-| **Cleave** | - | - | - | :material-checkbox-marked: | - | - | - | - | - |
-| **Graze** | - | - | - | :material-checkbox-marked: | - | - | - | - | - |
-| **Nick** | - | - | - | - | :material-checkbox-marked: | - | - | - | - |
-| **Push** | - | - | - | :material-checkbox-marked: | - | - | - | :material-checkbox-marked: | :material-checkbox-marked: |
-| **Sap** | - | - | - | - | - | - | - | - | :material-checkbox-marked: |
-| **Slow** | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: |
-| **Topple** | - | - | - | :material-checkbox-marked: | - | :material-checkbox-marked: | - | - | :material-checkbox-marked: |
-| **Vex** | :material-checkbox-marked: | - | :material-checkbox-marked: | - | :material-checkbox-marked: | - | - | - | - |
-| **Agile** | - | - | - | - | :material-checkbox-marked: | - | - | - | :material-checkbox-marked: |
-| **Brace** | - | - | - | :material-checkbox-marked: | - | - | - | - | :material-checkbox-marked: |
-| **Expose** | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | - | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: |
-| **Flex** | - | - | - | - | - | - | - | - | :material-checkbox-marked: |
-| **Flurry** | - | - | - | - | :material-checkbox-marked: | - | - | - | - |
-| **Spray** | - | :material-checkbox-marked: | - | - | - | - | :material-checkbox-marked: | - | - |
-| **Tap** | - | :material-checkbox-marked: | - | - | - | - | - | - | - |
-
-
+| Weapon Type | Eligible Mastery |
+|---|---|
+| Light Melee | Agile, Flurry, Nick, Vex |
+| Medium Melee (Melee weapons without Heavy or Light) | Brace, Expose, Push, Sap, Slow, Topple |
+| Heavy Melee | Cleave, Graze, Push, Topple |
+| Ranged | Expose, Sap, Slow, Vex |
+| Automatic Ranged | Spray, Tap |
+| Firearms (Reload 8+) | Spray |
 
 ### Replaceable Weapon Mastery  
 
