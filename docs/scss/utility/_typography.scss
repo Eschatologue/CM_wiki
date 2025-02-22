@@ -1,7 +1,7 @@
-@use "../base/typeset";
-@use "../base/table";
-@use "../utility/convert";
-@use "../palette/accent";
+@use '../base/typeset';
+@use '../base/table';
+@use '../utility/convert';
+@use '../palette/accent';
 
 /*-------------------------------------------------------
     Font Styles
@@ -21,10 +21,14 @@
 }
 
 /*-------------------------------------------------------
-    Typography
+    Base Effect
 -------------------------------------------------------*/
 .em {
+    @extend .disable-abbr;
     color: var(--md-gbl-text-color-strong);
+}
+
+.disable-abbr {
     abbr {
         border-bottom: none !important;
     }
@@ -40,6 +44,14 @@
     @media screen and (max-width: 720px) {
         white-space: normal;
     }
+}
+
+.back {
+    background-color: var(--md-code-bg-color);
+    box-decoration-break: clone;
+    padding: 0 convert.px2em(3px);
+    border-radius: convert.px2em(3px);
+    font-weight: 400 !important;
 }
 
 .smallcap {
@@ -77,14 +89,12 @@
     @extend .nowrap;
 }
 
-.back {
-    background-color: var(--md-code-bg-color);
-    box-decoration-break: clone;
-    padding: convert.px2em(1px) convert.px2em(4px);
-    border-radius: convert.px2em(3px);
-    font-weight: 400 !important;
+.wp {
+    @extend .back, .nowrap, .disable-abbr;
+    background-color: var(--md-default-bg-color-nord0) !important;
 }
 
+// Used for Calculations
 .calc {
     @extend .back, .jetbrains;
 }
@@ -122,7 +132,7 @@
 }
 
 .hide {
-    position: absolute; 
+    position: absolute;
     left: -9999px;
 }
 
@@ -141,7 +151,6 @@
 .vert-middle {
     vertical-align: middle !important;
 }
-
 
 .dt-centre {
     dl {
@@ -170,7 +179,6 @@
     font-weight: 600 !important;
     display: inline-block;
     position: relative;
-
 }
 
 /* Chevrons */
@@ -178,7 +186,7 @@
     &::after {
         font-style: normal !important;
         font-weight: 400 !important;
-        content: "»";
+        content: '»';
         color: var(--md-default-fg-color--light);
         margin-left: convert.px2em(4px);
     }
@@ -188,7 +196,7 @@
     &::before {
         font-style: normal !important;
         font-weight: 400 !important;
-        content: "«";
+        content: '«';
         color: var(--md-default-fg-color--light);
         margin-right: convert.px2em(4px);
     }

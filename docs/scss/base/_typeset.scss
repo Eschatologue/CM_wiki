@@ -61,9 +61,9 @@
                 background-color 250ms,
                 padding 100ms ease; 
         &:is(:focus, :hover) {
-            border-radius: convert.px2em(3px);
+            border-radius: convert.px2em(2px);
             box-decoration-break: clone;
-            padding: 0 convert.px2em(3px);
+            padding: 0 convert.px2em(1.5px);
             color: var(--md-gbl-link-color);
             background-color: var(--md-primary-fg-color--transparent);
         }

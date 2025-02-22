@@ -1,6 +1,6 @@
 ---
 title: Mastery properties
-icon: material/tailwind
+icon: wp/mas
 search:
 boost: 1.2
 ---
@@ -19,18 +19,18 @@ To give more options for martial classess, the folowing homebrew rules are imple
 
 | Weapon Type | Eligible Mastery |
 |---|---|
-| Light Melee | Agile, Flurry, Nick, Vex |
-| Medium Melee (Melee weapons without Heavy or Light) | Brace, Expose, Push, Sap, Slow, Topple |
-| Heavy Melee | Cleave, Graze, Push, Topple |
-| Ranged | Expose, Sap, Slow, Vex |
-| Automatic Ranged | Spray, Tap |
-| Firearms (Reload 8+) | Spray |
+| Light melee | **:wp-mas: Agile**{ .wp }, **:wp-mas: Flurry**{ .wp }, **:wp-mas: Nick**{ .wp }, **:wp-mas: Vex**{ .wp } |
+| Versatile melee<br> Non-Heavy weapon | **:wp-mas: Brace**{ .wp }, **:wp-mas: Expose**{ .wp }, **:wp-mas: Push**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Topple**{ .wp } |
+| Heavy melee | **:wp-mas: Cleave**{ .wp }, **:wp-mas: Graze**{ .wp }, **:wp-mas: Push**{ .wp }, **:wp-mas: Topple**{ .wp } |
+| Ranged | **:wp-mas: Expose**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Vex**{ .wp } |
+| Automatic Ranged | **:wp-mas: Spray**{ .wp }, **:wp-mas: Tap**{ .wp } |
+| Firearms (Reload 8+) | **:wp-mas: Spray**{ .wp } |
 
 ### Replaceable Weapon Mastery  
 
-When selecting weapons for Weapon Mastery, you can also **replace the Mastery property** of any weapon you are using with another eligible property. For example, you could change a Longsword’s [Sap](#sap) property to [Flex](#flex).  
+When selecting weapons for Weapon Mastery, you can also **replace the Mastery property** of any weapon you are using with another eligible property. For example, you could change a Longsword’s **:wp-mas: Sap**{ .wp } property to **:wp-mas: Flex**{ .wp }.  
 
-These changes only affect the character who makes them. If a Barbarian replaces a Glaive’s [Graze](#graze) property with [Cleave](#cleave), other characters using the same Glaive still use its default [Graze](#graze) property.  
+These changes only affect the character who makes them. If a Barbarian replaces a Glaive’s **:wp-mas: Graze**{ .wp } property with **:wp-mas: Cleave**{ .wp }, other characters using the same Glaive still use its default **:wp-mas: Graze**{ .wp } property.  
 
 ### Repeated Weapon Mastery
 
@@ -38,7 +38,7 @@ When selecting weapons for Weapon Mastery, you can instead **assign an additiona
 
 If a waeapon has multiple mastery properties, you can **only use one of them per attack**. You must choose which mastery property you're using before making the attack.
 
-For example, a Level 1 Barbarian could choose to apply either [Cleave](#cleave) or [Graze](#graze) when attacking with a Greataxe, instead of selecting a second weapon for Weapon Mastery. Likewise, a Level 1 Rogue could choose either [Nick](#nick) or [Slow](#slow) for a Dagger.  
+For example, a Level 1 Barbarian could choose to apply either **:wp-mas: Cleave**{ .wp } or **:wp-mas: Graze**{ .wp } when attacking with a Greataxe, instead of selecting a second weapon for Weapon Mastery. Likewise, a Level 1 Rogue could choose either **:wp-mas: Nick**{ .wp } or **:wp-mas: Slow**{ .wp } for a Dagger.  
 
 ## Mastery Properties Description
 
@@ -52,17 +52,11 @@ The following Mastery properties are lined in PHB'24
 
 ### Cleave
 
-**Type:** Melee Weapon  
-**Properties:** :wp-prop-heavy: Heavy
-
 If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
 ---
 
 ### Graze
-
-**Type:** Melee Weapon  
-**Properties:** :wp-prop-heavy: Heavy
 
 If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
 
@@ -70,17 +64,11 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 
 ### Nick
 
-**Type:** Any  
-**Properties:** :wp-prop-light: Light
-
 When you make the [extra attack](index.md#light) of the **:wp-prop-light: Light** property, you can make it as part of the **:rsc-a: Attack**{ .rsc } action instead of as a **:rsc-b: Bonus Action**{ .rsc }. You can make this extra attack only once per turn.
 
 ---
 
 ### Push
-
-**Type:** Any  
-**Properties:** :wp-prop-heavy: Heavy, :wp-prop-two-handed: Two-Handed, or :wp-prop-versatile: Versatile
 
 If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.
 
@@ -88,17 +76,11 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 ### Sap 
 
-**Type:** Any  
-**Properties:** :wp-prop-versatile: Versatile or No Weapon Property
-
 If you hit a creature with this weapon, that creature has **:d20-dis: Disadvantage**{ .d20 } on its next attack roll before the start of your next turn.
 
 ---
 
 ### Slow 
-
-**Type:** Any  
-**Properties:** Any
 
 If you hit a creature with this weapon and deal damage to the creature, you can reduce its Speed by 10 feet until the start of your next turn. If you hit the creature more than once with this property, the Speed reduction doesn't exceed 10 feet.
 
@@ -106,17 +88,11 @@ If you hit a creature with this weapon and deal damage to the creature, you can 
 
 ### Topple 
 
-**Type:** Any  
-**Properties:** :wp-prop-heavy: Heavy, :wp-prop-reach: Reach, or :wp-prop-versatile: Versatile
-
 If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw with a DC equal to 8 + your Proficiency Bonus + the ability modifier used to make the attack roll. On a failed save, the creature has the Prone condition.
 
 ---
 
 ### Vex 
-
-**Type:** Any  
-**Properties:** :wp-prop-ammunition: Ammunition, :wp-prop-finesse: Finesse, or :wp-prop-light: Light
 
 If you hit a creature with this weapon and deal damage to the creature, you have **:d20-adv: Advantage**{ .d20 } on your next attack roll against that creature before the end of your next turn.
 
@@ -130,17 +106,11 @@ The following Mastery properties are homebrew.
 
 ### Agile 
 
-**Type:** Melee weapon  
-**Properties:** :wp-prop-light: Light or :wp-prop-versatile: Versatile
-
 Before or after making an attack with this weapon, you can move up to 5 feet without provoking **:rsc-r: Opportunity Attack**{ .rsc }. You can't move in his way if your **:rsc-spd: Speed** is 0.
 
 ---
 
 ### Brace 
-
-**Type:** Any  
-**Properties:** :wp-prop-heavy: Heavy or :wp-prop-versatile: Versatile
 
 When you make an attack with this weapon, you can expend 15 feet of your **:rsc-spd: Speed**{ .em }. On hit, you roll the weapon damage dice twice and you can use either result. If the attack misses, your **:rsc-spd: Speed**{ .em } isn't reduced. 
 
@@ -148,17 +118,11 @@ When you make an attack with this weapon, you can expend 15 feet of your **:rsc-
 
 ### Expose 
 
-**Type:** Any  
-**Properties:** No :wp-prop-light: Light property.
-
 If you hit a creature with this weapon and deal damage to the creature, the next attack roll by a creature other than you against that creature has **:d20-adv: Advantage**{ .d20 } until the start of your next turn.
 
 ---
 
 ### Flex 
-
-**Type:** Melee weapon  
-**Properties:** :wp-prop-versatile: Versatile
 
 When you hit a melee attack using this weapon, you deal its **:wp-prop-versatile: Versatile** damage even if you're wielding it with one hand.
 
@@ -166,26 +130,18 @@ When you hit a melee attack using this weapon, you deal its **:wp-prop-versatile
 
 ### Flurry
 
-**Type:** Melee weapon  
-**Properties:** :wp-prop-light: Light
-
 If your attack roll with this weapon misses a creature, you can immediately make another attack against that creature *with the same weapon*. You don't add your ability modifier to this attack's damage unless it's negative. You can only make this additional attack once per turn.
 
 ---
 
 ### Spray 
 
-**Type:** Ranged weapon  
-**Properties:** :wp-prop-automatic: Automatic and :wp-prop-reload: Reload (8+)
 
 When you take the **:rsc-a: Attack**{ .rsc } action, you can choose to expend 8 pieces of the weapon's ammunition to spray shots in a **15-foot :aoe-cube: Cube** within the weapon's normal range. Each creature in that area must succeed on a **:d20-save: DEX save**{ .d20 } against your [Weapon Save DC](index.md#weapon-save-dc) or take the Weapon's damage. You can't make this special attack if you have less than 8 ammunition in the weapon.
 
 ---
 
 ### Tap 
-
-**Type:** Ranged weapon  
-**Properties:** :wp-prop-automatic: Automatic
 
 Once per turn, when you make an **:wp-prop-automatic: Automatic** attack using this weapon, you can add your ability modifier to the damage roll of the second attack.
 

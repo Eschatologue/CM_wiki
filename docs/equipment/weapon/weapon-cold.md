@@ -29,30 +29,30 @@ Simple weapons are easy to use and require minimal training, making them accessi
 ##### Melee Simple Weapons
 
 | Name | damage | properties | mastery | weight | cost |
-|:--|---|---|---|:-:|--:|
-| *Club* | 1d4 :dmg-bldg: Bludgeoning | Light | [Slow] | M. | 1 SP |
-| *Dagger* | 1d4 :dmg-prcg: Piercing | Finesse, Light, Thrown (:wp-prop-range: Range 20/60) | [Nick] | S. | 20 SP |
-| *Greatclub* | 1d8 :dmg-bldg: Bludgeoning | Two-Handed | [Push] | M. | 2 SP |
-| *Handaxe* | 1d6 :dmg-slsh: Slashing | Light, Thrown (:wp-prop-range: Range 20/60) | [Vex] | S. | 50 SP |
-| *Javelin* | 1d6 :dmg-prcg: Piercing | Thrown (:wp-prop-range: Range 30/120) | [Slow] | S. | 5 SP |
-| *Light Hammer* | 1d4 :dmg-bldg: Bludgeoning | Light, Thrown (:wp-prop-range: Range 20/60) | [Nick] | S. | 20 SP |
-| *Mace* | 1d6 :dmg-bldg: Bludgeoning | — | [Sap] | M-| 50 SP |
-| *Quarterstaff* | 1d6 :dmg-bldg: Bludgeoning | Versatile (1d8) | [Topple] | M-| 2 SP |
-| *Sickle* | 1d4 :dmg-slsh: Slashing | Light | [Nick] | S. | 10 SP |
-| *Spear* | 1d6 :dmg-prcg: Piercing | Thrown (:wp-prop-range: Range 20/60), Versatile (1d8) | [Sap] | M-| 10 SP |
-| *Falchion* | 1d6 :dmg-slsh: Slashing | Finesse, Versatile (2d4) | [Sap] | M. | 100 SP |
-| *War Scythe* | 1d8 :dmg-slsh: Slashing | Reach, Two-handed | [Topple] | M-| 50 SP |
+|:--|---|---|:-:|:-:|--:|
+| *Club* | 1d4 :dmg-bldg: Bludgeoning | Light | **:wp-mas: Slow**{ .wp } | M. | 1 SP |
+| *Dagger* | 1d4 :dmg-prcg: Piercing | Finesse, Light, Thrown (:wp-prop-range: Range 20/60) | **:wp-mas: Nick**{ .wp } | S. | 20 SP |
+| *Greatclub* | 1d8 :dmg-bldg: Bludgeoning | Two-Handed | **:wp-mas: Push**{ .wp } | M. | 2 SP |
+| *Handaxe* | 1d6 :dmg-slsh: Slashing | Light, Thrown (:wp-prop-range: Range 20/60) | **:wp-mas: Vex**{ .wp } | S. | 50 SP |
+| *Javelin* | 1d6 :dmg-prcg: Piercing | Thrown (:wp-prop-range: Range 30/120) | **:wp-mas: Slow**{ .wp } | S. | 5 SP |
+| *Light Hammer* | 1d4 :dmg-bldg: Bludgeoning | Light, Thrown (:wp-prop-range: Range 20/60) | **:wp-mas: Nick**{ .wp } | S. | 20 SP |
+| *Mace* | 1d6 :dmg-bldg: Bludgeoning | — | **:wp-mas: Sap**{ .wp } | M-| 50 SP |
+| *Quarterstaff* | 1d6 :dmg-bldg: Bludgeoning | Versatile (1d8) | **:wp-mas: Topple**{ .wp } | M-| 2 SP |
+| *Sickle* | 1d4 :dmg-slsh: Slashing | Light | **:wp-mas: Nick**{ .wp } | S. | 10 SP |
+| *Spear* | 1d6 :dmg-prcg: Piercing | Thrown (:wp-prop-range: Range 20/60), Versatile (1d8) | **:wp-mas: Sap**{ .wp } | M-| 10 SP |
+| *Falchion* | 1d6 :dmg-slsh: Slashing | Finesse, Versatile (2d4) | **:wp-mas: Sap**{ .wp } | M. | 100 SP |
+| *War Scythe* | 1d8 :dmg-slsh: Slashing | Reach, Two-handed | **:wp-mas: Topple**{ .wp } | M-| 50 SP |
 
 ##### Ranged Simple Weapons
 
 | Name | damage | properties | mastery | weight | cost |
-|:--|---|---|---|:-:|--:|
-| *Blowgun* | 1 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 25/100; Needle), Loading | [Vex] | S. | 100 SP |
-| *Dart* (2) | 1d4 :dmg-prcg: Piercing | Finesse, Thrown (:wp-prop-range: Range 20/60) | [Vex] | XS. | 1 SP |
-| *Light Crossbow* | 1d8 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 80/320; Bolt), Loading, Two-Handed | [Slow] | M-| 250 SP |
-| *Shortbow* | 1d6 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 80/320; Arrow), Two-Handed | [Vex] | M-| 250 SP |
-| *Sling* | 1d4 :dmg-bldg: Bludgeoning | Ammunition (:wp-prop-range: Range 30/120; Bullet) | [Slow] | M-| 1 SP |
-| *Light Repeating Crossbow* | 1d6 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 60/240; Bolt), Automatic, Reload (8), Two-handed | [Tap] | L | 400 SP |
+|:--|---|---|:-:|:-:|--:|
+| *Blowgun* | 1 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 25/100; Needle), Loading | **:wp-mas: Vex**{ .wp } | S. | 100 SP |
+| *Dart* (2) | 1d4 :dmg-prcg: Piercing | Finesse, Thrown (:wp-prop-range: Range 20/60) | **:wp-mas: Vex**{ .wp } | XS. | 1 SP |
+| *Light Crossbow* | 1d8 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 80/320; Bolt), Loading, Two-Handed | **:wp-mas: Slow**{ .wp } | M-| 250 SP |
+| *Shortbow* | 1d6 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 80/320; Arrow), Two-Handed | **:wp-mas: Vex**{ .wp } | M-| 250 SP |
+| *Sling* | 1d4 :dmg-bldg: Bludgeoning | Ammunition (:wp-prop-range: Range 30/120; Bullet) | **:wp-mas: Slow**{ .wp } | M-| 1 SP |
+| *Light Repeating Crossbow* | 1d6 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 60/240; Bolt), Automatic, Reload (8), Two-handed | **:wp-mas: Tap**{ .wp } | L | 400 SP |
 
 ### :prof-wp-martial: Martial Weapons
 
@@ -61,39 +61,39 @@ Martial weapons require more training to use effectively but offer greater damag
 ##### Melee Martial Weapons
 
 | name | damage | properties | mastery | weight | cost |
-|:--|---|---|---|:-:|--:|
-| *Battleaxe* | 1d8 :dmg-slsh: Slashing | Versatile (1d10; [Slow]) | [Topple] | M. | 100 SP |
-| *Flail* | 1d8 :dmg-bldg: Bludgeoning | — | [Sap] | M. | 100 SP |
-| *Glaive* | 1d10 :dmg-slsh: Slashing | Heavy, Reach, Two-Handed | [Graze] | L. | 200 SP |
-| *Greataxe* | 1d12 :dmg-slsh: Slashing | Heavy, Two-Handed | [Cleave]  | L. | 300 SP |
-| *Greatsword* | 2d6 :dmg-slsh: Slashing | Heavy, Two-Handed | [Graze] | L. | 500 SP |
-| *Halberd* | 1d10 :dmg-slsh: Slashing | Heavy, Reach, Two-Handed | [Cleave]  | L. | 200 SP |
-| *Lance* | 1d10 :dmg-prcg: Piercing | Heavy, Reach, Two-Handed (unless mounted) | [Topple] | L. | 100 SP |
-| *Longsword* | 1d8 :dmg-slsh: Slashing | Versatile (1d10, [Agile]) | [Sap] | M. | 150 SP |
-| *Maul* | 2d6 :dmg-bldg: Bludgeoning | Heavy, Two-Handed | [Topple] | L. | 100 SP |
-| *Morningstar* | 1d8 :dmg-prcg: Piercing | — | [Sap] | M. | 150 SP |
-| *Pike* | 1d10 :dmg-prcg: Piercing | Heavy, Reach, Two-Handed | [Push] | L. | 50 SP |
-| *Rapier* | 1d8 :dmg-prcg: Piercing | Finesse | [Vex] | M. | 250 SP |
-| *Sabre* | 1d8 :dmg-slsh: Slashing | Finesse | [Vex] | M. | 150 SP |
-| *Scimitar* | 1d6 :dmg-slsh: Slashing | Finesse, Light | [Nick] | S.| 250 SP |
-| *Shortsword* | 1d6 :dmg-prcg: Piercing | Finesse, Light | [Vex] | S.| 100 SP |
-| *Trident* | 1d8 :dmg-prcg: Piercing | Thrown (:wp-prop-range: Range 20/60), Versatile (1d10) | [Topple] | M. | 50 SP |
-| *Warhammer* | 1d8 :dmg-bldg: Bludgeoning | Versatile (1d10; [Expose]) | [Push] | M. | 150 SP |
-| *War Pick* | 1d8 :dmg-prcg: Piercing | Versatile (1d10; [Vex]) | [Sap] | M. | 50 SP |
-| *Whip* | 1d4 :dmg-slsh: Slashing | Finesse, Reach | [Slow] | M. | 20 SP |
-| *Estoc* | 1d8 :dmg-prcg: Piercing | Versatile (1d10) | [Sap] | M. | 100 SP |
-| *Lucerne* | 1d10 :dmg-bldg: Bludgeoning | Heavy, Reach, Two-Handed | [Cripple] | L. | 200 SP |
+|:--|---|---|:-:|:-:|--:|
+| *Battleaxe* | 1d8 :dmg-slsh: Slashing | Versatile (1d10; **:wp-mas: Slow**{ .wp }) | **:wp-mas: Topple**{ .wp } | M. | 100 SP |
+| *Flail* | 1d8 :dmg-bldg: Bludgeoning | — | **:wp-mas: Sap**{ .wp } | M. | 100 SP |
+| *Glaive* | 1d10 :dmg-slsh: Slashing | Heavy, Reach, Two-Handed | **:wp-mas: Graze**{ .wp } | L. | 200 SP |
+| *Greataxe* | 1d12 :dmg-slsh: Slashing | Heavy, Two-Handed | **:wp-mas: Cleave**{ .wp }  | L. | 300 SP |
+| *Greatsword* | 2d6 :dmg-slsh: Slashing | Heavy, Two-Handed | **:wp-mas: Graze**{ .wp } | L. | 500 SP |
+| *Halberd* | 1d10 :dmg-slsh: Slashing | Heavy, Reach, Two-Handed | **:wp-mas: Cleave**{ .wp }  | L. | 200 SP |
+| *Lance* | 1d10 :dmg-prcg: Piercing | Heavy, Reach, Two-Handed (unless mounted) | **:wp-mas: Topple**{ .wp } | L. | 100 SP |
+| *Longsword* | 1d8 :dmg-slsh: Slashing | Versatile (1d10; **:wp-mas: Agile**{ .wp }) | **:wp-mas: Sap**{ .wp } | M. | 150 SP |
+| *Maul* | 2d6 :dmg-bldg: Bludgeoning | Heavy, Two-Handed | **:wp-mas: Topple**{ .wp } | L. | 100 SP |
+| *Morningstar* | 1d8 :dmg-prcg: Piercing | — | **:wp-mas: Sap**{ .wp } | M. | 150 SP |
+| *Pike* | 1d10 :dmg-prcg: Piercing | Heavy, Reach, Two-Handed | **:wp-mas: Push**{ .wp } | L. | 50 SP |
+| *Rapier* | 1d8 :dmg-prcg: Piercing | Finesse | **:wp-mas: Vex**{ .wp } | M. | 250 SP |
+| *Sabre* | 1d8 :dmg-slsh: Slashing | Finesse | **:wp-mas: Vex**{ .wp } | M. | 150 SP |
+| *Scimitar* | 1d6 :dmg-slsh: Slashing | Finesse, Light | **:wp-mas: Nick**{ .wp } | S.| 250 SP |
+| *Shortsword* | 1d6 :dmg-prcg: Piercing | Finesse, Light | **:wp-mas: Vex**{ .wp } | S.| 100 SP |
+| *Trident* | 1d8 :dmg-prcg: Piercing | Thrown (:wp-prop-range: Range 20/60), Versatile (1d10) | **:wp-mas: Topple**{ .wp } | M. | 50 SP |
+| *Warhammer* | 1d8 :dmg-bldg: Bludgeoning | Versatile (1d10; **:wp-mas: Expose**{ .wp }) | **:wp-mas: Push**{ .wp } | M. | 150 SP |
+| *War Pick* | 1d8 :dmg-prcg: Piercing | Versatile (1d10; **:wp-mas: Vex**{ .wp }) | **:wp-mas: Sap**{ .wp } | M. | 50 SP |
+| *Whip* | 1d4 :dmg-slsh: Slashing | Finesse, Reach | **:wp-mas: Slow**{ .wp } | M. | 20 SP |
+| *Estoc* | 1d8 :dmg-prcg: Piercing | Versatile (1d10) | **:wp-mas: Sap**{ .wp } | M. | 100 SP |
+| *Lucerne* | 1d10 :dmg-bldg: Bludgeoning | Heavy, Reach, Two-Handed | **:wp-mas: Expose**{ .wp } | L. | 200 SP |
 
 ##### Ranged Martial Weapons
 
 | name | damage | properties | mastery | weight | cost |
-|:--|---|---|---|:-:|--:|
-| *Hand Crossbow* | 1d6 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 30/120; Bolt), Light, Loading | [Vex] | M. | 750 SP |
-| *Heavy Crossbow* | 1d10 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 100/400; Bolt), Heavy, Loading, Two-handed | [Push] | M. | 500 SP |
-| *Longbow* | 1d8 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 150/600; Arrow), Heavy, Two-handed | [Slow] | M. | 500 SP |
-| *Arbalest* | 2d6 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 180/360; Bolt), Heavy, Loading, Mounted, Two-handed, Sighted | [Push] | XL. | 950 SP |
-| *Compound Bow* | 1d10 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 100/400; Arrow), Heavy, Two-handed | [Brace] | M. | 850 SP |
-| *Heavy Repeating Crossbow* | 1d8 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 90/360; Bolt), Automatic, Heavy, Reload (6), Two-handed | [Tap] | M. | 700 SP |
+|:--|---|---|:-:|:-:|--:|
+| *Hand Crossbow* | 1d6 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 30/120; Bolt), Light, Loading | **:wp-mas: Vex**{ .wp } | M. | 750 SP |
+| *Heavy Crossbow* | 1d10 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 100/400; Bolt), Heavy, Loading, Two-handed | **:wp-mas: Push**{ .wp } | M. | 500 SP |
+| *Longbow* | 1d8 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 150/600; Arrow), Heavy, Two-handed | **:wp-mas: Slow**{ .wp } | M. | 500 SP |
+| *Arbalest* | 2d6 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 180/360; Bolt), Heavy, Loading, Mounted, Two-handed, Sighted | **:wp-mas: Push**{ .wp } | XL. | 950 SP |
+| *Compound Bow* | 1d10 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 100/400; Arrow), Heavy, Two-handed | **:wp-mas: Brace**{ .wp } | M. | 850 SP |
+| *Heavy Repeating Crossbow* | 1d8 :dmg-prcg: Piercing | Ammunition (:wp-prop-range: Range 90/360; Bolt), Automatic, Heavy, Reload (6), Two-handed | **:wp-mas: Tap**{ .wp } | M. | 700 SP |
 
 ### Ammunitions
 
@@ -107,21 +107,6 @@ Ammunition are required for weapon that has the :wp-prop-ammunition: Ammunition 
 | Blowgun needles (50) | 10 SP |
 | Crossbow bolts (20) | 10 SP |
 | Sling bullets (50) | 10 SP |
-
-[Push]: mastery.md#push
-[Slow]: mastery.md#slow
-[Vex]: mastery.md#vex
-[Cleave]: mastery.md#cleave
-[Nick]: mastery.md#nick
-[Topple]: mastery.md#topple
-[Graze]: mastery.md#graze
-[Sap]: mastery.md#sap
-
-[Agile]: mastery.md#agile
-[Brace]: mastery.md#brace
-[Expose]: mastery.md#expose
-[Tap]: mastery.md#tap
-[Spray]: mastery.md#spray
 
 [properties]: index.md#weapon-properties
 [mastery]: mastery.md
