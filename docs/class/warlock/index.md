@@ -51,7 +51,7 @@ You have the following Core Traits
 :   Light armour  
 
 **Starting Equipment** 
-:   Choose A or B:  
+:   Choose **A** or **B**:  
     **(A)** Leather Armour, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar's Pack, and 15 GP; or  
     **(B)** 100 GP  
 

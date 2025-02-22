@@ -57,7 +57,7 @@ You have the following Core Traits
 :   None  
 
 **Starting Equipment** 
-:   Choose A or B:  
+:   Choose **A** or **B**:  
 **(A)** Spear, 5 Daggers, Artisan's Tools or Musical Instrument chosen for the tool proficiency above, Explorer's Pack, and 110 SP; or  
 **(B)** 500 SP
 

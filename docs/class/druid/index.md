@@ -54,7 +54,7 @@ As a Druid, you have the following traits.
 :   Light armour and Shields  
 
 **Starting Equipment** 
-:   Choose A or B:  
+:   Choose **A** or **B**:  
     **(A)** Leather Armour, Shield, Sickle, Druidic Focus (Quarterstaff), Explorer's Pack, Herbalism Kit, and 90 SP; or  
     **(B)** 500 SP 
 

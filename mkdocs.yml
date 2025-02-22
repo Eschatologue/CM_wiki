@@ -156,10 +156,9 @@ nav:
     - Multiclassing: chr-creation/multiclassing.md
     - Trinket: chr-creation/trinket.md
     - Origin:
-      - Background: 
-        - chr-creation/origin/background/index.md
-        - Common Background: chr-creation/origin/background/common-background.md
-        - Special Background: chr-creation/origin/background/special-background.md
+      - Background: chr-creation/origin/background.md
+        # - Common Background: chr-creation/origin/background/common-background.md
+        # - Special Background: chr-creation/origin/background/special-background.md
       - Species:
         - chr-creation/origin/species/index.md
         - Aasimar: chr-creation/origin/species/aasimar.md

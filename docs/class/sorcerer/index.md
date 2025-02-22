@@ -51,7 +51,7 @@ You have the following Core Traits
 :   None  
 
 **Starting Equipment** 
-:   Choose A or B:  
+:   Choose **A** or **B**:  
     **(A)** Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer's Pack, and 280 SP; or  
     **(B)** 500 SP
 

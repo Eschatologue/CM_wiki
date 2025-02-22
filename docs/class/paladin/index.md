@@ -51,7 +51,7 @@ You have the following Core Traits
 :   Light, Medium, and Heavy armour and Shields  
 
 **Starting Equipment** 
-:   Choose A or B:  
+:   Choose **A** or **B**:  
     **(A)** Chain Mail, Shield, Longsword, 6 Javelins, Holy Symbol, Priest's Pack, and 90 SP, or  
     **(B)** 1.500 SP
 

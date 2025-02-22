@@ -52,7 +52,7 @@ As a Magus, you have the following trait
 :   Light and Medium armour and Shields
 
 **Starting Equipment** 
-:   Choose A or B:  
+:   Choose **A** or **B**:  
     **(A)** Studded Leather Armour, Scimitar, Light Crossbow, 20 Bolts, Bolt Case, Arcane Focus, Dungeoneer's Pack, and 70 SP; or  
     **(B)** 1.000 SP
 

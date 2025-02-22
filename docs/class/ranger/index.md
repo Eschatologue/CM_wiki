@@ -52,7 +52,7 @@ You have the following Core Traits
 :   Light and Medium armour and Shields  
 
 **Starting Equipment**
-:   Choose A or B:  
+:   Choose **A** or **B**:  
     **(A)** Studded Leather Armour, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver, Druidic Focus (sprig of mistletoe), Explorer's Pack, and 70 SP; or  
     **(B)** 1,500 SP
 

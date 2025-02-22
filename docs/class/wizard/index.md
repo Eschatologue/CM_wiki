@@ -54,7 +54,7 @@ You have the following Core Traits
 :   None  
 
 **Starting Equipment** 
-:   Choose A or B:  
+:   Choose **A** or **B**:  
     **(A)** 2 Daggers, Arcane Focus (Quarterstaff), Robe, Spellbook, Scholar's Pack, and 50 SP; or  
     **(B)** 550 SP 
 
