@@ -62,14 +62,14 @@ Martial weapons require more training to use effectively but offer greater damag
 
 | name | damage | properties | mastery | weight | cost |
 |:--|---|---|---|:-:|--:|
-| *Battleaxe* | 1d8 :dmg-slsh: Slashing | Versatile (1d10) | [Topple] | M. | 100 SP |
+| *Battleaxe* | 1d8 :dmg-slsh: Slashing | Versatile (1d10; [Slow]) | [Topple] | M. | 100 SP |
 | *Flail* | 1d8 :dmg-bldg: Bludgeoning | — | [Sap] | M. | 100 SP |
 | *Glaive* | 1d10 :dmg-slsh: Slashing | Heavy, Reach, Two-Handed | [Graze] | L. | 200 SP |
 | *Greataxe* | 1d12 :dmg-slsh: Slashing | Heavy, Two-Handed | [Cleave]  | L. | 300 SP |
 | *Greatsword* | 2d6 :dmg-slsh: Slashing | Heavy, Two-Handed | [Graze] | L. | 500 SP |
 | *Halberd* | 1d10 :dmg-slsh: Slashing | Heavy, Reach, Two-Handed | [Cleave]  | L. | 200 SP |
 | *Lance* | 1d10 :dmg-prcg: Piercing | Heavy, Reach, Two-Handed (unless mounted) | [Topple] | L. | 100 SP |
-| *Longsword* | 1d8 :dmg-slsh: Slashing | Versatile (1d10) | [Sap] | M. | 150 SP |
+| *Longsword* | 1d8 :dmg-slsh: Slashing | Versatile (1d10, [Agile]) | [Sap] | M. | 150 SP |
 | *Maul* | 2d6 :dmg-bldg: Bludgeoning | Heavy, Two-Handed | [Topple] | L. | 100 SP |
 | *Morningstar* | 1d8 :dmg-prcg: Piercing | — | [Sap] | M. | 150 SP |
 | *Pike* | 1d10 :dmg-prcg: Piercing | Heavy, Reach, Two-Handed | [Push] | L. | 50 SP |
@@ -78,8 +78,8 @@ Martial weapons require more training to use effectively but offer greater damag
 | *Scimitar* | 1d6 :dmg-slsh: Slashing | Finesse, Light | [Nick] | S.| 250 SP |
 | *Shortsword* | 1d6 :dmg-prcg: Piercing | Finesse, Light | [Vex] | S.| 100 SP |
 | *Trident* | 1d8 :dmg-prcg: Piercing | Thrown (:weapon-prop-range: Range 20/60), Versatile (1d10) | [Topple] | M. | 50 SP |
-| *Warhammer* | 1d8 :dmg-bldg: Bludgeoning | Versatile (1d10) | [Push] | M. | 150 SP |
-| *War Pick* | 1d8 :dmg-prcg: Piercing | Versatile (1d10) | [Sap] | M. | 50 SP |
+| *Warhammer* | 1d8 :dmg-bldg: Bludgeoning | Versatile (1d10; [Expose]) | [Push] | M. | 150 SP |
+| *War Pick* | 1d8 :dmg-prcg: Piercing | Versatile (1d10; [Vex]) | [Sap] | M. | 50 SP |
 | *Whip* | 1d4 :dmg-slsh: Slashing | Finesse, Reach | [Slow] | M. | 20 SP |
 | *Estoc* | 1d8 :dmg-prcg: Piercing | Versatile (1d10) | [Sap] | M. | 100 SP |
 | *Lucerne* | 1d10 :dmg-bldg: Bludgeoning | Heavy, Reach, Two-Handed | [Cripple] | L. | 200 SP |
@@ -117,8 +117,9 @@ Ammunition are required for weapon that has the :weapon-prop-ammunition: Ammunit
 [Graze]: mastery.md#graze
 [Sap]: mastery.md#sap
 
-[Cripple]: mastery.md#cripple
+[Agile]: mastery.md#agile
 [Brace]: mastery.md#brace
+[Expose]: mastery.md#expose
 [Tap]: mastery.md#tap
 [Spray]: mastery.md#spray
 

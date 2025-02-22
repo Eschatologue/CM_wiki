@@ -15,21 +15,32 @@ Each weapon has a Mastery property, which is usable only by a character who has 
 
 ## Homebrew Addition
 
-To give more options for martial classess, the folowing homebrew rules are implemented.
+To give more options for martial classess, the folowing homebrew rules are implemented. You may refer to the Weapon Mastery table to see which weapon are eligible.
 
-### Flexible Weapon Mastery  
+| **Weapon Property** | **Cleave** | **Graze** | **Nick** | **Push** | **Sap** | **Slow** | **Topple** | **Vex** | **Agile** | **Brace** | **Expose** | **Flex** | **Flurry** | **Spray** | **Tap** |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **Ammunition** | - | - | - | - | - | :material-checkbox-marked: | - | :material-checkbox-marked: | - | - | :material-checkbox-marked: | - | - | - | - |
+| **Automatic** | - | - | - | - | - | :material-checkbox-marked: | - | - | - | - | :material-checkbox-marked: | - | - | :material-checkbox-marked: | :material-checkbox-marked: |
+| **Finesse** | - | - | - | - | - | :material-checkbox-marked: | - | :material-checkbox-marked: | - | - | :material-checkbox-marked: | - | - | - | - |
+| **Heavy** | :material-checkbox-marked: | :material-checkbox-marked: | - | :material-checkbox-marked: | - | :material-checkbox-marked: | :material-checkbox-marked: | - | - | :material-checkbox-marked: | :material-checkbox-marked: | - | - | - | - |
+| **Light** | - | - | :material-checkbox-marked: | - | - | :material-checkbox-marked: | - | :material-checkbox-marked: | :material-checkbox-marked: | - | - | - | :material-checkbox-marked: | - | - |
+| **Reach** | - | - | - | - | - | :material-checkbox-marked: | :material-checkbox-marked: | - | - | - | :material-checkbox-marked: | - | - | - | - |
+| **Reload (8+)** | - | - | - | - | - | :material-checkbox-marked: | - | - | - | - | :material-checkbox-marked: | - | - | :material-checkbox-marked: | - |
+| **Two-Handed** | - | - | - | :material-checkbox-marked: | - | :material-checkbox-marked: | - | - | - | - | :material-checkbox-marked: | - | - | - | - |
+| **Versatile** | - | - | - | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | - | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | :material-checkbox-marked: | - | - | - |
 
-This rule reinstates a mechanic from *UA7 2023*, allowing classes with the Weapon Mastery feature to change a weapon's Mastery property.  
+
+### Replaceable Weapon Mastery  
 
 When selecting weapons for Weapon Mastery, you can also **replace the Mastery property** of any weapon you are using with another eligible property. For example, you could change a Longsword’s [Sap](#sap) property to [Flex](#flex).  
 
 These changes only affect the character who makes them. If a Barbarian replaces a Glaive’s [Graze](#graze) property with [Cleave](#cleave), other characters using the same Glaive still use its default [Graze](#graze) property.  
 
-### More Mastery on One Weapon
+### Repeated Weapon Mastery
 
-This homebrew rule reinstates a mechanic initially introduced in *UA5 2023*, which allowed Fighters to benefit from multiple Mastery properties for one weapon. Now, its given to every classes that has Weapon Mastery feature.
+When selecting weapons for Weapon Mastery, you can instead **assign an additional _eligible_ Mastery property** to a weapon you already chose. A weapon can have **no more than four** mastery properties at a time.
 
-When selecting weapons for Weapon Mastery, you can instead **assign an additional Mastery property** to a weapon you already chose. Before making an attack, you decide which of that weapon’s Mastery properties to use, as long as it meets the property’s requirements.  
+If a waeapon has multiple mastery properties, you can **only use one of them per attack**. You must choose which mastery property you're using before making the attack.
 
 For example, a Level 1 Barbarian could choose to apply either [Cleave](#cleave) or [Graze](#graze) when attacking with a Greataxe, instead of selecting a second weapon for Weapon Mastery. Likewise, a Level 1 Rogue could choose either [Nick](#nick) or [Slow](#slow) for a Dagger.  
 
@@ -121,13 +132,30 @@ The following Mastery properties are homebrew.
 
 ---
 
+### Agile 
+
+**Type:** Melee weapon  
+**Properties:** :weapon-prop-light: Light or :weapon-prop-versatile: Versatile
+
+Before or after making an attack with this weapon, you can move up to 5 feet without provoking **:rsc-r: Opportunity Attack**{ .rsc }. You can't move in his way if your **:rsc-spd: Speed** is 0.
+
+---
+
 ### Brace 
 
 **Type:** Any  
 **Properties:** :weapon-prop-heavy: Heavy or :weapon-prop-versatile: Versatile
 
-When you make an attack with this weapon, you can expend half of your total **:rsc-spd: Speed**{ .em }. On hit, you roll the weapon damage dice twice and you can use either result. If the attack misses, your **:rsc-spd: Speed**{ .em } isn't reduced. 
+When you make an attack with this weapon, you can expend 15 feet of your **:rsc-spd: Speed**{ .em }. On hit, you roll the weapon damage dice twice and you can use either result. If the attack misses, your **:rsc-spd: Speed**{ .em } isn't reduced. 
 
+---
+
+### Expose 
+
+**Type:** Any  
+**Properties:** No :weapon-prop-light: Light property.
+
+If you hit a creature with this weapon and deal damage to the creature, the next attack roll by a creature other than you against that creature has **:d20-adv: Advantage**{ .d20 } until the start of your next turn.
 ---
 
 ### Flex 
@@ -139,21 +167,12 @@ When you hit a melee attack using this weapon, you deal its **:weapon-prop-versa
 
 ---
 
-### Rush 
+### Flurry
 
 **Type:** Melee weapon  
-**Properties:** :weapon-prop-reach: Reach, :weapon-prop-versatile: Versatile; No :weapon-prop-heavy: Heavy property
+**Properties:** :weapon-prop-light: Light
 
-While holding the weapon, when you take the **:rsc-a: Dash**{ .rsc } action, you can choose a creature that you can see and move torwards it in a straight line without provoking Opportunity Attack, and make one Melee attack against as part of the same action. You have **:d20-adv: Advantage**{ .d20 } on this attack 
-
----
-
-### Skeet 
-
-**Type:** Ranged weapon  
-**Properties:** Any
-
-When you take the **:rsc-a: Dash**{ .rsc } or **:rsc-a: Disengage**{ .rsc } action, you can make one Ranged attack as a part of the same action.
+If your attack roll with this weapon misses a creature, you can immediately make another attack against that creature *with the same weapon*. You don't add your ability modifier to this attack's damage unless it's negative. You can only make this additional attack once per turn.
 
 ---
 
@@ -162,7 +181,7 @@ When you take the **:rsc-a: Dash**{ .rsc } or **:rsc-a: Disengage**{ .rsc } acti
 **Type:** Ranged weapon  
 **Properties:** :weapon-prop-automatic: Automatic and :weapon-prop-reload: Reload (8+)
 
-When you take the **:rsc-a: Attack**{ .rsc } action, you can choose to expend 8 pieces of the weapon's ammunition to spray shots in a 15-foot Cube within the weapon's normal range. Each creature in that area must succeed on a Dexterity saving throw against your [Weapon Save DC](index.md#weapon-save-dc) or take the Weapon's damage. You can't make this special attack if you have less than 8 ammunition in the weapon.
+When you take the **:rsc-a: Attack**{ .rsc } action, you can choose to expend 8 pieces of the weapon's ammunition to spray shots in a **15-foot :aoe-cube: Cube** within the weapon's normal range. Each creature in that area must succeed on a **:d20-save: DEX save**{ .d20 } against your [Weapon Save DC](index.md#weapon-save-dc) or take the Weapon's damage. You can't make this special attack if you have less than 8 ammunition in the weapon.
 
 ---
 
