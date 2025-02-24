@@ -46,6 +46,7 @@
     }
 }
 
+// Draws background behind text
 .back {
     background-color: var(--md-code-bg-color);
     box-decoration-break: clone;
@@ -54,6 +55,7 @@
     font-weight: 400 !important;
 }
 
+// Convert font to using smallcaps
 .smallcap {
     :is(.emojione, .twemoji, .gemoji) {
         font-size: #{var(--default-font-size)};
@@ -77,6 +79,8 @@
 /*-------------------------------------------------------
     Specific Typography Variants
 -------------------------------------------------------*/
+
+// Used for d20 test
 .d20 {
     @extend .em, .nowrap;
     :is(.emojione, .twemoji, .gemoji) {
@@ -84,11 +88,13 @@
     }
 }
 
+// Resouceces, such as Actions, spell slots etc
 .rsc {
     @extend .em;
     @extend .nowrap;
 }
 
+// Weapons
 .wp {
     @extend .back, .nowrap, .disable-abbr;
     background-color: var(--md-default-bg-color-nord0) !important;
