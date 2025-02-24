@@ -40,10 +40,6 @@
 
 .nowrap {
     white-space: nowrap;
-
-    @media screen and (max-width: 720px) {
-        white-space: normal;
-    }
 }
 
 // Draws background behind text

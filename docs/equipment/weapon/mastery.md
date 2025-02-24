@@ -17,15 +17,27 @@ Each weapon has a Mastery property, which is usable only by a character who has 
 
 To give more options for martial classess, the folowing homebrew rules are implemented. You may refer to the Weapon Mastery table to see which weapon are eligible.
 
-| Weapon Type | Eligible Mastery |
+<div class="grid" markdown>
+
+| Melee Weapon Type | Eligible Mastery |
 |---|---|
 | Light melee | **:wp-mas: Agile**{ .wp }, **:wp-mas: Flurry**{ .wp }, **:wp-mas: Nick**{ .wp }, **:wp-mas: Vex**{ .wp } |
-| Versatile melee | **:wp-mas: Brace**{ .wp }, **:wp-mas: Expose**{ .wp }, **:wp-mas: Push**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Topple**{ .wp } |
+| Medium melee^^1^^ | **:wp-mas: Brace**{ .wp }, **:wp-mas: Expose**{ .wp }, **:wp-mas: Push**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Topple**{ .wp } |
 | Heavy melee | **:wp-mas: Brace**{ .wp }, **:wp-mas: Cleave**{ .wp }, **:wp-mas: Graze**{ .wp }, **:wp-mas: Push**{ .wp }, **:wp-mas: Topple**{ .wp } |
-| All Ranged | **:wp-mas: Expose**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Vex**{ .wp } |
-| Heavy Ranged | **:wp-mas: Brace**{ .wp }, **:wp-mas: Push**{ .wp } |
-| Automatic Ranged | **:wp-mas: Spray**{ .wp }, **:wp-mas: Tap**{ .wp } |
-| Firearms (Reload 8+) | **:wp-mas: Spray**{ .wp } |
+
+| Ranged Weapon Type | Eligible Mastery |
+|---|---|
+| Ranged | **:wp-mas: Expose**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Vex**{ .wp } |
+| Heavy ranged | **:wp-mas: Brace**{ .wp }, **:wp-mas: Push**{ .wp } |
+| Automatic ranged | **:wp-mas: Spray**{ .wp }^^2^^, **:wp-mas: Tap**{ .wp } |
+
+</div>
+
+^^1^^Melee Weapons that lacks both **:wp-prop-light: Light**{ .wp } and **:wp-prop-heavy: Heavy**{ .wp } property
+{ .quote }
+
+^^2^^Must have **:wp-prop-reload: Reload (8+)**{ .wp } property
+{ .quote }
 
 ### Replaceable Weapon Mastery  
 
@@ -53,8 +65,6 @@ The following Mastery properties are lined in PHB'24
 
 ### Cleave
 
-**:wp-battleaxe: Melee**{ .calc } **:wp-prop-heavy: Heavy**{ .calc }
-
 If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
 ---
@@ -63,13 +73,9 @@ If you hit a creature with a melee attack using this weapon, you can make an att
 
 If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
 
-**:wp-sword: Melee**{ .calc } **:wp-prop-heavy: Heavy**{ .calc }
-
 ---
 
 ### Nick
-
-**:wp-sword: Melee**{ .calc } **:wp-prop-heavy: Light**{ .calc }
 
 When you make the [extra attack](index.md#light) of the **:wp-prop-light: Light** property, you can make it as part of the **:rsc-a: Attack**{ .rsc } action instead of as a **:rsc-b: Bonus Action**{ .rsc }. You can make this extra attack only once per turn.
 
