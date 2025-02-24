@@ -20,9 +20,10 @@ To give more options for martial classess, the folowing homebrew rules are imple
 | Weapon Type | Eligible Mastery |
 |---|---|
 | Light melee | **:wp-mas: Agile**{ .wp }, **:wp-mas: Flurry**{ .wp }, **:wp-mas: Nick**{ .wp }, **:wp-mas: Vex**{ .wp } |
-| Versatile melee<br> Non-Heavy weapon | **:wp-mas: Brace**{ .wp }, **:wp-mas: Expose**{ .wp }, **:wp-mas: Push**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Topple**{ .wp } |
-| Heavy melee | **:wp-mas: Cleave**{ .wp }, **:wp-mas: Graze**{ .wp }, **:wp-mas: Push**{ .wp }, **:wp-mas: Topple**{ .wp } |
-| Ranged | **:wp-mas: Expose**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Vex**{ .wp } |
+| Versatile melee | **:wp-mas: Brace**{ .wp }, **:wp-mas: Expose**{ .wp }, **:wp-mas: Push**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Topple**{ .wp } |
+| Heavy melee | **:wp-mas: Brace**{ .wp }, **:wp-mas: Cleave**{ .wp }, **:wp-mas: Graze**{ .wp }, **:wp-mas: Push**{ .wp }, **:wp-mas: Topple**{ .wp } |
+| All Ranged | **:wp-mas: Expose**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Vex**{ .wp } |
+| Heavy Ranged | **:wp-mas: Brace**{ .wp }, **:wp-mas: Push**{ .wp } |
 | Automatic Ranged | **:wp-mas: Spray**{ .wp }, **:wp-mas: Tap**{ .wp } |
 | Firearms (Reload 8+) | **:wp-mas: Spray**{ .wp } |
 
@@ -51,6 +52,8 @@ The following Mastery properties are lined in PHB'24
 ---
 
 ### Cleave
+
+**:wp-sword: Melee**{ .wp } **:wp-prop-heavy: Heavy**{ .wp }
 
 If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
