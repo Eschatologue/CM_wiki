@@ -53,7 +53,7 @@ The following Mastery properties are lined in PHB'24
 
 ### Cleave
 
-**:wp-sword: MELEE**{ .calc } **:wp-prop-heavy: Heavy**{ .calc }
+**:wp-battleaxe: Melee**{ .calc } **:wp-prop-heavy: Heavy**{ .calc }
 
 If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
@@ -63,11 +63,13 @@ If you hit a creature with a melee attack using this weapon, you can make an att
 
 If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
 
-**:wp-sword: MELEE**{ .wp } **:wp-prop-heavy: Heavy**{ .wp }
+**:wp-sword: Melee**{ .calc } **:wp-prop-heavy: Heavy**{ .calc }
 
 ---
 
 ### Nick
+
+**:wp-sword: Melee**{ .calc } **:wp-prop-heavy: Light**{ .calc }
 
 When you make the [extra attack](index.md#light) of the **:wp-prop-light: Light** property, you can make it as part of the **:rsc-a: Attack**{ .rsc } action instead of as a **:rsc-b: Bonus Action**{ .rsc }. You can make this extra attack only once per turn.
 
