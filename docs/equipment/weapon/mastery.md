@@ -22,22 +22,20 @@ To give more options for martial classess, the folowing homebrew rules are imple
 | Weapon Type | Eligible Mastery |
 |---|---|
 | Light melee | **:wp-mas: Agile**{ .wp }, **:wp-mas: Flurry**{ .wp }, **:wp-mas: Nick**{ .wp }, **:wp-mas: Vex**{ .wp } |
-| Medium melee^1^ | **:wp-mas: Brace**{ .wp }, **:wp-mas: Expose**{ .wp }, **:wp-mas: Push**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Topple**{ .wp } |
+| Medium melee[^1] | **:wp-mas: Brace**{ .wp }, **:wp-mas: Expose**{ .wp }, **:wp-mas: Push**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Topple**{ .wp } |
 | Heavy melee | **:wp-mas: Brace**{ .wp }, **:wp-mas: Cleave**{ .wp }, **:wp-mas: Graze**{ .wp }, **:wp-mas: Push**{ .wp }, **:wp-mas: Topple**{ .wp } |
 
 | Weapon Type | Eligible Mastery |
 |---|---|
 | Ranged | **:wp-mas: Expose**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Vex**{ .wp } |
 | Heavy ranged | **:wp-mas: Brace**{ .wp }, **:wp-mas: Push**{ .wp } |
-| Automatic ranged | **:wp-mas: Spray**{ .wp }^2^, **:wp-mas: Tap**{ .wp } |
+| Automatic ranged | **:wp-mas: Spray**{ .wp }[^2], **:wp-mas: Tap**{ .wp } |
 
 </div>
 
-^1^Melee Weapons that lacks both **:wp-prop-light: Light**{ .wp } and **:wp-prop-heavy: Heavy**{ .wp } property
-{ .quote }
+[^1]: Melee Weapons that lacks both **:wp-prop-light: Light**{ .wp } and **:wp-prop-heavy: Heavy**{ .wp } property
 
-^2^Must have **:wp-prop-reload: Reload (8+)**{ .wp } property
-{ .quote }
+[^2]: Must have **:wp-prop-reload: Reload (8+)**{ .wp } property
 
 ### Replaceable Weapon Mastery  
 
