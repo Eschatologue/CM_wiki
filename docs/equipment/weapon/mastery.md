@@ -9,10 +9,6 @@ boost: 1.2
 
 Each weapon has a Mastery property, which is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. The properties are defined below witht the following details:
 
-**Type**{ .inl } A Mastery property applies to specific weapon type; either Melee or Ranged weapons.
-
-**Properties**{ .inl } A Mastery property is only eligible to weapons that has specific Weapon properties, or sometimes the weapon itself must have no Properties.
-
 ## Homebrew Addition
 
 To give more options for martial classess, the folowing homebrew rules are implemented. You may refer to the Weapon Mastery table to see which weapon are eligible.
@@ -63,17 +59,23 @@ The following Mastery properties are lined in PHB'24
 
 ### Cleave
 
+**:wp-mas: Melee Weapon**{ .calc } **:wp-prop-heavy: Heavy**{ .calc }
+
 If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
 ---
 
 ### Graze
 
+**:wp-mas: Melee Weapon**{ .calc } **:wp-prop-heavy: Heavy**{ .calc }
+
 If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
 
 ---
 
 ### Nick
+
+**:wp-mas: Melee Weapon**{ .calc } **:wp-prop-light: Light**{ .calc }
 
 When you make the [extra attack](index.md#light) of the **:wp-prop-light: Light** property, you can make it as part of the **:rsc-a: Attack**{ .rsc } action instead of as a **:rsc-b: Bonus Action**{ .rsc }. You can make this extra attack only once per turn.
 
@@ -156,6 +158,5 @@ When you take the **:rsc-a: Attack**{ .rsc } action, you can choose to expend 8 
 
 Once per turn, when you make an **:wp-prop-automatic: Automatic** attack using this weapon, you can add your ability modifier to the damage roll of the second attack.
 
----
 
 
