@@ -96,7 +96,7 @@ When you make the [extra attack](index.md#light) of the **:wp-prop-light: Light*
 ### Push
 
 **Type:** Melee / Ranged  
-**Properties:** **:wp-prop-heavy: Heavy**, **:wp-prop-two-handed: Two-Handed**, or **:wp-prop-versatile: Versatile**
+**Properties:** **:wp-prop-heavy: Heavy**{ .calc }, **:wp-prop-two-handed: Two-Handed**{ .calc }, or **:wp-prop-versatile: Versatile**{ .calc }
 
 If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.
 
@@ -105,7 +105,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 ### Sap 
 
 **Type:** Melee / Ranged  
-**Properties:** **:wp-prop-versatile: Versatile**{ .calc } or No weapon Property
+**Properties:** **:wp-prop-versatile: Versatile**{ .calc } or  **:wp-prop-none: No Properties**{ .calc }
 
 If you hit a creature with this weapon, that creature has **:d20-dis: Disadvantage**{ .d20 } on its next attack roll before the start of your next turn.
 
