@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="cone.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="15.821514"
+     inkscape:cx="9.7967868"
+     inkscape:cy="11.282106"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="m 16.91402,1.899 -14.889,9.2085 A 1.0059,1.0059 0 0 0 1.50002,12 a 1.0395,1.0395 0 0 0 0.4935,0.8925 l 14.889,9.2085 V 22.08 c 0.4095,0.2625 0.8925,0.42 1.4175,0.42 1.575,0 4.2,-1.365 4.2,-10.5 0,-3.927 -0.525,-10.5 -4.2,-10.5 -0.4095,0 -0.8925,0.0945 -1.386,0.399 M 4.54502,12 14.70902,5.7 c -0.3675,1.5435 -0.609,3.57 -0.609,6.3 0,1.8375 0.126,4.242 0.63,6.3 L 4.54502,12 m 15.855,0 c 0,4.641 -0.9345,8.4 -2.1,8.4 -1.155,0 -2.1,-3.759 -2.1,-8.4 0,-4.641 0.945,-8.4 2.1,-8.4 1.1655,0 2.1,3.759 2.1,8.4 z"
+     id="path1"
+     style="stroke-width:1" />
+</svg>

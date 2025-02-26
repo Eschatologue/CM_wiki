@@ -1,225 +1,37 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   viewBox="0 0 6.3499997 6.3499997"
-   version="1.1"
-   id="svg8"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="class-druid.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <defs
-     id="defs2">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath28">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path26" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath48">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path46" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath167">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path165" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath179">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path177" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath281">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path279" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath301">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path299" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath396">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path394" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath456">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path454" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath619">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path617" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath659">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path657" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath782">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path780" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath798">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path796" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath881">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path879" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath901">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path899" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath980">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path978" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1008">
-      <path
-         d="M 0,2020 H 2020 V 0 H 0 Z"
-         id="path1006" />
-    </clipPath>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="9.0408716"
-     inkscape:cx="4.6455698"
-     inkscape:cy="16.093581"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:showpageshadow="false"
-     units="px"
-     inkscape:window-width="1360"
-     inkscape:window-height="715"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(23.921389,96.715152)">
-    <g
-       id="g974"
-       transform="matrix(0.0046638,0,0,-0.0046638,-25.518307,-88.829714)"
-       style="stroke-width:75.6417">
-      <g
-         id="g976"
-         clip-path="url(#clipPath980)"
-         style="stroke-width:75.6417">
-        <g
-           id="g982"
-           transform="translate(987.8799,1107.793)"
-           style="stroke-width:75.6417">
-          <path
-             d="m 0,0 c 0,0 23.198,102.645 32.172,193.578 h 6.261 C 47.406,102.646 70.605,0 70.605,0 137.494,-270.779 35.302,-492.644 35.302,-492.644 35.302,-492.644 -66.89,-270.779 0,0 M -104.978,-24.604 C -129.543,-89.479 -205.299,-341.159 0,-553.787 l 29.1,-139.684 h 12.404 l 29.101,139.684 c 205.297,212.628 129.542,464.308 104.976,529.183 3.164,1.614 2.366,1.207 5.529,2.821 238.506,-268.109 -54.763,-532.004 -54.763,-532.004 323.299,167.708 375.324,384.454 375.324,384.454 H 390.188 c 65.032,117.168 41.544,326.276 41.544,326.276 L 280.759,151.135 254.425,112.737 C 187.535,276.952 35.302,497.885 35.302,497.885 c 0,0 -152.233,-220.933 -219.122,-385.148 l -26.335,38.398 -150.973,5.808 c 0,0 -23.487,-209.108 41.544,-326.276 h -111.482 c 0,0 52.025,-216.746 375.324,-384.454 0,0 -293.27,263.895 -54.765,532.004 3.164,-1.614 2.365,-1.207 5.529,-2.821"
-             style="fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:75.6417"
-             id="path984" />
-        </g>
-        <g
-           id="g986"
-           transform="translate(664.1152,1327.9111)"
-           style="stroke-width:75.6417">
-          <path
-             d="m 0,0 c 0,0 25.067,130.924 185.68,231.627 6.685,-7.114 5.327,-5.669 12.013,-12.782 C 166.863,176.693 119.059,99.319 90.579,-6.115 Z"
-             style="fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:75.6417"
-             id="path988" />
-        </g>
-        <g
-           id="g990"
-           transform="translate(900.7217,517.8789)"
-           style="stroke-width:75.6417">
-          <path
-             d="m 0,0 c 0,0 -142.296,-13.379 -245.784,77.841 0,0 -63.386,51.083 -64.68,186.088 0,0 54.331,-175.742 310.464,-263.929"
-             style="fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:75.6417"
-             id="path992" />
-        </g>
-        <g
-           id="g994"
-           transform="translate(1196.5693,1559.5381)"
-           style="stroke-width:75.6417">
-          <path
-             d="m 0,0 c 160.612,-100.703 185.68,-231.627 185.68,-231.627 l -90.579,-6.115 C 66.621,-132.308 18.816,-54.934 -12.014,-12.782 -5.327,-5.669 -6.686,-7.114 0,0"
-             style="fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:75.6417"
-             id="path996" />
-        </g>
-        <g
-           id="g998"
-           transform="translate(1456.1064,781.8076)"
-           style="stroke-width:75.6417">
-          <path
-             d="m 0,0 c -1.294,-135.005 -64.68,-186.088 -64.68,-186.088 -103.488,-91.22 -245.784,-77.841 -245.784,-77.841 C -54.331,-175.742 0,0 0,0"
-             style="fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:75.6417"
-             id="path1000" />
-        </g>
-      </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" version="1.1" viewBox="0 0 6.35 6.35" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs2">
+  <clipPath id="clipPath980">
+   <path id="path978" d="m0 2020h2020v-2020h-2020z"/>
+  </clipPath>
+ </defs>
+ <metadata id="metadata5">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(23.921 96.715)">
+  <g id="g974" transform="matrix(.0046638 0 0 -.0046638 -25.518 -88.83)" stroke-width="75.642">
+   <g id="g976" clip-path="url(#clipPath980)" stroke-width="75.642">
+    <g id="g982" transform="translate(987.88 1107.8)">
+     <path id="path984" d="m0 0s23.198 102.64 32.172 193.58h6.261c8.973-90.932 32.172-193.58 32.172-193.58 66.889-270.78-35.303-492.64-35.303-492.64s-102.19 221.86-35.302 492.64m-104.98-24.604c-24.565-64.875-100.32-316.56 104.98-529.18l29.1-139.68h12.404l29.101 139.68c205.3 212.63 129.54 464.31 104.98 529.18 3.164 1.614 2.366 1.207 5.529 2.821 238.51-268.11-54.763-532-54.763-532 323.3 167.71 375.32 384.45 375.32 384.45h-111.48c65.032 117.17 41.544 326.28 41.544 326.28l-150.97-5.808-26.334-38.398c-66.89 164.22-219.12 385.15-219.12 385.15s-152.23-220.93-219.12-385.15l-26.335 38.398-150.97 5.808s-23.487-209.11 41.544-326.28h-111.48s52.025-216.75 375.32-384.45c0 0-293.27 263.9-54.765 532 3.164-1.614 2.365-1.207 5.529-2.821"/>
     </g>
+    <g id="g986" transform="translate(664.12 1327.9)">
+     <path id="path988" d="m0 0s25.067 130.92 185.68 231.63c6.685-7.114 5.327-5.669 12.013-12.782-30.83-42.152-78.634-119.53-107.11-224.96z"/>
+    </g>
+    <g id="g990" transform="translate(900.72 517.88)">
+     <path id="path992" d="m0 0s-142.3-13.379-245.78 77.841c0 0-63.386 51.083-64.68 186.09 0 0 54.331-175.74 310.46-263.93"/>
+    </g>
+    <g id="g994" transform="translate(1196.6 1559.5)">
+     <path id="path996" d="m0 0c160.61-100.7 185.68-231.63 185.68-231.63l-90.579-6.115c-28.48 105.43-76.285 182.81-107.12 224.96 6.687 7.113 5.328 5.668 12.014 12.782"/>
+    </g>
+    <g id="g998" transform="translate(1456.1 781.81)">
+     <path id="path1000" d="m0 0c-1.294-135-64.68-186.09-64.68-186.09-103.49-91.22-245.78-77.841-245.78-77.841 256.13 88.187 310.46 263.93 310.46 263.93"/>
+    </g>
+   </g>
   </g>
+ </g>
 </svg>

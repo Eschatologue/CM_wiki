@@ -6,15 +6,9 @@
     Tables
 --------------------------------------------------------*/
 
-$paddings: 16px;
-$paddingScale: 6px;
-$th-padding: $paddingScale * 1.4;
-
 .md-typeset {
     & table:not([class]) {
-        margin-bottom: convert.px2rem(-8px);
-
-        box-shadow: var(--md-shadow-z2);
+        margin-bottom: convert.px2rem(-16px);
         display: table;
         border-color: transparent !important;
 
@@ -22,26 +16,24 @@ $th-padding: $paddingScale * 1.4;
 
         th,
         td {
-            padding: #{convert.px2em($paddingScale)} #{convert.px2em($paddings)};
-            min-width: #{convert.px2em(1px)};
+            min-width: #{convert.px2em(2px)};
         }
 
         th {
+            text-transform: uppercase;
+            vertical-align: bottom;
             font-size: var(--table-font-size);
             font-weight: bold !important;
-            text-transform: capitalize !important;
-            vertical-align: bottom;
             color: var(--md-text-color);
-            border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color);
-
-            background-color: accent.$nord-polar0-darkest;
-            padding: #{convert.px2em($th-padding)} #{convert.px2em($paddings)};
+            border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color--light);
+            padding: #{convert.px2em(8px)} #{convert.px2em(8px)};
         }
 
         td {
-            font-size: calc(var(--table-font-size) * 0.9);
+            font-size: calc(var(--table-font-size) * 0.95);
             border: #{convert.px2rem(0px)} transparent;
             vertical-align: middle;
+            padding: #{convert.px2em(6px)} #{convert.px2em(8px)};
 
             b,
             strong {
@@ -49,7 +41,7 @@ $th-padding: $paddingScale * 1.4;
             }
         }
 
-        // Adjust font sizes for smaller screens
+        // Responsive adjustments for smaller screens
         @media screen and (max-width: 720px) {
             th {
                 font-size: calc(var(--table-font-size) * 0.9);
@@ -61,16 +53,14 @@ $th-padding: $paddingScale * 1.4;
         }
 
         // Preserve striped rows
-        tr:nth-child(odd) {
-            background-color: transparent !important; // Adjust for striped colour
-        }
+        tbody tr {
+            &:nth-child(even) {
+                background-color: transparent !important;
+            }
 
-        tr:nth-child(even) {
-            background-color: var(--md-typeset-table-color--light) !important;
-        }
-
-        tbody tr:last-of-type td {
-            border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color);
+            &:nth-child(odd) {
+                background-color: var(--md-typeset-table-color--light) !important;
+            }
         }
     }
 

@@ -109,11 +109,11 @@
 .md-typeset h4 {
   color: var(--md-gbl-text-color-strong);
   font-size: calc(var(--default-font-size) * 1.25);
-  margin: 0.3rem -0.1rem;
+  margin: 0.3rem 0;
 }
 .md-typeset h5 {
   font-size: var(--default-font-size);
-  margin-top: -0.2rem;
+  margin-top: 0rem;
   margin-bottom: -0.6rem;
 }
 
@@ -153,31 +153,29 @@
     Tables
 --------------------------------------------------------*/
 .md-typeset table:not([class]) {
-  margin-bottom: -0.4rem;
-  box-shadow: var(--md-shadow-z2);
+  margin-bottom: -0.8rem;
   display: table;
   border-color: transparent !important;
   --table-font-size: calc(var(--default-font-size) * 0.9);
 }
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-  padding: 0.375em 1em;
-  min-width: 0.0625em;
+  min-width: 0.125em;
 }
 .md-typeset table:not([class]) th {
+  text-transform: uppercase;
+  vertical-align: bottom;
   font-size: var(--table-font-size);
   font-weight: bold !important;
-  text-transform: capitalize !important;
-  vertical-align: bottom;
   color: var(--md-text-color);
-  border-bottom: 0.1rem solid var(--md-primary-fg-color);
-  background-color: hsl(214, 14%, 10%);
-  padding: 0.525em 1em;
+  border-bottom: 0.1rem solid var(--md-primary-fg-color--light);
+  padding: 0.5em 0.5em;
 }
 .md-typeset table:not([class]) td {
-  font-size: calc(var(--table-font-size) * 0.9);
+  font-size: calc(var(--table-font-size) * 0.95);
   border: 0rem transparent;
   vertical-align: middle;
+  padding: 0.375em 0.5em;
 }
 .md-typeset table:not([class]) td b,
 .md-typeset table:not([class]) td strong {
@@ -191,14 +189,11 @@
     font-size: calc(var(--table-font-size) * 0.8);
   }
 }
-.md-typeset table:not([class]) tr:nth-child(odd) {
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
   background-color: transparent !important;
 }
-.md-typeset table:not([class]) tr:nth-child(even) {
+.md-typeset table:not([class]) tbody tr:nth-child(odd) {
   background-color: var(--md-typeset-table-color--light) !important;
-}
-.md-typeset table:not([class]) tbody tr:last-of-type td {
-  border-bottom: 0.1rem solid var(--md-primary-fg-color);
 }
 .md-typeset__table {
   width: 100%;

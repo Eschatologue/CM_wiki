@@ -128,12 +128,12 @@
     h4 {
         color: var(--md-gbl-text-color-strong);
         font-size: calc(var(--default-font-size) * 1.25);
-        margin: #{convert.px2rem(6px)} #{convert.px2rem(-2px)};
+        margin: #{convert.px2rem(6px)} 0;
     }
 
     h5 {
         font-size: var(--default-font-size);
-        margin-top: #{convert.px2rem(-4px)};
+        margin-top: #{convert.px2rem(0px)};
         margin-bottom: #{convert.px2rem(-12px)};
     }
 }

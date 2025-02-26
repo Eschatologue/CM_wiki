@@ -1,73 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-
-<svg
-   fill="#000000"
-   viewBox="0 0 0.96 0.96"
-   version="1.1"
-   id="svg1"
-   sodipodi:docname="grenade.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <defs
-     id="defs1" />
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#111111"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="1"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="10.38"
-     inkscape:cx="-4.7206166"
-     inkscape:cy="10.452794"
-     inkscape:window-width="1360"
-     inkscape:window-height="697"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
-  <title
-     id="title1">grenade</title>
-  <g
-     id="g12"
-     transform="translate(0,-0.00400947)">
-    <path
-       id="path1"
-       style="stroke-width:1"
-       d="m 0.18393518,0.51424 c -0.0216914,0.0265342 -0.0348868,0.0549193 -0.0392969,0.0852344 -0.005426,0.0373112 -2.2164e-4,0.0731976 0.0155469,0.10765625 0.0157685,0.0344589 0.0402712,0.0683414 0.0735938,0.10164062 0.0333226,0.0332992 0.067205,0.0578798 0.10164062,0.0736719 0.0344359,0.0157921 0.070155,0.0209187 0.1071875,0.0154688 0.0302685,-0.004454 0.0586848,-0.017775 0.0853125,-0.0396875 z" />
-    <path
-       id="path11"
-       style="stroke-width:1"
-       d="M 0.3064081,0.3408 0.2110175,0.4361906 0.19008,0.4571281 0.58547062,0.8524406 0.60633002,0.8315031 0.70172062,0.7361125 Z" />
-    <path
-       id="path9"
-       style="stroke-width:1"
-       d="m 0.58192188,0.26426793 -0.0249219,0.0249219 C 0.48409378,0.26277733 0.41894709,0.27805673 0.36153122,0.33489293 0.50792322,0.48130816 0.62329517,0.59637729 0.7077031,0.68020544 0.765119,0.62278954 0.7803203,0.55794549 0.7533281,0.48559606 l 0.025,-0.025 z" />
-    <path
-       id="path8"
-       style="stroke-width:1"
-       d="m 0.70675248,0.15920231 -0.0913281,0.0913281 0.0258594,0.0258594 0.12484375,0.12398437 0.0258594,0.0267188 0.0904687,-0.0913281 -0.001719,-0.0499219 -0.12406251,-0.12484376 z" />
-    <path
-       id="path7"
-       style="stroke-width:1"
-       d="m 0.59684126,0.06800231 -0.15328125,0.0025781 -0.0499219,0.04992187 8.5937e-4,0.001797 -0.15585937,0.0714844 -0.13953126,0.1403125 -0.0215625,0.1128125 0.01898438,0.018125 0.0378906,-0.0999219 0.12398437,-0.12226563 0.1696875,-0.0413281 -7.812e-5,-7.813e-5 h 0.0275781 l 0.0404687,-0.0404687 h 0.0275781 l 0.0697656,0.0697656 0.0663281,-0.06625 0.0163281,-0.0172656 z" />
-  </g>
-  <metadata
-     id="metadata1">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:title>grenade</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+<svg id="svg1" fill="#000000" version="1.1" viewBox="0 0 .96 .96" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title id="title1">grenade</title>
+ <g id="g12" transform="translate(0 -.0040095)">
+  <path id="path1" d="m0.18394 0.51424c-0.021691 0.026534-0.034887 0.054919-0.039297 0.085234-0.005426 0.037311-2.2164e-4 0.073198 0.015547 0.10766 0.015768 0.034459 0.040271 0.068341 0.073594 0.10164 0.033323 0.033299 0.067205 0.05788 0.10164 0.073672 0.034436 0.015792 0.070155 0.020919 0.10719 0.015469 0.030268-0.004454 0.058685-0.017775 0.085312-0.039688z"/>
+  <path id="path11" d="m0.30641 0.3408-0.11633 0.11633 0.39539 0.39531 0.020859-0.020938 0.095391-0.095391z"/>
+  <path id="path9" d="m0.58192 0.26427-0.024922 0.024922c-0.072906-0.026412-0.13805-0.011133-0.19547 0.045703 0.14639 0.14642 0.26176 0.26148 0.34617 0.34531 0.057416-0.057416 0.072617-0.12226 0.045625-0.19461l0.025-0.025z"/>
+  <path id="path8" d="m0.70675 0.1592-0.091328 0.091328 0.025859 0.025859 0.12484 0.12398 0.025859 0.026719 0.090469-0.091328-0.001719-0.049922-0.12406-0.12484z"/>
+  <path id="path7" d="m0.59684 0.068002-0.15328 0.0025781-0.049922 0.049922 8.5937e-4 0.001797-0.15586 0.071484-0.13953 0.14031-0.021562 0.11281 0.018984 0.018125 0.037891-0.099922 0.12398-0.12227 0.16969-0.041328-7.812e-5 -7.813e-5h0.027578l0.040469-0.040469h0.027578l0.069766 0.069766 0.066328-0.06625 0.016328-0.017266z"/>
+ </g>
+ <metadata id="metadata1">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:title>grenade</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
 </svg>
