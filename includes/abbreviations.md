@@ -6,8 +6,8 @@
 
 <!--- Covers --->
 
-*[Half Cover]: +2 bonus to AC & DEX saves.
-*[Three-Quarters Cover]: +5 bonus to AC & DEX saves.
+*[Half Cover]: +2 bonus to AC & DEX Saves.
+*[Three-Quarters Cover]: +5 bonus to AC & DEX Saves.
 *[Total Cover]: Can't be targetted directly
 
 *[Bright Light]: The area is under normal illumination

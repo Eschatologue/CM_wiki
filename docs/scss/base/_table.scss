@@ -8,7 +8,7 @@
 
 .md-typeset {
     & table:not([class]) {
-        margin-bottom: convert.px2rem(-16px);
+        margin-bottom: convert.px2rem(-14px);
         display: table;
         border-color: transparent !important;
 
@@ -25,7 +25,7 @@
             font-size: var(--table-font-size);
             font-weight: bold !important;
             color: var(--md-text-color);
-            border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color--light);
+            // border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color--light);
             padding: #{convert.px2em(8px)} #{convert.px2em(8px)};
         }
 

@@ -131,7 +131,7 @@ When a creature you can see cast a spell or attempt to Teleport while within 60 
 **Mark Target**{ .inl } You can take a **:rsc-r: Reaction**{ .rsc } to use [Spellbreaker's Mark](#level-3-spellbreakers-mark), targeting the creature, or move already existing mark to the creature that triggered this reaction.
 { .indt }
 
-**Thwart Magic**{ .inl } You can take a **:rsc-r: Reaction**{ .rsc } to force the target to make a **:d20-save: CON save** against your Spell Save DC. On a failed save, it takes **(Sneak Attack) :dmg-force: Force**{ .dmg-force } damage and its spell or Teleport fails. On a successful save, the target only takes half damage.
+**Thwart Magic**{ .inl } You can take a **:rsc-r: Reaction**{ .rsc } to force the target to make a **:d20-save: CON Save** against your Spell Save DC. On a failed save, it takes **(Sneak Attack) :dmg-force: Force**{ .dmg-force } damage and its spell or Teleport fails. On a successful save, the target only takes half damage.
 { .indt }
 
 --8<-- "includes/snippets/skills.md"

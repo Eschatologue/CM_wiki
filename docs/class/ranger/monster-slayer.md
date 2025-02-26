@@ -61,7 +61,7 @@ Your [:spell-lv1: Hunter's Mark] spell improves in the following ways:
 
 When you see your the target of your [:spell-lv1: Hunter's Mark] attempt to cast a spell, teleport, or use another supernatural or magical ability from its stat block, you can make a single weapon attack against it as a **:rsc-r: Reaction**{ .rsc }. On hit, the spell's target must succeed on a **:d20-save: WIS Save**{ .rsc } against your Spell Save DC, or its spell, teleport, or other ability is thwarted and fails to take effect.
 
-When you use this feature and your attack hits, you can choose to instantly end [:spell-lv1: Hunter's Mark] to cause the creature to automatically fail its **:d20-save: WIS save**{ .rsc }.
+When you use this feature and your attack hits, you can choose to instantly end [:spell-lv1: Hunter's Mark] to cause the creature to automatically fail its **:d20-save: WIS Save**{ .rsc }.
 
 :material-book-arrow-up: Updated by *Eschatologue*
 { .author }

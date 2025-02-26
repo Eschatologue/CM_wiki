@@ -151,7 +151,7 @@ When you roll **:d20-inv: Initiative**{.d20 }, you can take a **:rsc-r: Reaction
 
 _**Prerequisite:** Level 14+ Ranger, [Slayer II](#slayer-ii-ambush-tactics)_
 
-Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can force the target must succeed a **:d20-save: CON save**{ .d20 }, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
+Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can force the target must succeed a **:d20-save: CON Save**{ .d20 }, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
 
 ---
 

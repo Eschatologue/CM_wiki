@@ -153,7 +153,7 @@
     Tables
 --------------------------------------------------------*/
 .md-typeset table:not([class]) {
-  margin-bottom: -0.8rem;
+  margin-bottom: -0.7rem;
   display: table;
   border-color: transparent !important;
   --table-font-size: calc(var(--default-font-size) * 0.9);
@@ -168,7 +168,6 @@
   font-size: var(--table-font-size);
   font-weight: bold !important;
   color: var(--md-text-color);
-  border-bottom: 0.1rem solid var(--md-primary-fg-color--light);
   padding: 0.5em 0.5em;
 }
 .md-typeset table:not([class]) td {
@@ -209,7 +208,7 @@
 .jetbrains, .dmg-heal, .dmg-phys, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .calc {
   font-size: calc(var(--default-font-size) * 0.8);
   font-family: var(--jetbrains);
-  word-spacing: -0.2rem;
+  word-spacing: -0.15rem;
 }
 
 /*-------------------------------------------------------

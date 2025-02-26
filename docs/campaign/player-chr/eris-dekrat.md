@@ -34,7 +34,7 @@ You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 *With a simple raise of your eyebrow, you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 
-When a creature you can see cast a spell or attempt to Teleport while within 60 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to force the target to make a **:d20-save: CON save** against your Cunning Strike DC. On a failed save, it takes **(Sneak Attack) :dmg-force: Force**{ .dmg-force } damage and its spell or Teleport fails. On a successful save, the target only takes half damage.
+When a creature you can see cast a spell or attempt to Teleport while within 60 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to force the target to make a **:d20-save: CON Save** against your Cunning Strike DC. On a failed save, it takes **(Sneak Attack) :dmg-force: Force**{ .dmg-force } damage and its spell or Teleport fails. On a successful save, the target only takes half damage.
 
 You can use this **:rsc-r: Reaction**{ .rsc } a number of times up to your Charisma modifier. You regain all expended uses when you finish a **:rest-long: Long Rest**.
 

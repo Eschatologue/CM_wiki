@@ -145,7 +145,7 @@ icon: material/fast-forward
     - #### **:material-arrow-expand: Dodge**{ .inl } 
 
         Focus entirely on avoiding attacks.  
-        Attack Rolls against you have **:d20-dis: Disadvantage**{ .d20 } & you have **:d20-adv: Advantage**{ .d20 } on **:d20-save: Dex Save**
+        Attack Rolls against you have **:d20-dis: Disadvantage**{ .d20 } & you have **:d20-adv: Advantage**{ .d20 } on **:d20-save: DEX Save**
         
     - #### **:material-handshake: Help**{ .inl } 
 

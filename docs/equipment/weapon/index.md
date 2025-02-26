@@ -68,7 +68,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :wp-prop-explosive:{ .xl }<br>Explosive 
 
-:   When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, originating from the target. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a **:d20-save: DEX save**{ .d20 } against your Weapon Save DC. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one.
+:   When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, originating from the target. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a **:d20-save: DEX Save**{ .d20 } against your Weapon Save DC. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one.
 
     Your initial target makes this **:d20-save: Saving Throw** at a **:d20-dis: Disadvantage**{ .d20 }.
 
