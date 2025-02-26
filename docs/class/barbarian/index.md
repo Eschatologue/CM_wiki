@@ -135,13 +135,13 @@ Each time the **:ui-rage: Rage**{ .em } is extended, it lasts until the end of y
 
 ### Level 1: Unarmoured Defence
 
-While you aren't wearing any armour, you can choose the following option to determine your base **Armour Class**:
+While you aren't wearing any armor, your base Armour Class equals **10 plus your :abl-dex: Dexterity and :abl-cons: Constitution modifiers**{ .calc }. You can use a Shield and still gain this benefit.
 
-**Dexterity Based**{ .inl } 10 plus your :abl-dex: Dexterity and :abl-cons: Constitution modifiers; or
+### Level 1: Unarmoured Defence (Strength)
 
-**Strength Based**{ .inl } 10 plus your :abl-str: Strength and :abl-cons: Constitution modifiers.
+--8<-- "docs\class\opt-class-feat.md:opt-barb-unarmoured-defence"
 
-You can use a Shield and still gain these benefit.
+[Unarmoured Defence]: #level-1-unarmoured-defence
 
 ### Level 1: Weapon Mastery
 

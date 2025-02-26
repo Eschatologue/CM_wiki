@@ -48,9 +48,9 @@ To scribe a scroll, you must have proficiency in the Arcana skill or with [Calli
 
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were your level.
 
-##### Spell Scroll Table
-
 <!-- --8<-- [start:cons-spell-scroll-tbl] -->
+
+##### Spell Scroll Table
 
 | Rarity | Spell Level | Save DC | Attack Bonus | Scribing Time | Scribing Cost |
 |---|:-:|:-:|:-:|:-:|--:|

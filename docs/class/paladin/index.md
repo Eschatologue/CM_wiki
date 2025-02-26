@@ -145,7 +145,6 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
     
     In Crown & Misery setting, the Weapon Mastery feature are expanded to allow more flexibility, More details can be found in the [Weapon Mastery](../../equipment/weapon/mastery.md) section..
 
-
 --8<-- "includes/snippets/item-mastery.md"
 
 ### Level 2: Fighting Style
@@ -158,13 +157,9 @@ You gain a Fighting Style feat of your choice (see chapter 5 for feats). Instead
 
 You always have the [:spell-lv1: Divine Smite] spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a **:rest-long: Long Rest** before you can cast it in this way again.
 
-### Level 2: Divine Smite (Optional)
+### Level 2: Divine Smite
 
-If you take this feature, you must forgo the Paladin's Smite feature and the [:spell-lv1: Divine Smite] spell is removed from your spell list.
-
-When you damage a creature with a Melee weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } , you can expend a spell slot to cause that attack to deal bonus :dmg-radi: Radiant damage to the target.
-
-This bonus damage is 2d8 for a level 1 spell slot and it increases by 1d8 for each spell slot level above 1, to a maximum of 5d8. The damage increases by 1d8 if the target is an Undead or a Fiend, to a maximum of 6d8.
+--8<-- "docs\class\opt-class-feat.md:opt-pal-smite"
 
 ### Level 3: Channel Divinity
 
@@ -222,7 +217,7 @@ You and your allies have Immunity to the Frightened condition while in your Aura
 
 ### Level 11: Radiant Strikes
 
-Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an **:rsc-a: Unarmed Strike**{ .rsc } , the target takes an extra 1d8 :dmg-radi: Radiant damage.
+Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an **:rsc-a: Unarmed Strike**{ .rsc } , the target takes an extra **1d8 :dmg-radi: Radiant**{ .dmg-radi } damage.
 
 ### Level 14: Restoring Touch
 
