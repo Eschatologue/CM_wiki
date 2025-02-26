@@ -26,6 +26,14 @@ Useful for repairing or constructing small mechanical devices. Can be used in pl
 
 ---
 
+### Gas Detector
+
+_Adventuring gear, 250 sp, S._
+
+A compact electronic device designed to detect hazardous gases. It emits a series of beeping noise audible up to 30 feet when harmful gas is detected within 15 feet.
+
+---
+
 ### Goggles
 
 _Adventuring gear, 20 sp, S._
@@ -34,11 +42,15 @@ Protective eyewear designed to shield the eyes from debris, sparks, and bright l
 
 ---
 
-### Gas Detector
+### Grenade Launcher
 
-_Adventuring gear, 250 sp, S._
+<!-- --8<-- [start:item-grenade-launcher] -->
 
-A compact electronic device designed to detect hazardous gases. It emits a series of beeping noise audible up to 30 feet when harmful gas is detected within 15 feet.
+_Adventuring gear, Firearms, M._
+
+When you take the Attack action on your turn, you can replace one of your attacks to either throw a [Grenade](../consumeables/grenade.md) at a point up to 60 feet away or use a Grenade Launcher to propel the grenade to a point up to 120 feet away. The grenade explodes at that point, creating the grenade effect.
+
+<!-- --8<-- [end:item-grenade-launcher] -->
 
 ---
 

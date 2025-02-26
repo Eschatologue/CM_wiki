@@ -42,22 +42,29 @@ Scribing a scroll takes an amount of time and money based on the level of the sp
 
 ### Prerequisites for the Scribe
 
-To scribe a scroll, you must have proficiency in the Arcana skill or with Calligrapher's Supplies and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll's spell uses your spell save DC and spell attack bonus.
+To scribe a scroll, you must have proficiency in the Arcana skill or with [Calligrapher's Supplies](./tools/artisan-tools.md#calligraphers-supplies) and have the spell prepared on each day of the inscription. You must also have at hand any Material components required by the spell; if the spell consumes its Material components, they are consumed only when you complete the scroll. The scroll's spell uses your spell save DC and spell attack bonus.
 
 ### Cantrips
 
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were your level.
 
-##### Spell Scroll Costs
-| Spell Level | Time | Cost |
-|:-:|:-:|-:|
-| Cantrip | 1 day | 150 SP |
-| 1 | 1 day | 250 SP |
-| 2 | 3 days | 1,000 SP |
-| 3 | 5 days | 1,500 SP |
-| 4 | 10 days | 10,000 SP |
-| 5 | 25 days | 15,000 SP |
-| 6 | 40 days | 100,000 SP |
-| 7 | 50 days | 125,000 SP |
-| 8 | 60 days | 150,000 SP |
-| 9 | 120 days | 500,000 SP |
+##### Spell Scroll Table
+
+<!-- --8<-- [start:cons-spell-scroll-tbl] -->
+
+| Rarity | Spell Level | Save DC | Attack Bonus | Scribing Time | Scribing Cost |
+|---|:-:|:-:|:-:|:-:|--:|
+| Common | :spell-lv0: Cantrip | 13 | +5 | 1 day | 150 SP |
+| Common | :spell-lv1: Level 1 | 13 | +5 | 1 day | 250 SP |
+| Uncommon | :spell-lv2: Level 2 | 13 | +5 | 3 days | 1,000 SP |
+| Uncommon | :spell-lv3: Level 3 | 15 | +7 | 5 days | 1,500 SP |
+| Rare | :spell-lv4: Level 4 | 15 | +7 | 10 days | 10,000 SP |
+| Rare | :spell-lv5: Level 5 | 17 | +9 | 25 days | 15,000 SP |
+| Very Rare | :spell-lv6: Level 6 | 17 | +9 | 40 days | 100,000 SP |
+| Very Rare | :spell-lv7: Level 7 | 18 | +10 | 50 days | 125,000 SP |
+| Very Rare | :spell-lv8: Level 8 | 18 | +10 | 60 days | 150,000 SP |
+| Legendary | :spell-lv9: Level 9 | 19 | +11 | 120 days | 500,000 SP |
+
+<!-- --8<-- [end:cons-spell-scroll-tbl] -->
+
+--8<-- "includes/snippets/skills.md"

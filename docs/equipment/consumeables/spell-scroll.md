@@ -28,21 +28,8 @@ If the spell requires an attack roll or imposes a saving throw, use the followin
 
 The spell's level on the scroll determines its saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table.
 
-##### Spell Scroll Table
-
-| Rarity | Spell Level | Save DC | Attack Bonus |
-|---|:--|:-:|:-:|
-| Common | :spell-lv0: Cantrip | 13 | +5 |
-| Common | :spell-lv1: Level 1 | 13 | +5 |
-| Uncommon | :spell-lv2: Level 2 | 13 | +5 |
-| Uncommon | :spell-lv3: Level 3 | 15 | +7 |
-| Rare | :spell-lv4: Level 4 | 15 | +7 |
-| Rare | :spell-lv5: Level 5 | 17 | +9 |
-| Very Rare | :spell-lv6: Level 6 | 17 | +9 |
-| Very Rare | :spell-lv7: Level 7 | 18 | +10 |
-| Very Rare | :spell-lv8: Level 8 | 18 | +10 |
-| Legendary | :spell-lv9: Level 9 | 19 | +11 |
-
 ## Copying a Spell from a Scroll
 
 A wizard spell on a spell scroll can be copied just like spells in spellbooks. To copy a spell from a scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. Regardless of success or failure, the spell scroll is destroyed.
+
+--8<-- "docs\equipment\crafting.md:cons-spell-scroll-tbl"

@@ -23,7 +23,7 @@ Each Casting Unit holds a set number of charges and has a maximum spell level it
 
 :material-timer: **Casting Time:** Follows the normal casting time of the stored spell (Action, Bonus Action, Reaction).  
 :spell-conc: **Concentration:** If the spell requires Concentration, the user must maintain it.  
-:material-target-variant: **Bonus to Hit and Save DC:** Spells use the unit's bonus to hit and Save DC. The user's own spellcasting ability isn't applied.
+:material-target-variant: **Bonus to Hit and Save DC:** Spells use the unit's bonus to hit and Save DC. The user's own spellcasting ability **isn't** applied.
 
 ### Storing Spells
 
@@ -33,7 +33,7 @@ Each Casting Unit holds a set number of charges and has a maximum spell level it
 
 ### Reloading and Recharging
 
-:material-folder-download: **Store Spells:** A spellcaster can load or change the spells it prepares or know into the unit during a **:rest-long: Long Rest**.  
+:material-folder-download: **Store Spells:** A spellcaster can load or change the spells it prepares or know into the unit during as part of a **:rest-long: Long Rest**.  
 :material-battery-charging-10: **Recharge:** Spend spell slots to restore charges (1 charge per spell slot level).
 
 ##### Casting Unit Table
