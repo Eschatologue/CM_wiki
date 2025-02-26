@@ -159,7 +159,7 @@ You always have the [:spell-lv1: Divine Smite] spell prepared. In addition, you 
 
 ### Level 2: Divine Smite
 
---8<-- "docs\class\opt-class-feat.md:opt-pal-smite"
+--8<-- "docs/class/other/opt-class-feat.md:opt-pal-smite"
 
 ### Level 3: Channel Divinity
 

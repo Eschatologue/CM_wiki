@@ -110,7 +110,7 @@ The number of times you can cast the spell without a spell slot increases when y
 
 ### Level 1: Ranger's Aptitude
 
---8<-- "docs\class\opt-class-feat.md:opt-rng-aptitude"
+--8<-- "docs/class/other/opt-class-feat.md:opt-rng-aptitude"
 
 ### Level 1: Spellcasting
 

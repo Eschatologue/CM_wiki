@@ -55,7 +55,7 @@ _Optional Class Feature, Replaces **[Paladin's Smite]**_
 
 When you damage a creature with a Melee weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } , you can expend a spell slot to cause that attack to deal **bonus damage** to the target. This feature also changes the damage type dealt from _**Radiant Strike**_ feature. This bonus damage is `2d8` for a level 1 spell slot and it increases by `1d8` for each spell slot level above 1, to a maximum of `6d8`.
 
-The bonus damage of this feature depends on your alignment, or freely choose from the following table table.
+The bonus damage of this feature depends on your alignment, or freely choose from the following table.
 
 | Alignment | Damage Type |
 |:-:|:-:|

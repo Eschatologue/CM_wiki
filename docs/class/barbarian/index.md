@@ -139,7 +139,7 @@ While you aren't wearing any armor, your base Armour Class equals **10 plus your
 
 ### Level 1: Unarmoured Defence (Strength)
 
---8<-- "docs\class\opt-class-feat.md:opt-barb-unarmoured-defence"
+--8<-- "docs/class/other/opt-class-feat.md:opt-barb-unarmoured-defence"
 
 [Unarmoured Defence]: #level-1-unarmoured-defence
 
