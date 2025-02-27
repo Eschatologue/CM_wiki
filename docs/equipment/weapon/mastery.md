@@ -176,7 +176,7 @@ When you make an attack with this weapon, you can expend 15 feet of your **:rsc-
 
 | Type | Properties |
 |:-:|:-:| 
-| Melee / Ranged | **:wp-prop-ammunition: Ammunition**{ .jetbrains } or **:wp-prop-versatile: Versatile**{ .jetbrains } |
+| Melee / Ranged | **:wp-prop-ammunition: Ammunition**{ .jetbrains }, **:wp-prop-versatile: Versatile**{ .jetbrains }, <br>or Deals **:dmg-bldg: Bludgeoning**{ .dmg-phys } damage |
 
 If you hit a creature with this weapon and deal damage to the creature, the next attack roll by a creature other than you against that creature has **:d20-adv: Advantage**{ .d20 } until the start of your next turn.
 

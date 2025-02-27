@@ -161,6 +161,8 @@ You always have the [:spell-lv1: Divine Smite] spell prepared. In addition, you 
 
 --8<-- "docs/class/other/opt-class-feat.md:opt-pal-smite"
 
+[Paladin's Smite]: #level-2-paladins-smite
+
 ### Level 3: Channel Divinity
 
 You can channel divine energy directly from the Outer Planes, using that energy to fuel magical effects. You start with one such effect: **Divine Sense**, which is described below. Other Paladin features give additional **:ui-chdiv-pal: Channel Divinity** effect options. Each time you use this Channel Divinity, you choose which effect to create from among those you have from this class.

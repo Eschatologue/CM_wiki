@@ -20,7 +20,7 @@ Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 You can use a Magical weapon or a Magical shield, that you have Attuned (if required) as a spellcasting focus and to perform the Somatic component of a spell.
     
 **Weapon Conduit**{ .inl }  
-When wielding a Magical weapon with which you are proficient and Attuned with (if required), you can apply its Enchantment to the attack roll and damage roll of any spell you cast, provided you use the weapon as your spellcasting focus.
+When wielding a Magical weapon that has Enchantment (+1, +2, or +3) with which you are proficient and Attuned with (if required), you can apply its Enchantment to the attack roll and damage roll of any spell you cast, provided you use the weapon as your spellcasting focus.
 
 ---
 
@@ -58,24 +58,24 @@ You increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 
 **Compartmentalize**{ .inl }  
 As an **:rsc-a: Action**{ .rsc }, you can instantly learn a spell from your available class spell list (or spellbook, if your class prepare spells from one) that you did not know or have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: **Spell Slots**. You then lose the knowledge or preparation of a different spell of your choice of equal or higher spell level. 
     
-Once you use this ability, you must finish a **:rest-short: Short Rest** or Long Rest before you can use it again.
+Once you use this ability, you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
 
 ---
 
 ### Gunner
 
-*General Feat (Prerequisite: Level 4+, Proficiency with Firearms)*  
+*General Feat (Prerequisite: Level 4+, Firearms Proficiency)*  
 
 You have a quick hand and keen eye when employing firearms, granting you the following benefits:
 
 **Ability Score Increase**{ .inl }  
 Increase your Dexterity score by 1, to a maximum of 20.
+
+**Controlled Burst**{ .inl }  
+When you make the extra attack of the **:wp-prop-automatic: Automatic** property, you can add your ability modifier to the damage of the extra attacks.
     
-**Dual Wielding**{ .inl }  
-When you make the extra attack of the :wp-prop-light: **Light** weapon property, you can add your Ability Modifier to the damage of the extra attack if that attack is with a Firearm that has the :wp-prop-light: **Light** property.
-    
-**Quickshot**{ .inl }  
-After you roll for **:d20-inv: Initiative**{.d20 }, you can take a **:rsc-r: Reaction**{ .rsc } to make a single attack with a Firearm.
+**Race Modded**{ .inl }  
+As part of an attack with Firearms, you can take a **:rsc-r: Reaction** to reload it if it ran out of ammunition during the attack. Moreover, you don't need a free hand to reload a Firearm.
 
 ---
 
@@ -89,25 +89,9 @@ You always seem to have helpful advice for any situation. You gain the benefits 
 You increase your Intelligence or Wisdom score by 1, up to a maximum of 20.
 
 **Swift Help**{ .inl }  
-You can take the Help action as a **:rsc-b: Bonus Action**{ .rsc }.
+You can take the **:rsc-a: Help**{ .rsc } action as a **:rsc-b: Bonus Action**{ .rsc }.
 
-If you use a Help action to give **:d20-adv: Advantage**{ .d20 } on an ability check with a skill or tool you are proficient in, the target can treat a result of 7 or lower on the d20 as an 8.
-
----
-
-### Masterful Technique
-
-*General Feat (Prerequisite: Level 4+, At least one Fighting Style Feat)*  
-
-You have learned to change your fighting stance to best meet the challenges you face. You gain the following benefits:
-
-**Ability Score Increase**{ .inl }  
-You increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
-
-**Stance Change**{ .inl }  
-You learn a Fighting Style feat of your choice. You do not gain the benefit of the Fighting Style.
-
-As a **:rsc-b: Bonus Action**{ .rsc }, you can choose to benefit from the Fighting Style feat you gained from this feat, losing the benefit of one other Fighting Style feat you currently have. To regain the benefit of another Fighting Style, you must use a **:rsc-b: Bonus Action**{ .rsc } to switch back.
+If you use a **:rsc-a: Help**{ .rsc } action to give **:d20-adv: Advantage**{ .d20 } on an ability check with a skill or tool you are proficient in, the target can treat a result of 7 or lower on the d20 as an 8.
 
 ---
 
@@ -226,7 +210,7 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 You increase your Dexterity by 1, up to a maximum of 20.
     
 **Dynamic Swordplay**{ .inl }  
-When you take the **:rsc-a: Attack**{ .rsc } action and attack with melee weapon that has the :wp-prop-finesse: **Finesse** property, you can choose to deal either :dmg-slsh: **Slashing** or :dmg-prcg: **Piercing** damage.
+When you take the **:rsc-a: Attack**{ .rsc } action and attack with melee weapon that has the **:wp-prop-finesse: Finesse** property, you can choose to deal either **:dmg-slsh: Slashing**{ .dmg phys } or **:dmg-prcg: Piercing**{ .dmg phys }  damage.
 
 **Fleuret**{ .inl }  
 The first creature you hit on your turn has **:d20-dis: Disadvantage**{ .d20 } on any attack against you until the start of your next turn.
@@ -243,13 +227,13 @@ You've honed your ability to lob weaponry into the fray, including weapons not m
 Increase your Strength or Dexterity by 1, to a maximum of 20.
 
 **Throwable Weapons**{ .inl }  
-Simple and Martial melee weapons without the :wp-prop-thrown: **Thrown** property have the :wp-prop-thrown: **Thrown** property for you. One-handed weapons has :wp-prop-thrown: **Thrown (30/60)**, while Two-handed weapons has :wp-prop-thrown: **Thrown (15/30)**
+Simple and Martial melee weapons without the **:wp-prop-thrown: Thrown** property have the **:wp-prop-thrown: Thrown** property for you. One-handed weapons has **:wp-prop-thrown: Thrown (30/60)**, while Two-handed weapons has **:wp-prop-thrown: Thrown (15/30)**
 
 **Improved Throw Range**{ .inl }  
-Weapons that already have the :wp-prop-thrown: **Thrown** property has their range is increased by (+20/+40)
+Weapons that already have the **:wp-prop-thrown: Thrown** property has their range is increased by (+20/+40)
 
 **Boomerang**{ .inl }  
-When you miss with a :wp-prop-thrown: **Thrown** weapon attack using a weapon with :wp-prop-light: **Light** property, the weapon returns to your grasp like a boomerang at the end of your turn, unless something prevents it from returning. You can catch and stow as many weapons as you threw in this way.
+When you miss with a **:wp-prop-thrown: Thrown** weapon attack using a weapon with **:wp-prop-light: Light** property, the weapon returns to your grasp like a boomerang at the end of your turn, unless something prevents it from returning. You can catch and stow as many weapons as you threw in this way.
 
 ---
 
@@ -263,6 +247,6 @@ You gain the following benefits:
 Increase your Dexterity by 1, to a maximum of 20.
 
 **Return Fire**{ .inl }   
-When a creature you can see hits or misses you with a ranged attack, you can take a **:rsc-r: Reaction**{ .rsc } and make one ranged weapon attack against that creature with ranged or thrown weapon that has the **:wp-prop-light: Light**{ .jetbrains } property.
+When a creature you can see hits or misses you with a ranged attack, you can take a **:rsc-r: Reaction**{ .rsc } and make one ranged weapon attack against that creature with ranged or thrown weapon that has the **:wp-prop-light: Light**property.
 
 ---

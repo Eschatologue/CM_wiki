@@ -106,7 +106,7 @@ You ignore the Loading property of crossbows.
 Being within 5 feet of an enemy doesn't impose **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with crossbows.
 
 **Dual Wielding**{ .inl }  
-When you make the extra attack of the :wp-prop-light: Light property, you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the :wp-prop-light: Light property and you aren't already adding that modifier to the damage.
+When you make the extra attack of the **:wp-prop-light: Light** property, you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the **:wp-prop-light: Light** property and you aren't already adding that modifier to the damage.
 
 ---
 
@@ -218,7 +218,7 @@ Increase your Strength or Dexterity score by 1, to a maximum of 20.
 **Punch and Grab**{ .inl }  
 When you hit a creature with an **:rsc-a: Unarmed Strike**{ .rsc } as part of the **:rsc-a: Attack**{ .rsc } action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
 
-**Attack **:d20-adv: Advantage**{ .d20 } **{ .inl }  
+**Attack Advantage**{ .inl }  
 You have **:d20-adv: Advantage**{ .d20 } on attack rolls against a creature Grappled by you.
 
 **Fast Wrestler**{ .inl }  
@@ -239,7 +239,7 @@ Increase your Strength score by 1, to a maximum of 20.
 When you hit a creature with a weapon that has the Heavy property as part of the Attack Action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
 
 **Hew**{ .inl }  
-Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a  **:rsc-b: Bonus Action**{ .rsc }.
+Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a **:rsc-b: Bonus Action**{ .rsc }.
 
 ---
 
@@ -296,7 +296,7 @@ Increase your Intelligence score by 1, to a maximum of 20.
 Lore Knowledge. Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. If you lack proficiency in the chosen skill, you gain proficiency in it, and if you have proficiency in it, you gain Expertise in it.
 
 **Quick Study**{ .inl }  
-You can take the Study Action as a  **:rsc-b: Bonus Action**{ .rsc }.
+You can take the Study Action as a **:rsc-b: Bonus Action**{ .rsc }.
 
 ---
 
@@ -402,7 +402,7 @@ Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
 Choose one of the following skills: Insight, Investigation, or Perception. If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
 
 **Quick Search**{ .inl }  
-You can take the Search action as a  **:rsc-b: Bonus Action**{ .rsc }.
+You can take the Search action as a **:rsc-b: Bonus Action**{ .rsc }.
 
 ---
 

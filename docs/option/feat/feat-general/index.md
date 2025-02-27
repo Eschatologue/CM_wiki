@@ -70,7 +70,6 @@ The table below lists available General Feats, divided into two categories: *PHB
 - [:option-feat-general: Flash Recall](hb.md#flash-recall)
 - [:option-feat-general: Gunner](hb.md#gunner)
 - [:option-feat-general: Helpful Insights](hb.md#helpful-insights)
-- [:option-feat-general: Masterful Technique](hb.md#masterful-technique)
 - [:option-feat-general: Metamagic Adept](hb.md#metamagic-adept)
 - [:option-feat-general: Overwhelming Strength](hb.md#overwhelming-strength)
 - [:option-feat-general: Remarkable Recovery](hb.md#remarkable-recovery)
