@@ -152,7 +152,7 @@ The following Mastery properties are homebrew.
 
 ---
 
-### Agile { .hide }
+### Agile
 
 | Type | Properties |
 |:-:|:-:|
