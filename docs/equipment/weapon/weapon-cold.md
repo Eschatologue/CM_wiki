@@ -42,10 +42,10 @@ Simple weapons are easy to use and require minimal training, making them accessi
 | *Javelin* | **1d6 :dmg-prcg: Ps.**{ .dmg-phys } | Thrown (:wp-prop-range: Range 30/120) | **:wp-mas: Slow**{ .wp } | S. | 5 SP |
 | *Light Hammer* | **1d4 :dmg-bldg: Bd.**{ .dmg-phys } | Light, Thrown (:wp-prop-range: Range 20/60) | **:wp-mas: Nick**{ .wp } | S. | 20 SP |
 | *Mace* | **1d6 :dmg-bldg: Bd.**{ .dmg-phys } | — | **:wp-mas: Sap**{ .wp } | M-| 50 SP |
-| *Quarterstaff* | **1d6 :dmg-bldg: Bd.**{ .dmg-phys } | Versatile (1d8) | **:wp-mas: Topple**{ .wp } | M-| 2 SP |
+| *Quarterstaff* | **1d6 :dmg-bldg: Bd.**{ .dmg-phys } | Versatile (1d8; **:wp-mas: Push**{ .wp }) | **:wp-mas: Topple**{ .wp } | M-| 2 SP |
 | *Sickle* | **1d4 :dmg-slsh: Sl.**{ .dmg-phys } | Light | **:wp-mas: Nick**{ .wp } | S. | 10 SP |
-| *Spear* | **1d6 :dmg-prcg: Ps.**{ .dmg-phys } | Thrown (:wp-prop-range: Range 20/60), Versatile (1d8) | **:wp-mas: Sap**{ .wp } | M-| 10 SP |
-| *Falchion* | **1d6 :dmg-slsh: Sl.**{ .dmg-phys } | Finesse, Versatile (2d4) | **:wp-mas: Sap**{ .wp } | M. | 100 SP |
+| *Spear* | **1d6 :dmg-prcg: Ps.**{ .dmg-phys } | Thrown (:wp-prop-range: Range 20/60), Versatile (1d8; **:wp-mas: Topple**{ .wp }) | **:wp-mas: Sap**{ .wp } | M-| 10 SP |
+| *Falchion* | **1d6 :dmg-slsh: Sl.**{ .dmg-phys } | Finesse, Versatile (2d4; **:wp-mas: Slow**{ .wp }) | **:wp-mas: Sap**{ .wp } | M. | 100 SP |
 | *War Scythe* | **1d8 :dmg-slsh: Sl.**{ .dmg-phys } | Reach, Two-handed | **:wp-mas: Topple**{ .wp } | M-| 50 SP |
 
 ##### Ranged Simple Weapons
@@ -98,7 +98,7 @@ Martial weapons require more training to use effectively but offer greater damag
 | *Longbow* | **1d8 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 150/600; Arrow), Heavy, Two-handed | **:wp-mas: Slow**{ .wp } | M. | 500 SP |
 | *Arbalest* | **2d6 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 180/360; Bolt), Heavy, Loading, Mounted, Two-handed, Sighted | **:wp-mas: Push**{ .wp } | XL. | 950 SP |
 | *Compound Bow* | **1d10 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 100/400; Arrow), Heavy, Two-handed | **:wp-mas: Brace**{ .wp } | M. | 850 SP |
-| *Heavy Repeater* | **1d8 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 90/360; Bolt), Automatic, Heavy, Reload (4), Two-Handed | **:wp-mas: Tap**{ .wp } | M. | 700 SP |
+| *Heavy Repeater* | **1d8 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 90/360; Bolt), Automatic, Heavy, Reload (4), Two-Handed | **:wp-mas: Expose**{ .wp } | M. | 700 SP |
 
 ### Ammunitions
 

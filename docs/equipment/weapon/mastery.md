@@ -212,13 +212,5 @@ When you take the **:rsc-a: Attack**{ .rsc } action, you can choose to expend 8 
 
 ---
 
-### Tap 
-
-| Type | Properties |
-|:-:|:-:| 
-| Ranged | **:wp-prop-automatic: Automatic**{ .jetbrains } |
-
-Once per turn, when you make an **:wp-prop-automatic: Automatic** attack using this weapon, you can add your ability modifier to the damage roll of the second attack.
-
 
 

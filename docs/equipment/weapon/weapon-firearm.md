@@ -65,7 +65,7 @@ The Long-arm Table encompass rifles and other longer-range weapons. These are de
 | *Marksmen Rifle* | **2d6 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 120/360), Reload (6), Sighted, Two-handed | **:wp-mas: Vex**{ .wp } | L. | 5,000 SP |
 | *Over-under Shotgun* | **1d8 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 30/90), Automatic, Reload (2), Scatter (2d8), Two-handed | **:wp-mas: Slow**{ .wp } | M. | 3,500 SP |
 | *Pump Shotgun* | **1d8 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 40/120), Automatic, Heavy, Reload (7), Scatter (1d12), Two-handed | **:wp-mas: Push**{ .wp } | M. | 5,000 SP |
-| *Semi-Auto Rifle* | **2d4 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 100/300), Automatic, Heavy, Reload (8), Two-handed | **:wp-mas: Tap**{ .wp } | L. | 6,500 SP |
+| *Semi-Auto Rifle* | **2d4 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 100/300), Automatic, Heavy, Reload (8), Two-handed | **:wp-mas: Vex**{ .wp } | L. | 6,500 SP |
 
 <!---
 
