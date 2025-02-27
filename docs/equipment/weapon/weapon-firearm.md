@@ -10,6 +10,22 @@ status: homebrew
 
 **Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles known as "bullets" over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
 
+## Firearm Proficiency
+
+In the *Crown & Misery* setting, firearms are rare weapons powered by *Cordite*, a volatile substance rendered inert near creatures attuned to the Weave. This unique interaction makes firearms largely ineffective for most Antares races, except **Londoners**, who are not inherently tied to the Weave. 
+
+Firearms require a special proficiency distinct from :prof-wp-simple: Simple or :prof-wp-martial: Martial weapons. They are unaffected by mechanics that apply to Cold Weapons, such as certain enchantments or abilities. 
+
+Most classes lack Firearm proficiency unless specifically granted by a background, species feature, or other traits. While the basic operation of firearms—*pull the trigger, it fires*—is widely understood, wielding them effectively requires suppressing one’s connection to the Weave, making them particularly challenging for magic users. Non-magical individuals are more adept at mastering these weapons.
+
+### Lack of Proficiency
+
+If a character isn’t proficient with firearms, their ability to use them is hindered by their magical connection to the Weave. This restriction affects mechanics associated with firearms with the following rules below. These rules is obviously ignored whenever a character gain Proficiency with Firearms.
+
+**Attack Rolls**{ .inl } When making an attack roll with a Firearm without proficiency, the roll is reduced by twice a number equal to the highest spell slot level the character can expend or use. For example, a Wizard who can use a level 5 spell slot at its respective level will have -10 to their attack roll using Firearms. If the Wizard gain a level which allows it to use a level 6 spell slots, this penalty increases to -12.
+
+**Mastery**{ .inl } Creature that lacks proficiency with Firearms can't use its Mastery property, regardless if it has a class feature that allows it.
+
 ## Firearm Table
 
 The Firearm tables in this section shows the game's main weapons. These table lists the cost and weight of each weapon, as well as the following details:
@@ -75,22 +91,6 @@ Advanced Firearms Table include rocket launchers, machine guns, and other large,
 | Rocket Propelled Grenade (1) | Rocket Launchers | 1,000 SP |
 
 -->
-
-## Firearm Proficiency
-
-In the *Crown & Misery* setting, firearms are rare weapons powered by *Cordite*, a volatile substance rendered inert near creatures attuned to the Weave. This unique interaction makes firearms largely ineffective for most Antares races, except **Londoners**, who are not inherently tied to the Weave. 
-
-Firearms require a special proficiency distinct from :prof-wp-simple: Simple or :prof-wp-martial: Martial weapons. They are unaffected by mechanics that apply to Cold Weapons, such as certain enchantments or abilities. 
-
-Most classes lack Firearm proficiency unless specifically granted by a background, species feature, or other traits. While the basic operation of firearms—*pull the trigger, it fires*—is widely understood, wielding them effectively requires suppressing one’s connection to the Weave, making them particularly challenging for magic users. Non-magical individuals are more adept at mastering these weapons.
-
-### Lack of Proficiency
-
-If a character isn’t proficient with firearms, their ability to use them is hindered by their magical connection to the Weave. This restriction affects mechanics associated with firearms with the following rules below. These rules is obviously ignored whenever a character gain Proficiency with Firearms.
-
-***Attack Rolls***{ .inl } When making an attack roll with a Firearm without proficiency, the roll is reduced by twice a number equal to the highest spell slot level the character can expend or use. For example, a Wizard who can use a level 5 spell slot at its respective level will have -10 to their attack roll using Firearms. If the Wizard gain a level which allows it to use a level 6 spell slots, this penalty increases to -12.
-
-***Mastery***{ .inl } Creature that lacks proficiency with Firearms can't use its Mastery property, regardless if it has a class feature that allows it.
 
 --8<-- "includes/snippets/inv-notation.md"
 --8<-- "includes/snippets/item-mastery.md"

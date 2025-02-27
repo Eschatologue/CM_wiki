@@ -57,7 +57,7 @@ Simple weapons are easy to use and require minimal training, making them accessi
 | *Light Crossbow* | **1d8 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 80/320; Bolt), Loading, Two-Handed | **:wp-mas: Slow**{ .wp } | M-| 250 SP |
 | *Shortbow* | **1d6 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 80/320; Arrow), Two-Handed | **:wp-mas: Vex**{ .wp } | M-| 250 SP |
 | *Sling* | **1d4 :dmg-bldg: Bd.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 30/120; Bullet) | **:wp-mas: Slow**{ .wp } | M-| 1 SP |
-| *Repeater Crossbow* | **1d6 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 60/240; Bolt), Automatic, Reload (8), Two-handed | **:wp-mas: Tap**{ .wp } | L | 400 SP |
+| *Light Repeater* | **1d6 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 60/240; Bolt), Automatic, Reload (6), Two-handed | **:wp-mas: Tap**{ .wp } | L | 400 SP |
 
 ### :prof-wp-martial: Martial Weapons
 
@@ -98,7 +98,7 @@ Martial weapons require more training to use effectively but offer greater damag
 | *Longbow* | **1d8 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 150/600; Arrow), Heavy, Two-handed | **:wp-mas: Slow**{ .wp } | M. | 500 SP |
 | *Arbalest* | **2d6 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 180/360; Bolt), Heavy, Loading, Mounted, Two-handed, Sighted | **:wp-mas: Push**{ .wp } | XL. | 950 SP |
 | *Compound Bow* | **1d10 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 100/400; Arrow), Heavy, Two-handed | **:wp-mas: Brace**{ .wp } | M. | 850 SP |
-| *Heavy Repeater <br>Crossbow* | **1d8 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 90/360; Bolt), Automatic, Heavy, Reload (6), Two-Handed | **:wp-mas: Tap**{ .wp } | M. | 700 SP |
+| *Heavy Repeater* | **1d8 :dmg-prcg: Ps.**{ .dmg-phys } | Ammunition (:wp-prop-range: Range 90/360; Bolt), Automatic, Heavy, Reload (4), Two-Handed | **:wp-mas: Tap**{ .wp } | M. | 700 SP |
 
 ### Ammunitions
 

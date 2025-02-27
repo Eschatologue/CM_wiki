@@ -263,6 +263,6 @@ You gain the following benefits:
 Increase your Dexterity by 1, to a maximum of 20.
 
 **Return Fire**{ .inl }   
-When a creature you can see hits or misses you with a ranged attack, you can take a **:rsc-r: Reaction**{ .rsc } and make one ranged weapon attack against that creature with ranged or thrown weapon that has the :wp-prop-light: **Light** property.
+When a creature you can see hits or misses you with a ranged attack, you can take a **:rsc-r: Reaction**{ .rsc } and make one ranged weapon attack against that creature with ranged or thrown weapon that has the **:wp-prop-light: Light**{ .jetbrains } property.
 
 ---
