@@ -206,7 +206,7 @@
 }
 
 .jetbrains, .dmg-heal, .dmg-phys, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .calc {
-  font-size: calc(var(--default-font-size) * 0.8);
+  font-size: calc(var(--default-font-size) * 0.85);
   font-family: var(--jetbrains);
   word-spacing: -0.15rem;
 }
