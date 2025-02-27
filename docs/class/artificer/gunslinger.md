@@ -50,7 +50,7 @@ Your groundbreaking research has led to the development of your signature Arcane
 | Trait | Details |
 |---|---|
 | **Weapon Category** | Simple Ranged |
-| **Base Damage** | **1d10 + Ability Modifier :dmg-force: Force**{ .dmg-force } |
+| **Base Damage** | **1d10 + Ability Modifier :dmg-force: Force**{ .dmg-force .calc } |
 | **Properties** | :wp-prop-reload: Reload (6), :wp-prop-range: Ranged (80/320) | 
 
 At certain Artificer levels, your Arcane Firearm gains more Upgrades: at level 5 (3), 10 (4), and 15 (5)

@@ -179,7 +179,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 :   A **:wp-prop-versatile: Versatile** weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
 
     **Improved Versatile**^*CM*^
-    :   A Mastery property appears within parentheses. You can use that Mastery property when you attack using a **:wp-prop-versatile: Versatile** weapon with two hands.
+    :   A weapon's Property or a Mastery property might appears within parentheses. You can use that Property or Mastery property when you are wielding or attacking with the weapon using two hands.
 
 ---
 
