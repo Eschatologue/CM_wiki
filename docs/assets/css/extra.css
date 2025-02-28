@@ -104,10 +104,10 @@
   margin-bottom: -0.6rem;
 }
 .md-typeset h6 {
-  text-transform: capitalize;
+  text-transform: uppercase;
   font-size: var(--gbl-font-size);
-  color: var(--md-default-fg-color--light);
-  margin: 0.2rem 0;
+  color: var(--md-default-fg-color--light) !important;
+  margin: 0.15rem 0 -0.3rem 0;
 }
 
 /*-------------------------------------------------------
