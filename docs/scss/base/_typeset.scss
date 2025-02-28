@@ -1,29 +1,46 @@
-@use '../utility/convert';
-@use '../palette/accent';
+@use "../utility/convert";
+@use "../palette/accent";
 
-/*-------------------------------------------------------
-    Typeset Variables
---------------------------------------------------------*/
-.md-typeset {
-    --default-font-size: #{convert.px2rem(16px)};
-    --default-font-weight: 400;
 
-    @media screen and (max-width: 720px) {
-        --default-font-size: #{convert.px2rem(13px)};
-    }
-}
+// .md-typeset {
+//     --default-font-size: #{convert.px2rem(16px)};
+//     --default-scale-small: 0.8125;
+//     --default-scale-table: 0.9;
+
+//     // Keep this for Deprecation
+//     @media screen and (max-width: 720px) {
+//         --default-font-size: #{convert.px2rem(13px)};
+//     }
+
+//     /* Base global font size */
+//     --gbl-font-size: var(--default-font-size);
+
+//     @media screen and (max-width: 720px) {
+//         --gbl-font-size: calc(var(--default-font-size) * var(--default-scale-small));
+//     }
+
+//     & table:not([class]) {
+//         --gbl-font-size: calc(var(--default-font-size) * var(--default-scale-table));
+//     }
+
+//     @media screen and (max-width: 720px) {
+//         & table:not([class]) {
+//             --gbl-font-size: calc(var(--default-font-size) * var(--default-scale-small) * var(--default-scale-table));
+//         }
+//     }
+// }
 
 /*-------------------------------------------------------
     Basic Typesets
 --------------------------------------------------------*/
 .md-typeset {
-    font-size: var(--default-font-size);
+    font-size: var(--gbl-font-size);
     font-weight: var(--default-font-weight);
     color: var(--md-gbl-text-color);
 
     strong {
         font-weight: 600;
-        letter-spacing: calc(var(--default-font-size) * 0.0125);
+        letter-spacing: calc(var(--gbl-font-size) * 0.0125);
         color: var(--md-gbl-text-color-strong);
         abbr {
             border-bottom: none !important;
@@ -57,9 +74,9 @@
     }
 
     a {
-        transition: 
-                background-color 250ms,
-                padding 100ms ease; 
+        transition:
+            background-color 250ms,
+            padding 100ms ease;
         &:is(:focus, :hover) {
             border-radius: convert.px2em(2px);
             box-decoration-break: clone;
@@ -94,7 +111,7 @@
         font-weight: 500;
         font-family: var(--heading-font);
         text-transform: uppercase;
-        letter-spacing: calc(var(--default-font-size) * 0.03);
+        letter-spacing: calc(var(--gbl-font-size) * 0.03);
     }
 
     h3,
@@ -105,13 +122,13 @@
     }
 
     h1 {
-        font-size: calc(var(--default-font-size) * 2);
+        font-size: calc(var(--gbl-font-size) * 2);
         margin: #{convert.px2rem(8px)} 0;
         margin-top: 0;
     }
 
     h2 {
-        font-size: calc(var(--default-font-size) * 1.75);
+        font-size: calc(var(--gbl-font-size) * 1.75);
         border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color--light);
         margin: #{convert.px2rem(16px)} 0 #{convert.px2rem(4px)};
         padding-bottom: #{convert.px2rem(2px)};
@@ -119,7 +136,7 @@
 
     h3 {
         color: var(--md-gbl-text-color-strong);
-        font-size: calc(var(--default-font-size) * 1.5);
+        font-size: calc(var(--gbl-font-size) * 1.5);
         margin: #{convert.px2rem(12px)} 0;
         border-bottom: #{convert.px2rem(2px)} solid var(--md-default-wht--025);
         padding-bottom: #{convert.px2rem(4px)};
@@ -127,12 +144,12 @@
 
     h4 {
         color: var(--md-gbl-text-color-strong);
-        font-size: calc(var(--default-font-size) * 1.25);
+        font-size: calc(var(--gbl-font-size) * 1.25);
         margin: #{convert.px2rem(6px)} 0;
     }
 
     h5 {
-        font-size: var(--default-font-size);
+        font-size: var(--gbl-font-size);
         margin-top: #{convert.px2rem(0px)};
         margin-bottom: #{convert.px2rem(-12px)};
     }
@@ -152,9 +169,9 @@
 -------------------------------------------------------*/
 
 .md-typeset dl {
-    font-size: calc(var(--default-font-size) * 0.9);
+    font-size: calc(var(--gbl-font-size) * 0.9);
     display: grid;
-    grid-template-columns: #{calc((var(--default-font-size) * 8) * 0.875)} auto;
+    grid-template-columns: #{calc((var(--gbl-font-size) * 8) * 0.875)} auto;
     gap: convert.px2rem(12px) convert.px2rem(8px) !important; // row gap and column gap
     align-items: center;
 

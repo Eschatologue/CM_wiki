@@ -12,8 +12,6 @@
         display: table;
         border-color: transparent !important;
 
-        --table-font-size: #{calc(var(--default-font-size) * 0.9)};
-
         th,
         td {
             min-width: #{convert.px2em(2px)};
@@ -22,7 +20,7 @@
         th {
             text-transform: uppercase;
             vertical-align: bottom;
-            font-size: var(--table-font-size);
+            font-size: var(--gbl-font-size);
             font-weight: bold !important;
             color: var(--md-text-color);
             // border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color--light);
@@ -30,7 +28,7 @@
         }
 
         td {
-            font-size: calc(var(--table-font-size) * 0.95);
+            font-size: calc(var(--gbl-font-size) * 0.95);
             border: #{convert.px2rem(0px)} transparent;
             vertical-align: middle;
             padding: #{convert.px2em(6px)} #{convert.px2em(8px)};
@@ -44,11 +42,11 @@
         // Responsive adjustments for smaller screens
         @media screen and (max-width: 720px) {
             th {
-                font-size: calc(var(--table-font-size) * 0.9);
+                font-size: calc(var(--gbl-font-size) * 0.9);
             }
 
             td {
-                font-size: calc(var(--table-font-size) * 0.8);
+                font-size: calc(var(--gbl-font-size) * 0.8);
             }
         }
 

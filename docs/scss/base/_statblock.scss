@@ -26,7 +26,7 @@
             }
 
             th {
-                font-size: var(--table-font-size) !important;
+                font-size: var(--gbl-font-size) !important;
                 background-color: transparent !important;
                 border-bottom: transparent;
                 font-weight: normal;
@@ -35,7 +35,7 @@
             }
 
             td {
-                font-size: calc(var(--table-font-size) * 1.15) !important;
+                font-size: calc(var(--gbl-font-size) * 1.15) !important;
             }
 
             tr:nth-child(odd),
@@ -68,11 +68,11 @@
                 width: 100% !important;
 
                 th {
-                    font-size: calc(var(--table-font-size) * 0.8) !important;
+                    font-size: calc(var(--gbl-font-size) * 0.8) !important;
                 }
 
                 td {
-                    font-size: var(--table-font-size) !important;
+                    font-size: var(--gbl-font-size) !important;
                 }
             }
         }

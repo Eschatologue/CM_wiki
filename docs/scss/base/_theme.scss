@@ -12,7 +12,7 @@
     max-width: convert.px2em(560px);
     border: convert.px2em(2.5px) solid var(--md-primary-fg-color);
     border-radius: convert.px2em(6px);
-    font-size: #{calc(var(--default-font-size) * 0.75)};
+    font-size: #{calc(var(--gbl-font-size) * 0.75)};
 }
 
 /* Content Grid Adjustments */

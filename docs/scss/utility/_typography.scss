@@ -6,18 +6,15 @@
 /*-------------------------------------------------------
     Font Styles
 -------------------------------------------------------*/
+
 .jost {
     font-family: var(--heading-font);
 }
 
 .jetbrains {
-    font-size: calc(var(--default-font-size) * 0.85);
+    font-size: calc(var(--gbl-font-size) * 0.85);
     font-family: var(--jetbrains);
     word-spacing: convert.px2rem(-3px);
-
-    // @media screen and (max-width: 720px) {
-    //     font-size: calc(var(--table-font-size) * 0.85);
-    // }
 }
 
 /*-------------------------------------------------------
@@ -35,7 +32,7 @@
 }
 
 .f-lg {
-    font-size: #{calc(var(--default-font-size) * 1.25)} !important;
+    font-size: #{calc(var(--gbl-font-size) * 1.25)} !important;
 }
 
 .nowrap {
@@ -54,19 +51,19 @@
 // Convert font to using smallcaps
 .smallcap {
     :is(.emojione, .twemoji, .gemoji) {
-        font-size: #{var(--default-font-size)};
+        font-size: #{var(--gbl-font-size)};
         vertical-align: convert.px2em(-3px);
     }
 
-    font-size: #{calc(var(--default-font-size) * 1.1)};
+    font-size: #{calc(var(--gbl-font-size) * 1.1)};
     font-variant: small-caps !important;
-    letter-spacing: calc(var(--default-font-size) * 0.04) !important;
+    letter-spacing: calc(var(--gbl-font-size) * 0.04) !important;
 
     table:not([class]) & {
-        font-size: #{calc(var(--table-font-size))} !important;
+        font-size: #{calc(var(--gbl-font-size))} !important;
 
         :is(.emojione, .twemoji, .gemoji) {
-            font-size: #{var(--table-font-size)};
+            font-size: #{var(--gbl-font-size)};
             vertical-align: convert.px2em(-3px);
         }
     }
@@ -104,13 +101,13 @@
 // Used with .quote
 .emq {
     @extend .em;
-    font-size: calc(var(--default-font-size) * 0.9);
+    font-size: calc(var(--gbl-font-size) * 0.9);
 }
 
 // Paired with .emq
 .quote {
     color: var(--md-default-fg-color--light);
-    font-size: calc(var(--default-font-size) * 0.9);
+    font-size: calc(var(--gbl-font-size) * 0.9);
     font-weight: 400;
 
     strong {
@@ -168,8 +165,8 @@
 
 /* Used in conjuction with .inl */
 .indt {
-    text-indent: calc((var(--default-font-size) * 1.25) * (-1));
-    padding-left: calc((var(--default-font-size) * 1.25) * 2);
+    text-indent: calc((var(--gbl-font-size) * 1.25) * (-1));
+    padding-left: calc((var(--gbl-font-size) * 1.25) * 2);
 }
 
 /*-------------------------------------------------------
@@ -220,15 +217,15 @@
 -------------------------------------------------------*/
 
 .x4l {
-    font-size: calc(var(--default-font-size) * 4);
+    font-size: calc(var(--gbl-font-size) * 4);
 }
 
 .x5l {
-    font-size: calc(var(--default-font-size) * 5);
+    font-size: calc(var(--gbl-font-size) * 5);
 }
 
 .x6l {
-    font-size: calc(var(--default-font-size) * 6);
+    font-size: calc(var(--gbl-font-size) * 6);
 }
 
 /*-------------------------------------------------------

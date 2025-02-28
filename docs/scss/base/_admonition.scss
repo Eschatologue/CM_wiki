@@ -18,7 +18,7 @@
 
     // Admonition Styles
     .admonition {
-        --default-font-size: #{convert.px2rem(14px)};
+        --gbl-font-size: #{convert.px2rem(14px)};
         border-color: var(--md-admonition-icon-color--note);
         transition: box-shadow 250ms;
 
