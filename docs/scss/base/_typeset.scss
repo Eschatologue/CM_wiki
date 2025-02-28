@@ -153,6 +153,13 @@
         margin-top: #{convert.px2rem(0px)};
         margin-bottom: #{convert.px2rem(-12px)};
     }
+
+    h6 {
+        text-transform: capitalize;
+        font-size: var(--gbl-font-size);
+        color: var(--md-default-fg-color--light);
+        margin: #{convert.px2rem(4px)} 0;
+    }
 }
 
 /*-------------------------------------------------------
