@@ -13,7 +13,7 @@ These General feats are homebrew.
 
 You are skilled at casting spells with a weapon in hand.
 
-**Ability Score Increase**{ .inl }  
+**ABILITY SCORE INCREASE**{ .jetbrains .quote }  
 Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
 **Armament Focus**{ .inl }  
