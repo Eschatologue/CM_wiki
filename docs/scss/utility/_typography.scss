@@ -106,7 +106,7 @@
 
 // Paired with .emq
 .quote {
-    color: var(--md-default-fg-color--light);
+    color: var(--md-default-fg-color--light) !important;
     font-size: calc(var(--gbl-font-size) * 0.9);
     font-weight: 400;
 

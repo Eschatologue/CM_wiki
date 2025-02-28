@@ -16,10 +16,10 @@ You are skilled at casting spells with a weapon in hand.
 **ABILITY SCORE INCREASE**{ .jetbrains .quote }  
 Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
     
-**Armament Focus**{ .inl }  
+**Armament Focus**{ .jetbrains .quote }   
 You can use a Magical weapon or a Magical shield, that you have Attuned (if required) as a spellcasting focus and to perform the Somatic component of a spell.
     
-**Weapon Conduit**{ .inl }  
+**WEAPON CONDUIT**{ .quote }  
 When wielding a Magical weapon that has Enchantment (+1, +2, or +3) with which you are proficient and Attuned with (if required), you can apply its Enchantment to the attack roll and damage roll of any spell you cast, provided you use the weapon as your spellcasting focus.
 
 ---
