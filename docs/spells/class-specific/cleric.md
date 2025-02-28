@@ -116,6 +116,7 @@ This Cleric spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
     | *Circle of Power* | Abjuration | Action | Self (30-foot emanation) | Concentration, up to 10 minutes | V | PHB'24 |
     | *Commune* | Divination (ritual) | 1 Min. | Self | 1 minute | V, S, M (incense) | PHB'24 |
     | *Contagion* | Necromancy | Action | Touch | 7 days | V, S | PHB'24 |
+    | *Contract* | Enchantment | 10 minutes | Touch | Until Dispelled | V, S, M (a scroll, a gemstone worth at least 1,000 SP, which both the spell consumes) | CM |
     | *Dawn* | Evocation | Action | 60 feet | Concentration, up to 1 minute | V, S, M (a sunburst pendant worth at least 100 gp) | XGE |
     | *Dispel Evil and Good* | Abjuration | Action | Self | Concentration, up to 1 minute | V, S, M (powdered silver and iron) | PHB'24 |
     | *Flame Strike* | Evocation | Action | 60 feet | Instantaneous | V, S, M (a pinch of sulfur) | PHB'24 |

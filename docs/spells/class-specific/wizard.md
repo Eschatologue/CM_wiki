@@ -252,6 +252,7 @@ This Wizard spell list includes all spells available from `PHB'24`, `TCE`, `XGE`
     | *Cone of Cold* | Evocation | Action | Self (60-foot cone) | Instantaneous | V, S, M (a small crystal or glass cone) | PHB'24 |
     | *Conjure Elemental* | Conjuration | Action | 60 feet | Concentration, up to 10 minutes | V, S | PHB'24 |
     | *Contact Other Plane* | Divination (ritual) | 1 Min. | Self | 1 minute | V | PHB'24 |
+    | *Contract* | Enchantment | 10 minutes | Touch | Until Dispelled | V, S, M (a scroll, a gemstone worth at least 1,000 SP, which both the spell consumes) | CM |
     | *Control Winds* | Transmutation | Action | 300 feet | Concentration, up to 1 hour | V, S | XGE |
     | *Creation* | Illusion | 1 Min. | 30 feet | Special | V, S, M (a paintbrush) | PHB'24 |
     | *Danse Macabre* | Necromancy | Action | 60 feet | Concentration, up to 1 hour | V, S | XGE |

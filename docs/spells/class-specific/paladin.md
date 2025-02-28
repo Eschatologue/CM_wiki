@@ -81,6 +81,7 @@ This Paladin spell list includes all spells available from `PHB'24`, `TCE`, `XGE
     |---|---|---|---|---|---|---|
     | *Banishing Smite* | Conjuration | Bonus | Self | Concentration, up to 1 minute | V | PHB'24 |
     | *Circle of Power* | Abjuration | Action | Self (30-foot emanation) | Concentration, up to 10 minutes | V | PHB'24 |
+    | *Contract* | Enchantment | 10 minutes | Touch | Until Dispelled | V, S, M (a scroll, a gemstone worth at least 1,000 SP, which both the spell consumes) | CM |
     | *Destructive Wave* | Evocation | Action | Self (30-foot radius) | Instantaneous | V | PHB'24 |
     | *Dispel Evil and Good* | Abjuration | Action | Self | Concentration, up to 1 minute | V, S, M (powdered silver and iron) | PHB'24 |
     | *Geas* | Enchantment | 1 Min. | 60 feet | 30 days | V | PHB'24 |

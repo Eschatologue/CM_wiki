@@ -12,6 +12,8 @@ title: Homebrew Spells
 | 2 | *Protection from Missiles* | Abjuration | Action | Self | Concentration, up to 1 minute | V, M (a tortoise or turtle shell, or a metal shield) | CM |
 | 3 | *Ballistic Shot* | Conjuration | Bonus | Self | Instantaneous | V | CM |
 | 3 | *Shackles of Pain* | Necromancy | Action | 60 feet | Concentration, up to 1 minute | S, M (a rusty chain) | CM |
+| 3 | *Justa Mann's Unremarkable Pressence* | Illusion | Action | Self | Concentration, up to 1 minute | V, S | CM |
+| 5 | *Contract* | Enchantment | 10 minutes | Touch | Until Dispelled | V, S, M (a scroll, a gemstone worth at least 1,000 SP, which both the spell consumes) | CM |
 
 ---
 
@@ -128,3 +130,27 @@ You conjure spectral chains to wrap around the target creature's soul, binding i
 > **Classes:** Sorcerer, Wizard, Warlock
 
 ---
+
+### Contract
+
+*Level 5 Enchantment*
+  
+**Casting Time:** 10 minute  
+**Range:** Touch  
+**Components:** V, S, M (a scroll, a gemstone worth at least 1,000 SP, which both the spell consumes)  
+**Duration:** Until Dispelled
+
+This spell establishes a binding magical contract between two willing creatures through an oath sworn in the name of Falcone, the Judgement. A creature under the ^^Charmed^^ condition cannot enter into this agreement.  
+
+As part of the casting, both parties must clearly state the terms, which are magically transcribed word for word onto the scroll. The contract must include at least one obligation for each party and may specify exemptions, termination conditions, or additional clauses as agreed upon.  
+
+Additionally, both parties must define and mutually accept the consequences of breaching the contract. These penalties take immediate effect if a party violates the agreed-upon terms. Examples include:  
+
+- ***Death:*** A mysterious force obliterates the violator.  
+- ***Remuneration:*** Items belonging to the violator, with a total value up to the amount specified in the contract, are magically transferred to an unoccupied space within 5 feet of the wronged party.  
+- ***Curse:*** The violator has one of their Ability Scores halved for a duration specified in the contract.  
+- ***Nullification:*** The contract is rendered void, and no reward or punishment is enforced upon either party.  
+
+For the duration of the contract, either party may, at will, conjure or dismiss an illusory copy of the scroll, allowing them to review the exact wording of the agreement.   
+
+> **Classes:** Bard, Cleric, Paladin, Wizard, Warlock  

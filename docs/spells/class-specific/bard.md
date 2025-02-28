@@ -140,6 +140,7 @@ This Bard spell list includes all spells available from `PHB'24`, `TCE`, `XGE`, 
     |---|---|---|---|---|---|---|  
     | *Animate Objects* | Transmutation | Action | 120 feet | Concentration, up to 1 minute | V, S | PHB'24 |
     | *Awaken* | Transmutation | 8 Hr. | Touch | Instantaneous | V, S, M (an agate worth 1,000+ GP, which the spell consumes) | PHB'24 |
+    | *Contract* | Enchantment | 10 minutes | Touch | Until Dispelled | V, S, M (a scroll, a gemstone worth at least 1,000 SP, which both the spell consumes) | CM |
     | *Dominate Person* | Enchantment | Action | 60 feet | Concentration, up to 1 minute | V, S | PHB'24 |
     | *Dream* | Illusion | 1 Min. | Self | 8 hours | V, S, M (a handful of sand) | PHB'24 |
     | *Geas* | Enchantment | 1 Min. | 60 feet | 30 days | V | PHB'24 |

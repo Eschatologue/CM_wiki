@@ -123,6 +123,7 @@ This Warlock spell list includes all spells available from `PHB'24`, `TCE`, `XGE
     | Name | School | Time | Range | Duration | Components | Source |
     |---|---|---|---|---|---|---|
     | *Contact Other Plane* | Divination (ritual) | 1 Min. | Self | 1 minute | V | PHB'24 |
+    | *Contract* | Enchantment | 10 minutes | Touch | Until Dispelled | V, S, M (a scroll, a gemstone worth at least 1,000 SP, which both the spell consumes) | CM |
     | *Danse Macabre* | Necromancy | Action | 60 feet | Concentration, up to 1 hour | V, S | XGE |
     | *Dream* | Illusion | 1 Min. | Self | 8 hours | V, S, M (a handful of sand) | PHB'24 |
     | *Enervation* | Necromancy | Action | 60 feet | Concentration, up to 1 minute | V, S | XGE |
