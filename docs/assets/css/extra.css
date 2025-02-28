@@ -2,29 +2,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap");
 /*-------------------------------------------------------
-    Typeset Variables
---------------------------------------------------------*/
-.md-typeset {
-  --default-font-size: 0.8rem;
-  --default-font-weight: 400;
-}
-@media screen and (max-width: 720px) {
-  .md-typeset {
-    --default-font-size: 0.65rem;
-  }
-}
-
-/*-------------------------------------------------------
     Basic Typesets
 --------------------------------------------------------*/
 .md-typeset {
-  font-size: var(--default-font-size);
+  font-size: var(--gbl-font-size);
   font-weight: var(--default-font-weight);
   color: var(--md-gbl-text-color);
 }
 .md-typeset strong {
   font-weight: 600;
-  letter-spacing: calc(var(--default-font-size) * 0.0125);
+  letter-spacing: calc(var(--gbl-font-size) * 0.0125);
   color: var(--md-gbl-text-color-strong);
 }
 .md-typeset strong abbr {
@@ -80,7 +67,7 @@
   font-weight: 500;
   font-family: var(--heading-font);
   text-transform: uppercase;
-  letter-spacing: calc(var(--default-font-size) * 0.03);
+  letter-spacing: calc(var(--gbl-font-size) * 0.03);
 }
 .md-typeset h3,
 .md-typeset h4,
@@ -89,30 +76,30 @@
   font-variant: small-caps !important;
 }
 .md-typeset h1 {
-  font-size: calc(var(--default-font-size) * 2);
+  font-size: calc(var(--gbl-font-size) * 2);
   margin: 0.4rem 0;
   margin-top: 0;
 }
 .md-typeset h2 {
-  font-size: calc(var(--default-font-size) * 1.75);
+  font-size: calc(var(--gbl-font-size) * 1.75);
   border-bottom: 0.1rem solid var(--md-primary-fg-color--light);
   margin: 0.8rem 0 0.2rem;
   padding-bottom: 0.1rem;
 }
 .md-typeset h3 {
   color: var(--md-gbl-text-color-strong);
-  font-size: calc(var(--default-font-size) * 1.5);
+  font-size: calc(var(--gbl-font-size) * 1.5);
   margin: 0.6rem 0;
   border-bottom: 0.1rem solid var(--md-default-wht--025);
   padding-bottom: 0.2rem;
 }
 .md-typeset h4 {
   color: var(--md-gbl-text-color-strong);
-  font-size: calc(var(--default-font-size) * 1.25);
+  font-size: calc(var(--gbl-font-size) * 1.25);
   margin: 0.3rem 0;
 }
 .md-typeset h5 {
-  font-size: var(--default-font-size);
+  font-size: var(--gbl-font-size);
   margin-top: 0rem;
   margin-bottom: -0.6rem;
 }
@@ -129,9 +116,9 @@
     Horizontal Description List
 -------------------------------------------------------*/
 .md-typeset dl {
-  font-size: calc(var(--default-font-size) * 0.9);
+  font-size: calc(var(--gbl-font-size) * 0.9);
   display: grid;
-  grid-template-columns: calc(var(--default-font-size) * 8 * 0.875) auto;
+  grid-template-columns: calc(var(--gbl-font-size) * 8 * 0.875) auto;
   gap: 0.6rem 0.4rem !important;
   align-items: center;
 }
@@ -156,7 +143,6 @@
   margin-bottom: -0.7rem;
   display: table;
   border-color: transparent !important;
-  --table-font-size: calc(var(--default-font-size) * 0.9);
 }
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
@@ -165,13 +151,13 @@
 .md-typeset table:not([class]) th {
   text-transform: uppercase;
   vertical-align: bottom;
-  font-size: var(--table-font-size);
+  font-size: var(--gbl-font-size);
   font-weight: bold !important;
   color: var(--md-text-color);
   padding: 0.5em 0.5em;
 }
 .md-typeset table:not([class]) td {
-  font-size: calc(var(--table-font-size) * 0.95);
+  font-size: calc(var(--gbl-font-size) * 0.95);
   border: 0rem transparent;
   vertical-align: middle;
   padding: 0.375em 0.5em;
@@ -182,10 +168,10 @@
 }
 @media screen and (max-width: 720px) {
   .md-typeset table:not([class]) th {
-    font-size: calc(var(--table-font-size) * 0.9);
+    font-size: calc(var(--gbl-font-size) * 0.9);
   }
   .md-typeset table:not([class]) td {
-    font-size: calc(var(--table-font-size) * 0.8);
+    font-size: calc(var(--gbl-font-size) * 0.8);
   }
 }
 .md-typeset table:not([class]) tbody tr:nth-child(even) {
@@ -206,7 +192,7 @@
 }
 
 .jetbrains, .dmg-heal, .dmg-phys, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .calc {
-  font-size: calc(var(--default-font-size) * 0.85);
+  font-size: calc(var(--gbl-font-size) * 0.85);
   font-family: var(--jetbrains);
   word-spacing: -0.15rem;
 }
@@ -223,7 +209,7 @@
 }
 
 .f-lg {
-  font-size: calc(var(--default-font-size) * 1.25) !important;
+  font-size: calc(var(--gbl-font-size) * 1.25) !important;
 }
 
 .nowrap, .dmg-heal, .dmg-phys, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .inl, .wp, .rsc, .d20 {
@@ -239,19 +225,19 @@
 }
 
 .smallcap {
-  font-size: calc(var(--default-font-size) * 1.1);
+  font-size: calc(var(--gbl-font-size) * 1.1);
   font-variant: small-caps !important;
-  letter-spacing: calc(var(--default-font-size) * 0.04) !important;
+  letter-spacing: calc(var(--gbl-font-size) * 0.04) !important;
 }
 .smallcap :is(.emojione, .twemoji, .gemoji) {
-  font-size: var(--default-font-size);
+  font-size: var(--gbl-font-size);
   vertical-align: -0.1875em;
 }
 table:not([class]) .smallcap {
-  font-size: calc(var(--table-font-size)) !important;
+  font-size: calc(var(--gbl-font-size)) !important;
 }
 table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
-  font-size: var(--table-font-size);
+  font-size: var(--gbl-font-size);
   vertical-align: -0.1875em;
 }
 
@@ -267,12 +253,12 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 
 .emq {
-  font-size: calc(var(--default-font-size) * 0.9);
+  font-size: calc(var(--gbl-font-size) * 0.9);
 }
 
 .quote, .author {
   color: var(--md-default-fg-color--light);
-  font-size: calc(var(--default-font-size) * 0.9);
+  font-size: calc(var(--gbl-font-size) * 0.9);
   font-weight: 400;
 }
 .quote strong, .author strong {
@@ -317,8 +303,8 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 -------------------------------------------------------*/
 /* Used in conjuction with .inl */
 .indt {
-  text-indent: calc(var(--default-font-size) * 1.25 * -1);
-  padding-left: calc(var(--default-font-size) * 1.25 * 2);
+  text-indent: calc(var(--gbl-font-size) * 1.25 * -1);
+  padding-left: calc(var(--gbl-font-size) * 1.25 * 2);
 }
 
 /*-------------------------------------------------------
@@ -356,15 +342,15 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
     Text Sizes
 -------------------------------------------------------*/
 .x4l {
-  font-size: calc(var(--default-font-size) * 4);
+  font-size: calc(var(--gbl-font-size) * 4);
 }
 
 .x5l {
-  font-size: calc(var(--default-font-size) * 5);
+  font-size: calc(var(--gbl-font-size) * 5);
 }
 
 .x6l {
-  font-size: calc(var(--default-font-size) * 6);
+  font-size: calc(var(--gbl-font-size) * 6);
 }
 
 /*-------------------------------------------------------
@@ -728,6 +714,26 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   --jetbrains: "JetBrains Mono", serif;
 }
 
+/*-------------------------------------------------------
+    Typeset Variables
+--------------------------------------------------------*/
+.md-typeset {
+  --default-font-weight: 400;
+  --base-font-size: 0.8rem;
+  --scale-small: 0.8125;
+  --scale-table: 0.9;
+  --default-font-size: var(--base-font-size);
+  --gbl-font-size: var(--default-font-size);
+}
+@media screen and (max-width: 720px) {
+  .md-typeset {
+    --default-font-size: calc(var(--base-font-size) * var(--scale-small));
+  }
+}
+.md-typeset table:not([class]) {
+  --gbl-font-size: calc(var(--default-font-size) * var(--scale-table));
+}
+
 /*------------------------------------------------------- 
     Admonitions
 --------------------------------------------------------*/
@@ -738,7 +744,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   box-shadow: var(--md-shadow-z3);
 }
 .md-typeset .admonition {
-  --default-font-size: 0.7rem;
+  --gbl-font-size: 0.7rem;
   border-color: var(--md-admonition-icon-color--note);
   transition: box-shadow 250ms;
 }
@@ -848,7 +854,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 .md-typeset .admonition.statblock table:not([class]) th,
 .md-typeset details.statblock table:not([class]) th {
-  font-size: var(--table-font-size) !important;
+  font-size: var(--gbl-font-size) !important;
   background-color: transparent !important;
   border-bottom: transparent;
   font-weight: normal;
@@ -857,7 +863,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 .md-typeset .admonition.statblock table:not([class]) td,
 .md-typeset details.statblock table:not([class]) td {
-  font-size: calc(var(--table-font-size) * 1.15) !important;
+  font-size: calc(var(--gbl-font-size) * 1.15) !important;
 }
 .md-typeset .admonition.statblock table:not([class]) tr:nth-child(odd),
 .md-typeset .admonition.statblock table:not([class]) tr:nth-child(even),
@@ -892,11 +898,11 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   }
   .md-typeset .admonition.statblock table:not([class]) th,
   .md-typeset details.statblock table:not([class]) th {
-    font-size: calc(var(--table-font-size) * 0.8) !important;
+    font-size: calc(var(--gbl-font-size) * 0.8) !important;
   }
   .md-typeset .admonition.statblock table:not([class]) td,
   .md-typeset details.statblock table:not([class]) td {
-    font-size: var(--table-font-size) !important;
+    font-size: var(--gbl-font-size) !important;
   }
 }
 .md-typeset .admonition.statblock .grid,
@@ -959,7 +965,7 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   max-width: 35em;
   border: 0.15625em solid var(--md-primary-fg-color);
   border-radius: 0.375em;
-  font-size: calc(var(--default-font-size) * 0.75);
+  font-size: calc(var(--gbl-font-size) * 0.75);
 }
 
 /* Content Grid Adjustments */
