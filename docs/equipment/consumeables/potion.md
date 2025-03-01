@@ -65,15 +65,15 @@ Multiple variations of this item exist. When you drink this potion, you gain Res
 
 | Potion of Resistance (Damage Type) | Rarity | Resistance | Description |
 |---|---|---|---|
-| *Potion of Resistance (Acid)* | Uncommon | :dmg-acid: Acid damage | Liquid is a viscous, green substance. |
-| *Potion of Resistance (Cold)* | Uncommon | :dmg-cold: Cold damage | Liquid is a pale, icy-blue fluid. |
-| *Potion of Resistance (Fire)* | Uncommon | :dmg-fire: Fire damage | Liquid is a warm, red-orange liquid. |
-| *Potion of Resistance (Lightning)* | Uncommon | :dmg-lgtn: Lightning damage | Liquid crackles with a faint yellow glow. |
-| *Potion of Resistance (Thunder)* | Uncommon | :dmg-thun: Thunder damage | Liquid rumbles and vibrates inside the container. |
-| *Potion of Resistance (Necrotic)* | Rare | :dmg-necr: Necrotic damage | Liquid is dark and swirls with shadowy wisps. |
-| *Potion of Resistance (Psychic)* | Rare | :dmg-psyc: Psychic damage | Liquid shimmers with an iridescent purple hue. |
-| *Potion of Resistance (Radiant)* | Rare | :dmg-radi: Radiant damage | Liquid glows faintly with a soft golden light. |
-| *Potion of Resistance (Force)* | Rare | :dmg-force: Force damage | Liquid appears translucent with a slight shimmer. |
+| *Potion of Resistance (Acid)* | Uncommon | **:dmg-acid: Acid**{ .dmg-acid } | Liquid is a viscous, green substance. |
+| *Potion of Resistance (Cold)* | Uncommon | **:dmg-cold: Cold**{ .dmg-cold }  | Liquid is a pale, icy-blue fluid. |
+| *Potion of Resistance (Fire)* | Uncommon | **:dmg-fire: Fire**{ .dmg-fire }  | Liquid is a warm, red-orange liquid. |
+| *Potion of Resistance (Lightning)* | Uncommon | **:dmg-lgtn: Lightning**{ .dmg-lgtn }  | Liquid crackles with a faint yellow glow. |
+| *Potion of Resistance (Thunder)* | Uncommon | **:dmg-thun: Thunder**{ .dmg-thun }  | Liquid rumbles and vibrates inside the container. |
+| *Potion of Resistance (Necrotic)* | Rare | :**dmg-necr: Necrotic**{ .dmg-necr }  | Liquid is dark and swirls with shadowy wisps. |
+| *Potion of Resistance (Psychic)* | Rare | **:dmg-psyc: Psychic**{ .dmg-psyc }  | Liquid shimmers with an iridescent purple hue. |
+| *Potion of Resistance (Radiant)* | Rare | **:dmg-radi: Radiant**{ .dmg-radi }  | Liquid glows faintly with a soft golden light. |
+| *Potion of Resistance (Force)* | Rare | **:dmg-force: Force**{ .dmg-force }  | Liquid appears translucent with a slight shimmer. |
 
 ---
 
@@ -93,7 +93,7 @@ Grants **:trt-thp: Temporary Hit Points** equals to 4d4 plus your Constitution m
 
 ---
 
-### Potion of **:d20-adv: Advantage**{ .d20 } 
+### Potion of Advantage
 
 *Potion, Uncommon, M-*
 

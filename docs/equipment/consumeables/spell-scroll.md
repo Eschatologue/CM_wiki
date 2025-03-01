@@ -35,4 +35,4 @@ A wizard spell on a spell scroll can be copied just like spells in spellbooks. T
 
 --8<-- "docs/equipment/crafting.md:cons-spell-scroll-tbl"
 
---8<-- "includes/snippets/spells3/lv3.md"
+--8<-- "includes/snippets/spells2/lv3.md"
