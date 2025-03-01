@@ -33,6 +33,6 @@ The spell's level on the scroll determines its saving throw DC and attack bonus,
 
 A wizard spell on a spell scroll can be copied just like spells in spellbooks. To copy a spell from a scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. Regardless of success or failure, the spell scroll is destroyed.
 
---8<-- "docs/equipment/crafting.md"
+--8<-- "docs/equipment/crafting.md:cons-spell-scroll-tbl"
 
 --8<-- "includes/snippets/spells3/lv3.md"
