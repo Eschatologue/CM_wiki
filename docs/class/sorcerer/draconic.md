@@ -26,7 +26,7 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 
 | Sorcerer Level | Spells |
 |:-:|---|
-| 3 | [:spell-lv1: Alter Self], [:spell-lv1: Chromatic Orb], [:spell-lv1: Command], [:spell-lv1: Dragon's Breath] |
+| 3 | [:spell-lv2: Alter Self], [:spell-lv1: Chromatic Orb], [:spell-lv1: Command], [:spell-lv2: Dragon's Breath] |
 | 5 | [:spell-lv3: Fear], [:spell-lv3: Fly] |
 | 7 | [:spell-lv4: Arcane Eye], [:spell-lv4: Charm Monster] |
 | 9 | [:spell-lv5: Legend Lore], [:spell-lv5: Summon Dragon] |

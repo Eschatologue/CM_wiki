@@ -53,12 +53,16 @@ Each ancestry provides a damage resistance and a Breath Weapon, which shares the
 When you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can replace one of your attacks with an exhalation of destructive energy determined by your Ancestry, under the rules below:
 
 **Breath Weapon Damage**{ .inl } Breath Weapon damage is **1d10** with its damage type determined based on Dragonborn Ancestry. The damage increases by **1d10** when you reach character Level 6 (**2d10**), Level 11 (**3d10**), and Level 17 (**4d10**). 
+{ .indt }
 
 **Area of Effect**{ .inl } A Breath Weapon attack targets an area of a **15 ft. :aoe-cone: Cone** or a **5 by 30 ft. :aoe-line: Line** (choose the shape each time), originating from you. 
+{ .indt }
 
 **Saving Throw**{ .inl } A Breath Weapon attack forces a Dexterity saving throw at its targets. The DC is equals 8 + your Constitution Modifier + your Proficiency Bonus. Targets still takes half damage on a successful Save.
+{ .indt }
 
 **Usage**{ .inl } You can use your Breath Weapon a number of times equal to your Proficiency Bonus, and you regain all expended use when you finish a **:rest-long: Long Rest**.
+{ .indt }
 
 ### Resistances
 

@@ -27,7 +27,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 ### Level 3: Steps Of The Fey
 
-Your patron bestows on you the ability to move between the boundaries of the planes. You can cast Misty Step without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+Your patron bestows on you the ability to move between the boundaries of the planes. You can cast [:spell-lv2: Misty Step] without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
  
 In addition, whenever you cast that spell, you can choose one of the following additional effects.
 

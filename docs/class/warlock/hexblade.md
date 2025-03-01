@@ -60,7 +60,7 @@ Your hex grows more powerful, giving you the follwing benefits:
 
 **Awaken Weapon**{ .inl } You can take a **:rsc-b: Bonus Action**{ .rsc } to make one attack using your Pact Weapon, originating from the the *Spectral Weapon's* position.
 
-**Hex Armour**{ .inl } If the target cursed by your [Hexblade's Curse] hits you or your *Spectral Weapon* with an attack roll, you can use your **:rsc-r: Reaction**{ .rsc } to roll a d6. On a 4 or higher, the attack instead misses you, regardless of its roll.
+**Hex Armour**{ .inl } If the target cursed by your [Hexblade's Curse] hits you or your *Spectral Weapon* with an attack roll, you can use your **:rsc-r: Reaction**{ .rsc } to roll a d6. On a 4 or higher, the attack instead misses, regardless of its roll.
 
 ### Level 14: Master of Hexes
 
