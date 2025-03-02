@@ -63,7 +63,7 @@ The bonus damage of this feature depends on your alignment, or freely choose fro
 | Neutral | **:dmg-thun: Thunder**{ .dmg-thun } |
 | Evil | **:dmg-necr: Necrotic**{ .dmg-necr } |
 
---8<-- "includes/snippets/spells2/lv1.md"
+--8<-- "includes/snippets/spells2/lv1.md" 
 
 <!-- --8<-- [end:opt-pal-smite] -->
 
