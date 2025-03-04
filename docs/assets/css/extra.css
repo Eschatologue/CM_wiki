@@ -967,11 +967,12 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 --------------------------------------------------------*/
 /* Tooltips */
 [role=tooltip] > .md-tooltip2__inner {
+  font-style: normal;
   padding: 0.45em 1.5em;
   max-width: 35em;
   border: 0.15625em solid var(--md-primary-fg-color);
   border-radius: 0.375em;
-  font-size: calc(var(--gbl-font-size) * 0.75);
+  font-size: calc(var(--gbl-font-size) * 0.8);
 }
 
 /* Content Grid Adjustments */
