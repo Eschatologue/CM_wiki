@@ -25,7 +25,7 @@
 *[INT Save]: Intelligence saving throw
 *[CHA Save]: Charisma saving throw
 
-*[Unarmed Strike]: <strong>Unarmed Strike:</strong> <br>A melee attack using your body (punch, kick, etc.). Choose one effect:<br> <span class="inl"><em>Damage</em></span> <br>Attack roll: <code>STR Mod + PB</code>. On hit, deal <code>1 + STR Mod</code> Bludgeoning damage.<br> <span class="inl"><em>Grapple</em></span> <br>Target makes a STR/DEX Save (<code>DC 8 + STR Mod + PB</code>). On fail, it’s <strong>Grappled</strong> (must be ≤1 size larger, and you need a free hand).<br> <span class="inl"><em>Shove:</em></span> <br>Target makes a Strength/Dex save (same DC). On fail, you <strong>push 5 ft or knock Prone</strong> (must be ≤1 size larger).
+*[Unarmed Strike]: <h6>Unarmed Strike</h6> <br>A melee attack using your body (punch, kick, etc.). Choose one effect:<br> <span class="inl"><em>Damage</em></span> <br>Attack roll: <code>STR Mod + PB</code>. On hit, deal <code>1 + STR Mod</code> Bludgeoning damage.<br> <span class="inl"><em>Grapple</em></span> <br>Target makes a STR/DEX Save (<code>DC 8 + STR Mod + PB</code>). On fail, it’s <strong>Grappled</strong> (must be ≤1 size larger, and you need a free hand).<br> <span class="inl"><em>Shove</em></span> <br>Target makes a STR/DEX Save (<code>DC 8 + STR Mod + PB</code>). On fail, you <strong>push 5 ft or knock Prone</strong> (must be ≤1 size larger).
 
 <!--- Actions --->
 

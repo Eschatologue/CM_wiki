@@ -8,11 +8,12 @@
 --------------------------------------------------------*/
 /* Tooltips */
 [role='tooltip'] > .md-tooltip2__inner {
+    font-style: normal;
     padding: 0.45em 1.5em;
     max-width: convert.px2em(560px);
     border: convert.px2em(2.5px) solid var(--md-primary-fg-color);
     border-radius: convert.px2em(6px);
-    font-size: #{calc(var(--gbl-font-size) * 0.75)};
+    font-size: #{calc(var(--gbl-font-size) * 0.8)};
 }
 
 /* Content Grid Adjustments */
