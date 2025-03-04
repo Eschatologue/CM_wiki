@@ -7,8 +7,6 @@ status: homebrew
 
 These Invocations are for Crown & Misery campaign
 
----
-
 ### Pact of the Chalice
 
 You can conjure a Pact Chalice; a vessel for the creation of potions and poultices in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. It takes the form of a tiny object of your choice that is capable of holding liquids, and it grants you the following benefits:
@@ -31,7 +29,7 @@ This object disappears if you conjure another object with this feature or if you
 
 ### Pact of the Hourglass
 
-You can conjure a Pact Hourglass; a mystical timekeeping device in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. It takes the form of a timekeeping device of your choice, and it grants you the following benefits:
+You can conjure a *Pact Hourglass*; a mystical timekeeping device in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. It takes the form of a timekeeping device of your choice, and it grants you the following benefits:
 
 **Initiative Bonus**{ .inl } So long you don't have the Surprised condition, you gain bonus to your **:d20-inv: Initiative**{.d20 } rolls equal to your spellcasting modifier (minimum of +1).
 
@@ -45,7 +43,7 @@ This timekeeping device disappears if you conjure another device with this featu
 
 ### Pact of the Instrument
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can conjure a pact instrument in your hand—a musical instrument of your choice with which you bond—or create a bond with a musical instrument you touch. Until the bond ends, it grants you the following benefits:
+As a **:rsc-b: Bonus Action**{ .rsc }, you can conjure a *Pact Instrument* in your hand—a musical instrument of your choice with which you bond—or create a bond with a musical instrument you touch. Until the bond ends, it grants you the following benefits:
 
 **Bonus Damage**{ .inl } When you use it to cast a Warlock spell with a Verbal component, or a spell that deals :dmg-thun: Thunder damage, you gain a bonus to one of the spell's damage rolls equal to 1d8.
 
@@ -59,13 +57,13 @@ Your bond with the musical instrument ends if you use this feature's **:rsc-b: B
 
 ### Pact of the Wok
 
-You can conjure a Pact Wok; a venerable cooking implement in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. It takes the form of a set kitchen utensil of your choice, and it grants you the following benefits:
+You can conjure a *Pact Wok*; a venerable cooking implement in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. It takes the form of a set kitchen utensil of your choice, and it grants you the following benefits:
 
-***Artisan Tools***{.inl} It counts as Cooking Utensil, and it uses your spellcasting modifier for ability checks made with it.
+**Artisan Tools**{ .inl } It counts as Cooking Utensil, and it uses your spellcasting modifier for ability checks made with it.
 
 **Eldritch Rations**{ .inl } When you finish a **:rest-long: Long Rest**, you can prepare a number of Eldritch Rations up to your spellcasting modifier as shown in the Eldritch Rations table in any combination. A creature can take a **:rsc-b: Bonus Action**{ .rsc } to consume one of these rations to gain the associated benefit. 
 
-**Spellcasting Focus**{ .inl } You can use the device as a Spellcasting Focus.
+**Spellcasting Focus**{ .inl } You can use the Cooking Utensil as a Spellcasting Focus.
 
 ##### Eldritch Rations
 
@@ -77,15 +75,13 @@ You can conjure a Pact Wok; a venerable cooking implement in your hand at the en
 
 These kitchen utensil and the Eldritch rations disappears if you conjure another kitchen utensils with this feature or if you die.
 
-Any rations you have prepared become inert at the end of your next Long Rest.
+Any rations you have prepared become inert at the end of your next **:rest-long: Long Rest**.
 
 ---
 
-### Arcane Gunslinger
+### Restless Existence
 
-_**Prerequisite:** [Pact of the Blade]_
-
-You can create a Pact Weapon that is a [Short-Arm](../../../equipment/weapon/weapon-firearm.md#short-arm) or [Long-Arm](../../../equipment/weapon/weapon-firearm.md#long-arm).
+You no longer need to sleep and cannot be forced to sleep by any means. To gain the benefits of a **:rest-long: Long Rest**, you can spend all 8 hours doing light activity, such as keeping watch.
 
 ---
 
@@ -93,7 +89,7 @@ You can create a Pact Weapon that is a [Short-Arm](../../../equipment/weapon/wea
 
 _**Prerequisite:** [Pact of the Instrument]_
 
-When you cast a Warlock spell with a Verbal component or deals **:dmg-thun: Thunder**{ .dmg-thun } damage while using your pact instrument as your spellcasting focus, the save DC for that spell increases by 1
+When you cast a Warlock spell with a Verbal component or deals **:dmg-thun: Thunder**{ .dmg-thun } damage while using your pact instrument as your spellcasting focus, the save DC for that spell increases by 1.
 
 ---
 
@@ -105,15 +101,7 @@ Your bond with your Pact Weapon improves.
 
 **Enhancement I**{ .inl } Your Pact Weapon gains a +1 bonus to its attack and damage rolls. If it already has a pre-existing bonus to those rolls, only the highest instance take effect.
 
-**Ranged Pact Weapon**{ .inl } The weapon you conjure or make a bond with using Pact of the Blade can be Ranged Cold Weapon.
-
----
-
-### Knowledge of Antiquity
-
-_**Prerequisite:** [Pact of the Hourglass]_
-
-When you make an Intelligence (Arcana), Intelligence (History), or Intelligence (Religion), you can use your Charisma modifier instead of Intelligence.
+**Ranged Pact Weapon**{ .inl } The weapon you conjure or make a bond with using Pact of the Blade can be a Ranged Weapon.
 
 ---
 
@@ -125,11 +113,27 @@ You can peer into the uncertain future. Using your Pact Chalice as a spellcastin
 
 ---
 
-### Deep Fry
+### Infernal Chili Oil
 
 _**Prerequisite:** [Pact of the Wok]_
 
-You can cast [:spell-lv1: Grease] with a Warlock spell slot.
+Using your Pact Wok as a spellcasting focus, you can cast [:spell-lv1: Grease] with a Warlock spell slot. When you cast the spell this way, the affected area smells strongly of sizzling oil, and creatures that fail the spell's saving throw also take **1 :dmg-fire: Fire**{ .dmg-fire } damage.
+
+---
+
+### Knowledge of Antiquity
+
+_**Prerequisite:** [Pact of the Hourglass]_
+
+When you make an Intelligence (Arcana), Intelligence (History), or Intelligence (Religion), you can use your Charisma modifier instead of Intelligence.
+
+---
+
+### Eldritch Sight
+
+_**Prerequisite:** Level 1+ Warlock_
+
+You can cast [:spell-lv1: Detect Magic] without expending a spell slot.
 
 ---
 
@@ -138,6 +142,14 @@ You can cast [:spell-lv1: Grease] with a Warlock spell slot.
 _**Prerequisite:** Level 2+ Warlock, [Pact of the Chalice]_
 
 You can cast [:spell-lv2: Lesser Restoration] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a **:rest-long: Long Rest**.
+
+---
+
+### Indulgent Snack
+
+_**Prerequisite:** Level 2+ Warlock, [Pact of the Wok]_
+
+Using your Pact Wok as a spellcasting focus, you can cast [:spell-lv1: Goodberry] once without expending a spell slot. You regain the ability to cast it in this way again when you finish a **:rest-long: Long Rest**.
 
 ---
 
@@ -153,21 +165,9 @@ You can cast [:spell-lv1: Gift of Alacrity](../../../spells/description/addition
 
 _**Prerequisite:** Level 5+ Warlock, [Pact of the Tome]_
 
-A new page appears in your Book of Shadows, detailing forbidden prayers that mimic a Cleric’s divine power. Choose one Channel Divinity option or a feature that uses Channel Divinity from the Cleric class or one of its subclasses. You can invoke that option once. You regain the ability to do so when you finish a **:rest-short: Short** or **:rest-long: Long Rest**, with the following modifications:
-
-***Modifier.*** If the chosen Channel Divinity option refers to your Wisdom modifier, you use your Charisma modifier instead. If it scales with your Cleric level, you use your Warlock level instead.
-
-***Save DC.*** If the chosen Channel Divinity forces a creature to make a saving throw, it uses your Warlock spell save DC instead.
+A new page appears in your Book of Shadows, detailing forbidden prayers that mimic a Cleric’s divine power. Choose one Channel Divinity option or a feature that uses Channel Divinity from the Cleric class at level 2 or one of its subclasses at level 3. You can invoke that option once. You regain the ability to do so when you finish a **:rest-short: Short** or **:rest-long: Long Rest**. If the chosen Channel Divinity option refers to your Wisdom modifier, you use your Charisma modifier instead. If it scales with your Cleric level, you use your Warlock level instead.
 
 **Repeatable**{ .inl } You can gain this invocation more than once, choosing a different Channel Divinity each time.
-
----
-
-### Blink of The Destruction
-
-_**Prerequisite:** Level 5+ Warlock_
-
-You can cast [:spell-lv3: Fireball] centred on yourself, using a Warlock spell slot. When you do, you gain **:trt-thp: Temporary Hit Points** equal to the damage you take from the spell. If you use this invocation again while you still have **:trt-thp: Temporary Hit Points** from it, any damage from the spell is instead applied to your actual Hit Points.
 
 ---
 
@@ -194,6 +194,14 @@ You learn the [:spell-lv3: Slow] spell.
 _**Prerequisite:** Level 5+, [Armour of Shadow]_
 
 When you cast [:spell-lv1: Mage Armour] using [Armour of Shadow] Invocation, your base AC is 15 + your Dexterity modifier instead of the normal effect.
+
+---
+
+### Curse of Permanence
+
+_**Prerequisite:** Level 7+ Warlock_
+
+Your very being is suffused with eldritch magic. You no longer need to eat, breathe, or sleep. Though, to gain the benefits of a **:rest-long: Long Rest**, you must spend 8 hours doing light activity. Also, for every 10 years that pass, your body ages only 1 year.
 
 ---
 

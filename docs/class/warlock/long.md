@@ -1,5 +1,6 @@
 ---
 title: "Subclass: The Lóng Dragon (Warlock)"
+status: homebrew
 ---
 
 <p style="display:none">
@@ -42,13 +43,13 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 As a **:rsc-a: Magic** action, you can unleash a blast of elemental energy in a **15-foot :aoe-cone: Cone** or a **5 by 30-foot :aoe-line: Line** (choose the shape each time), originating from you. Creature in that area makes a **:d20-save: DEX Save**{ .rsc }, taking damage equals to `1d8 plus your Charisma modifier` on a failed save. Damage dealt by this action is always the [Draconic Spark] damage. 
 
-You can make **two** Dragon’s Exhalation as part of the same action when you reach level 6, **three** Dragon’s Exhalation at level 10, and finally **four** Dragon’s Exhalation at level 14.
+You can make **two** Dragon’s Exhalation as part of the same action when you reach **level 6**, **three** Dragon’s Exhalation at **level 10**, and finally **four** Dragon’s Exhalation at **level 14**.
 
-### Level 6: Celestial Insight
+### Level 6: Draconic Insight
 
 You gain increased comprehension of the way of your Dragon patron, whenever you make an ability check using one of the following skills, you can make it as a Charisma check even if it normally uses a different ability: Arcana, History, Insight, or Perception.
 
-You also gain **:dmg-res: Resistance** to the damage type of your [Draconic Spark]. In addition, your whenever you deal your [Draconic Spark] damage using Dragon’s Exhalation or from casting Warlock spells, it ignores **:dmg-res: Resistances**.
+You also gain **:dmg-res: Resistance** to the damage type of your [Draconic Spark]. In addition, your whenever you deal your [Draconic Spark] damage using Dragon’s Exhalation or from casting Warlock spells, it ignores **:dmg-res: Resistance**.
 
 ## Level 10: Far-Reaching Exhalation
 
@@ -57,6 +58,8 @@ When you make a Dragon’s Exhalation, you can choose for it to be a **30-foot :
 ### Level 10: Flowing Spirit
 
 You gain **:dmg-imm: Immunity** to the damage type of your [Draconic Spark]. You also have **:d20-adv: Advantage**{ .d20 } on **:d20-save: Saving Throws**{ .em } you make to avoid or end the ^^Charmed^^ or ^^Frightened^^ condition. 
+
+Moreover, you gain the [:class-phb24-warlock: Curse of Permanence](../../option/class-options/warlock-invocations/hb.md#curse-of-permanence) Invocation. This Invocation doesn't count against the number of Invocation you can have and can't be replaced. Choose a different Invocation if you already have it. 
 
 ### Level 14: Dragon’s Tempest
 

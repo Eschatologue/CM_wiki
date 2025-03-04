@@ -85,15 +85,17 @@ The table below lists available General Feats, divided into three categories: *P
 
 <div class="grid cards" markdown>
 
-- [:class-phb24-warlock: Arcane Gunslinger](hb.md#arcane-gunslinger)
 - [:class-phb24-warlock: Blasphemous Prayer](hb.md#blasphemous-prayer)
 - [:class-phb24-warlock: Blink of The Destruction](hb.md#blink-of-the-destruction)
 - [:class-phb24-warlock: Cup of Protection](hb.md#cup-of-protection)
 - [:class-phb24-warlock: Cup of Recovery](hb.md#cup-of-recovery)
-- [:class-phb24-warlock: Deep Fry](hb.md#deep-fry)
+- [:class-phb24-warlock: Curse of Permanence](hb.md#curse-of-permanence)
 - [:class-phb24-warlock: Enchanting Melody](hb.md#enchanting-melody)
+- [:class-phb24-warlock: Eldritch Sight](hb.md#enchanting-melody)
 - [:class-phb24-warlock: Harmonic Spellcasting](hb.md#harmonic-spellcasting)
 - [:class-phb24-warlock: Improved Pact Weapon](hb.md#improved-pact-weapon)
+- [:class-phb24-warlock: Indulgent Snack](hb.md#indulgent-snack)
+- [:class-phb24-warlock: Infernal Chili Oil](hb.md#infernal-chili-oil)
 - [:class-phb24-warlock: Kiss of Mephistopheles](hb.md#kiss-of-mephistopheles)
 - [:class-phb24-warlock: Knowledge of Antiquity](hb.md#knowledge-of-antiquity)
 - [:class-phb24-warlock: Mirror of Fates](hb.md#mirror-of-fates)
@@ -103,6 +105,7 @@ The table below lists available General Feats, divided into three categories: *P
 - [:class-phb24-warlock: Pact of the Instrument](hb.md#pact-of-the-instrument)
 - [:class-phb24-warlock: Pact of the Wok](hb.md#pact-of-the-wok)
 - [:class-phb24-warlock: Plates of Null](hb.md#plates-of-null)
+- [:class-phb24-warlock: Restless Existence](hb.md#restless-existence)
 - [:class-phb24-warlock: Sculptor of Flesh](hb.md#sculptor-of-flesh)
 - [:class-phb24-warlock: Superior Pact Weapon](hb.md#superior-pact-weapon)
 - [:class-phb24-warlock: Temporal Rewind](hb.md#temporal-rewind)
