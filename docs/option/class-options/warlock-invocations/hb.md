@@ -153,9 +153,13 @@ You can cast [:spell-lv1: Gift of Alacrity](../../../spells/description/addition
 
 _**Prerequisite:** Level 5+ Warlock, [Pact of the Tome]_
 
-Choose one level 3 Cleric subclass feature that uses Channel Divinity (e.g. [Preserve Life](../../../class/cleric/life.md#level-3-preserve-life)). A new page appears in your Book of Shadow detailing prayers of how to use that feature. You use your Warlock level and Spell Save DC for Cleric level or Spell Save DC if required.
+A new page appears in your Book of Shadows, detailing forbidden prayers that mimic a Cleric’s divine power. Choose one Channel Divinity option or a feature that uses Channel Divinity from the Cleric class or one of its subclasses. You can invoke that option once. You regain the ability to do so when you finish a **:rest-short: Short** or **:rest-long: Long Rest**, with the following modifications:
 
-You can invoke this level 3 Cleric subclass feature once and you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can invoke it again.
+***Modifier.*** If the chosen Channel Divinity option refers to your Wisdom modifier, you use your Charisma modifier instead. If it scales with your Cleric level, you use your Warlock level instead.
+
+***Save DC.*** If the chosen Channel Divinity forces a creature to make a saving throw, it uses your Warlock spell save DC instead.
+
+**Repeatable**{ .inl } You can gain this invocation more than once, choosing a different Channel Divinity each time.
 
 ---
 
