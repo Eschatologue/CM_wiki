@@ -40,11 +40,9 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 ### Level 3: Dragon’s Exhalation
 
-As a **:rsc-a: Magic** action, you can unleash a blast of elemental energy in a **15-foot :aoe-cone: Cone** or a **5 by 30-foot. :aoe-line: Line** (choose the shape each time), originating from you. Creature in that area makes a **:d20-save: DEX Save**{ .rsc }, taking damage equals to `1d8 plus your Charisma modifier` on a failed save. Damage dealt by this action is always the [Draconic Spark] damage. 
+As a **:rsc-a: Magic** action, you can unleash a blast of elemental energy in a **15-foot :aoe-cone: Cone** or a **5 by 30-foot :aoe-line: Line** (choose the shape each time), originating from you. Creature in that area makes a **:d20-save: DEX Save**{ .rsc }, taking damage equals to `1d8 plus your Charisma modifier` on a failed save. Damage dealt by this action is always the [Draconic Spark] damage. 
 
 You can make **two** Dragon’s Exhalation as part of the same action when you reach level 6, **three** Dragon’s Exhalation at level 10, and finally **four** Dragon’s Exhalation at level 14.
-
-When you reach level 10, when you make an Dragon’s Exhalation, you can choose for it to be a **30-foot :aoe-cone: Cone** or a **5 by 60-foot :aoe-line: Line**.
 
 ### Level 6: Celestial Insight
 
@@ -52,13 +50,17 @@ You gain increased comprehension of the way of your Dragon patron, whenever you 
 
 You also gain **:dmg-res: Resistance** to the damage type of your [Draconic Spark]. In addition, your whenever you deal your [Draconic Spark] damage using Dragon’s Exhalation or from casting Warlock spells, it ignores **:dmg-res: Resistances**.
 
+## Level 10: Far-Reaching Exhalation
+
+When you make a Dragon’s Exhalation, you can choose for it to be a **30-foot :aoe-cone: Cone** or a **5 by 60-foot :aoe-line: Line**.
+
 ### Level 10: Flowing Spirit
 
 You gain **:dmg-imm: Immunity** to the damage type of your [Draconic Spark]. You also have **:d20-adv: Advantage**{ .d20 } on **:d20-save: Saving Throws**{ .em } you make to avoid or end the ^^Charmed^^ or ^^Frightened^^ condition. 
 
 ### Level 14: Dragon’s Tempest
 
-Whenever you make an Dragon’s Exhalation, you can expend one of your Pact Magic spell slots to empower one of them. On a failed save, targets take additional Draconic Spark damage equal to 1d8 per level of your Pact Magic spell slot, and they take half as much damage on a successful saving throw. 
+Whenever you make a Dragon’s Exhalation, you can expend one of your Pact Magic spell slots to empower one of them. On a failed save, targets take additional Draconic Spark damage equal to 1d8 per level of your Pact Magic spell slot, and they take half as much damage on a successful saving throw. 
 
 ### Level 14: Soaring Winds 
 

@@ -22,9 +22,9 @@ You have **:d20-adv: Advantage**{ .d20 } on Constitution saving throws that you 
 
 ### Pact of the Blade
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can conjure a Pact Weapon in your hand—a Simple or Martial Melee weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
+As a **:rsc-b: Bonus Action**{ .rsc }, you can conjure a Pact Weapon in your hand—a **:prof-wp-simple: Simple** or **:prof-wp-martial: Martial** ^^Melee^^ weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
 
-Whenever you attack with the bonded weapon, you can use your Spellcasting modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal **:dmg-necr: Necrotic**{ .dmg-necr }, **:dmg-psyc: Psychic**{ .dmg-psyc }, or **:dmg-radi: Radiant**{ .dmg-radi } damage or its normal damage type.
+Whenever you attack with the bonded weapon, you can use your Spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal **:dmg-necr: Necrotic**{ .dmg-necr }, **:dmg-psyc: Psychic**{ .dmg-psyc }, or **:dmg-radi: Radiant**{ .dmg-radi } damage or its normal damage type.
 
 Your bond with the weapon ends if you use this feature's **:rsc-b: Bonus Action**{ .rsc } again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
