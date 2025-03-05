@@ -10,7 +10,6 @@ Adopt Animal Forms to Guard the Wilds
 
 > *Adopt Animal Forms to Guard the Wilds*
 
-
 Druids of the Circle of the Moon draw on the magic of the moon to transform themselves and to guard the wilds. Their order gathers under the full moon to share news and perform rituals.
 
 They wander the deepest parts of the wilderness, where they might go for weeks before crossing paths with another person, let alone another Druid.
@@ -46,7 +45,7 @@ In addition, you can cast the spells from this feature while you are in **:mater
 
 While in a **:material-paw: Wild Shape** form, you gain the following benefits:
 
-**Lunar Radiance**{ .inl } Each of your attacks in a **:material-paw: Wild Shape** form can deal its normal damage type or Radiant damage. You make this choice each time you hit with those attacks.
+**Lunar Radiance**{ .inl } Each of your attacks in a **:material-paw: Wild Shape** form can deal its normal damage type or **:dmg-radi: Radiant**{ .dmg-radi } damage. You make this choice each time you hit with those attacks.
 
 **Increased Toughness**{ .inl } You can add your Wisdom modifier to your Constitution saving throws.
 
@@ -60,7 +59,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 The power of the moon suffuses you, granting you the following benefits:
  
-**Improved Lunar Radiance**{ .inl } Once per turn, you can deal an extra 2d10 Radiang damage to a targety ou hit with a **:material-paw: Wild Shape** Form's attack.
+**Improved Lunar Radiance**{ .inl } Once per turn, you can deal an extra **2d10 :dmg-radi: Radiant**{ .dmg-radi } damage to a target you hit with a **:material-paw: Wild Shape** Form's attack.
 
 **Shared Moonlight**{ .inl } Whenever you use Moonlight Step, you can also teleport one willing creature. That creature must be within 10 feet of you, and you teleport it to an unoccupied space you can see within 10 feet of your destination space
 
