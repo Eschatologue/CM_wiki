@@ -15,18 +15,27 @@ Your pact is forged with the lingering essence of a long-dead Archmage—one who
 
 By striking this pact, you become the vessel for their arcane knowledge, gaining access to secrets of immense power, while also serving their obsessive desire to manipulate and reshape the very fabric of magic itself.
 
-### Level 3: Archmage Spells
+### Level 3: Book of the Archmage**
 
-The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Archmage Spells table, you thereafter always have the listed spells prepared.
+Your patron bestows upon you an ancient tome brimming with arcane knowledge. You gain the [:class-phb24-warlock: Pact of the Tome](../../option/class-options/warlock-invocations/phb24.md#pact-of-the-tome) Invocation. This Invocation doesn't count against the number of Invocations you can have and can't be replaced. Choose a different Invocation if you already have it.  
 
-##### Archmage Spells 
+Additionally, your **Book of Shadows** serves as a repository of magical secrets, allowing you to inscribe additional spells beyond those normally known to a Warlock.  
 
-| Warlock Level | Spells |
-|:-:|---|
-| 3 | [:spell-lv1: Magic Missile], [:spell-lv2: Magic Weapon], [:spell-lv2: Arcane Vigor], [:spell-lv1: Shield] |
-| 5 | [:spell-lv3: Lightning Bolt], [:spell-lv3: Tiny Servant] |
-| 7 | [:spell-lv4: Arcane Eye], [:spell-lv4: Otiluke's Resilient Sphere] |
-| 9 | [:spell-lv5: Scrying], [:spell-lv5: Wall of Force] |
+#### Archmage's Study
+
+At certain Warlock levels, you can inscribe additional **Wizard spells** into your **Book of Shadows**, as shown in the **Archmage's Study** table. These spells must be from the Wizard spell list and follow the level restrictions listed.  
+
+| Warlock Level | Wizard Spells | Maximum Spell Level |  
+|:-:|---|---|  
+| 3 | +2 Wizard spells | Level 1 |  
+| 5 | +2 Wizard spells | Level 2 |  
+| 7 | +2 Wizard spells | Level 3 |  
+| 9 | +2 Wizard spells | Level 4 |  
+| 11 | +2 Wizard spells | Level 5 |  
+
+You can only cast them while your **Book of Shadows** is in your possession. 
+
+If you lose your **Book of Shadows**, you can perform a **1-hour ritual** to restore it, but you must spend **500 SP per spell level** to recreate any inscribed Wizard spells.  
 
 ### Level 3: Arcane Apprentice
 

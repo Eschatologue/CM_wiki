@@ -1,10 +1,10 @@
 ---
-title: "Subclass: The Lóng Dragon (Warlock)"
+title: "Subclass: The Long Dragon (Warlock)"
 status: homebrew
 ---
 
 <p style="display:none">
-
+Unleash the power of an Ancient Dragon
 </p>
 
 # The Lóng Dragon Patron
@@ -22,7 +22,7 @@ Your patron grants you gifts to aid your journey, bestowing the following benefi
 **Draconic Spark**{ .inl } Your patron imbues you with a fragment of its elemental power. Choose one of the following damage types: **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-posn: Poison**{ .dmg-posn }. You can change this choice when you finish a **:rest-long: Long Rest**. This choice will affects multiple features in this subclass.
 { .indt }
 
-**Draconic Transmutation**{ .inl } Whenever you cast a Warlock spell or Cantrip, you can change its damage type to that of your [Draconic Spark].
+**Draconic Transmutation**{ .inl } Whenever you deal damage using a Warlock spell or a Warlock feature, you can change its damage type to that of your [Draconic Spark].
 { .indt }
 
 **Draconic Language**{ .inl } Your patron imbues you with its wisdom. You know the *Draconic* language.
@@ -32,12 +32,14 @@ Your patron grants you gifts to aid your journey, bestowing the following benefi
 
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Draconic Spells table, you thereafter always have the listed spells prepared.
 
+##### Draconic Spells
+
 | Warlock Level | Spells |
 |:-:|---|
-| 3 | [:spell-lv1: Bless], [:spell-lv1: Command], [:spell-lv2: Scorching Ray], [:spell-lv2: Gust of Wind] |
-| 5 | [:spell-lv3: Call Lightning], [:spell-lv3: Fear] |
-| 7 | [:spell-lv4: Control Water], [:spell-lv4: Dominate Beast] |
-| 9 | [:spell-lv5: Commune], [:spell-lv5: Immolation] |
+| 3 | [:spell-lv1: Bless], [:spell-lv1: Fog Cloud], [:spell-lv2: Scorching Ray], [:spell-lv2: Gust of Wind] |
+| 5 | [:spell-lv3: Call Lightning], [:spell-lv3: Water Walk] |
+| 7 | [:spell-lv4: Control Water], [:spell-lv4: Greater Invisibility] |
+| 9 | [:spell-lv5: Commune], [:spell-lv5: Maelstrom] |
 
 ### Level 3: Dragon’s Exhalation
 
