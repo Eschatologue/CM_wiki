@@ -218,7 +218,7 @@
   font-size: calc(var(--gbl-font-size) * 1.25) !important;
 }
 
-.nowrap, .dmg-heal, .dmg-phys, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .inl, .wp, .rsc, .d20 {
+.nowrap, .inl, .wp, .rsc, .d20 {
   white-space: nowrap;
 }
 
@@ -365,61 +365,133 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 .dmg-acid {
   color: hsl(77, 98%, 34%) !important;
   font-weight: 400 !important;
+  white-space: nowrap;
+}
+@media screen and (max-width: 720px) {
+  .dmg-acid {
+    white-space: normal;
+  }
 }
 
 .dmg-cold {
   color: hsl(199, 91%, 64%) !important;
   font-weight: 400 !important;
+  white-space: nowrap;
+}
+@media screen and (max-width: 720px) {
+  .dmg-cold {
+    white-space: normal;
+  }
 }
 
 .dmg-fire {
   color: hsl(28, 75%, 53%) !important;
   font-weight: 400 !important;
+  white-space: nowrap;
+}
+@media screen and (max-width: 720px) {
+  .dmg-fire {
+    white-space: normal;
+  }
 }
 
 .dmg-posn {
   color: hsl(102, 100%, 36%) !important;
   font-weight: 400 !important;
+  white-space: nowrap;
+}
+@media screen and (max-width: 720px) {
+  .dmg-posn {
+    white-space: normal;
+  }
 }
 
 .dmg-thun {
   color: hsl(262, 43%, 65%) !important;
   font-weight: 400 !important;
+  white-space: nowrap;
+}
+@media screen and (max-width: 720px) {
+  .dmg-thun {
+    white-space: normal;
+  }
 }
 
 .dmg-psyc {
   color: hsl(328, 61%, 66%) !important;
   font-weight: 400 !important;
+  white-space: nowrap;
+}
+@media screen and (max-width: 720px) {
+  .dmg-psyc {
+    white-space: normal;
+  }
 }
 
 .dmg-lgtn {
   color: hsl(208, 80%, 55%) !important;
   font-weight: 400 !important;
+  white-space: nowrap;
+}
+@media screen and (max-width: 720px) {
+  .dmg-lgtn {
+    white-space: normal;
+  }
 }
 
 .dmg-necr {
   color: hsl(129, 47%, 47%) !important;
   font-weight: 400 !important;
+  white-space: nowrap;
+}
+@media screen and (max-width: 720px) {
+  .dmg-necr {
+    white-space: normal;
+  }
 }
 
 .dmg-radi {
   color: hsl(54, 100%, 67%) !important;
   font-weight: 400 !important;
+  white-space: nowrap;
+}
+@media screen and (max-width: 720px) {
+  .dmg-radi {
+    white-space: normal;
+  }
 }
 
 .dmg-force {
   color: hsl(4, 100%, 71%) !important;
   font-weight: 400 !important;
+  white-space: nowrap;
+}
+@media screen and (max-width: 720px) {
+  .dmg-force {
+    white-space: normal;
+  }
 }
 
 .dmg-phys {
   color: hsl(219, 28%, 88%) !important;
   font-weight: 400 !important;
+  white-space: nowrap;
+}
+@media screen and (max-width: 720px) {
+  .dmg-phys {
+    white-space: normal;
+  }
 }
 
 .dmg-heal {
   color: hsl(180, 51%, 60%) !important;
   font-weight: 400 !important;
+  white-space: nowrap;
+}
+@media screen and (max-width: 720px) {
+  .dmg-heal {
+    white-space: normal;
+  }
 }
 
 /*-------------------------------------------------------
