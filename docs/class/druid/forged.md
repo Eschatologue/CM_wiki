@@ -92,7 +92,7 @@ When you use **:material-paw: Wild Shape**, you can enhance your beast form with
     *Your beast form is reinforced with overlapping metal plates and riveted joints.*{ .quote }
 
 **Integrated Launcher**
-:   You can use a **:rsc-b: Bonus Action**{ .rsc } to make a Ranged spell attack against a creature you can see within 60 feet. On a hit, the target takes **2d6 + Wisdom modifier :dmg-force: Force**{ .dmg-force .calc } damage.
+:   You can use a **:rsc-b: Bonus Action**{ .rsc } to make a Ranged spell attack against a creature you can see within 60 feet. On a hit, the target takes **2d6 + Wisdom modifier **:dmg-force: Force**{ .nowrap}**{ .dmg-force } damage.
 
     *Your beast form is outfitted with ranged capability*{ .quote }
 

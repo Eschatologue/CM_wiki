@@ -1,7 +1,7 @@
-@use '../base/typeset';
-@use '../base/table';
-@use '../utility/convert';
-@use '../palette/accent';
+@use "../base/typeset";
+@use "../base/table";
+@use "../utility/convert";
+@use "../palette/accent";
 
 /*-------------------------------------------------------
     Font Styles
@@ -185,7 +185,7 @@
     &::after {
         font-style: normal !important;
         font-weight: 400 !important;
-        content: '»';
+        content: "»";
         color: var(--md-default-fg-color--light);
         margin-left: convert.px2em(4px);
     }
@@ -195,7 +195,7 @@
     &::before {
         font-style: normal !important;
         font-weight: 400 !important;
-        content: '«';
+        content: "«";
         color: var(--md-default-fg-color--light);
         margin-right: convert.px2em(4px);
     }
@@ -249,9 +249,14 @@ $damage-types: (
 
 @each $type, $color in $damage-types {
     .dmg-#{$type} {
-        @extend .nowrap, .jetbrains;
+        @extend .jetbrains;
         color: convert.hex3hsl($color) !important;
         font-weight: 400 !important;
+        white-space: nowrap;
+
+        @media screen and (max-width: 720px) {
+            white-space: normal;
+        }
     }
 }
 
