@@ -53,7 +53,7 @@ You gain increased comprehension of the way of your Dragon patron, whenever you 
 
 You also gain **:dmg-res: Resistance** to the damage type of your [Draconic Spark]. In addition, your whenever you deal your [Draconic Spark] damage using Dragon’s Exhalation or from casting Warlock spells, it ignores **:dmg-res: Resistance**.
 
-## Level 10: Far-Reaching Exhalation
+### Level 10: Far-Reaching Exhalation
 
 When you make a Dragon’s Exhalation, you can choose for it to be a **30-foot :aoe-cone: Cone** or a **5 by 60-foot :aoe-line: Line**.
 
