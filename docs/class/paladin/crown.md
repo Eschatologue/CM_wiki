@@ -62,7 +62,7 @@ You have **:dmg-imm: Immunity** to the ^^Paralyzed^^ and ^^Stunned^^ conditions,
 
 Your presence on the field of battle is an inspiration to those dedicated to your cause. As a **:rsc-b: Bonus Action**{ .rsc }, you can gain the following benefits for 10 minutes:
 
-**Damage Resistance**{ .inl } You have **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**{ .dmg-phys }, **:dmg-prcg: Piercing**{ .dmg-phys } and **:dmg-slsh: Slashing**{ .dmg-phys } damage.
+**Damage Resistance**{ .inl } You have **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps } and **:dmg-slsh: Slashing**{ .dmg-bps } damage.
 
 **Regal Presence**{ .inl } Your Aura of Protection exudes unearthly majesty. Whenever the Aura enters the space of a creature you can see and whenever a creature you can see enters the Aura or ends its turn there, you can force that creature to make a **:d20-save: Wisdom saving throw** against your Spell Save DC. On a failed save, it takes **10 :dmg-psyc: Psychic**{ .dmg-psyc } damage and has the ^^Prone^^ condition so long it is within your Aura of Protection.  
 &emsp; At the end of each of its turns, the creature can repeat this save, ending the effect preventing it from removing the ^^Prone^^ condition from itself on a successful save, or taking **10 :dmg-psyc: Psychic**{ .dmg-psyc } damage on a failed save.

@@ -46,7 +46,7 @@ Below are the effects of each grenade.
 
 **Fragmentation** <br>_250 SP, S._
 
-:   This grenade explodes, unleashing a hail of metal fragments that fills a **20-foot-radius :aoe-sphere: Sphere**. Each creature in the area must make on a **:d20-save: DEX Save (DC 14)**{ .d20 },  taking **3d6 :dmg-prcg: Piercing**{ .dmg-phys } damage on a failed save or half as much damage on a successful one.
+:   This grenade explodes, unleashing a hail of metal fragments that fills a **20-foot-radius :aoe-sphere: Sphere**. Each creature in the area must make on a **:d20-save: DEX Save (DC 14)**{ .d20 },  taking **3d6 :dmg-prcg: Piercing**{ .dmg-bps } damage on a failed save or half as much damage on a successful one.
 
 
 **Flashbang** <br>_300 SP, S._

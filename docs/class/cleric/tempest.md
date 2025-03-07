@@ -26,25 +26,25 @@ Your connection to this divine domain ensures you always have certain spells rea
 | 3 | [:spell-lv1: Fog Cloud], [:spell-lv2: Gust of Wind], [:spell-lv2: Shatter], [:spell-lv1: Thunderwave] |
 | 5 | [:spell-lv3: Call Lightning], [:spell-lv3: Sleet Storm] |
 | 7 | [:spell-lv4: Control Water], [:spell-lv4: Ice Storm] |
-| 9 | [:spell-lv5: Destructive Wave], [:spell-lv5: Insect Plague] |
-
-### Level 3: Wrath of the Storm
-
-You can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force the creature to make a Dexterity save. On a failed save, the creature takes :dmg-lgtn: Lightning or :dmg-thun: Thunder (your choice) damage equal to 1d8 plus your Cleric level, or half as much damage on a successful save. 
-
-You can use this feature a number of times equal to your Wisdom modifier (a minimum of 1). You regain all expended uses when you finish a **:rest-long: Long Rest**.
+| 9 | [:spell-lv5: Destructive Wave], [:spell-lv5: Jallarzi's Storm of Radiance] |
 
 ### Level 3: Destructive Wrath
 
-You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to wield the power of the storm with unchecked ferocity. When you roll :dmg-lgtn: Lightning or :dmg-thun: Thunder damage, you can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to deal maximum damage, instead of rolling.
+You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to wield the power of the storm with unchecked ferocity. When you roll **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } damage, you can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to deal maximum damage, instead of rolling.
+
+### Level 3: Wrath of the Storm
+
+You can thunderously rebuke attackers. When a creature within 5 feet of you that you can see hits you with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force the creature to make a **:d20-save: DEX save**{ .d20 }. On a failed save, the creature takes **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } (your choice) damage equal to 1d8 plus your Cleric level, or half as much damage on a successful save. 
+
+You can use this feature a number of times equal to your Wisdom modifier (a minimum of 1). You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 6: Thunderous Strike
 
-When you deal :dmg-lgtn: Lightning or :dmg-thun: Thunder damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
+When you deal **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
 
 ### Level 7: Thundering Smite (Optional)
 
-Whenever you use [Divine Strike (Blessed Strike)](index.md#level-7-blesssed-strike) feature, you can change the damage type to either :dmg-lgtn: Lightning or :dmg-thun: Thunder damage. 
+Whenever you use [Divine Strike (Blessed Strike)](index.md#level-7-blesssed-strike) feature, you can change the damage type to either **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } damage. 
 
 ### Level 17: Stormborn
 

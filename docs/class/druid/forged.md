@@ -87,7 +87,7 @@ When you take damage, you can take a **:rsc-r: Reaction**{ .rsc } to use your **
 When you use **:material-paw: Wild Shape**, you can enhance your beast form with additional augmentations. Choose one of the following options, which lasts for the duration of your Wild Shape.
 
 **Adamantine Plating**
-:   You gain **:dmg-res: Resistance** to **:dmg-bldg: Bludgeoning**{ .dmg-phys }, **:dmg-prcg: Piercing**{ .dmg-phys }, and **:dmg-slsh: Slashing**{ .dmg-phys } damage.
+:   You gain **:dmg-res: Resistance** to **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, and **:dmg-slsh: Slashing**{ .dmg-bps } damage.
 
     *Your beast form is reinforced with overlapping metal plates and riveted joints.*{ .quote }
 

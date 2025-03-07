@@ -16,7 +16,6 @@
 --------------------------------------------------------*/
 
 .md-typeset {
-
     // Other
     --default-font-weight: 400;
 
@@ -25,25 +24,19 @@
     --scale-small: 0.8125;
     --scale-table: 0.9;
 
-    // Keep this for Deprecation
-    // @media screen and (max-width: 720px) {
-    //     --default-font-size: #{convert.px2rem(13px)};
-    // }
-
     // Default font size initially equals the base size
     --default-font-size: var(--base-font-size);
+
+    // Global font size uses the default font size
+    --gbl-font-size: var(--default-font-size);
 
     // On small screens, update the default font size by the small-screen scale factor
     @media screen and (max-width: 720px) {
         --default-font-size: calc(var(--base-font-size) * var(--scale-small));
     }
 
-    // Global font size uses the default font size
-    --gbl-font-size: var(--default-font-size);
-
     // Inside a table (that doesn't have its own class), further scale the font size
     & table:not([class]) {
         --gbl-font-size: calc(var(--default-font-size) * var(--scale-table));
     }
 }
-

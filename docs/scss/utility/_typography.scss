@@ -14,8 +14,13 @@
 .jetbrains {
     font-size: calc(var(--gbl-font-size) * 0.85);
     font-family: var(--jetbrains);
-    font-weight: 500 !important;
-    word-spacing: convert.px2rem(-3px);
+    font-weight: 600 !important;
+    word-spacing: convert.px2rem(-4.5px);
+
+    // :is(.emojione, .twemoji, .gemoji) {
+    //     margin-left: convert.px2em(-0.5px);
+    //     margin-right: convert.px2em(-2px);
+    // }
 }
 
 .f-lg {
@@ -87,11 +92,16 @@
 
 // Highlighted background for text
 .back {
+    color: var(--md-gbl-text-color) !important;
     background-color: var(--md-code-bg-color);
     box-decoration-break: clone;
     padding: 0 convert.px2em(3px);
     border-radius: convert.px2em(3px);
     font-weight: 400 !important;
+
+    strong {
+        color: var(--md-gbl-text-color-strong) !important;
+    }
 }
 
 // Quotes and Emphasis
@@ -153,7 +163,7 @@
     padding-left: calc((var(--gbl-font-size) * 1.25) * 2);
 }
 
-// Inline element styling
+// Used for Inline Titles
 .inl {
     @extend .em, .nowrap, .chev-lr;
     font-weight: 600 !important;
@@ -173,9 +183,9 @@
     color: var(--md-default-fg-color--light) !important;
 
     @if $margin-side == left {
-        margin-left: convert.px2em(4px);
+        margin-left: convert.px2em(3px);
     } @else {
-        margin-right: convert.px2em(4px);
+        margin-right: convert.px2em(3px);
     }
 }
 
@@ -243,7 +253,7 @@ $damage-types: (
     necr: #3faf4f,
     radi: #ffee58,
     force: #ff7369,
-    phys: #d8dee9,
+    bps: #a9acb0,
     heal: #65cdcd
 );
 

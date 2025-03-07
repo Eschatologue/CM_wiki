@@ -31,15 +31,19 @@ Your **Book of Shadows** ^^replaces^^ your Warlock spell list and function as yo
 
 Choose **six** of level 1 or level 2 spells from the Wizard or Warlock spell list. These spells appear in your **Book of Shadows** and function as your new spell list.
 
-**Learning Spells**{.inl} Whenever you gain a Warlock level after 3, add **two** spells from Warlock or Wizard spell list of your choice to your **Book of Shadows**. Each of these spells must be of a level for which you have spell slots, as shown in the Warlock Features table. 
-
 #### Prepared Spells of Level 1+
 
 You prepare the list of level 1+ spells you can cast from your [Expanded Book of Shadow](#expanded-book-of-shadows) instead of the Warlock spell list.
 
+The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table.
+
 #### Changing Your Prepared Spells
 
-Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with spells from your **Book of Shadows**.
+Whenever you finish a **:rest-long: Long Rest**, you can change your list of prepared spells, replacing any of the spells there with spells from your **Book of Shadows**.
+
+#### Learning Spells 
+
+Whenever you gain a Warlock level after 3, add **two** spells from Warlock or Wizard spell list of your choice to your **Book of Shadows**. Each of these spells must be of a level for which you have spell slots, as shown in the Warlock Features table. 
 
 [:class-phb24-warlock: Pact of the Tome]: ../../option/class-options/warlock-invocations/phb24.md#pact-of-the-tome
 

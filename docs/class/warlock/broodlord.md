@@ -19,7 +19,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |:-:|---|
-| 3 | [:spell-lv2: Blindness/Deafness], [:spell-lv2: Ray of Sickness], [:spell-lv1: Sleep], [:spell-lv1: Web] |
+| 3 | [:spell-lv2: Blindness/Deafness], [:spell-lv1: Ray of Sickness], [:spell-lv1: Sleep], [:spell-lv2: Web] |
 | 5 | [:spell-lv3: Slow], [:spell-lv3: Stinking Cloud] |
 | 7 | [:spell-lv4: Dominate Beast], [:spell-lv4: Phantasmal Killer] |
 | 9 | [:spell-lv5: Cloudkill], [:spell-lv5: Dominate Person] |
@@ -32,9 +32,9 @@ This feature lasts for 1 minute or until you end it early (no action required). 
 
 ### Level 6: Venomous Gift
 
-Your patron's lethal poison courses through your magic. When you cast a spell that deals :dmg-posn: Poison damage, it ignores **:dmg-res: Resistance**{ .em } to :dmg-posn: Poison damage and you can add your Charisma modifier to one damage roll of that spell against one of its targets
+Your patron's lethal poison courses through your magic. When you cast a spell that deals **:dmg-posn: Poison**{ .dmg-posn } damage, it ignores **:dmg-res: Resistance**{ .em } to **:dmg-posn: Poison**{ .dmg-posn } damage and you can add your Charisma modifier to one damage roll of that spell against one of its targets
 
-Additionally, You have **:dmg-res: Resistance**{ .em } to :dmg-posn: Poison damage and you have :dmg-imm: Immunity to the Poisoned condition.
+Additionally, You have **:dmg-res: Resistance**{ .em } to **:dmg-posn: Poison**{ .dmg-posn } damage and you have :dmg-imm: Immunity to the Poisoned condition.
 
 ### Level 10: Protect the Hive
 

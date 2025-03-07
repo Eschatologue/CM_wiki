@@ -109,7 +109,7 @@ While active, your **:ui-rage: Rage**{ .em } follows the rules below.
 
 #### Damage Resistance 
 
-You have **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**{ .dmg-phys }, **:dmg-prcg: Piercing**{ .dmg-phys }, and **:dmg-slsh: Slashing**{ .dmg-phys } damage.
+You have **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, and **:dmg-slsh: Slashing**{ .dmg-bps } damage.
 
 #### Rage Damage 
 

@@ -415,10 +415,10 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 ###### Puncture  
-Once per turn, when you hit a creature with an attack that deals **:dmg-prcg: Piercing**{ .dmg-phys } damage, you can reroll one of the attack's damage dice, and you must use the new roll.
+Once per turn, when you hit a creature with an attack that deals **:dmg-prcg: Piercing**{ .dmg-bps } damage, you can reroll one of the attack's damage dice, and you must use the new roll.
 
 ###### Enhanced Critical  
-When you score a Critical Hit that deals **:dmg-prcg: Piercing**{ .dmg-phys } damage to a creature, you can roll one additional damage die when determining the extra **:dmg-prcg: Piercing**{ .dmg-phys } damage the target takes.
+When you score a Critical Hit that deals **:dmg-prcg: Piercing**{ .dmg-bps } damage to a creature, you can roll one additional damage die when determining the extra **:dmg-prcg: Piercing**{ .dmg-bps } damage the target takes.
 
 --- 
 
@@ -449,7 +449,7 @@ You gain the following benefits.
 Increase your Dexterity or Strength score by 1, to a maximum of 20.
 
 ###### Pole Strike  
-Immediately after you take the **:rsc-a: Attack**{ .rsc } action and attack with a Quarterstaff, a Spear, a War Scythe, or a weapon that has the **:wp-prop-heavy: Heavy** and **:wp-prop-reach: Reach** properties, you can use a **:rsc-b: Bonus Action**{ .rsc } to make a melee attack with the opposite end of the weapon. The weapon deals **:dmg-bldg: Bludgeoning**{ .dmg-phys } damage, and the weapon's damage die for this attack is a d4.
+Immediately after you take the **:rsc-a: Attack**{ .rsc } action and attack with a Quarterstaff, a Spear, a War Scythe, or a weapon that has the **:wp-prop-heavy: Heavy** and **:wp-prop-reach: Reach** properties, you can use a **:rsc-b: Bonus Action**{ .rsc } to make a melee attack with the opposite end of the weapon. The weapon deals **:dmg-bldg: Bludgeoning**{ .dmg-bps } damage, and the weapon's damage die for this attack is a d4.
 
 ###### Reactive Strike  
 While you are holding a Quarterstaff, a Spear, a War Scythe, or a weapon that has the **:wp-prop-heavy: Heavy** and **:wp-prop-reach: Reach** properties, you can use a **:rsc-r: Reaction**{ .rsc } to make one melee attack against a creature that enters the reach you have with that weapon.
@@ -599,10 +599,10 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 ###### Hamstring  
-Once per turn, when you hit a creature with an attack that deals **:dmg-slsh: Slashing**{ .dmg-phys } damage, you can reduce that Speed of that creature by 10 feet until the start of your next turn.
+Once per turn, when you hit a creature with an attack that deals **:dmg-slsh: Slashing**{ .dmg-bps } damage, you can reduce that Speed of that creature by 10 feet until the start of your next turn.
 
 ###### Enhanced Critical  
-When you score a Critical Hit that deals **:dmg-slsh: Slashing**{ .dmg-phys } damage to a creature, you can roll one additional damage die when determining the extra **:dmg-slsh: Slashing**{ .dmg-phys } damage the target takes.
+When you score a Critical Hit that deals **:dmg-slsh: Slashing**{ .dmg-bps } damage to a creature, you can roll one additional damage die when determining the extra **:dmg-slsh: Slashing**{ .dmg-bps } damage the target takes.
 
 ---
 

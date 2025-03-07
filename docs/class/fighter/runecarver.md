@@ -57,7 +57,7 @@ The following Runes are available to you when you learn a Rune. If a Rune has a 
 :    This Rune's magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this Rune, you have **:d20-adv: Advantage**{ .d20 } on saves against having the Poisoned condition, and you have **:dmg-res: Resistance** against **:dmg-posn: Poison**{ .dmg-posn } damage.
 
     **Invoke**<br>_1 Rune Charge(s)_
-    :   You can invoke the Rune as a **:rsc-b: Bonus Action**{ .rsc }, gaining **:dmg-res: Resistance** to **:dmg-bldg: Bludgeoning**{ .dmg-phys }, **:dmg-prcg: Piercing**{ .dmg-phys }, and **:dmg-slsh: Slashing**{ .dmg-phys } damage for 1 minute.
+    :   You can invoke the Rune as a **:rsc-b: Bonus Action**{ .rsc }, gaining **:dmg-res: Resistance** to **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, and **:dmg-slsh: Slashing**{ .dmg-bps } damage for 1 minute.
 
 **Storm Rune** <br>_Level 7+_
 :   Using this rune, you can glimpse the future like a storm giant seer. While wearing or carrying an object inscribed with this Rune, you have **:d20-adv: Advantage**{ .d20 } on Arcana checks, and you can't be Surprised as long as you don't have the Incapacitated condition.

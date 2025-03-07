@@ -68,7 +68,7 @@ You can then teleport to an unoccupied space you can see within 5 feet of one of
 **Components:** V, M (a tortoise or turtle shell, or a metal shield)  
 **Duration:** Concentration, up to 1 minute  
 
-You create an distruptive field around yourself. For the duration, Ranged attacks using weapons against you that deals **:dmg-bldg: Bludgeoning**{ .dmg-phys }, **:dmg-prcg: Piercing**{ .dmg-phys }, or **:dmg-slsh: Slashing**{ .dmg-phys } damage have **:d20-dis: Disadvantage**{ .d20 }. You also have **:dmg-res: Resistance** to the aforementioned damage types from Ranged weapons.
+You create an distruptive field around yourself. For the duration, Ranged attacks using weapons against you that deals **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, or **:dmg-slsh: Slashing**{ .dmg-bps } damage have **:d20-dis: Disadvantage**{ .d20 }. You also have **:dmg-res: Resistance** to the aforementioned damage types from Ranged weapons.
 
 > **Classes:** Artificer, Magus, Ranger, Paladin, Wizard
 
