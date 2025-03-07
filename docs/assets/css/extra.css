@@ -191,7 +191,7 @@
 }
 
 /*-------------------------------------------------------
-    Font Styles
+    Base Styles
 -------------------------------------------------------*/
 .jost {
   font-family: var(--heading-font);
@@ -204,17 +204,6 @@
   word-spacing: -0.15rem;
 }
 
-/*-------------------------------------------------------
-    Base Effect
--------------------------------------------------------*/
-.em, .inl, .emq, .rsc, .d20 {
-  color: var(--md-gbl-text-color-strong);
-}
-
-.disable-abbr abbr, .wp abbr, .em abbr, .inl abbr, .emq abbr, .rsc abbr, .d20 abbr {
-  border-bottom: none !important;
-}
-
 .f-lg {
   font-size: calc(var(--gbl-font-size) * 1.25) !important;
 }
@@ -223,12 +212,44 @@
   white-space: nowrap;
 }
 
-.back, .calc, .wp {
-  background-color: var(--md-code-bg-color);
-  box-decoration-break: clone;
-  padding: 0 0.1875em;
-  border-radius: 0.1875em;
-  font-weight: 400 !important;
+/*-------------------------------------------------------
+    Utility Classes
+-------------------------------------------------------*/
+.hide {
+  position: absolute;
+  left: -9999px;
+}
+
+.noborder {
+  border-bottom: none !important;
+  margin: 0 0 -0.5rem 0 !important;
+}
+
+.align-center {
+  text-align: center !important;
+}
+
+.align-right, .author {
+  text-align: right !important;
+}
+
+.vert-middle {
+  vertical-align: middle !important;
+}
+
+.dt-centre dl dt {
+  text-align: center;
+}
+
+/*-------------------------------------------------------
+    Typography & Text Effects
+-------------------------------------------------------*/
+.em, .inl, .rsc, .d20, .emq {
+  color: var(--md-gbl-text-color-strong);
+}
+
+.disable-abbr abbr, .wp abbr, .em abbr, .inl abbr, .rsc abbr, .d20 abbr, .emq abbr {
+  border-bottom: none !important;
 }
 
 .smallcap {
@@ -241,22 +262,15 @@
   vertical-align: -0.1875em;
 }
 table:not([class]) .smallcap {
-  font-size: calc(var(--gbl-font-size)) !important;
-}
-table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
-  font-size: var(--gbl-font-size);
-  vertical-align: -0.1875em;
+  font-size: var(--gbl-font-size) !important;
 }
 
-/*-------------------------------------------------------
-    Specific Typography Variants
--------------------------------------------------------*/
-.d20 :is(.emojione, .twemoji, .gemoji) {
-  vertical-align: -0.1875em;
-}
-
-.wp {
-  background-color: var(--md-default-bg-color-nord0) !important;
+.back, .calc, .wp {
+  background-color: var(--md-code-bg-color);
+  box-decoration-break: clone;
+  padding: 0 0.1875em;
+  border-radius: 0.1875em;
+  font-weight: 400 !important;
 }
 
 .emq {
@@ -273,81 +287,69 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 }
 
 /*-------------------------------------------------------
-    Borders
+    Component-Specific Styles
 -------------------------------------------------------*/
-/* Used with H3 */
-.noborder {
-  border-bottom: none !important;
-  margin: 0 0 -0.5rem 0 !important;
+.d20 :is(.emojione, .twemoji, .gemoji) {
+  vertical-align: -0.1875em;
 }
 
-.hide {
-  position: absolute;
-  left: -9999px;
+.wp {
+  background-color: var(--md-default-bg-color-nord0) !important;
 }
 
 /*-------------------------------------------------------
-    Alignment
+    Indentation & Inline Styling
 -------------------------------------------------------*/
-.align-center {
-  text-align: center !important;
-}
-
-.align-right, .author {
-  text-align: right !important;
-}
-
-.vert-middle {
-  vertical-align: middle !important;
-}
-
-.dt-centre dl dt {
-  text-align: ccenter;
-}
-
-/*-------------------------------------------------------
-    Indentation
--------------------------------------------------------*/
-/* Used in conjuction with .inl */
 .indt {
   text-indent: calc(var(--gbl-font-size) * 1.25 * -1);
   padding-left: calc(var(--gbl-font-size) * 1.25 * 2);
 }
 
-/*-------------------------------------------------------
-    Inline Styles
--------------------------------------------------------*/
 .inl {
   font-weight: 600 !important;
   display: inline-block;
   position: relative;
 }
 
-/* Chevrons */
+/*-------------------------------------------------------
+    Icons & Sizes
+-------------------------------------------------------*/
 .chevron-right::after, .md-tabs__item--active .md-tabs__link::after, .chev-lr::after, .inl::after {
+  content: "»";
   font-style: normal !important;
   font-weight: 400 !important;
-  content: "»";
-  color: var(--md-default-fg-color--light);
+  color: var(--md-default-fg-color--light) !important;
   margin-left: 0.25em;
 }
 
 .chevron-left::before, .md-tabs__item--active .md-tabs__link::before, .chev-lr::before, .inl::before {
+  content: "«";
   font-style: normal !important;
   font-weight: 400 !important;
-  content: "«";
-  color: var(--md-default-fg-color--light);
+  color: var(--md-default-fg-color--light) !important;
   margin-right: 0.25em;
 }
 
-/* Icons */
+.bracket-right::after, .brack-lr::after {
+  content: "]";
+  font-style: normal !important;
+  font-weight: 400 !important;
+  color: var(--md-default-fg-color--light) !important;
+  margin-left: 0.25em;
+}
+
+.bracket-left::before, .brack-lr::before {
+  content: "[";
+  font-style: normal !important;
+  font-weight: 400 !important;
+  color: var(--md-default-fg-color--light) !important;
+  margin-right: 0.25em;
+}
+
 .top-pad :is(.emojione, .twemoji, .gemoji) {
   vertical-align: -0.1875em;
 }
 
-/*-------------------------------------------------------
-    Text Sizes
--------------------------------------------------------*/
 .x4l {
   font-size: calc(var(--gbl-font-size) * 4);
 }
@@ -481,13 +483,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
   .dmg-heal {
     white-space: normal;
   }
-}
-
-/*-------------------------------------------------------
-    Miscellaneous
--------------------------------------------------------*/
-.shrink-bottom {
-  margin-bottom: -0.5625em !important;
 }
 
 /*------------------------------------------------------- 
