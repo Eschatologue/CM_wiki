@@ -200,6 +200,7 @@
 .jetbrains, .dmg-heal, .dmg-phys, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .calc {
   font-size: calc(var(--gbl-font-size) * 0.85);
   font-family: var(--jetbrains);
+  font-weight: 500 !important;
   word-spacing: -0.15rem;
 }
 
@@ -364,7 +365,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 -------------------------------------------------------*/
 .dmg-acid {
   color: hsl(77, 98%, 34%) !important;
-  font-weight: 400 !important;
   white-space: nowrap;
 }
 @media screen and (max-width: 720px) {
@@ -375,7 +375,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 
 .dmg-cold {
   color: hsl(199, 91%, 64%) !important;
-  font-weight: 400 !important;
   white-space: nowrap;
 }
 @media screen and (max-width: 720px) {
@@ -386,7 +385,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 
 .dmg-fire {
   color: hsl(28, 75%, 53%) !important;
-  font-weight: 400 !important;
   white-space: nowrap;
 }
 @media screen and (max-width: 720px) {
@@ -397,7 +395,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 
 .dmg-posn {
   color: hsl(102, 100%, 36%) !important;
-  font-weight: 400 !important;
   white-space: nowrap;
 }
 @media screen and (max-width: 720px) {
@@ -408,7 +405,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 
 .dmg-thun {
   color: hsl(262, 43%, 65%) !important;
-  font-weight: 400 !important;
   white-space: nowrap;
 }
 @media screen and (max-width: 720px) {
@@ -419,7 +415,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 
 .dmg-psyc {
   color: hsl(328, 61%, 66%) !important;
-  font-weight: 400 !important;
   white-space: nowrap;
 }
 @media screen and (max-width: 720px) {
@@ -430,7 +425,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 
 .dmg-lgtn {
   color: hsl(208, 80%, 55%) !important;
-  font-weight: 400 !important;
   white-space: nowrap;
 }
 @media screen and (max-width: 720px) {
@@ -441,7 +435,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 
 .dmg-necr {
   color: hsl(129, 47%, 47%) !important;
-  font-weight: 400 !important;
   white-space: nowrap;
 }
 @media screen and (max-width: 720px) {
@@ -452,7 +445,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 
 .dmg-radi {
   color: hsl(54, 100%, 67%) !important;
-  font-weight: 400 !important;
   white-space: nowrap;
 }
 @media screen and (max-width: 720px) {
@@ -463,7 +455,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 
 .dmg-force {
   color: hsl(4, 100%, 71%) !important;
-  font-weight: 400 !important;
   white-space: nowrap;
 }
 @media screen and (max-width: 720px) {
@@ -474,7 +465,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 
 .dmg-phys {
   color: hsl(219, 28%, 88%) !important;
-  font-weight: 400 !important;
   white-space: nowrap;
 }
 @media screen and (max-width: 720px) {
@@ -485,7 +475,6 @@ table:not([class]) .smallcap :is(.emojione, .twemoji, .gemoji) {
 
 .dmg-heal {
   color: hsl(180, 51%, 60%) !important;
-  font-weight: 400 !important;
   white-space: nowrap;
 }
 @media screen and (max-width: 720px) {
