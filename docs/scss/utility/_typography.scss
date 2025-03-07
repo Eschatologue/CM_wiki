@@ -4,7 +4,7 @@
 @use "../palette/accent";
 
 /*-------------------------------------------------------
-    Font Styles
+    Base Styles
 -------------------------------------------------------*/
 
 .jost {
@@ -18,127 +18,27 @@
     word-spacing: convert.px2rem(-3px);
 }
 
-/*-------------------------------------------------------
-    Base Effect
--------------------------------------------------------*/
-.em {
-    @extend .disable-abbr;
-    color: var(--md-gbl-text-color-strong);
-}
-
-.disable-abbr {
-    abbr {
-        border-bottom: none !important;
-    }
-}
-
 .f-lg {
-    font-size: #{calc(var(--gbl-font-size) * 1.25)} !important;
+    font-size: calc(var(--gbl-font-size) * 1.25) !important;
 }
 
 .nowrap {
     white-space: nowrap;
 }
 
-// Draws background behind text
-.back {
-    background-color: var(--md-code-bg-color);
-    box-decoration-break: clone;
-    padding: 0 convert.px2em(3px);
-    border-radius: convert.px2em(3px);
-    font-weight: 400 !important;
-}
-
-// Convert font to using smallcaps
-.smallcap {
-    :is(.emojione, .twemoji, .gemoji) {
-        font-size: #{var(--gbl-font-size)};
-        vertical-align: convert.px2em(-3px);
-    }
-
-    font-size: #{calc(var(--gbl-font-size) * 1.1)};
-    font-variant: small-caps !important;
-    letter-spacing: calc(var(--gbl-font-size) * 0.04) !important;
-
-    table:not([class]) & {
-        font-size: #{calc(var(--gbl-font-size))} !important;
-
-        :is(.emojione, .twemoji, .gemoji) {
-            font-size: #{var(--gbl-font-size)};
-            vertical-align: convert.px2em(-3px);
-        }
-    }
-}
-
 /*-------------------------------------------------------
-    Specific Typography Variants
+    Utility Classes
 -------------------------------------------------------*/
-
-// Used for d20 test
-.d20 {
-    @extend .em, .nowrap;
-    :is(.emojione, .twemoji, .gemoji) {
-        vertical-align: convert.px2em(-3px);
-    }
-}
-
-// Resouceces, such as Actions, spell slots etc
-.rsc {
-    @extend .em;
-    @extend .nowrap;
-}
-
-// Weapons
-.wp {
-    @extend .back, .nowrap, .disable-abbr;
-    background-color: var(--md-default-bg-color-nord0) !important;
-}
-
-// Used for Calculations
-.calc {
-    @extend .back, .jetbrains;
-}
-
-// Used with .quote
-.emq {
-    @extend .em;
-    font-size: calc(var(--gbl-font-size) * 0.9);
-}
-
-// Paired with .emq
-.quote {
-    color: var(--md-default-fg-color--light) !important;
-    font-size: calc(var(--gbl-font-size) * 0.9);
-    font-weight: 400;
-
-    strong {
-        color: var(--md-default-fg-color--light) !important;
-    }
-}
-
-// Used to attribute Author of a HB
-.author {
-    @extend .quote, .align-right;
-}
-
-/*-------------------------------------------------------
-    Borders
--------------------------------------------------------*/
-
-/* Used with H3 */
-.noborder {
-    border-bottom: none !important;
-    margin: 0 0 #{convert.px2rem(-10px)} 0 !important;
-}
 
 .hide {
     position: absolute;
     left: -9999px;
 }
 
-/*-------------------------------------------------------
-    Alignment
--------------------------------------------------------*/
+.noborder {
+    border-bottom: none !important;
+    margin: 0 0 convert.px2rem(-10px) 0 !important;
+}
 
 .align-center {
     text-align: center !important;
@@ -152,71 +52,169 @@
     vertical-align: middle !important;
 }
 
-.dt-centre {
-    dl {
-        dt {
-            text-align: ccenter;
-        }
-    }
+.dt-centre dl dt {
+    text-align: center;
 }
 
 /*-------------------------------------------------------
-    Indentation
+    Typography & Text Effects
 -------------------------------------------------------*/
 
-/* Used in conjuction with .inl */
-.indt {
-    text-indent: calc((var(--gbl-font-size) * 1.25) * (-1));
-    padding-left: calc((var(--gbl-font-size) * 1.25) * 2);
+.em {
+    @extend .disable-abbr;
+    color: var(--md-gbl-text-color-strong);
+}
+
+.disable-abbr abbr {
+    border-bottom: none !important;
+}
+
+// Small caps effect
+.smallcap {
+    font-size: calc(var(--gbl-font-size) * 1.1);
+    font-variant: small-caps !important;
+    letter-spacing: calc(var(--gbl-font-size) * 0.04) !important;
+
+    :is(.emojione, .twemoji, .gemoji) {
+        font-size: var(--gbl-font-size);
+        vertical-align: convert.px2em(-3px);
+    }
+
+    table:not([class]) & {
+        font-size: var(--gbl-font-size) !important;
+    }
+}
+
+// Highlighted background for text
+.back {
+    background-color: var(--md-code-bg-color);
+    box-decoration-break: clone;
+    padding: 0 convert.px2em(3px);
+    border-radius: convert.px2em(3px);
+    font-weight: 400 !important;
+}
+
+// Quotes and Emphasis
+.emq {
+    @extend .em;
+    font-size: calc(var(--gbl-font-size) * 0.9);
+}
+
+.quote {
+    color: var(--md-default-fg-color--light) !important;
+    font-size: calc(var(--gbl-font-size) * 0.9);
+    font-weight: 400;
+
+    strong {
+        color: var(--md-default-fg-color--light) !important;
+    }
+}
+
+.author {
+    @extend .quote, .align-right;
 }
 
 /*-------------------------------------------------------
-    Inline Styles
+    Component-Specific Styles
 -------------------------------------------------------*/
-.inl {
-    @extend .em, .nowrap, .chev-lr;
 
-    font-weight: 600 !important;
-    display: inline-block;
-    position: relative;
-}
+// Used for d20 test
+.d20 {
+    @extend .em, .nowrap;
 
-/* Chevrons */
-.chevron-right {
-    &::after {
-        font-style: normal !important;
-        font-weight: 400 !important;
-        content: "»";
-        color: var(--md-default-fg-color--light);
-        margin-left: convert.px2em(4px);
-    }
-}
-
-.chevron-left {
-    &::before {
-        font-style: normal !important;
-        font-weight: 400 !important;
-        content: "«";
-        color: var(--md-default-fg-color--light);
-        margin-right: convert.px2em(4px);
-    }
-}
-
-.chev-lr {
-    @extend .chevron-left, .chevron-right;
-}
-
-/* Icons */
-.top-pad {
     :is(.emojione, .twemoji, .gemoji) {
         vertical-align: convert.px2em(-3px);
     }
 }
 
+// Resources, such as Actions, spell slots, etc.
+.rsc {
+    @extend .em, .nowrap;
+}
+
+// Weapons
+.wp {
+    @extend .back, .nowrap, .disable-abbr;
+    background-color: var(--md-default-bg-color-nord0) !important;
+}
+
+// Used for Calculations
+.calc {
+    @extend .back, .jetbrains;
+}
+
 /*-------------------------------------------------------
-    Text Sizes
+    Indentation & Inline Styling
 -------------------------------------------------------*/
 
+// Used in conjunction with .inl
+.indt {
+    text-indent: calc((var(--gbl-font-size) * 1.25) * (-1));
+    padding-left: calc((var(--gbl-font-size) * 1.25) * 2);
+}
+
+// Inline element styling
+.inl {
+    @extend .em, .nowrap, .chev-lr;
+    font-weight: 600 !important;
+    display: inline-block;
+    position: relative;
+}
+
+/*-------------------------------------------------------
+    Icons & Sizes
+-------------------------------------------------------*/
+
+// Mixin for icon-like elements
+@mixin icon-style($content, $margin-side: left) {
+    content: $content;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    color: var(--md-default-fg-color--light) !important;
+
+    @if $margin-side == left {
+        margin-left: convert.px2em(4px);
+    } @else {
+        margin-right: convert.px2em(4px);
+    }
+}
+
+// Chevrons
+.chevron-right::after {
+    @include icon-style("»", left);
+}
+
+.chevron-left::before {
+    @include icon-style("«", right);
+}
+
+// Combined Chevrons
+.chev-lr {
+    @extend .chevron-left;
+    @extend .chevron-right;
+}
+
+// Brackets
+.bracket-right::after {
+    @include icon-style("]", left);
+}
+
+.bracket-left::before {
+    @include icon-style("[", right);
+}
+
+// Combined Brackets
+.brack-lr {
+    @extend .bracket-left;
+    @extend .bracket-right;
+}
+
+.top-pad :is(.emojione, .twemoji, .gemoji) {
+    vertical-align: convert.px2em(-3px);
+}
+
+
+// Text size variations
 .x4l {
     font-size: calc(var(--gbl-font-size) * 4);
 }
@@ -228,6 +226,7 @@
 .x6l {
     font-size: calc(var(--gbl-font-size) * 6);
 }
+
 
 /*-------------------------------------------------------
     Damage Type Dynamic Classes
@@ -260,9 +259,3 @@ $damage-types: (
     }
 }
 
-/*-------------------------------------------------------
-    Miscellaneous
--------------------------------------------------------*/
-.shrink-bottom {
-    margin-bottom: convert.px2em(-9px) !important;
-}
