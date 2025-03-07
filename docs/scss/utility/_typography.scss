@@ -14,6 +14,7 @@
 .jetbrains {
     font-size: calc(var(--gbl-font-size) * 0.85);
     font-family: var(--jetbrains);
+    font-weight: 500 !important;
     word-spacing: convert.px2rem(-3px);
 }
 
@@ -251,7 +252,6 @@ $damage-types: (
     .dmg-#{$type} {
         @extend .jetbrains;
         color: convert.hex3hsl($color) !important;
-        font-weight: 400 !important;
         white-space: nowrap;
 
         @media screen and (max-width: 720px) {
