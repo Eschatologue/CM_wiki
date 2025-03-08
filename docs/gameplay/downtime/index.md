@@ -25,6 +25,7 @@ It's possible for the characters to have two or three rivals at a time, each wit
 The best rivals have a connection with their adversaries on a personal level. Find links in the characters' backstories or the events of recent adventures that explain what sparked the rival's actions. The best trouble to put the characters in is trouble they created for themselves.
 
 ##### Rival
+
 | d20 | Rival |
 |:-:|---|
 | 1 | Tax collector who is convinced the characters are dodging fees |

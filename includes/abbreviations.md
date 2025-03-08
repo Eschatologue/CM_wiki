@@ -18,6 +18,8 @@
 
 *[Difficult Terrain]: Every foot of movement in that space costs double.
 
+*[Expertise]: Your Proficiency Bonus is doubled for this check.
+
 *[STR Save]: Strength saving throw
 *[DEX Save]: Dexterity saving throw
 *[CON Save]: Constitution saving throw

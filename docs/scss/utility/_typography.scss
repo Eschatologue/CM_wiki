@@ -225,17 +225,12 @@
 
 
 // Text size variations
-.x4l {
-    font-size: calc(var(--gbl-font-size) * 4);
+@for $i from 4 through 8 {
+    .x#{$i}l {
+        font-size: calc(var(--gbl-font-size) * #{$i});
+    }
 }
 
-.x5l {
-    font-size: calc(var(--gbl-font-size) * 5);
-}
-
-.x6l {
-    font-size: calc(var(--gbl-font-size) * 6);
-}
 
 
 /*-------------------------------------------------------

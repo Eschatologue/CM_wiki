@@ -3,9 +3,7 @@ search:
   boost: 0.25
 ---
 
-:nation-gallia:{ .x6l }
-
-# Gallia
+# **:nation-gallia:**{ .x8l } <br> **Gallia**{ .chev-lr } { .align-center }
 
 ## Overview
 

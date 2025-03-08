@@ -42,39 +42,43 @@ You can use this **:rsc-r: Reaction**{ .rsc } a number of times up to your Chari
 
 *You've seamlessly blended your innate magic with your skillful bladework.*
 
-The following effects are now among your Cunning Strike options, but, number of Cunning Strike options you know cannot exceed your Proficiency Bonus + 1. 
+You have learn additional Cunning Strike options, which are described in the "Dekrat Special Options" section later in this gimmick's description.
 
-You can change your options when you finish a **:rest-long: Long Rest**.
-
-**Transmute** <br>_Cost: `1d6`_
-:   The attack damage type's becomes to one of the following damage types of your choice: **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn }, or **:dmg-thun: Thunder**{ .dmg-thun }. If this option is used with another Cunning Strike option, the damage type of that option becomes the one chosen in this option instead.
-
-**Serrated Edge** <br>_Cost: `1d6`_
-:   The attack damage type's becomes **:dmg-force: Force**{ .dmg-force } damage. If this option is used with another Cunning Strike option, the damage type of that option becomes **:dmg-force: Force**{ .dmg-force } instead.
-
-**Banishment** <br>_Cost: `2d6`_
-:   You attempt to banish the target to harmless demiplane. It must succeed a **:d20-save: CHA Save**{ .d20 } or it is *Banished*. While *banished* in this way, its Speed is 0, and it has the ^^Incapacitated^^ condition. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
-
-**Cutting Words** <br>_Cost: `2d6`_ 
-:   The attack damage type's becomes **:dmg-psyc: Psychic**{ .dmg-psyc } and the target has **:d20-dis: Disadvantage** on the next D20 Test it makes before the end of its next turn.
-
-**Gag Order** <br>_Cost: `2d6`_
-:   You takes out the target's ability to speak. It must succeed a **:d20-save: CON Save**{ .d20 } or it has the ^^Silenced^^ condition. At the end of each of its turns, it repeats the save, ending the effect on itself on a success.
-
-**Blitz** <br>_Cost: `2d6`_
-:   After hitting the target with a Melee attack, you Teleport up to 30 feet to an unoccupied space you can see.
-
-**Flay Skin** <br>_Cost: `3d6`_
-:   The attack damage type's becomes **:dmg-necr: Necrotic**{ .dmg-necr } and the target must succeed a **:d20-save: CON Save**{ .d20 } or it has **:dmg-vul: Vulnerability** to the damage type dealt on the attack. At the end of each of its turns, it repeats the save, ending the effect on itself on a success.
-
-**Aftershock** <br>_Cost: `3d6`_
-:    The attack damage type's becomes **:dmg-thun: Thunder**{ .dmg-thun } and the target is surounded by booming energy. <br>Until the start of your next turn, the target takes **1d6 :dmg-thun: Thunder**{ .dmg-thun } damage for every 10 feet it willingly move.
-
-**Flare Burst** <br>_Cost: `3d6`_
-:    The attack damage type's becomes **:dmg-fire: Fire**{ .dmg-fire } and each creature within **15-foot :aoe-cone: Cone** ^^originating from the target^^ makes a **:d20-save: DEX Save**{ .d20 }, taking **(Total damage roll) :dmg-fire: Fire**{ .dmg-fire } damage on a failed save or half as much on a successful one. 
+When you finish a **:rest-long: Long Rest** you can change the list of Cunning Stike Options you know, choosing from this list or what's available on the Rogue's Class. The number of Cunning Strike Options you can have at any given time can't exceed cannot exceed your `Proficiency Bonus + 1`.
 
 ### Level 7: Sorcerous Restoration
 
 Your innate magic helps you recover your focus more quickly. When you finish a **:rest-short: Short Rest**, you regain **one** expended use of your *Sorcerous Focus*.  
 
 Additionally, while your *Sorcerous Focus* is active, You can apply two **Cunning Strike** option when you deal Sneak Attack damage.
+
+### Dekrat's Special Options
+
+Dekrat's Special options appear in alphabetical and level requirement order.
+
+**Transmute** <br>_Level 5+ Rogue_ <br>_Cost: `1d6`_
+:   The attack damage type's becomes to one of the following damage types of your choice: **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn }, or **:dmg-thun: Thunder**{ .dmg-thun }. If this option is used with another Cunning Strike option, the damage type of that option becomes the one chosen in this option instead.
+
+**Cutting Words** <br>_Level 5+ Rogue_ <br>_Cost: `2d6`_ 
+:   The attack damage type's becomes **:dmg-psyc: Psychic**{ .dmg-psyc } and the target has **:d20-dis: Disadvantage** on the next D20 Test it makes before the end of its next turn.
+
+**Gag Order** <br>_Level 5+ Rogue_ <br>_Cost: `2d6`_
+:   You takes out the target's ability to speak. It must succeed a **:d20-save: CON Save**{ .d20 } or it has the ^^Silenced^^ condition. At the end of each of its turns, it repeats the save, ending the effect on itself on a success.
+
+**Blitz** <br>_Level 5+ Rogue_ <br>_Cost: `2d6`_
+:   After hitting the target with a Melee attack, you Teleport up to 30 feet to an unoccupied space you can see.
+
+**Serrated Edge** <br>_Level 7+ Rogue_ <br>_Cost: `1d6`_
+:   The attack damage type's becomes **:dmg-force: Force**{ .dmg-force } damage. If this option is used with another Cunning Strike option, the damage type of that option becomes **:dmg-force: Force**{ .dmg-force } instead.
+
+**Banishment** <br>_Level 7+ Rogue_ <br>_Cost: `2d6`_
+:   You attempt to banish the target to ~~Cibubur~~ a harmless demiplane. It must succeed a **:d20-save: CHA Save**{ .d20 } or it is *Banished*. While *banished* in this way, its Speed is 0, and it has the ^^Incapacitated^^ condition. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
+
+**Aftershock** <br>_Level 7+ Rogue_ <br>_Cost: `3d6`_
+:    The attack damage type's becomes **:dmg-thun: Thunder**{ .dmg-thun } and the target is surounded by booming energy. <br>Until the start of your next turn, the target takes **1d6 :dmg-thun: Thunder**{ .dmg-thun } damage for every 10 feet it willingly move.
+
+**Flay Skin** <br>_Level 9+ Rogue_ <br>_Cost: `2d6`_
+:   The attack damage type's becomes **:dmg-necr: Necrotic**{ .dmg-necr } and the target must succeed a **:d20-save: CON Save**{ .d20 } or it has **:dmg-vul: Vulnerability** to the damage type dealt on the attack. At the end of each of its turns, it repeats the save, ending the effect on itself on a success.
+
+**Flare Burst** <br>_Level 9+ Rogue_ <br>_Cost: `3d6`_
+:    The attack damage type's becomes **:dmg-fire: Fire**{ .dmg-fire } and each creature within **15-foot :aoe-cone: Cone** ^^originating from the target^^ makes a **:d20-save: DEX Save**{ .d20 }, taking **(Total damage roll) :dmg-fire: Fire**{ .dmg-fire } damage on a failed save or half as much on a successful one. 

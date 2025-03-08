@@ -18,30 +18,6 @@ Each weapon has a Mastery property, which is usable only by a character who has 
 To give more options for martial classess, the folowing homebrew rules are implemented.
 
 
-<!---
-
-<div class="grid" markdown>
-
-| Weapon Type | Eligible Mastery |
-|---|---|
-| Light melee | **:wp-mas: Agile**{ .wp }, **:wp-mas: Flurry**{ .wp }, **:wp-mas: Nick**{ .wp }, **:wp-mas: Vex**{ .wp } |
-| Medium melee[^1] | **:wp-mas: Brace**{ .wp }, **:wp-mas: Expose**{ .wp }, **:wp-mas: Push**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Topple**{ .wp } |
-| Heavy melee | **:wp-mas: Brace**{ .wp }, **:wp-mas: Cleave**{ .wp }, **:wp-mas: Graze**{ .wp }, **:wp-mas: Push**{ .wp }, **:wp-mas: Topple**{ .wp } |
-
-| Weapon Type | Eligible Mastery |
-|---|---|
-| Ranged | **:wp-mas: Expose**{ .wp }, **:wp-mas: Sap**{ .wp }, **:wp-mas: Slow**{ .wp }, **:wp-mas: Vex**{ .wp } |
-| Heavy ranged | **:wp-mas: Brace**{ .wp }, **:wp-mas: Push**{ .wp } |
-| Automatic ranged | **:wp-mas: Spray**{ .wp }[^2], **:wp-mas: Tap**{ .wp } |
-
-</div>
-
-[^1]: Melee Weapons that lacks both **:wp-prop-light: Light**{ .wp } and **:wp-prop-heavy: Heavy**{ .wp } property
-
-[^2]: Must have **:wp-prop-reload: Reload (8+)**{ .wp } property
-
---->
-
 ### Replaceable Weapon Mastery  
 
 When selecting weapons for Weapon Mastery, you can also **replace the Mastery property** of any weapon you are using with another eligible property. For example, you could change a Longsword’s **:wp-mas: Sap**{ .wp } property to **:wp-mas: Flex**{ .wp }.  
