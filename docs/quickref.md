@@ -21,7 +21,7 @@ icon: material/fast-forward
 
     ---
 
-    **Damage Roll**{ .inl }  
+    **Damage Roll**{ .chev-lr }  
     When an attack or attempt to harm is successful, the creature often makes a Damage Roll to determine how much damage it causes to its target.   
 
     `Damage Die + Ability Modifier + other Bonuses`
@@ -45,7 +45,7 @@ icon: material/fast-forward
 
     ---
 
-    **Skill Check**{ .inl }  
+    **Skill Check**{ .chev-lr }  
     Skill checks are Ability Checks made using skills (e.g. Perception, Intimidation, History, etc)
 
     `D20 + Ability Modifier + PB (if proficient) + other Bonuses`
@@ -57,19 +57,19 @@ icon: material/fast-forward
 
 ---
 
-**:material-shield:{ .xl } <br>Armour Class**
+**:material-shield:{ .xl .align-center } <br>Armour Class**
 
-:   **Base AC:** `10 + Dex modifier`
+:   **Base AC:** `10 + DEX modifier`
 
-    **Light Armour:** `Armour's AC + Dex modifier`
+    **Light Armour:** `Armour's AC + DEX modifier`
 
-    **Medium Armour:** `Armour's AC + Dex modifier (max 2)`
+    **Medium Armour:** `Armour's AC + DEX modifier (max 2)`
 
     **Heavy Armour:** A`rmour's AC`
 
 ---
 
-**:material-eye-plus:{ .xl } <br>Passive Perception**
+**:material-eye-plus:{ .xl .align-center } <br>Passive Perception**
 
 :   `10 + Wisdom (Perception) check bonus`
 
@@ -86,37 +86,37 @@ icon: material/fast-forward
 
     <div class="grid cards" markdown>
 
-    - #### Move { .inl }
+    - #### Move { .chev-lr }
 
         **Cost:** *5 ft. per tile* / *10 ft. per tile (Difficult Terrain)*
 
         Change your position.
 
-    - #### Prone { .inl }
+    - #### Prone { .chev-lr }
 
         **Cost:** *none*
 
         Give yourself the ^^Prone^^ condition.
 
-    - #### Stand Up { .inl }
+    - #### Stand Up { .chev-lr }
 
         **Cost:** *half your max __:rsc-spd: Speed__*
 
         End the ^^Prone^^ condition
 
-    - #### Climb { .inl }
+    - #### Climb { .chev-lr }
 
         **Cost:** *10 ft. per tile*
 
         Scale a vertical surface. 
 
-    - #### Swim { .inl }
+    - #### Swim { .chev-lr }
 
         **Cost:** *10 ft. per tile*
 
         Move on deep liquid. 
 
-    - #### Move while Grappling { .inl }
+    - #### Move while Grappling { .chev-lr }
     
         _**Modifier:** :rsc-spd: Speed is halved_
 
@@ -130,52 +130,52 @@ icon: material/fast-forward
 
     <div class="grid cards" markdown>
 
-    - #### **:material-sword-cross: Attack**{ .inl } 
+    - #### :material-sword-cross: Attack { .chev-lr } 
+        
+        Perform a Melee or Ranged attack with your weapon or perform **:rsc-a: Unarmed Strike**{ .rsc }.
 
-        Perform a Melee or Ranged attack with your weapon or perform Unarmed Strike.
-
-    - #### **:action-dash: Dash**{ .inl }
+    - #### **:action-dash: Dash**{ .chev-lr }
 
         For the rest of the turn, give yourself extra Movement equal to your **:rsc-spd: Speed**.
 
-    - #### **:material-arrange-send-to-back: Disengage**{ .inl } 
+    - #### **:material-arrange-send-to-back: Disengage**{ .chev-lr } 
 
-        Your Movement doesn't provoke Opportunity Attack for the rest of the turn.
+        Your Movement doesn't provoke **:rsc-r: Opportunity Attack**{ .rsc } for the rest of the turn.
 
-    - #### **:material-arrow-expand: Dodge**{ .inl } 
+    - #### **:material-arrow-expand: Dodge**{ .chev-lr } 
 
         Focus entirely on avoiding attacks.  
         Attack Rolls against you have **:d20-dis: Disadvantage**{ .d20 } & you have **:d20-adv: Advantage**{ .d20 } on **:d20-save: DEX Save**
         
-    - #### **:material-handshake: Help**{ .inl } 
+    - #### **:material-handshake: Help**{ .chev-lr } 
 
         Give **:d20-adv: Advantage**{ .d20 } on another creature's Ability Check or Attack Roll.
 
-    - #### **:action-hide: Hide**{ .inl }
+    - #### **:action-hide: Hide**{ .chev-lr }
 
         Make a DC 15 Dexterity (Stealth) check. Gain Invisible condition on success.
 
-    - #### **:material-translate-variant: Influence**{ .inl }
+    - #### **:material-translate-variant: Influence**{ .chev-lr }
 
         Make a Charisma (Deception, Intimidation, Performance, or Persuasion) or Wisdom (Animal Handling) check to alter a creature's attitude.
 
-    - #### **:material-spa: Magic**{ .inl }
+    - #### **:material-spa: Magic**{ .chev-lr }
 
         Cast a spell that has a casting time of an Action or use a feature or magic item that requires a Magic action to be activated. 
 
-    - #### **:material-timer-alert: Ready**{ .inl }
+    - #### **:material-timer-alert: Ready**{ .chev-lr }
 
         Prepare to take an action or Move in response to a trigger you define.
 
-    - #### **:material-magnify: Search**{ .inl }
+    - #### **:material-magnify: Search**{ .chev-lr }
 
         Make a Wisdom (Insight, Medicine, Perception, or Survival) check to discern something that isn't obvious.
 
-    - #### **:material-book-clock: Study**{ .inl }
+    - #### **:material-book-clock: Study**{ .chev-lr }
 
         Make an Intelligence (Arcana, History, Investigation, Nature, or Religion) check to call to mind an important piece of information about it.
     
-    - #### **:material-cog-box: Utilise**{ .inl }
+    - #### **:material-cog-box: Utilise**{ .chev-lr }
         
         Use a nonmagical object, equip Shield.
 
@@ -187,15 +187,15 @@ icon: material/fast-forward
 
     <div class="grid cards" markdown>
 
-    - #### :material-sword-cross: Off-Hand Attack { .inl }
+    - #### :material-sword-cross: Off-Hand Attack { .chev-lr }
 
         If you attack with a **:wp-prop-light: Light weapon** weapon, you can make one Extra Attack with a different **:wp-prop-light: Light weapon** weapon. Ability modifier is not added to damage roll (unless negative).
 
-    - #### :fontawesome-solid-hand-sparkles: Cast a Spell { .inl }
+    - #### :fontawesome-solid-hand-sparkles: Cast a Spell { .chev-lr }
 
         Cast a spell with a casting time of a **:rsc-b: Bonus Action**{ .rsc }.
 
-    - #### :simple-sparkfun: Use a Feature { .inl }
+    - #### :simple-sparkfun: Use a Feature { .chev-lr }
 
         Activate a feature (e.g, Class feature, Species feature) that uses a a **:rsc-b: Bonus Action**{ .rsc }.
 
@@ -207,25 +207,25 @@ icon: material/fast-forward
 
     <div class="grid cards" markdown>
 
-    - #### Opportunity Attack { .inl }
+    - #### Opportunity Attack { .chev-lr }
 
         _**Trigger:** a Creature leaves your reach_
 
         Make one Melee attack against the triggering creature.
 
-    - #### Readied Action { .inl }
+    - #### Readied Action { .chev-lr }
 
         _**Trigger:** specified by your **:rsc-a: Ready**{ .rsc } action_
 
         Execute the reaction specified by your **:rsc-a: Ready**{ .rsc } action.
 
-    - #### :fontawesome-solid-hand-sparkles: Cast a Spell { .inl }
+    - #### :fontawesome-solid-hand-sparkles: Cast a Spell { .chev-lr }
 
         _**Trigger:** specified by the spell_
 
         Cast a spell with a casting time of a **:rsc-r: Reaction**{ .rsc }.
 
-    - #### :simple-sparkfun: Use a Feature { .inl }
+    - #### :simple-sparkfun: Use a Feature { .chev-lr }
 
         _**Trigger:** specified by the feature_
         

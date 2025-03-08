@@ -24,7 +24,7 @@ As a **:rsc-b: Bonus Action**, you gain the following benefits for 1 minute:
 
 - You have **:d20-adv: Advantage** on Wisdom, Intelligence, and Charisma saving throws against spells and other magical effect.
 - You can't have **:d20-adv: Disadvatage** on Dexterity-based weapon attacks.
-- You are under the effect of [:spell-lv1: Detect Magic](../../spells/description/core/level-1.md#detect-magic) spell.
+- You are under the effect of [:spell-lv1: Detect Magic](../../spells/description/core/level-1.md#detect-magic) spell. This does not require Concentration, though it's only active for 1 minute.
 
 You can use this feature **twice** without suffering adverse effects. Each additional use before a **:rest-long: Long Rest** imposes 1 level of ^^Exhaustion^^.
 

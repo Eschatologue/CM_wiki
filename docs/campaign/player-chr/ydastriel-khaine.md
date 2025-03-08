@@ -24,7 +24,7 @@ Your growing understanding of the Spires and their role in Antares has granted y
 
 When you activate your Starry Form, you can choose one Resonance to empower it, gaining a form-specific benefit tied to your chosen constellation. If you haven't chosen a Resonance when activating your Starry Form, you can do so later as a **:rsc-b: Bonus Action**{ .rsc }.
 
-You can use this feature **twice**. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. You gain an additional use of this feature when you reach level **6** and again at level **17**.
+You can use this feature **twice**. You regain one expended use when you finish a **:rest-short: Short Rest**, and all expended uses when you finish a **:rest-long: Long Rest**. You gain an additional use of this feature when you reach level **6** (3 uses) and again at level **17** (4 uses).
 
 === "Resonance of Destruction"
 
