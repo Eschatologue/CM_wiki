@@ -366,6 +366,14 @@ table:not([class]) .smallcap {
   font-size: calc(var(--gbl-font-size) * 6);
 }
 
+.x7l {
+  font-size: calc(var(--gbl-font-size) * 7);
+}
+
+.x8l {
+  font-size: calc(var(--gbl-font-size) * 8);
+}
+
 /*-------------------------------------------------------
     Damage Type Dynamic Classes
 -------------------------------------------------------*/
