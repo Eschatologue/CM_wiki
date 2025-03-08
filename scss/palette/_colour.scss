@@ -1,0 +1,78 @@
+@use "sass:color";
+@use "sass:list";
+@use "./accent";
+@use "../utility/convert";
+
+/*------------------------------------------------------- 
+    Colours
+--------------------------------------------------------*/
+
+$defaultHue: 215;
+
+[data-md-color-scheme="slate"] {
+    --md-hue: #{$defaultHue}; // Primary hue for Slate scheme
+
+    --nord-h: 216;
+    --nord-s: 15%;
+    --nord-l: 16%;
+}
+
+/* Standard Material Colour */
+
+@each $name,
+    $colors
+        in (
+            "red": accent.$nord-red,
+            "pink": accent.$nord-pink,
+            "green": accent.$nord-green,
+            "yellow": accent.$nord-yellow,
+            "orange": accent.$nord-orange,
+            "indigo": accent.$nord-indigo,
+            "teal": accent.$nord-teal,
+            "frost1": accent.$nord-frost1
+        )
+{
+    // Colour palette for each primary theme
+    [data-md-color-scheme="slate"][data-md-color-primary="#{$name}"] {
+        /* Global Text Colour */
+        --md-gbl-text-color: #{accent.$nord-snow1-pale};
+        --md-gbl-text-color-strong: #{accent.$nord-snow1};
+
+        /* Primary Colour Variants */
+        --md-primary-fg-color: hsla(#{convert.hex2hsl(list.nth($colors, 1))}, 1);
+        --md-primary-fg-color--light: hsla(#{convert.hex2hsl(color.adjust(list.nth($colors, 1), $lightness: 7.5%))}, 1);
+        --md-primary-fg-color--dark: hsla(#{convert.hex2hsl(color.adjust(list.nth($colors, 1), $lightness: -7.5%))}, 1);
+
+        --md-primary-fg-color--transparent: hsla(#{convert.hex2hsl(list.nth($colors, 1))}, 0.1);
+        --md-primary-fg-color--light--transparent: hsla(#{convert.hex2hsl(color.adjust(list.nth($colors, 1), $lightness: 7.5%))}, 0.1);
+
+        /* Accemt Colour Variants */
+        --md-accent-fg-color: var(--md-primary-fg-color);
+
+        /* Background Colours */
+        --md-default-bg-color: #{accent.$nord-polar0-dark}; /* Main Background Colour*/
+        --md-default-bg-color-nord0: #{accent.$nord-polar0};
+
+        /* Transparent White Colour */
+        --md-default-wht--0125: hsla(0, 0%, 100%, 0.125);
+        --md-default-wht--025: hsla(0, 0%, 100%, 0.25);
+        --md-default-wht--050: hsla(0, 0%, 100%, 0.5);
+
+        --md-default-blk--0125: hsla(0, 0%, 0%, 0.125);
+        --md-default-blk--025: hsla(0, 0%, 0%, 0.25);
+        --md-default-blk--050: hsla(0, 0%, 0%, 0.5);
+
+        /* Link and Secondary Colours */
+        --md-primary-bg-color: var(--md-default-bg-color);
+        --md-primary-bg-color-light: var(--md-default-bg-color--light);
+
+        // --md-gbl-link-color: #{accent.$nord-frost2};
+        --md-gbl-link-color: var(--md-primary-fg-color--light);
+
+        /* Typeset `a` color shades */
+        --md-typeset-a-color: var(--md-gbl-link-color);
+
+        /* Code */
+        --md-code-bg-color: var(--md-default-bg-color-nord0);
+    }
+}
