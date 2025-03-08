@@ -22,4 +22,12 @@ You gain proficiency in one skill of your choice.
 
 ### Versatile
 
-You gain an [:option-feat-origin: Origin feat](../../../option/feat/feat-origin/index.md) of your choice. [:option-feat-origin: Skilled](../../../option/feat/feat-origin/phb24.md#skilled) is recommended.
+You gain an [:option-feat-origin: Origin feat](../../../option/feat/feat-origin/index.md) of your choice. [:option-feat-origin: Skilled] is recommended.
+
+!!! tip "All humans are Magical"
+
+    In Crown & Misery setting, most, if not all humans are suffused with magic. The [:option-feat-origin: Sorcerous Spark] or [:option-feat-origin: Magic Initiate] is recommended.
+
+[:option-feat-origin: Skilled]: ../../../option/feat/feat-origin/phb24.md#skilled
+[:option-feat-origin: Sorcerous Spark]: ../../../option/feat/feat-origin/hb#sorcerous-spark
+[:option-feat-origin: Magic Initiate]: ../../../option/feat/feat-origin/phb24.md#magic-initiate

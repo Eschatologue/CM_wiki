@@ -3,9 +3,7 @@ search:
   boost: 0.25
 ---
 
-:nation-kamikaze:{ .x6l } :nation-tianming:{ .x6l } :nation-urga:{ .x6l }
-
-# Karakorum  
+# **:nation-kamikaze:**{ .x6l } <br>**:nation-tianming:**{ .x6l } **:nation-urga:**{ .x6l } <br>**Karakorum** { .chev-lr }  
 
 ## Overview
 

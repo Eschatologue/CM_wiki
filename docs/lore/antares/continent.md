@@ -65,11 +65,39 @@ The greatest threat to exploration comes from the **swarms of aberrations**—el
 ## Bleak World and Glimmers of Hope  
 
 *"The world has ended twice. And yet, we are still here."*  
-– Unknown traveller, Antares  
+– Unknown traveller  
 { .quote }  
 
 Life in Antares is defined by struggle. Civilisations battle not only the horrors beyond their walls, but also the fractures within—wars, rebellions, and unrest that threaten to finish what the Maelstorms began.  
 
 And yet, there is hope. Amidst the darkness, people continue to fight, to build, to seek meaning in a world that refuses to die. The past may be buried, the future uncertain, but in the present, there are those who refuse to be swallowed by despair.  
 
-Their defiance alone ensures that Antares endures.
+## Life 
+
+### Biology  
+
+Antares is primarily inhabited by various humanoid races collectively known as the *Ancient*, including Elves, Dwarves, Halflings, Gnomes, and, most commonly, Humans. However, scholars of Gallia distinguish *London Humans* as a separate category, referring to them as *Abhumans*, though the exact nature of this distinction remains a subject of debate.  
+
+Long before the rise of these mortal races, god-like beings or dragons known as the *Aeginae* roamed the land. Their sudden and mysterious disappearance thousands of years ago remains one of history’s greatest enigmas. Now, most *Ancient* and *Abhumans* reside within the fortified *Citadel Cities*, shielded from the horrors of the wilderness, where Aberrations lurk, ever hungry for mortal prey.  
+
+### Civilisation  
+
+Traces of pre-*Ancient* civilisations are scarce, their histories all but erased by time and catastrophe. However, scattered ruins and enigmatic artifacts hint at an even older society known as the *Precursors*, believed to have originated from a place called **Eridu**. Their fate is shrouded in mystery, but scholars theorize that the First Maelstrom—the apocalyptic event that nearly extinguished all life—was tied to their downfall.  
+
+#### Politics  
+
+Antares’ political landscape is a fragile web of alliances and rivalries, with governments ranging from republics and theocracies to absolute monarchies. Diplomatic efforts strive to prevent another cataclysmic war, yet tensions persist.  
+
+The recent *Dwarvish-London War* serves as a stark reminder of this precarious balance. In its wake, various factions—official, private, and clandestine—seek to maintain stability or exploit the chaos. Yet, for most nations, survival takes precedence over conquest, as the ever-present threat of Aberrations keeps them focused inward.  
+
+#### Technology 
+
+Technology in Antares varies drastically between regions. Some nations still rely on horse-drawn transport, while others harness the power of *Voidite*—a mysterious and potent energy source—to fuel aircraft and other advanced machinery.  
+
+Magic, though present, is not equally accessible. Its usage and development depend heavily on geography and tradition. In Gallia, magic is a refined scholarly pursuit, while Myrkheim artisans craft intricate *runic gadgets*. The archers of Valinor wield enchanted bows, and London’s gunsmiths produce sophisticated firearms, each shaping their respective nations' military doctrines.  
+
+#### Weapons & Warfare  
+
+Cold weapons—swords, spears, shields, and bows—remain the primary tools of war across Antares, though advancements in magic and technology supplement traditional combat.  
+
+Larger war engines, such as *Dreadnoughts*, stride across battlefields, and arcane conduits—devices like *arcane fusils* and *wands*—serve as force multipliers. Firearms and explosives, though rare outside Albion, are gaining notoriety, while explosives have seen broader adoption across many battlefields.  
