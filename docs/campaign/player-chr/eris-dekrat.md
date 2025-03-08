@@ -70,6 +70,9 @@ Dekrat's Special options appear in alphabetical and level requirement order.
 **Blitz** <br>_Level 5+ Rogue_ <br>_Cost: `2d6+`_
 :   After hitting the target with a ^^Melee attack^^, you Teleport up to 30 feet to an unoccupied space you can see. The distance you teleport increases by 30 feet for each additional `2d6` you forgo: `4d6` (60 feet), `6d6` (90 feet), `8d6` (120 feet) and the maximum of `10d6` (150 feet).
 
+**Flay Skin** <br>_Level 5+ Rogue_ <br>_Cost: `3d6`_
+:   The attack damage type's becomes **:dmg-necr: Necrotic**{ .dmg-necr } and the target must succeed a **:d20-save: CON Save**{ .d20 } or it has **:dmg-vul: Vulnerability** to **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, and **:dmg-slsh: Slashing**{ .dmg-bps } damage. At the end of each of its turns, it repeats the save, ending the effect on itself on a success.
+
 **Nether Swap** <br>_Level 7+ Rogue_ <br>_Cost: `3d6`_
 :   You attempt to switch position with the target. It must succeed a **:d20-save: CHA Save**{ .d20 } or the target instantly appears in your space, while you appears in the target's space.
 
@@ -81,9 +84,6 @@ Dekrat's Special options appear in alphabetical and level requirement order.
 
 **Banishment** <br>_Level 7+ Rogue_ <br>_Cost: `4d6`_
 :   You attempt to banish the target to ~~Cibubur~~ a harmless demiplane. It must succeed a **:d20-save: CHA Save**{ .d20 } or it is *Banished*. While *banished* in this way, its **:rsc-spd: Speed** is 0, and it has the ^^Incapacitated^^ condition. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
-
-**Flay Skin** <br>_Level 9+ Rogue_ <br>_Cost: `2d6`_
-:   The attack damage type's becomes **:dmg-necr: Necrotic**{ .dmg-necr } and the target must succeed a **:d20-save: CON Save**{ .d20 } or it has **:dmg-vul: Vulnerability** to the damage type dealt on the attack. At the end of each of its turns, it repeats the save, ending the effect on itself on a success.
 
 **Flare Burst** <br>_Level 9+ Rogue_ <br>_Cost: `3d6`_
 :    The attack damage type's becomes **:dmg-fire: Fire**{ .dmg-fire } and each creature within **15-foot :aoe-cone: Cone** ^^originating from the target^^ makes a **:d20-save: DEX Save**{ .d20 }, taking **(Total damage roll) :dmg-fire: Fire**{ .dmg-fire } damage on a failed save or half as much on a successful one. 
