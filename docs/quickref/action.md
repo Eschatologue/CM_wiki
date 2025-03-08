@@ -5,13 +5,15 @@ search:
 
 <!-- --8<-- [start:quickref-action] -->
 
+#### Action { .hide }
+
 !!! action "Action"
 
     <div class="grid cards" markdown>
 
-    - #### :material-sword-cross: Attack { .chev-lr } 
+    **:material-sword-cross: Attack**
         
-        Perform a Melee or Ranged attack with your weapon or perform **:rsc-a: Unarmed Strike**{ .rsc }.
+    :   Perform a Melee or Ranged attack with your weapon or perform **:rsc-a: Unarmed Strike**{ .rsc }.
 
     - #### **:action-dash: Dash**{ .chev-lr }
 
