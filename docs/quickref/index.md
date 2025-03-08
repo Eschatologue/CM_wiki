@@ -124,4 +124,4 @@ icon: material/fast-forward
 
     </div>
 
---8<-- "docs/quickref/action.md:quickref-action
+--8<-- "docs/quickref/action.md:quickref-action"

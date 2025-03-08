@@ -148,7 +148,8 @@ nav:
         - Work: gameplay/downtime/work.md
     - Glossaries: 
       - Rule Glossary: glossary.md
-      - Quick Reference: quickref/index.md
+      - Quick Reference: 
+        - quickref/index.md
 #    - Icconography : iconography.md
   - Character Creation:
     - Create Your Character: chr-creation/create-your-character.md
