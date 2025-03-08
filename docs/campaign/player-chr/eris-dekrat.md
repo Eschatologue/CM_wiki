@@ -85,8 +85,8 @@ Dekrat's Special options appear in alphabetical and level requirement order.
 **Banishment** <br>_Level 7+ Rogue_ <br>_Cost: `4d6`_
 :   You attempt to banish the target to ~~Cibubur~~ a harmless demiplane. It must succeed a **:d20-save: CHA Save**{ .d20 } or it is *Banished*. While *banished* in this way, its **:rsc-spd: Speed** is 0, and it has the ^^Incapacitated^^ condition. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
 
-**Flare Burst** <br>_Level 9+ Rogue_ <br>_Cost: `3d6`_
-:    The attack damage type's becomes **:dmg-fire: Fire**{ .dmg-fire } and each creature within **15-foot :aoe-cone: Cone** ^^originating from the target^^ makes a **:d20-save: DEX Save**{ .d20 }, taking **(Total damage roll) :dmg-fire: Fire**{ .dmg-fire } damage on a failed save or half as much on a successful one. 
-
-**Closed Circuit** <br>_Level 9+ Rogue_ <br>_Cost: `4d6`_
+**Closed Circuit** <br>_Level 9+ Rogue_ <br>_Cost: `3d6`_
 :   The attack damage type's becomes **:dmg-lgtn: Lightning**{ .dmg-lgtn } and each creature in a **15-foot :aoe-sphere: Sphere** originating from you must succeed a **:d20-save: CON Save**{ .d20 }, or take **(Total damage roll) :dmg-lgtn: Lightning**{ .dmg-lgtn } and its **:rsc-spd: Speed** becomes 0 until the start of your next turn (only half damage on success). 
+
+**Flare Burst** <br>_Level 9+ Rogue_ <br>_Cost: `4d6`_
+:    The attack damage type's becomes **:dmg-fire: Fire**{ .dmg-fire } and each creature within **15-foot :aoe-cone: Cone** ^^originating from the target^^ makes a **:d20-save: DEX Save**{ .d20 }, taking **(Total damage roll) :dmg-fire: Fire**{ .dmg-fire } damage on a failed save or half as much on a successful one. 
