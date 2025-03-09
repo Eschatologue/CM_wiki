@@ -8,9 +8,9 @@ These Fighting Style Feature are homebrew.
 
 ### Gallian Swordplay
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{ .fg-light }
 
-While wielding a [:wp-prop-finesse: Finesse] weapon and no other weapon, you gain a +2 bonus to your attack rolls with the weapon and +1 to your AC. 
+While wielding a **:wp-prop-finesse: Finesse**{ .wp } weapon and no other weapon, you gain a +2 bonus to your attack rolls with the weapon and +1 to your AC. 
 
 You only gain these benefits so long you are not wearing Heavy Armour or wielding Shield.
 
@@ -18,17 +18,17 @@ You only gain these benefits so long you are not wearing Heavy Armour or wieldin
 
 ### Heavy Weapon Fighting
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{ .fg-light }  
 
-When you make an attack with a [:wp-prop-heavy: Heavy] Cold Weapon as part of your **:rsc-a: Attack**{ .rsc } action and the total damage roll from your weapon is 5 or lower, you treat it as 6
+When you make an attack with a **:wp-prop-heavy: Heavy**{ .wp } Cold Weapon as part of your **:rsc-a: Attack**{ .rsc } action and the total damage roll from your weapon is 5 or lower, you treat it as 6
 
 --- 
 
 ### Lightweight Fighting
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{ .fg-light }  
 
-While you are wielding only [:wp-prop-light: Light] weapons, and nothing else, your **:rsc-spd: Speed**{ .rsc } increases by 10 feet. You also gain a +1 bonus to damage rolls with [:wp-prop-light: Light] weapons.
+While you are wielding only **:wp-prop-light: Light**{ .wp } weapons, and nothing else, your **:rsc-spd: Speed** increases by 10 feet. You also gain a +1 bonus to damage rolls with **:wp-prop-light: Light**{ .wp } weapons.
 
 You only gain these benefits so long as you are not wearing Medium or Heavy armor, or wielding a Shield
 
@@ -36,7 +36,7 @@ You only gain these benefits so long as you are not wearing Medium or Heavy armo
 
 ### Martial Adept
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{ .fg-light }
 
 You have studied combat techniques that allow you to perform Combat Manoeuvre.
 
@@ -46,7 +46,7 @@ You learn two [Manoeuvre](../../class-options/fighter-manoeuvre.md) of your choi
 
 ###### Three Superiority Die 
 
-You gain three :die-d4: d4 Superiority Die. This die is used to fuel your manoeuvres. A Superiority Die is expended when you use it. You regain your expended Superiority Dice when you finish a **:rest-short: Short Rest** or **:rest-long: Long Rest**.
+You gain three :die-d4: d4 Superiority Die. This die is used to fuel your manoeuvres. A Superiority Die is expended when you use it. You regain your expended Superiority Dice when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 If you already have a pool of Superiority Dice, these dice are added to that pool. Their size matches the largest die in your pool, increasing to match if you have a feature that improves your Superiority Dice.
 
@@ -90,17 +90,17 @@ You specialise one weapon rather than many. Choose one Weapon that you are Profi
 
 ### Polearm Fighting
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{ .fg-light }
 
-You gain a +1 bonus to damage rolls with Quarterstaves, Spears, War Scythes, and weapons that has the [:wp-prop-heavy: Heavy] and [:wp-prop-reach: Reach] properties. While wielding one of these weapons, creatures provoke an **:rsc-r: Opportunity Attack**{ .rsc } from you when they *enter* or *move* within your reach with that weapon. 
+You gain a +1 bonus to damage rolls with Quarterstaves, Spears, War Scythes, and weapons that has the **:wp-prop-heavy: Heavy**{ .wp } and **:wp-prop-reach: Reach**{ .wp } properties. While wielding one of these weapons, creatures provoke an **:rsc-r: Opportunity Attack**{ .rsc } from you when they *enter* or *move* within your reach with that weapon. 
 
-Moreover, Quarterstaves, Spears, and War Scythes gains the **:wp-prop-reach: Reach** property when wielded with two hands.
+Moreover, Quarterstaves, Spears, and War Scythes gains the **:wp-prop-reach: Reach**{ .wp } property when wielded with two hands.
 
 ---
 
 ### Sniper
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_  
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{ .fg-light }
 
 You gain a +1 bonus to attack rolls with Ranged weapons, and your attacks with it ignore Half Cover and treat Three-Quarters Cover as Half Cover.
 
@@ -110,7 +110,7 @@ Moreover, having the ^^Prone^^ condition doesn't impose **:d20-dis: Disadvantage
 
 ### Standard Bearer
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{ .fg-light }
 
 When a creature within 10 feet of you makes an attack against a creature that you can see, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:d20-adv: Advantage**{ .d20 } on its attack roll. You must be carrying a banner, flag, holy symbol, or standard in your hand.
 
@@ -118,25 +118,16 @@ When a creature within 10 feet of you makes an attack against a creature that yo
 
 ### Strongbow
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{ .fg-light }
 
-You can use your Strength modifier, in place of Dexterity, for attack rolls, damage rolls, and to meet the [:wp-prop-heavy: Heavy] weapon property requirement with Compound Bows, Longbows, and Shortbows. You also gain a +1 to damage rolls with those weapons.
+You can use your Strength modifier, in place of Dexterity, for attack rolls, damage rolls, and to meet the **:wp-prop-heavy: Heavy**{ .wp } weapon property requirement with Compound Bows, Longbows, and Shortbows. You also gain a +1 to damage rolls with those weapons.
 
 ---
 
 ### Versatile Fighting
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{ .fg-light }
 
-While wielding a single weapon with the [:wp-prop-versatile: Versatile] property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can take one of the following actions as a **:rsc-b: Bonus Action**{ .rsc }: **:rsc-a: Unarmed Strike**{ .rsc } (Grapple or Shove only), or Utilise action.
+While wielding a single weapon with the **:wp-prop-versatile: Versatile**{ .wp } property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can take one of the following actions as a **:rsc-b: Bonus Action**{ .rsc }: **:rsc-a: Unarmed Strike (Grapple)**{ .rsc },**:rsc-a: Unarmed Strike (Shove)**{ .rsc }, or **:rsc-a: Utilise**{ .rsc } action.
 
 ---
-
-[:wp-prop-finesse: Finesse]: ../../../equipment/weapon/index.md#finesse
-[:wp-prop-versatile: Versatile]: ../../../equipment/weapon/index.md#versatile
-[:wp-prop-heavy: Heavy]: ../../../equipment/weapon/index.md#heavy
-[:wp-prop-two-handed: Two-Handed]: ../../../equipment/weapon/index.md#two-handed
-[:wp-prop-reach: Reach]: ../../../equipment/weapon/index.md#reach
-
-[:wp-prop-light: Light]: ../../../equipment/weapon/index.md#light
-[:wp-prop-thrown: Thrown]: ../../../equipment/weapon/index.md#thrown

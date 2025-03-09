@@ -114,8 +114,8 @@
     Additional Styles
 --------------------------------------------------------*/
 .md-typeset hr {
-  border-bottom: 0.25em dashed var(--md-default-wht--0125);
-  margin: 0.875em 0;
+  border-bottom: 0.1875em dashed var(--md-default-wht--0125);
+  margin: 0.5em 0;
 }
 
 /*-------------------------------------------------------
@@ -197,11 +197,14 @@
   font-family: var(--heading-font);
 }
 
-.jetbrains, .dmg-heal, .dmg-bps, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .calc {
-  font-size: calc(var(--gbl-font-size) * 0.85);
+.jetbrains, .dmg-heal, .dmg-bps, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .calc, .wp, .rsc, .d20 {
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.225rem;
+}
+.jetbrains :is(.emojione, .twemoji, .gemoji), .dmg-heal :is(.emojione, .twemoji, .gemoji), .dmg-bps :is(.emojione, .twemoji, .gemoji), .dmg-force :is(.emojione, .twemoji, .gemoji), .dmg-radi :is(.emojione, .twemoji, .gemoji), .dmg-necr :is(.emojione, .twemoji, .gemoji), .dmg-lgtn :is(.emojione, .twemoji, .gemoji), .dmg-psyc :is(.emojione, .twemoji, .gemoji), .dmg-thun :is(.emojione, .twemoji, .gemoji), .dmg-posn :is(.emojione, .twemoji, .gemoji), .dmg-fire :is(.emojione, .twemoji, .gemoji), .dmg-cold :is(.emojione, .twemoji, .gemoji), .dmg-acid :is(.emojione, .twemoji, .gemoji), .calc :is(.emojione, .twemoji, .gemoji), .wp :is(.emojione, .twemoji, .gemoji), .rsc :is(.emojione, .twemoji, .gemoji), .d20 :is(.emojione, .twemoji, .gemoji) {
+  font-size: calc(var(--gbl-font-size) * 0.95);
 }
 
 .f-lg {
@@ -217,7 +220,7 @@
 -------------------------------------------------------*/
 .hide {
   position: absolute;
-  left: -9999px;
+  left: -999px;
 }
 
 .noborder {
@@ -265,7 +268,7 @@ table:not([class]) .smallcap {
   font-size: var(--gbl-font-size) !important;
 }
 
-.back, .calc, .wp {
+.back, .calc {
   color: var(--md-gbl-text-color) !important;
   background-color: var(--md-code-bg-color);
   box-decoration-break: clone;
@@ -273,7 +276,7 @@ table:not([class]) .smallcap {
   border-radius: 0.1875em;
   font-weight: 400 !important;
 }
-.back strong, .calc strong, .wp strong {
+.back strong, .calc strong {
   color: var(--md-gbl-text-color-strong) !important;
 }
 
@@ -281,8 +284,11 @@ table:not([class]) .smallcap {
   font-size: calc(var(--gbl-font-size) * 0.9);
 }
 
-.quote, .author {
+.fg-light, .quote, .author {
   color: var(--md-default-fg-color--light) !important;
+}
+
+.quote, .author {
   font-size: calc(var(--gbl-font-size) * 0.9);
   font-weight: 400;
 }
@@ -293,12 +299,20 @@ table:not([class]) .smallcap {
 /*-------------------------------------------------------
     Component-Specific Styles
 -------------------------------------------------------*/
-.d20 :is(.emojione, .twemoji, .gemoji) {
-  vertical-align: -0.1875em;
+.d20 {
+  letter-spacing: -0.025em !important;
+}
+
+.rsc {
+  letter-spacing: -0.025em !important;
 }
 
 .wp {
-  background-color: var(--md-default-bg-color-nord0) !important;
+  font-weight: 600 !important;
+  color: var(--md-gbl-text-color) !important;
+  border-radius: 0.1875em;
+  padding: 0.09375em 0.1875em;
+  background-color: var(--md-code-bg-color);
 }
 
 /*-------------------------------------------------------
@@ -334,24 +348,32 @@ table:not([class]) .smallcap {
   margin-right: 0.1875em;
 }
 
-.bracket-right::after, .brack-lr::after {
+.bracket-right::after, .brack-lr::after, .rsc::after {
   content: "]";
   font-style: normal !important;
   font-weight: 400 !important;
   color: var(--md-default-fg-color--light) !important;
-  margin-left: 0.1875em;
+  margin-left: 0.03125em;
 }
 
-.bracket-left::before, .brack-lr::before {
+.bracket-left::before, .brack-lr::before, .rsc::before {
   content: "[";
   font-style: normal !important;
   font-weight: 400 !important;
   color: var(--md-default-fg-color--light) !important;
-  margin-right: 0.1875em;
+  margin-right: -0.03125em;
 }
 
 .top-pad :is(.emojione, .twemoji, .gemoji) {
   vertical-align: -0.1875em;
+}
+
+.x2l {
+  font-size: calc(var(--gbl-font-size) * 2);
+}
+
+.x3l {
+  font-size: calc(var(--gbl-font-size) * 3);
 }
 
 .x4l {

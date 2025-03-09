@@ -12,10 +12,14 @@
 }
 
 .jetbrains {
-    font-size: calc(var(--gbl-font-size) * 0.85);
+    font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
     font-family: var(--jetbrains);
     font-weight: 600 !important;
     word-spacing: convert.px2rem(-4.5px);
+
+    :is(.emojione, .twemoji, .gemoji) {
+        font-size: calc(var(--gbl-font-size) * 0.95)
+    }
 
     // :is(.emojione, .twemoji, .gemoji) {
     //     margin-left: convert.px2em(-0.5px);
@@ -37,7 +41,7 @@
 
 .hide {
     position: absolute;
-    left: -9999px;
+    left: -999px;
 }
 
 .noborder {
@@ -110,8 +114,12 @@
     font-size: calc(var(--gbl-font-size) * 0.9);
 }
 
-.quote {
+.fg-light {
     color: var(--md-default-fg-color--light) !important;
+}
+
+.quote {
+    @extend .fg-light;
     font-size: calc(var(--gbl-font-size) * 0.9);
     font-weight: 400;
 
@@ -130,22 +138,28 @@
 
 // Used for d20 test
 .d20 {
-    @extend .em, .nowrap;
+    @extend .em, .nowrap, .jetbrains;
 
-    :is(.emojione, .twemoji, .gemoji) {
-        vertical-align: convert.px2em(-3px);
-    }
+    letter-spacing: convert.px2em(-0.4px) !important;
 }
+
 
 // Resources, such as Actions, spell slots, etc.
 .rsc {
-    @extend .em, .nowrap;
+    @extend .em, .nowrap, .jetbrains, .brack-lr;
+
+    letter-spacing: convert.px2em(-0.4px) !important;
+
 }
 
 // Weapons
 .wp {
-    @extend .back, .nowrap, .disable-abbr;
-    background-color: var(--md-default-bg-color-nord0) !important;
+    @extend .nowrap, .disable-abbr, .jetbrains;
+    font-weight: 600 !important;
+    color: var(--md-gbl-text-color) !important;
+    border-radius: convert.px2em(3px);
+    padding: convert.px2em(1.5px) convert.px2em(3px);
+    background-color: var(--md-code-bg-color);
 }
 
 // Used for Calculations
@@ -176,26 +190,22 @@
 -------------------------------------------------------*/
 
 // Mixin for icon-like elements
-@mixin icon-style($content, $margin-side: left) {
+@mixin icon-style($content) {
     content: $content;
     font-style: normal !important;
     font-weight: 400 !important;
     color: var(--md-default-fg-color--light) !important;
-
-    @if $margin-side == left {
-        margin-left: convert.px2em(3px);
-    } @else {
-        margin-right: convert.px2em(3px);
-    }
 }
 
 // Chevrons
 .chevron-right::after {
-    @include icon-style("»", left);
+    @include icon-style("»");
+    margin-left: convert.px2em(3px);
 }
 
 .chevron-left::before {
-    @include icon-style("«", right);
+    @include icon-style("«");
+    margin-right: convert.px2em(3px);
 }
 
 // Combined Chevrons
@@ -206,11 +216,13 @@
 
 // Brackets
 .bracket-right::after {
-    @include icon-style("]", left);
+    @include icon-style("]");
+    margin-left: convert.px2em(0.5px);
 }
 
 .bracket-left::before {
-    @include icon-style("[", right);
+    @include icon-style("[");
+    margin-right: convert.px2em(-0.5px);
 }
 
 // Combined Brackets
@@ -225,7 +237,7 @@
 
 
 // Text size variations
-@for $i from 4 through 8 {
+@for $i from 2 through 8 {
     .x#{$i}l {
         font-size: calc(var(--gbl-font-size) * #{$i});
     }

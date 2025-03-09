@@ -265,7 +265,7 @@ You gain the following benefits.
 Increase your Constitution or Strength score by 1, to a maximum of 20.
 
 ###### Damage Reduction  
-When you're hit by an attack while you're wearing Heavy armour, any Bludgeoning, Piercing, or Slashing Damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
+When you're hit by an attack while you're wearing Heavy armour, any **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, or **:dmg-slsh: Slashing**{ .dmg-bps } Damage dealt to you by that attack is reduced by an amount equal to your Proficiency Bonus.
 
 ---
 

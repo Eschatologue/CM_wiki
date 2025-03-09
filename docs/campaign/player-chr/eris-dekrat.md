@@ -20,10 +20,10 @@ Eris Dekrat
 
 *Magic flows through all living beings. While others harness it for spells, you've learned to channel it ~~to lock in~~ into razor-sharp focus.*
 
-As a **:rsc-b: Bonus Action**, you gain the following benefits for 1 minute:
+As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 1 minute:
 
-- You have **:d20-adv: Advantage** on Wisdom, Intelligence, and Charisma saving throws against spells and other magical effect.
-- You can't have **:d20-adv: Disadvatage** on Dexterity-based weapon attacks.
+- You have **:d20-adv: Advantage**{ .d20 } on **:d20-save: WIS/INT/CHA Save**{ .d20 } against spells and other magical effect.
+- You can't have **:d20-dis: Disadvatage**{ .d20 } on Dexterity-based weapon attacks.
 - You are under the effect of [:spell-lv1: Detect Magic](../../spells/description/core/level-1.md#detect-magic) spell. This does not require Concentration, though it's only active for 1 minute.
 
 You can use this feature **twice** without suffering adverse effects. Each additional use before a **:rest-long: Long Rest** imposes 1 level of ^^Exhaustion^^.
@@ -34,7 +34,7 @@ You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 *With a simple raise of your eyebrow, you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 
-When a creature you can see cast a spell or attempt to Teleport while within 60 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to force the target to make a **:d20-save: CON Save** against your Cunning Strike DC. On a failed save, it takes **(Sneak Attack) :dmg-force: Force**{ .dmg-force } damage and its spell or Teleport fails. On a successful save, the target only takes half damage.
+When a creature you can see cast a spell or attempt to Teleport while within 60 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to force the target to make a **:d20-save: CON Save**{ .d20 } against your Cunning Strike DC. On a failed save, it takes **(Sneak Attack) :dmg-force: Force**{ .dmg-force } damage and its spell or Teleport fails. On a successful save, the target only takes half damage.
 
 You can use this **:rsc-r: Reaction**{ .rsc } a number of times up to your Charisma modifier. You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
@@ -68,7 +68,7 @@ Dekrat's Special options appear in alphabetical and level requirement order.
 :   You takes out the target's ability to speak. It must succeed a **:d20-save: CON Save**{ .d20 } or it has the ^^Silenced^^ condition. At the end of each of its turns, it repeats the save, ending the effect on itself on a success.
 
 **Blitz** <br>_Level 5+ Rogue_ <br>_Cost: `2d6+`_
-:   After hitting the target with a ^^Melee attack^^, you Teleport up to 30 feet to an unoccupied space you can see. The distance you teleport increases by 30 feet for each additional `2d6` you forgo: `4d6` (60 feet), `6d6` (90 feet), `8d6` (120 feet) and the maximum of `10d6` (150 feet).
+:   After hitting the target with a ^^Melee attack^^, you Teleport up to 30 feet to an unoccupied space you can see. The distance you Teleport increases by 30 feet for each additional `2d6` you forgo: `4d6` (60 feet), `6d6` (90 feet), `8d6` (120 feet) and the maximum of `10d6` (150 feet).
 
 **Flay Skin** <br>_Level 5+ Rogue_ <br>_Cost: `3d6`_
 :   The attack damage type's becomes **:dmg-necr: Necrotic**{ .dmg-necr } and the target must succeed a **:d20-save: CON Save**{ .d20 } or it has **:dmg-vul: Vulnerability** to **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, and **:dmg-slsh: Slashing**{ .dmg-bps } damage. At the end of each of its turns, it repeats the save, ending the effect on itself on a success.
@@ -86,7 +86,7 @@ Dekrat's Special options appear in alphabetical and level requirement order.
 :   You attempt to banish the target to ~~Cibubur~~ a harmless demiplane. It must succeed a **:d20-save: CHA Save**{ .d20 } or it is *Banished*. While *banished* in this way, its **:rsc-spd: Speed** is 0, and it has the ^^Incapacitated^^ condition. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
 
 **Closed Circuit** <br>_Level 9+ Rogue_ <br>_Cost: `3d6`_
-:   The attack damage type's becomes **:dmg-lgtn: Lightning**{ .dmg-lgtn } and each creature in a **15-foot :aoe-sphere: Sphere** ^^originating from you^^ must succeed a **:d20-save: CON Save**{ .d20 }, or take **(Total damage roll) :dmg-lgtn: Lightning**{ .dmg-lgtn } damage and its **:rsc-spd: Speed** becomes 0 until the start of your next turn (only half damage on success). 
+:   The attack damage type's becomes **:dmg-lgtn: Lightning**{ .dmg-lgtn } and each creature in a **15-foot :aoe-sphere: Sphere** ^^originating from you^^ must succeed a **:d20-save: CON Save**{ .d20 }, or take **(Total Damage Roll) :dmg-lgtn: Lightning**{ .dmg-lgtn } damage and its **:rsc-spd: Speed** becomes 0 until the start of your next turn (only half damage on success). 
 
 **Flare Burst** <br>_Level 9+ Rogue_ <br>_Cost: `4d6`_
-:    The attack damage type's becomes **:dmg-fire: Fire**{ .dmg-fire } and each creature within **15-foot :aoe-cone: Cone** ^^originating from the target^^ makes a **:d20-save: DEX Save**{ .d20 }, taking **(Total damage roll) :dmg-fire: Fire**{ .dmg-fire } damage on a failed save or half as much on a successful one. 
+:    The attack damage type's becomes **:dmg-fire: Fire**{ .dmg-fire } and each creature within **15-foot :aoe-cone: Cone** ^^originating from the target^^ makes a **:d20-save: DEX Save**{ .d20 }, taking **(Total Damage Roll) :dmg-fire: Fire**{ .dmg-fire } damage on a failed save or half as much on a successful one. 

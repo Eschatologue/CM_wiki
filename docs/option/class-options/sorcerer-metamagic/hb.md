@@ -26,9 +26,9 @@ You can spend 2 Sorcery Point(s) to touch a willing creature within 5 feet and c
 
 _**Cost:** 2 :class-phb24-sorcerer: Sorcery Point(s)_
 
-When you cast a spell that forces a Intelligence or a Charisma :d20-save: saving throw, you can spend 2 Sorcery Point(s) and change the spell's :d20-save: saving throw to target the other Ability Score instead.
+When you cast a spell that forces an **:d20-save: INT or CHA Save**{ .d20 }, you can spend 2 Sorcery Point(s) and change the spell's saving throw to target the other Ability Score instead.
 
-This Metamagic only changes the initial save. Any subsequent :d20-save: Saving Throws target the original Ability Score.
+This Metamagic only changes the initial save. Any subsequent saves target the original Ability Score.
 
 ---
 
@@ -46,9 +46,9 @@ If the spell requires Concentration, the creature you cast the spell on must Con
 
 _**Cost:** 1 :class-phb24-sorcerer: Sorcery Point(s)_
 
-When you cast a spell that forces a Strength or a Dexterity :d20-save: saving throw, you can spend 1 Sorcery Point(s) and change the spell's :d20-save: saving throw to target the other Ability Score instead.
+When you cast a spell that forces a **:d20-save: STR or DEX Save**{ .d20 }, you can spend 1 Sorcery Point(s) and change the spell's saving throw to target the other Ability Score instead.
 
-This Metamagic only changes the initial save. Any subsequent :d20-save: Saving Throws target the original Ability Score.
+This Metamagic only changes the initial save. Any subsequent Saving Throws target the original Ability Score.
 
 ---
 
@@ -56,7 +56,7 @@ This Metamagic only changes the initial save. Any subsequent :d20-save: Saving T
 
 _**Cost:** 1 :class-phb24-sorcerer: Sorcery Point(s)_
 
-When you fail an :d20-check: Ability Check, you can take a **:rsc-r: Reaction**{ .rsc } to spend 1 Sorcery Point(s) to re-roll the :die-d20: d20. You must use the new :die-d20: d20 roll, potentially turning a failure into a success.
+When you fail an Ability Check, you can take a **:rsc-r: Reaction**{ .rsc } to spend 1 Sorcery Point(s) to re-roll the `d20`. You must use the new roll.
 
 ---
 
@@ -80,7 +80,7 @@ When you cast a spell has only one target, and requires you to make an attack ro
 
 _**Cost:** 1 :class-phb24-sorcerer: Sorcery Point(s)_
 
-When you cast a spell that deals damage, you can spend 1 Sorcery Point(s) to make it ignore the target Resistances and Immunities. 
+When you cast a spell that deals damage, you can spend 1 Sorcery Point(s) to make it ignore the target **:dmg-res: Resistances** and **:dmg-imm: Immunities**. 
 
 You can use this Metamagic even if you have already used a different Metamagic option during the casting of the spell.
 
@@ -106,9 +106,9 @@ When you cast a spell, you can spend 1 Sorcery Point to possibly conserve your a
 
 _**Cost:** 2 :class-phb24-sorcerer: Sorcery Point(s)_
 
-When you cast a spell that forces a Constitution or a Wisdom  saving throw, you can spend 2 Sorcery Point(s) and change the spell's saving throw to target the other Ability Score instead.
+When you cast a spell that forces a **:d20-save: CON or WIS Save**{ .d20 }, you can spend 1 Sorcery Point(s) and change the spell's saving throw to target the other Ability Score instead.
 
-This Metamagic only changes the initial save. Any subsequent saving throws targets the original Ability Score.
+This Metamagic only changes the initial save. Any subsequent Saving Throws target the original Ability Score.
 
 ---
 

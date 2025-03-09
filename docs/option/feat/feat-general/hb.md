@@ -75,7 +75,7 @@ Increase your Dexterity score by 1, to a maximum of 20.
 When you make the extra attack of the **:wp-prop-automatic: Automatic** property, you can add your ability modifier to the damage of the extra attacks.
     
 ###### Race Modded
-As part of an attack with Firearms, you can take a **:rsc-r: Reaction** to reload it if it ran out of ammunition before or after the attack. Moreover, you don't need a free hand to reload a Firearm.
+As part of an attack with Firearms, you can take a **:rsc-r: Reaction**{ .rsc } to reload it if it ran out of ammunition before or after the attack. Moreover, you don't need a free hand to reload a Firearm.
 
 ---
 
