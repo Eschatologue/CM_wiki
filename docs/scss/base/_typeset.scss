@@ -1,6 +1,5 @@
-@use "../utility/convert";
-@use "../palette/accent";
-
+@use '../utility/convert';
+@use '../palette/accent';
 
 // .md-typeset {
 //     --default-font-size: #{convert.px2rem(16px)};
@@ -135,6 +134,7 @@
     }
 
     h3 {
+        font-weight: 600;
         color: var(--md-gbl-text-color-strong);
         font-size: calc(var(--gbl-font-size) * 1.5);
         margin: #{convert.px2rem(12px)} 0;

@@ -6,9 +6,9 @@ icon: die/d20
 
 When the outcome of an action is uncertain, the game uses a d20 roll to determine success or failure. These rolls are called **D20 Tests**, and they come in three kinds:
 
-- :d20-attack: **Attack Rolls:** Rolled against the target's Armour Class (AC)
-- :d20-check: **Ability Check:** Rrolled against the check's Difficulty Class (DC)
-- :d20-save: **Saving Throws:** Rolled against a Save DC. 
+- **:d20-attack: Attack Roll**{.d20}: Rolled against the target's Armour Class (AC)
+- **:d20-check: Ability Check**{.d20}: Rolled against the check's Difficulty Class (DC)
+- **:d20-save: Saving Throws**{.d20}: Rolled against a Save DC. 
 
 They follow these steps:
 
@@ -32,7 +32,7 @@ For every **:d20-check: Ability Check**{ .d20 }, the DM decides which of the six
 
 ### Ability Modifier
 
-The **:d20-check: Ability Check**{ .d20 } is named for the ability modifier is uses: a Strength Check, an Intelligence check, and so on. Different ability checks are called for in different sutiation, depending on which ability is most relevant. See the Ability Check Examples table of examples of each check's to use.
+The **:d20-check: Ability Check**{ .d20 } is named for the ability modifier is uses: a **:d20-check: STR Check**{.d20}, an **:d20-check: INT check**{.d20}, and so on. Different ability checks are called for in different sutiation, depending on which ability is most relevant. See the Ability Check Examples table of examples of each check's to use.
 
 ##### Ability Check Examples
 
@@ -51,7 +51,7 @@ Add your Proficiency Bonys to an ability check when the DM determines that a ski
 
 ### Difficulty Class
 
-A Difficulty Class (or DC) is a number rolled against when making :d20-check: **Ability Checks** or :d20-save: **Saving Throws**. It represents how difficult a task is to accomplish. The number is determined by the the task attempted - or in the case of saves - the spell, condition, or action that has to be overcome.
+A Difficulty Class (or DC) is a number rolled against when making **:d20-check: Ability Check** or  **:d20-save: Saving Throw**. It represents how difficult a task is to accomplish. The number is determined by the the task attempted - or in the case of saves - the spell, condition, or action that has to be overcome.
 
 | Task Difficulty | DC |
 | --- | :-: |
@@ -66,10 +66,9 @@ A Difficulty Class (or DC) is a number rolled against when making :d20-check: **
   
 Traps, spells, conditions, and other sources of harm may allow a creature a chance to avoid or reduce their effect, known as a **:d20-save: Saving Throw** or save. To attempt a save, a creature rolls a d20 against a target Save DC.
 
-!!! quote ""
-
-    :die-d20: D20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable)
-    { .align-center }
+``` title="Saving Throw"
+D20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable)
+```
 
 If you don't want to resist the effect, you can choose to fail the save without rolling.
 
@@ -102,11 +101,9 @@ When a creature attacks a target, it makes an **:d20-attack: Attack Roll**{ .d20
 
 Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells - such as a Warlock's [:spell-lv0: Eldritch Blast](../../spells/description/core/cantrip.md#eldritch-blast) - require the caster to make spell attack rolls.
 
-!!! quote ""
-
-    :die-d20: D20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable)
-    { .align-center }
-
+``` title="Attack Roll"
+D20 + Ability Modifier + Proficiency Bonus (if proficient) + Other Bonuses (if applicable)
+```
 
 ### Ability Modifiers
 
@@ -128,8 +125,9 @@ A Creature's Armour Class represents how will the creature avoids wounded in com
 
 All creatures start with the same base AC calculation:
 
-**Base AC =** 10 + the creature's Dexterity modifier.
-{ .align-center }
+```title="Base AC"
+10 + the creature's Dexterity modifier.
+```
 
 A creature AC can then be modified by armour, magic items, spells, and more.
 
@@ -148,8 +146,6 @@ If you roll a 1 on the d20 (called a "natural 1) for an attack roll, the attack 
 A number of situations and conditions give creatures **:d20-adv: Advantage**{ .d20 } or **:d20-dis: Disadvantage**{ .d20 } on d20 rolls.
 
 A creature that makes a roll with **:d20-adv: Advantage**{ .d20 } rolls two d20 dice separately, and uses the higher of the two results. If they have **:d20-dis: Disadvantage**{ .d20 }, they choose the lower of the two.
-
-When multiple instances of **:d20-adv: Advantage**{ .d20 } or **:d20-dis: Disadvantage**{ .d20 } occcurs, each instance beyond the first adds a `+2` or `-2` modifier to the roll, respectively.
 
 ### Interactions with Rerolls
 

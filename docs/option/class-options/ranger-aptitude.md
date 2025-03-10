@@ -9,55 +9,45 @@ Below are the Aptitudes available to the [Ranger]. If an Aptitude has a prerequi
 
 [Ranger]: ../../class/ranger/index.md
 
-## Origin Aptitude
+---
+
+## Origin Aptitude {.hide}
+
+### Ranger's Origin
 
 *What were you before you've taken the mantle of a Ranger?*
 { .quote }
 
-Every Ranger has a unique origin, these aptitude belongs in Origin category.
+Every Ranger has a unique origin, choose one of the following benefit:
 
-### Bounty Hunter
+**Bounty Hunter**
+:   _Your expertise in hunting bounties stands out._ You gain proficiency in Insight and Investigation. In addition, creatures has **:d20-dis: Disadvantage**{ .d20 } on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
 
-Your expertise in hunting bounties stands out. You gain proficiency in Insight and Investigation. In addition, creatures has **:d20-dis: Disadvantage**{ .d20 } on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
+**Deathwatch**
 
----
+:   _You specialise in hunting those not native to your realm._ You gain proficiency in Arcana and Religion. In addition, you can also cast  [:spell-lv1: Protection from Evil and Good] once without expending a spell slot
 
-### Deathwatch
+**Mage Breaker**
 
-You specialise in hunting those not native to your realm. You gain proficiency in Arcana and Religion. In addition, you can also cast  [:spell-lv1: Protection from Evil and Good] once without expending a spell slot
+:   _You have a background in battling spellcasters._ You gain proficiency in Arcana and Insight. In addition, you know the [:spell-lv0: True Strike] cantrip.
 
----
+**Ranger Knight**
 
-### Mage Breaker
+:   _You have sworn to serve a crown or nation and aim to bring its foes to ruin._ You gain proficiency in History and Perception, In addition, you gain training with with Heavy armour.
 
-You have a background in battling spellcasters. You gain proficiency in Arcana and Insight. In addition, you know the [:spell-lv0: True Strike] cantrip.
+**Sanctified Hunter**
 
----
+:   _You have sworn to hunt the enemies of a holy or druidic order._ You gain proficiency in Investigation and Religion. In addition, you know the [:spell-lv0: Sacred Flame] cantrip.
 
-### Ranger Knight
+**Beast Tamer**
 
-You have sworn to serve a crown or nation and aim to bring its foes to ruin. You gain proficiency in History and Perception, In addition, you gain training with with Heavy armour.
+:   _You have cultivated a strong bond with animals and nature._ Whenever you would make an Intelligence (Nature), you can choose to make a Wisdom (Nature) check instead. In addition, you can cast [:spell-lv1: Find Familiar], but only as a Ritual.
 
----
-
-### Sanctified Hunter
-
-You have sworn to hunt the enemies of a holy or druidic order. You gain proficiency in Investigation and Religion. In addition, you know the [:spell-lv0: Sacred Flame] cantrip.
+**Repeatable**{ .inl } You can choose this Aptitude again, choosing a different option each time.
 
 ---
 
-### Beast Tamer
-
-You have cultivated a strong bond with animals and nature. Whenever you would make an Intelligence (Nature), you can choose to make a Wisdom (Nature) check instead. In addition, you can cast [:spell-lv1: Find Familiar], but only as a Ritual.
-
----
-
-## Explorer's Aptitude
-
-*What lies within the towering walls, and what hides beyond the wild expanse?*
-{ .quote }
-
-These aptitude belongs in Explorer category.
+## Explorer's Aptitude {.hide}
 
 ### Urban Tracker
 
@@ -67,7 +57,7 @@ You are an expert at navigating the urban labyrinth as well as the wilds. You ga
 
 ### Wasteland Wanderer
 
-You have spent endless days surviving desolate wastelands. Choose one of the following damage types: :dmg-cold: Cold, :dmg-fire: Fire, :dmg-lgtn: Lightning, or :dmg-posn: Poison. You gain **:dmg-res: Resistance**{ .em } to the chosen damage type. 
+You have spent endless days surviving desolate wastelands. Choose one of the following damage types: **:dmg-cold: Cold**{.dmg-cold}, **:dmg-fire: Fire**{.dmg-fire}, **:dmg-lgtn: Lightning**{.dmg-lgtn}, or **:dmg-posn: Poison**{.dmg-posn}. You gain **:dmg-res: Resistance**{ .nowrap } to the chosen damage type. 
 
 **Repeatable**{ .inl } You can choose this Aptitude again, choosing different damage type each time.
 
@@ -77,18 +67,13 @@ You have spent endless days surviving desolate wastelands. Choose one of the fol
 
 _**Prerequisite:** Level 6+ Ranger_
 
-Choose one of the following damage types: :dmg-force: Force, :dmg-necr: Necrotic, :dmg-psyc: Psychic, or :dmg-radi: Radiant. You gain **:dmg-res: Resistance**{ .em } to the chosen damage type. 
+Choose one of the following damage types: **:dmg-force: Force**{.dmg-force}, **:dmg-necr: Necrotic**{.dmg-necr}, **:dmg-psyc: Psychic**{.dmg-psyc}, or **:dmg-radi: Radiant**{.dmg-radi}. You gain **:dmg-res: Resistance**{ .em } to the chosen damage type. 
 
 **Repeatable**{ .inl } You can choose this Aptitude again, choosing different damage type each time.
 
 ---
 
-## Strategist's Aptitude
-
-*Through wit and wisdom, even the wildest ranger can master the art of cunning and strategy.*
-{ .quote }
-
-These aptitudes belong in the Strategist category, focusing on tactical skill, versatility, and clever utilisation of resources.
+## Strategist's Aptitude {.hide}
 
 ### Cunning Technique
 
@@ -124,12 +109,7 @@ During a **:rest-short: Short Rest**, you can recover spell slots of a combined 
 
 ---
 
-## Slayer's Aptitude
-
-*One target, one focus—let no prey escape your mark.*  
-{ .quote }
-
-These aptitudes belong in the Slayer category, which enhances the Ranger's [:spell-lv1: Hunter's Mark] spell.
+## Slayer's Aptitude {.hide}
 
 ### Slayer I
 
@@ -155,12 +135,7 @@ Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with 
 
 ---
 
-## Strider's Aptitude
-
-*The path is yours to forge—no obstacle shall hinder your journey.*  
-{ .quote }
-
-These aptitudes belong in the Strider category, focusing on mobility, freedom of Movement, and overcoming terrain-based hinderance.
+## Strider's Aptitude {.hide}
 
 ### Strider I
 
@@ -186,12 +161,7 @@ You always under the effect of [:spell-lv4: Freedom of Movement] spell so long y
 
 ---
 
-## Seeker's Aptitude
-
-*With sharpened senses, you pierce through shadows and lies to find your mark.*
-{ .quote }
-
-These aptitudes belong in the Seeker category, refining the Ranger's perception and precision to eliminate any advantage their prey might hold.
+## Seeker's Aptitude {.hide}
 
 ### Enhanced Senses
 
@@ -209,12 +179,7 @@ You can't have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against any ta
 
 ---
 
-## Feral Aptitude
-
-*The beast within stirs with every strike, searching for weakness and exploiting it.*  
-{ .quote }
-
-These aptitudes belong in the Feral category, tapping into the primal instincts of the Ranger to exploit the vulnerabilities of their foes and strike with savage precision.
+## Feral Aptitude {.hide}
 
 ### Primal Focus
 
@@ -244,12 +209,7 @@ When you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack
 
 ---
 
-## Endurance Aptitude
-
-*Through pain and hardship, you become stronger—your resolve unbroken.*  
-{ .quote }
-
-These aptitudes belong in the Endurance category, reinforcing Ranger’s resilience and survivability.
+## Endurance Aptitude {.hide}
 
 ### Survivor I
 
@@ -267,12 +227,7 @@ When you make a Death Saving Throw, you add your Wisdom modifier to the roll (mi
 
 ---
 
-## Surge Aptitude
-
-*In moments of peril, your body surges with unparalleled speed and strength.*  
-{ .quote }
-
-These aptitudes belong in the Surge category.
+## Surge Aptitude {.hide}
 
 ### Adrenaline I
 
@@ -290,12 +245,7 @@ When you cast [:spell-lv3: Haste] from the Adrenaline Aptidude, it does not requ
 
 ---
 
-## Apex Aptitude
-
-*At the peak of your mastery, your strikes are final, and your will is unyielding.*  
-{ .quote }
-
-These aptitudes belong in the Apex category, representing the Ranger’s ultimate power.
+## Apex Aptitude {.hide}
 
 ### Binding Blade
 

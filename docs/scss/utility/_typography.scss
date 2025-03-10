@@ -15,10 +15,11 @@
     font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
     font-family: var(--jetbrains);
     font-weight: 600 !important;
-    word-spacing: convert.px2rem(-4.5px);
+    word-spacing: convert.px2rem(-2px);
 
     :is(.emojione, .twemoji, .gemoji) {
-        font-size: calc(var(--gbl-font-size) * 0.95)
+        font-size: calc(var(--gbl-font-size) * 0.95);
+        margin-right: convert.px2rem(-2.5px);;
     }
 
     // :is(.emojione, .twemoji, .gemoji) {
@@ -141,6 +142,10 @@
     @extend .em, .nowrap, .jetbrains;
 
     letter-spacing: convert.px2em(-0.4px) !important;
+
+    // :is(.emojione, .twemoji, .gemoji) {
+    //     align-items: center;
+    // }
 }
 
 
@@ -258,7 +263,7 @@ $damage-types: (
     psyc: #dd73ac,
     lgtn: #3393e8,
     necr: #3faf4f,
-    radi: #ffee58,
+    radi: #ffcf40,
     force: #ff7369,
     bps: #a9acb0,
     heal: #65cdcd

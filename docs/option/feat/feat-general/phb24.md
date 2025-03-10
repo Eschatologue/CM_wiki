@@ -291,10 +291,14 @@ You gain the following benefits.
 
 ###### Ability Score Increase  
 Increase your Intelligence score by 1, to a maximum of 20.
-Lore Knowledge. Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. If you lack proficiency in the chosen skill, you gain proficiency in it, and if you have proficiency in it, you gain Expertise in it.
+
+###### Lore Knowledge
+
+Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. If you lack proficiency in the chosen skill, you gain proficiency in it, and if you have proficiency in it, you gain Expertise in it.
 
 ###### Quick Study  
-You can take the Study Action as a **:rsc-b: Bonus Action**{ .rsc }.
+
+You can take the **:rsc-a: Study**{.rsc} action as a **:rsc-b: Bonus Action**{ .rsc }.
 
 ---
 
@@ -463,6 +467,7 @@ While you are holding a Quarterstaff, a Spear, a War Scythe, or a weapon that ha
 You gain the following benefits.
 
 ###### Ability Score Increase  
+
 Choose one ability in which you lack Saving Throw Proficiency. Increase the chosen Ability Score by 1, to a maximum of 20.
 
 ###### Saving Throw Proficiency  
