@@ -244,7 +244,7 @@
 
 .curl-left::before {
     @include mirror("{");
-    margin-right: convert.px2em(-0.5px);
+    margin-right: convert.px2em(0.5px);
 }
 
 // Combined Brackets
