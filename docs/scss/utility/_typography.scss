@@ -191,25 +191,25 @@
 }
 
 /*-------------------------------------------------------
-    Icons & Sizes
+    Brackets and Emphasizes
 -------------------------------------------------------*/
 
 // Mixin for icon-like elements
-@mixin icon-style($content) {
+@mixin mirror($content) {
     content: $content;
     font-style: normal !important;
     font-weight: 400 !important;
     color: var(--md-default-fg-color--light) !important;
 }
 
-// Chevrons
+/// --- Chevrons --- //
 .chevron-right::after {
-    @include icon-style("»");
+    @include mirror("»");
     margin-left: convert.px2em(3px);
 }
 
 .chevron-left::before {
-    @include icon-style("«");
+    @include mirror("«");
     margin-right: convert.px2em(3px);
 }
 
@@ -219,14 +219,14 @@
     @extend .chevron-right;
 }
 
-// Brackets
+// --- Brackets --- //
 .bracket-right::after {
-    @include icon-style("]");
+    @include mirror("]");
     margin-left: convert.px2em(0.5px);
 }
 
 .bracket-left::before {
-    @include icon-style("[");
+    @include mirror("[");
     margin-right: convert.px2em(-0.5px);
 }
 
@@ -236,19 +236,32 @@
     @extend .bracket-right;
 }
 
-.top-pad :is(.emojione, .twemoji, .gemoji) {
-    vertical-align: convert.px2em(-3px);
+// --- Curlies --- //
+.curl-right::after {
+    @include mirror("}");
+    margin-left: convert.px2em(0.5px);
 }
 
+.curl-left::before {
+    @include mirror("{");
+    margin-right: convert.px2em(-0.5px);
+}
 
-// Text size variations
+// Combined Brackets
+.curl-lr {
+    @extend .curl-left;
+    @extend .curl-right;
+}
+
+/*-------------------------------------------------------
+    Text Sizes
+-------------------------------------------------------*/
+
 @for $i from 2 through 8 {
     .x#{$i}l {
         font-size: calc(var(--gbl-font-size) * #{$i});
     }
 }
-
-
 
 /*-------------------------------------------------------
     Damage Type Dynamic Classes

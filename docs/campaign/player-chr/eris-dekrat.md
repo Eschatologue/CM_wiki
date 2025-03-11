@@ -65,7 +65,7 @@ Dekrat's Special options appear in alphabetical and level requirement order.
 :   The attack damage type's becomes **:dmg-psyc: Psychic**{ .dmg-psyc } and the target has **:d20-dis: Disadvantage**{ .d20 } on the next Ability Check or Attack Roll it makes before the end of its next turn.
 
 **Gag Order** <br>_Level 5+ Rogue_ <br>_Cost: `2d6`_
-:   You takes out the target's ability to speak. It must succeed a **:d20-save: CON Save**{ .d20 } or it has the ^^Silenced^^ condition. At the end of each of its turns, it repeats the save, ending the effect on itself on a success.
+:   You takes out the target's ability to speak. It must succeed a **:d20-save: CON Save**{ .d20 } or it has the **Silenced**{ .curl-lr } condition. At the end of each of its turns, it repeats the save, ending the effect on itself on a success.
 
 **Blitz** <br>_Level 5+ Rogue_ <br>_Cost: `2d6+`_
 :   After hitting the target with a ^^Melee attack^^, you Teleport up to 30 feet to an unoccupied space you can see. The distance you Teleport increases by 30 feet for each additional `2d6` you forgo: `4d6` (60 feet), `6d6` (90 feet), `8d6` (120 feet) and the maximum of `10d6` (150 feet).
