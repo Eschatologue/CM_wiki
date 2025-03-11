@@ -198,13 +198,13 @@
   font-family: var(--heading-font);
 }
 
-.jetbrains, .dmg-heal, .dmg-bps, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .calc, .wp, .rsc, .d20 {
+.jetbrains, .dmg-heal, .dmg-bps, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .calc, .wp, .cond, .rsc, .d20 {
   font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.1rem;
 }
-.jetbrains :is(.emojione, .twemoji, .gemoji), .dmg-heal :is(.emojione, .twemoji, .gemoji), .dmg-bps :is(.emojione, .twemoji, .gemoji), .dmg-force :is(.emojione, .twemoji, .gemoji), .dmg-radi :is(.emojione, .twemoji, .gemoji), .dmg-necr :is(.emojione, .twemoji, .gemoji), .dmg-lgtn :is(.emojione, .twemoji, .gemoji), .dmg-psyc :is(.emojione, .twemoji, .gemoji), .dmg-thun :is(.emojione, .twemoji, .gemoji), .dmg-posn :is(.emojione, .twemoji, .gemoji), .dmg-fire :is(.emojione, .twemoji, .gemoji), .dmg-cold :is(.emojione, .twemoji, .gemoji), .dmg-acid :is(.emojione, .twemoji, .gemoji), .calc :is(.emojione, .twemoji, .gemoji), .wp :is(.emojione, .twemoji, .gemoji), .rsc :is(.emojione, .twemoji, .gemoji), .d20 :is(.emojione, .twemoji, .gemoji) {
+.jetbrains :is(.emojione, .twemoji, .gemoji), .dmg-heal :is(.emojione, .twemoji, .gemoji), .dmg-bps :is(.emojione, .twemoji, .gemoji), .dmg-force :is(.emojione, .twemoji, .gemoji), .dmg-radi :is(.emojione, .twemoji, .gemoji), .dmg-necr :is(.emojione, .twemoji, .gemoji), .dmg-lgtn :is(.emojione, .twemoji, .gemoji), .dmg-psyc :is(.emojione, .twemoji, .gemoji), .dmg-thun :is(.emojione, .twemoji, .gemoji), .dmg-posn :is(.emojione, .twemoji, .gemoji), .dmg-fire :is(.emojione, .twemoji, .gemoji), .dmg-cold :is(.emojione, .twemoji, .gemoji), .dmg-acid :is(.emojione, .twemoji, .gemoji), .calc :is(.emojione, .twemoji, .gemoji), .wp :is(.emojione, .twemoji, .gemoji), .cond :is(.emojione, .twemoji, .gemoji), .rsc :is(.emojione, .twemoji, .gemoji), .d20 :is(.emojione, .twemoji, .gemoji) {
   font-size: calc(var(--gbl-font-size) * 0.95);
   margin-right: -0.125rem;
 }
@@ -213,7 +213,7 @@
   font-size: calc(var(--gbl-font-size) * 1.25) !important;
 }
 
-.nowrap, .inl, .wp, .rsc, .d20 {
+.nowrap, .inl, .wp, .cond, .rsc, .d20 {
   white-space: nowrap;
 }
 
@@ -249,11 +249,11 @@
 /*-------------------------------------------------------
     Typography & Text Effects
 -------------------------------------------------------*/
-.em, .inl, .rsc, .d20, .emq {
+.em, .inl, .cond, .rsc, .d20, .emq {
   color: var(--md-gbl-text-color-strong);
 }
 
-.disable-abbr abbr, .wp abbr, .em abbr, .inl abbr, .rsc abbr, .d20 abbr, .emq abbr {
+.disable-abbr abbr, .wp abbr, .em abbr, .inl abbr, .cond abbr, .rsc abbr, .d20 abbr, .emq abbr {
   border-bottom: none !important;
 }
 
@@ -306,6 +306,10 @@ table:not([class]) .smallcap {
 }
 
 .rsc {
+  letter-spacing: -0.025em !important;
+}
+
+.cond {
   letter-spacing: -0.025em !important;
 }
 
@@ -366,20 +370,20 @@ table:not([class]) .smallcap {
   margin-right: -0.03125em;
 }
 
-.curl-right::after, .curl-lr::after {
+.curl-right::after, .curl-lr::after, .cond::after {
   content: "}";
   font-style: normal !important;
   font-weight: 400 !important;
   color: var(--md-default-fg-color--light) !important;
-  margin-left: 0.03125em;
+  margin-left: 0.0625em;
 }
 
-.curl-left::before, .curl-lr::before {
+.curl-left::before, .curl-lr::before, .cond::before {
   content: "{";
   font-style: normal !important;
   font-weight: 400 !important;
   color: var(--md-default-fg-color--light) !important;
-  margin-right: 0.03125em;
+  margin-right: 0.0625em;
 }
 
 /*-------------------------------------------------------
