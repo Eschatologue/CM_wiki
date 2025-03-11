@@ -140,21 +140,19 @@
 // Used for d20 test
 .d20 {
     @extend .em, .nowrap, .jetbrains;
-
     letter-spacing: convert.px2em(-0.4px) !important;
-
-    // :is(.emojione, .twemoji, .gemoji) {
-    //     align-items: center;
-    // }
 }
 
 
 // Resources, such as Actions, spell slots, etc.
 .rsc {
     @extend .em, .nowrap, .jetbrains, .brack-lr;
-
     letter-spacing: convert.px2em(-0.4px) !important;
+}
 
+.cond{
+    @extend .em, .nowrap, .jetbrains, .curl-lr;
+    letter-spacing: convert.px2em(-0.4px) !important;
 }
 
 // Weapons
@@ -239,12 +237,12 @@
 // --- Curlies --- //
 .curl-right::after {
     @include mirror("}");
-    margin-left: convert.px2em(0.5px);
+    margin-left: convert.px2em(1px);
 }
 
 .curl-left::before {
     @include mirror("{");
-    margin-right: convert.px2em(0.5px);
+    margin-right: convert.px2em(1px);
 }
 
 // Combined Brackets
