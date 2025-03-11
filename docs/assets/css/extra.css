@@ -332,7 +332,7 @@ table:not([class]) .smallcap {
 }
 
 /*-------------------------------------------------------
-    Icons & Sizes
+    Brackets and Emphasizes
 -------------------------------------------------------*/
 .chevron-right::after, .md-tabs__item--active .md-tabs__link::after, .chev-lr::after, .inl::after {
   content: "»";
@@ -366,10 +366,25 @@ table:not([class]) .smallcap {
   margin-right: -0.03125em;
 }
 
-.top-pad :is(.emojione, .twemoji, .gemoji) {
-  vertical-align: -0.1875em;
+.curl-right::after, .curl-lr::after {
+  content: "}";
+  font-style: normal !important;
+  font-weight: 400 !important;
+  color: var(--md-default-fg-color--light) !important;
+  margin-left: 0.03125em;
 }
 
+.curl-left::before, .curl-lr::before {
+  content: "{";
+  font-style: normal !important;
+  font-weight: 400 !important;
+  color: var(--md-default-fg-color--light) !important;
+  margin-right: 0.03125em;
+}
+
+/*-------------------------------------------------------
+    Text Sizes
+-------------------------------------------------------*/
 .x2l {
   font-size: calc(var(--gbl-font-size) * 2);
 }
