@@ -180,7 +180,7 @@ You can attack twice instead of once whenever you take the **:rsc-a: Attack**{ .
 
 ### Level 5: Stunning Strike
 
-Once per turn when you hit a creature with a Monk weapon or an **:rsc-a: Unarmed Strike**{ .rsc }, you can expend **1 :class-phb24-monk: Focus Point(s)** to attempt a stunning strike. The target must make a **:d20-save: Constitution saving throw**{ .d20 }. On a failed save, the target has the ^^Stunned^^ condition until the start of your next turn. On a successful save, the target's **:rsc-spd: Speed**{ .em } is halved until the start of your next turn, and the next attack roll made against the target before then has **:d20-adv: Advantage**{ .d20 }.
+Once per turn when you hit a creature with a Monk weapon or an **:rsc-a: Unarmed Strike**{ .rsc }, you can expend **1 :class-phb24-monk: Focus Point(s)** to attempt a stunning strike. The target must make a **:d20-save: Constitution saving throw**{ .d20 }. On a failed save, the target has the **Stunned**{ .cond } condition until the start of your next turn. On a successful save, the target's **:rsc-spd: Speed**{ .em } is halved until the start of your next turn, and the next attack roll made against the target before then has **:d20-adv: Advantage**{ .d20 }.
 
 ### Level 6: Empowered Strikes
 
@@ -190,7 +190,7 @@ Whenever you deal damage with your **:rsc-a: Unarmed Strike**{ .rsc }, it can de
 
 When you're subjected to an effect that allows you to make a **:d20-save: DEX Save**{ .d20 } to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
 
-You don't benefit from this feature if you have the ^^Incapacitated^^ condition.
+You don't benefit from this feature if you have the **Incapacitated**{ .cond } condition.
 
 ### Level 9: Acrobatic Movement
 
@@ -208,9 +208,9 @@ Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following b
 
 ### Level 10: Self-Restoration
 
-Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: ^^Charmed^^, ^^Frightened^^, or ^^Poisoned^^.
+Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: **Charmed**{ .cond }, **Frightened**{ .cond }, or **Poisoned**{ .cond }.
 
-In addition, forgoing food and drink doesn't give you levels of ^^Exhaustion^^.
+In addition, forgoing food and drink doesn't give you levels of **Exhaustion**{ .cond }.
 
 ### Level 13: Deflect Energy
 

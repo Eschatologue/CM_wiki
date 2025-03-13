@@ -106,7 +106,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 You always have the [:spell-lv1: Hunter's Mark] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a **:rest-long: Long Rest**.
 
-The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-conc: Concentration, though it ends early if you have the ^^Incapacitated^^ condition.
+The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-conc: Concentration, though it ends early if you have the **Incapacitated**{ .cond } condition.
 
 ### Level 1: Ranger's Aptitude
 
@@ -201,7 +201,7 @@ The damage die of your [:spell-lv1: Hunter's Mark] improves to d8 when it is cas
 
 ### Level 14: Nature's Veil
 
-You invoke spirits of nature to magically hide yourself. As a **:rsc-b: Bonus Action**{ .rsc }, you can give yourself the ^^Invisible^^ condition until the end of your next turn.
+You invoke spirits of nature to magically hide yourself. As a **:rsc-b: Bonus Action**{ .rsc }, you can give yourself the **Invisible**{ .cond } condition until the end of your next turn.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 

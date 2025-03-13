@@ -18,7 +18,7 @@ Bladesingers master a tradition of wizardry that incorporates swordplay and danc
 
 As a **:rsc-b: Bonus Action**{ .rsc }, you invoke an elven magic called the *Bladesong*, provided you aren’t wearing Armour or using a Shield.
 
-The *Bladesong* lasts for 1 minute and ends early if you have the ^^Incapacitated^^ condition, if you don armor or a Shield, or if you use two hands to make an attack with a weapon. You can dismiss the *Bladesong* at any time (no action required). 
+The *Bladesong* lasts for 1 minute and ends early if you have the **Incapacitated**{ .cond } condition, if you don armor or a Shield, or if you use two hands to make an attack with a weapon. You can dismiss the *Bladesong* at any time (no action required). 
 
 While the *Bladesong* is active, you gain the following benefits. You can invoke the *Bladesong* a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**. 
  

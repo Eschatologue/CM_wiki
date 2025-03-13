@@ -39,7 +39,7 @@ Through the fusion of ancient druidic techniques and advanced technology, you ca
 **Temporary Hit Points**{ .inl } You gain **(Druid Level x 3) :trt-thp: Temporary Hit Points**{ .calc }.
 { .indt }
 
-**Resistance**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on saves to gain and end the ^^Poisoned^^ condition, and you gain **:dmg-res: Resistance** to **:dmg-posn: Poison**{ .dmg-posn } damage.
+**Resistance**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on saves to gain and end the **Poisoned**{ .cond } condition, and you gain **:dmg-res: Resistance** to **:dmg-posn: Poison**{ .dmg-posn } damage.
 { .indt }
 
 **Machine Body**{ .inl } While transformed, you do not need to eat, drink, or breathe and you have **:dmg-imm: Immunity** to be put to sleep by magical means
@@ -110,7 +110,7 @@ When you use **:material-paw: Wild Shape**, you can enhance your beast form with
 
 Your fusion of steel and flesh has reached its pinnacle While you are in **:material-paw: Wild Shape** form, you gain the following benefits:
 
-**Condition Immunities**{ .inl } You are immune to conditions such as: ^^Charmed^^, ^^Frightened^^, ^^Paralyzed^^, ^^Petrified^^, and ^^Poisoned^^. In addition, 
+**Condition Immunities**{ .inl } You are immune to conditions such as: **Charmed**{ .cond }, **Frightened**{ .cond }, **Paralyzed**{ .cond }, **Petrified**{ .cond }, and **Poisoned**{ .cond }. In addition, 
 
 **Poison Immuntity**{ .inl } You have **:dmg-imm: Immunity** to **:dmg-posn: Poison**{ .dmg-posn } damage.
 

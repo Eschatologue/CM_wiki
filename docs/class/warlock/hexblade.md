@@ -27,7 +27,7 @@ The magic of your otherworldly patron ensures you always have certain spells rea
 
 ### Level 3: Hexblade's Curse
 
-You gain the ability to place a baleful curse on your enemies. As a **:rsc-b: Bonus Action**{ .rsc }, choose one creature you can see within **30 feet** of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or when you have the ^^Incapacitated^^ condition. Until the curse ends, you gain the following benefits:
+You gain the ability to place a baleful curse on your enemies. As a **:rsc-b: Bonus Action**{ .rsc }, choose one creature you can see within **30 feet** of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or when you have the **Incapacitated**{ .cond } condition. Until the curse ends, you gain the following benefits:
 
 **Improved Critical**{ .inl } The number you need to roll a Critical Hit while attacking the a cursed target is reduced by 1.
 
@@ -52,7 +52,7 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can materialise a *Spectral Weapon*, 
 
 When you take the **:rsc-a: Attack**{ .rsc } action using your Pact Weapon, you can make it originate from your space or the *Spectral Weapon* space. You make this choice for each attack. When a creature that you can see within the reach of the *Spectral Weapon* moves away from it, you can use your **:rsc-r: Reaction**{ .rsc } to make an **:rsc-r: Opportunity Attack** against that creature as if you were in the *Spectral Weapon's* space.
 
-The *Spectral Weapon* lasts until it is destroyed, until you dismiss it (no action required), until you materialise another *Spectral Weapon*, or until you have the ^^Incapacitated^^ condition.
+The *Spectral Weapon* lasts until it is destroyed, until you dismiss it (no action required), until you materialise another *Spectral Weapon*, or until you have the **Incapacitated**{ .cond } condition.
 
 ### Level 10: Prodigy of Hexes
 

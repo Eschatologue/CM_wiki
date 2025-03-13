@@ -19,7 +19,7 @@ Whenever you make an **:rsc-a: Unarmed Strike (Damage)**{ .rsc }, you can make a
 
 ### Level 6: Blinding Light
 
-When you use your [Patient Defense](index.md#patient-defense) feature, you can expend **1 :class-phb24-monk: Focus Point(s)** to create a bright, flashing light. Choose a number of creatures that you can see within 10 feet of you equal to your Wisdom modifier (minimum 1 creature). Each creature must succeed on a **:d20-save: Constitution saving throw**{ .d20 } against your Focus save DC or have the ^^Blinded^^ condition until the end of its next turn.
+When you use your [Patient Defense](index.md#patient-defense) feature, you can expend **1 :class-phb24-monk: Focus Point(s)** to create a bright, flashing light. Choose a number of creatures that you can see within 10 feet of you equal to your Wisdom modifier (minimum 1 creature). Each creature must succeed on a **:d20-save: Constitution saving throw**{ .d20 } against your Focus save DC or have the **Blinded**{ .cond } condition until the end of its next turn.
 
 ### Level 11: Searing Radiance
 

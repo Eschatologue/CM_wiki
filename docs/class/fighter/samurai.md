@@ -53,7 +53,7 @@ Your training has reached extraordinary heights, allowing you to combine speed a
 
 *Your fighting spirit can delay the grasp of death.*
 
-If you're reduced to **0 Hit Points**, you can use your **:rsc-r: Reaction**{ .rsc } to avoid falling ^^Unconscious^^ and take an extra turn immediately. During this extra turn, while you still have 0 Hit Points, taking damage causes Death Save failures as usual (Three Death Save failures will still kill you). At the end of the extra turn, if you're still at 0 Hit Points, you fall ^^Unconscious^^.  
+If you're reduced to **0 Hit Points**, you can use your **:rsc-r: Reaction**{ .rsc } to avoid falling **Unconscious**{ .cond } and take an extra turn immediately. During this extra turn, while you still have 0 Hit Points, taking damage causes Death Save failures as usual (Three Death Save failures will still kill you). At the end of the extra turn, if you're still at 0 Hit Points, you fall **Unconscious**{ .cond }.  
 
 You can use this feature **once per Long Rest**.
 

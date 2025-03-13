@@ -311,6 +311,7 @@ table:not([class]) .smallcap {
 
 .cond {
   letter-spacing: -0.025em !important;
+  color: var(--md-gbl-text-color) !important;
 }
 
 .wp {
@@ -331,6 +332,7 @@ table:not([class]) .smallcap {
 
 .inl {
   font-weight: 600 !important;
+  font-style: italic;
   display: inline-block;
   position: relative;
 }

@@ -30,7 +30,7 @@ As **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-
 
 This protective zone lasts for 1 minute. While active, each time a creature within 15 feet of the marked point takes **:rsc-a: Action**, **:rsc-b: Bonus Action**{ .rsc }, **:rsc-r: Reaction**, or **moves**, you can make a Ranged weapon attack against them using a Heavy Archer weapon (if within normal range). This attack doesn't require any action and can be made up to a number of times equal to your :abl-cha: Charisma modifier (minimum of 1). You cannot take any :rsc-r: Reactions until the start of your next turn after using this attack. 
 
-This protective zone ends early if you either if you sse up all the allowed attacks, or when you have the ^^Incapacitated^^ condition.
+This protective zone ends early if you either if you sse up all the allowed attacks, or when you have the **Incapacitated**{ .cond } condition.
 
 ### Level 3: Heavy Archer
 

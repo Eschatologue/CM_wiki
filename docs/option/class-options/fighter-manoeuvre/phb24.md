@@ -12,14 +12,14 @@ The maneuvers are presented here in alphabetical order.
 ### Ambush {.hide}
 
 ***Ambush*** <br>
-:   When you make a Dexterity (Stealth) check or an Initiative roll, you can expend one Superiority Die and add the die to the roll, unless you have the ^^Incapacitated^^ condition.
+:   When you make a Dexterity (Stealth) check or an Initiative roll, you can expend one Superiority Die and add the die to the roll, unless you have the **Incapacitated**{ .cond } condition.
 
 ---
 
 ### Bait and Switch {.hide}
 
 ***Bait and Switch***
-:   When you're within 5 feet of a creature on your turn, you can expend one Superiority Die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and doesn't have the ^^Incapacitated^^ condition. This movement doesn't provoke **:rsc-r: Opportunity Attack**{ .rsc }.  
+:   When you're within 5 feet of a creature on your turn, you can expend one Superiority Die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and doesn't have the **Incapacitated**{ .cond } condition. This movement doesn't provoke **:rsc-r: Opportunity Attack**{ .rsc }.  
     
     Roll the Superiority Die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
 
@@ -91,7 +91,7 @@ The maneuvers are presented here in alphabetical order.
 ### Menacing Attack {.hide}
 
 ***Menacing Attack***
-:   When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to frighten the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a **:d20-save: WIS Save**{ .d20 } or have the ^^Frightened^^ condition until the end of your next turn.
+:   When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to frighten the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a **:d20-save: WIS Save**{ .d20 } or have the **Frightened**{ .cond } condition until the end of your next turn.
 
 ---
 
@@ -147,7 +147,7 @@ The maneuvers are presented here in alphabetical order.
 ### Trip Attack {.hide}
 
 ***Trip Attack***
-:   When you hit a creature with an attack roll using a weapon or an **:rsc-a: Unarmed Strike**{ .rsc }, you can expend one Superiority Die and add the die to the attack's damage roll. If the target is Large or smaller, it must succeed on a **:d20-save: STR Save**{ .d20 } or have the ^^Prone^^ condition.
+:   When you hit a creature with an attack roll using a weapon or an **:rsc-a: Unarmed Strike**{ .rsc }, you can expend one Superiority Die and add the die to the attack's damage roll. If the target is Large or smaller, it must succeed on a **:d20-save: STR Save**{ .d20 } or have the **Prone**{ .cond } condition.
 
 ---
 

@@ -29,7 +29,7 @@ Your martial arts technique mixes combat training with the precision of a dancer
 
 You can move in sudden, swaying ways. You gain the following benefits.
 
-**Leap to Your Feet**{ .inl } When you have the ^^Prone^^ condition, you can stand up by only spending 5 feet of Movement speed.
+**Leap to Your Feet**{ .inl } When you have the **Prone**{ .cond } condition, you can stand up by only spending 5 feet of Movement speed.
 
 **Redirect Attack**{ .inl } When reducing the damage for your [Deflect Attacks] feature, your Wisdom modifier is added into the total damage reduction. In addition, when a creature misses you with the attack, you can spend **1 :class-phb24-monk: Focus Point(s)** to use your [Deflect Attacks] feature to redirect it.
 

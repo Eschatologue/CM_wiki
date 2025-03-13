@@ -29,7 +29,7 @@ So long as you are not wearing Heavy armour or wielding a weapon with :wp-prop-h
 
 **Bonus to Checks**{ .inl } You add your Intelligence modifier (minimum of +1) to all Strength (Athletics) and Dexterity (Acrobatics) checks
 
-Your Blade Dance ends if you have the ^^Incapacitated^^ condition, if you don Heavy armour or a weapon with :wp-prop-heavy: Heavy Property, or if you end it (no action required). 
+Your Blade Dance ends if you have the **Incapacitated**{ .cond } condition, if you don Heavy armour or a weapon with :wp-prop-heavy: Heavy Property, or if you end it (no action required). 
 
 Once you enter a Blade Dance you must complete a **:rest-short: Short** or **:rest-long: Long Rest** before you can do so again. You can also restore your use of it by expending a level 1+ spell slot (no action required).
 

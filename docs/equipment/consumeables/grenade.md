@@ -51,7 +51,7 @@ Below are the effects of each grenade.
 
 **Flashbang** <br>_300 SP, S._
 
-:   This grenade explodes in a blinding flash and a deafening bang that affect a **20-foot-radius :aoe-sphere: Sphere**. Each creature in the area must make a **:d20-save: CON Save (DC 14)**{ .d20 }, taking **2d6 :dmg-thun: Thunder**{ .dmg-thun } damage and have the ^^Blinded^^ and ^^Deafened^^ condition for 1 minute on a failed save, or half as much on a successful save with no additional effects. 
+:   This grenade explodes in a blinding flash and a deafening bang that affect a **20-foot-radius :aoe-sphere: Sphere**. Each creature in the area must make a **:d20-save: CON Save (DC 14)**{ .d20 }, taking **2d6 :dmg-thun: Thunder**{ .dmg-thun } damage and have the **Blinded**{ .cond } and **Deafened**{ .cond } condition for 1 minute on a failed save, or half as much on a successful save with no additional effects. 
 
     Affected creatures can repeat the save at the start of each of their turns, ending the effect on a success. On a successful save, the creature takes only half damage and suffers no additional effects.
 
@@ -63,7 +63,7 @@ Below are the effects of each grenade.
 
 **Sleep** <br>_800 SP, S._
 
-:   This grenade releases a cloud of sedative mist that fills a **20-foot-radius :aoe-sphere: Sphere**, then dissipates. Each creature in that area must succeed on a **:d20-save: CON Save (DC 14)**{ .d20 } or have the ^^Unconscious^^ condition for 1 hour. The condition ends on a creature early if the creature takes damage or if another creature uses an Action to shake it awake.
+:   This grenade releases a cloud of sedative mist that fills a **20-foot-radius :aoe-sphere: Sphere**, then dissipates. Each creature in that area must succeed on a **:d20-save: CON Save (DC 14)**{ .d20 } or have the **Unconscious**{ .cond } condition for 1 hour. The condition ends on a creature early if the creature takes damage or if another creature uses an Action to shake it awake.
 
 
 **Smoke** <br>_500 SP, S._

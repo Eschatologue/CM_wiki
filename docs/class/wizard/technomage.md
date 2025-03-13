@@ -37,7 +37,7 @@ You craft a mechanical drone, a construct powered by your ingenuity and skill. T
 
 The drone is friendly to you and your companions. It vanishes if it is destroyed or when you die.
 
-**The Drone in Combat**{ .inl } The drone acts during your turn. It can move and use its **:rsc-r: Reaction**{ .rsc } independently, but the only action it takes is the **:rsc-a: Dodge**{ .rsc } action unless you take a **:rsc-b: Bonus Action**{ .rsc } to command it to take an action from its stat block or another action. If you have the ^^Incapacitated^^ condition, the drone acts on its own and its't limited to the **:rsc-a: Dodge**{ .rsc } action.
+**The Drone in Combat**{ .inl } The drone acts during your turn. It can move and use its **:rsc-r: Reaction**{ .rsc } independently, but the only action it takes is the **:rsc-a: Dodge**{ .rsc } action unless you take a **:rsc-b: Bonus Action**{ .rsc } to command it to take an action from its stat block or another action. If you have the **Incapacitated**{ .cond } condition, the drone acts on its own and its't limited to the **:rsc-a: Dodge**{ .rsc } action.
 
 **Restoring or Replacing the Drone**{ .inl } If the drone has been destroyed within the last hour, you can use an action to repair it, expending a level 1+ spell slot. The drone returns to life with all its **:trt-hp: Hit Points** restored after 1 minute.
 

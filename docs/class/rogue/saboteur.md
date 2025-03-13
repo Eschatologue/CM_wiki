@@ -91,7 +91,7 @@ _**Glitter Dust** <br>*Level 3+ Rogue*_
     **Cost:** **1 :material-bomb: Cordite Charge(s)**{ .calc }
 
 _**Seismic Charge** <br>*Level 3+ Rogue*_
-:   On impact, this explosive distrupts the earth, forcing targets within **20-foot :aoe-cube: Cube** to make a **:d20-save: STR Save**{ .d20 }. On a failed save, it takes **(Sneak Attack) :dmg-bldg: Bludgeoning**{ .dmg-bps } damage and has the ^^Prone^^ condition. The affected area becomes Difficult Terrain for 1 minute.
+:   On impact, this explosive distrupts the earth, forcing targets within **20-foot :aoe-cube: Cube** to make a **:d20-save: STR Save**{ .d20 }. On a failed save, it takes **(Sneak Attack) :dmg-bldg: Bludgeoning**{ .dmg-bps } damage and has the **Prone**{ .cond } condition. The affected area becomes Difficult Terrain for 1 minute.
 
     **Cost:** **1 :material-bomb: Cordite Charge(s)**{ .calc }
 
@@ -101,7 +101,7 @@ _**Thunderwave** <br>*Level 3+ Rogue*_
     **Cost:** **2 :material-bomb: :material-bomb: Cordite Charge(s)**{ .calc }
 
 _**Sticky Web** <br>*Level 5+ Rogue*_
-:   On impact, sticky white coating covers a **20-foot :aoe-square: Square**. Any creature that starts its turn in the square, or enters the area during its turn must succeed on a **:d20-save: DEX Save**{ .d20 } or have the ^^Restrained^^ condition. Affected creature can take an **:rsc-a: Action**{ .rsc } to STR or DEX Save, ending the effect on success. This coating dissolves after 1 minute. If it takes any **:dmg-fire: Fire**{ .dmg-fire } damage, it instantly disolves.
+:   On impact, sticky white coating covers a **20-foot :aoe-square: Square**. Any creature that starts its turn in the square, or enters the area during its turn must succeed on a **:d20-save: DEX Save**{ .d20 } or have the **Restrained**{ .cond } condition. Affected creature can take an **:rsc-a: Action**{ .rsc } to STR or DEX Save, ending the effect on success. This coating dissolves after 1 minute. If it takes any **:dmg-fire: Fire**{ .dmg-fire } damage, it instantly disolves.
 
     **Cost:** **2 :material-bomb: :material-bomb: Cordite Charge(s)**{ .calc }
 
@@ -111,14 +111,14 @@ _**Incendiary Bomb** <br>*Level 5+ Rogue*_
     **Cost:** **3 :material-bomb: :material-bomb: :material-bomb: Cordite Charge(s)**{ .calc }
 
 _**Demon Core** <br>*Level 9+ Rogue*_
-:   On impact, dim, greenish light spreads within a **30-foot-radius :aoe-sphere: Sphere**. The light spreads around corners, and it lasts for 1 minute. When a creature moves into the Sphere for the first time on a turn or starts its turn there, that creature must succeed on a **:d20-save: CON Save**{ .d20 } or take **(Sneak Attack) :dmg-radi: Radiant**{ .dmg-radi } damage, and it suffers one level of ^^Exhaustion^^ and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being invisible. The light and any levels of exhaustion caused by this explosive go away when the it ends.
+:   On impact, dim, greenish light spreads within a **30-foot-radius :aoe-sphere: Sphere**. The light spreads around corners, and it lasts for 1 minute. When a creature moves into the Sphere for the first time on a turn or starts its turn there, that creature must succeed on a **:d20-save: CON Save**{ .d20 } or take **(Sneak Attack) :dmg-radi: Radiant**{ .dmg-radi } damage, and it suffers one level of **Exhaustion**{ .cond } and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being invisible. The light and any levels of exhaustion caused by this explosive go away when the it ends.
 
     **Cost:** **3 :material-bomb: :material-bomb: :material-bomb: Cordite Charge(s)**{ .calc }
 
 _**Noxius Gas** <br>*Level 9+ Rogue*_
 :   On impact, a cloud of putrid yellow gas spreads outward in a **20-foot-radius :aoe-sphere: Sphere**. The cloud is Heavily Obscured. The cloud lingers in the air for 1 minute or until a strong wind (such as the one created by [:spell-lv2: Gust of Wind]) disperses it.
 
-    Each creature that starts its turn in the Sphere must succeed on a **:d20-save: CON Save**{ .d20 } or have the ^^Poisoned^^ condition until the end of the current turn. While ^^Poisoned^^ in this way, the creature can't take action or **:rsc-b: Bonus Action**{ .rsc }.
+    Each creature that starts its turn in the Sphere must succeed on a **:d20-save: CON Save**{ .d20 } or have the **Poisoned**{ .cond } condition until the end of the current turn. While **Poisoned**{ .cond } in this way, the creature can't take action or **:rsc-b: Bonus Action**{ .rsc }.
 
     **Cost:** **3 :material-bomb: :material-bomb: :material-bomb: Cordite Charge(s)**{ .calc }
 

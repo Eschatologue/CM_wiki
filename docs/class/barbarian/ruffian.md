@@ -35,9 +35,9 @@ Additionally, while you aren't wearing Medium or Heavy armour, you gain the foll
 
 Your fists becomes devastating to whoever at the receiving end. Your **:rsc-a: Unarmed Strike**{ .rsc } is improved in the following ways:
 
-**Hurl**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can end a Grapple to throw the creature to a point you can see within 30 feet. If the creature lands in an unoccupied space, it has the ^^Prone^^ condition. If it collides with another creature, that creature must succeed on a Dexterity saving throw (DC = 8 + Prof. Bonus + Str. modifier) or take :dmg-bldg: Bludgeoning damage equal to your **:rsc-a: Unarmed Strike**{ .rsc } damage.
+**Hurl**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can end a Grapple to throw the creature to a point you can see within 30 feet. If the creature lands in an unoccupied space, it has the **Prone**{ .cond } condition. If it collides with another creature, that creature must succeed on a Dexterity saving throw (DC = 8 + Prof. Bonus + Str. modifier) or take :dmg-bldg: Bludgeoning damage equal to your **:rsc-a: Unarmed Strike**{ .rsc } damage.
 
-**Concussion**{ .inl } When you hit a creature with an **:rsc-a: Unarmed Strike**{ .rsc } , you can force it to make a Constitution saving throw (DC = 8 + Prof. Bonus + Str. modifier). On a failure, it has the ^^Stunned^^ condition until the start of your next turn. On a success, its Speed is halved until the start of your next turn, and the next attack against it has :d20-adv: Advantage.
+**Concussion**{ .inl } When you hit a creature with an **:rsc-a: Unarmed Strike**{ .rsc } , you can force it to make a Constitution saving throw (DC = 8 + Prof. Bonus + Str. modifier). On a failure, it has the **Stunned**{ .cond } condition until the start of your next turn. On a success, its Speed is halved until the start of your next turn, and the next attack against it has :d20-adv: Advantage.
 
 You can use this class feature a number of times equal to your Strength modifier (a minimum of once), and you regain all expended uses when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
@@ -45,7 +45,7 @@ You can use this class feature a number of times equal to your Strength modifier
 
 Your expertise in hand-to-hand combat reaches new heights: your unarmed attacks are deadlier and more punishing. While your **:ui-rage: Rage**{ .em } is active, you gain the following benefits:
 
-**Backbreaker**{ .inl } At the start of each of your turns while your **:ui-rage: Rage**{ .em } is active, you can deal 1d6 :dmg-bldg: Bludgeoning damage to one creature that receive the ^^Grappled^^ condition from you, instead of 1d4. At Barbarial level 14, this damage die becomes 1d8.
+**Backbreaker**{ .inl } At the start of each of your turns while your **:ui-rage: Rage**{ .em } is active, you can deal 1d6 :dmg-bldg: Bludgeoning damage to one creature that receive the **Grappled**{ .cond } condition from you, instead of 1d4. At Barbarial level 14, this damage die becomes 1d8.
 
 **Deadly Strikes**{ .inl } While your **:ui-rage: Rage**{ .em } is active, when you do damage with **:rsc-a: Unarmed Strike**{ .rsc } , its damage die becomes 1d8, or 1d10 if you have two free hands. At Barbarian level 14, this damage die becomes 1d10, or 1d12 if you have two free hands.
 

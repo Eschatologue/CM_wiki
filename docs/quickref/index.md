@@ -96,13 +96,13 @@ icon: material/fast-forward
 
         **Cost:** *none*
 
-        Give yourself the ^^Prone^^ condition.
+        Give yourself the **Prone**{ .cond } condition.
 
     - #### Stand Up { .chev-lr }
 
         **Cost:** *half your max __:rsc-spd: Speed__*
 
-        End the ^^Prone^^ condition
+        End the **Prone**{ .cond } condition
 
     - #### Climb { .chev-lr }
 

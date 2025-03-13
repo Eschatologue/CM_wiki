@@ -150,9 +150,10 @@
     letter-spacing: convert.px2em(-0.4px) !important;
 }
 
-.cond{
+.cond {
     @extend .em, .nowrap, .jetbrains, .curl-lr;
     letter-spacing: convert.px2em(-0.4px) !important;
+    color: var(--md-gbl-text-color) !important;
 }
 
 // Weapons
@@ -184,6 +185,7 @@
 .inl {
     @extend .em, .nowrap, .chev-lr;
     font-weight: 600 !important;
+    font-style: italic;
     display: inline-block;
     position: relative;
 }

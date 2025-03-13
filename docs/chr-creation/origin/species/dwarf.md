@@ -22,7 +22,7 @@ You have Darkvision with a range of 120 feet.
 
 ### Dwarven Resilience
 
-You have **:dmg-res: Resistance**{ .em } to **:dmg-posn: Poison**{ .dmg-posn } damage. You also have **:d20-adv: Advantage**{ .d20 } on **:d20-save: Saving Throws**{ .em } you make to avoid or end the ^^Poisoned^^ condition.
+You have **:dmg-res: Resistance**{ .em } to **:dmg-posn: Poison**{ .dmg-posn } damage. You also have **:d20-adv: Advantage**{ .d20 } on **:d20-save: Saving Throws**{ .em } you make to avoid or end the **Poisoned**{ .cond } condition.
 
 ### Stonecunning 
 

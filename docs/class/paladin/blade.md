@@ -45,7 +45,7 @@ Duelists are under the following effects:
 
 **Limited Targeting**{ .inl } Duelists has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against other creatures, except for other Duelists.
 
-This *Sacred Duel* lasts for 1 minute, or until one Duelist have the ^^Unconcious^^ condition. Alternatively, a Duelist can choose to yield, ending the *Sacred Duel* early (no action required), when they do, it has the ^^Stunned^^ condition until the end of its next turn.
+This *Sacred Duel* lasts for 1 minute, or until one Duelist have the ^^Unconcious^^ condition. Alternatively, a Duelist can choose to yield, ending the *Sacred Duel* early (no action required), when they do, it has the **Stunned**{ .cond } condition until the end of its next turn.
 
 ### Level 7: Additional Fighting Style
 
@@ -69,7 +69,7 @@ As **:rsc-b: Bonus Action**{ .rsc }, you can enter a battle trance that enhances
 
 **Free Manoeuvre**{ .inl } Once per turn, when you use a Manoeuvre, you can roll a :die-d6: d6 and use the number rolled instead of expending a Superiority Die.
 
-**Saving Throw Advantage**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on all saving throws so long you don't have the ^^Incapacitated^^ condition.
+**Saving Throw Advantage**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on all saving throws so long you don't have the **Incapacitated**{ .cond } condition.
 
 :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
 { .quote }

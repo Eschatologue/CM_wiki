@@ -21,7 +21,7 @@ Below are the Aptitudes available to the [Ranger]. If an Aptitude has a prerequi
 Every Ranger has a unique origin, choose one of the following benefit:
 
 **Bounty Hunter**
-:   _Your expertise in hunting bounties stands out._ You gain proficiency in Insight and Investigation. In addition, creatures has **:d20-dis: Disadvantage**{ .d20 } on saves to resist or end the ^^Grappled^^ or ^^Restrained^^ condition caused by you.
+:   _Your expertise in hunting bounties stands out._ You gain proficiency in Insight and Investigation. In addition, creatures has **:d20-dis: Disadvantage**{ .d20 } on saves to resist or end the **Grappled**{ .cond } or **Restrained**{ .cond } condition caused by you.
 
 **Deathwatch**
 
@@ -131,7 +131,7 @@ When you roll **:d20-inv: Initiative**{.d20 }, you can take a **:rsc-r: Reaction
 
 _**Prerequisite:** Level 14+ Ranger, [Slayer II](#slayer-ii-ambush-tactics)_
 
-Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can force the target must succeed a **:d20-save: CON Save**{ .d20 }, or it has the ^^Blinded^^ and ^^Silenced^^ condition.
+Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can force the target must succeed a **:d20-save: CON Save**{ .d20 }, or it has the **Blinded**{ .cond } and **Silenced**{ .cond } condition.
 
 ---
 

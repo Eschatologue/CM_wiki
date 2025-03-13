@@ -24,7 +24,7 @@ While you have the **Blinded** condition, you experience the following effects.
 
 **Can't See**{ .inl } You can't see and automatically fail any ability check that requires sight.
 
-**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 } , and your attack rolls have Disadvantage.
+**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 } , and your attack rolls have Dis**:d20-adv: Advantage**{ .d20 }.
 
 ---
 
@@ -90,7 +90,7 @@ While you have the **Grappled** condition, you experience the following effects.
 
 While You have the **Incapacitated** condition, you experience the following effects.
 
-**Inactive**{ .inl } You can't take any action, Bonus Action, or Reaction.
+**Inactive**{ .inl } You can't take any **:rsc-a: Action**{.rsc}, **:rsc-b: Bonus Action**{.rsc}, or **:rsc-r: Reaction**{.rsc}.
 
 **No Concentration**{ .inl } Your Concentration is broken.
 
@@ -108,7 +108,7 @@ While you have the **Invisible** condition, you experience the following effects
 
 **Concealed**{ .inl } You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
 
-**Attacks Affected**{ .inl } Attack rolls against you have **:d20-dis: Disadvantage**{ .d20 }, and your attack rolls have Advantage. If a creature can somehow see you, you don't gain this benefit against that creature.
+**Attacks Affected**{ .inl } Attack rolls against you have **:d20-dis: Disadvantage**{ .d20 }, and your attack rolls have **:d20-adv: Advantage**{ .d20 }. If a creature can somehow see you, you don't gain this benefit against that creature.
 
 ---
 
@@ -116,13 +116,13 @@ While you have the **Invisible** condition, you experience the following effects
 
 While you have the **Paralyzed** condition, you experience the following effects.
 
-**Incapacitated**{ .inl } You have the ^^[Incapacitated]^^ condition.
+**Incapacitated**{ .inl } You have the **Incapacitated**{ .cond } condition.
 
 **Speed 0**{ .inl } Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
-**Saving Throws Affected**{ .inl } You automatically fail Strength and Dexterity saving throws.
+**Saving Throws Affected**{ .inl } You automatically fail **:d20-save: STR & DEX Save**{.d20}.
 
-**Attacks Affected**{ .inl } Attack rolls against you have Advantage.
+**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
 
 **Automatic Critical Hits**{ .inl } Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
 
@@ -134,17 +134,17 @@ While you have the **Petrified** condition, you experience the following effects
 
 **Turned to Inanimate Substance**{ .inl } You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
 
-**Incapacitated**{ .inl } You have the ^^[Incapacitated]^^ condition.
+**Incapacitated**{ .inl } You have the **Incapacitated**{ .cond } condition.
 
 **Speed 0**{ .inl } Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
-**Attacks Affected**{ .inl } Attack rolls against you have Advantage.
+**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
 
-**Saving Throws Affected**{ .inl } You automatically fail Strength and Dexterity saving throws.
+**Saving Throws Affected**{ .inl } You automatically fail **:d20-save: STR & DEX Save**{ .d20 }.
 
-**Resist Damage**{ .inl } You have Resistance to all damage.
+**Resist Damage**{ .inl } You have **:dmg-res: Resistance** to all damage.
 
-**Poison Immunity**{ .inl } You have Immunity to the Poisoned condition.
+**Poison Immunity**{ .inl } You have **:dmg-imm: Immunity** to the **Poisoned**{ .cond } condition.
 
 ---
 
@@ -162,7 +162,7 @@ While you have the **Prone** condition, you experience the following effects.
 
 **Restricted Movement**{ .inl } Your only Movement options are to crawl or to spend an amount of Movement equal to half your **:rsc-spd: Speed**{ .em } (round down) to right yourself and thereby end the condition. If your **:rsc-spd: Speed**{ .em } is 0, you can't right yourself.
 
-**Attacks Affected**{ .inl } You have **:d20-dis: Disadvantage**{ .d20 } on attack rolls. An attack roll against you has **:d20-adv: Advantage**{ .d20 } if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.
+**Attacks Affected**{ .inl } You have **:d20-dis: Disadvantage**{ .d20 } on attack rolls. An attack roll against you has **:d20-adv: Advantage**{ .d20 } if the attacker is within 5 feet of you. Otherwise, that attack roll has **:d20-dis: Disadvantage**{ .d20 }.
 
 ---
 
@@ -172,9 +172,9 @@ While you have the **Restrained** condition, you experience the following effect
 
 **Speed 0**{ .inl } Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
-**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 } , and your attack rolls have Disadvantage.
+**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 } , and your attack rolls have Dis**:d20-adv: Advantage**{ .d20 }.
 
-**Saving Throws Affected**{ .inl } You have **:d20-dis: Disadvantage**{ .d20 } on Dexterity saving throws.
+**Saving Throws Affected**{ .inl } You have **:d20-dis: Disadvantage**{ .d20 } on **:d20-save: DEX Save**.
 
 ---
 
@@ -192,25 +192,25 @@ While you have the **Silenced** condition, you experience the following effects.
 
 While you have the **Stunned** condition, you experience the following effects.
 
-**Incapacitated**{ .inl } You have the ^^[Incapacitated]^^ condition.
+**Incapacitated**{ .inl } You have the **Incapacitated**{ .cond } condition.
 
-**Saving Throws Affected**{ .inl } You automatically fail Strength and Dexterity saving throws.
+**Saving Throws Affected**{ .inl } You automatically fail **:d20-save: STR & DEX Save**{ .d20 }.
 
-**Attacks Affected**{ .inl } Attack rolls against you have Advantage.
+**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
 
 ---
 
-### Unconscious 
+### Unconscious { .cond }
 
 While you have the **Unconscious** condition, you experience the following effects.
 
-**Inert**{ .inl } You have the ^^[Incapacitated]^^ and Prone conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.
+**Inert**{ .inl } You have the **Incapacitated**{ .cond } and **Prone**{ .cond } conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.
 
 **Speed 0**{ .inl } Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
-**Attacks Affected**{ .inl } Attack rolls against you have Advantage.
+**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
 
-**Saving Throws Affected**{ .inl } You automatically fail Strength and Dexterity saving throws.
+**Saving Throws Affected**{ .inl } You automatically fail **:d20-save: STR & DEX Save**{ .d20 }.
 
 **Automatic Critical Hits**{ .inl } Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
 
@@ -219,5 +219,3 @@ While you have the **Unconscious** condition, you experience the following effec
 ---
 
 *looking for **Burning**? See [Hazard](exploration.md#hazards)*
-
-^^[Incapacitated]^^: #incapacitated

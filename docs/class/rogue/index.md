@@ -113,7 +113,7 @@ At Rogue level 6, you gain Expertise in two more of your skill proficiencies of 
 
 You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have **:d20-adv: Advantage**{ .d20 } on the roll and the attack uses a :wp-prop-finesse: Finesse or a :wp-prop-range: Ranged weapon. The extra damage's type is the same as the weapon's type.
 
-You don't need **:d20-adv: Advantage**{ .d20 } on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the ^^Incapacitated^^ condition, and you don't have **:d20-dis: Disadvantage**{ .d20 } on the attack roll.
+You don't need **:d20-adv: Advantage**{ .d20 } on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the **Incapacitated**{ .cond } condition, and you don't have **:d20-dis: Disadvantage**{ .d20 } on the attack roll.
 
 The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
 
@@ -170,7 +170,7 @@ When an attacker that you can see hits you with an attack roll, you can take a *
 
 ### Level 7: Evasion
 
-You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the ^^Incapacitated^^ condition.
+You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the **Incapacitated**{ .cond } condition.
 
 ### Level 7: Reliable Talent
 
@@ -188,7 +188,7 @@ You've practiced new ways to use your Sneak Attack deviously. The following effe
 :   The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a **:rsc-b: Bonus Action**{ .rsc }.
 
 **Knock Out** <br>_Cost: `6d6`_
-:   The target must succeed on a Constitution saving throw, or it has the ^^Unconscious^^ condition for 1 minute or until it takes any damage. The Unconscious target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+:   The target must succeed on a Constitution saving throw, or it has the **Unconscious**{ .cond } condition for 1 minute or until it takes any damage. The Unconscious target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 **Obscure** <br>_Cost: `3d6`_
 :   The target must succeed on a Dexterity saving throw, or it has the Blinded condition until the end of its next turn.

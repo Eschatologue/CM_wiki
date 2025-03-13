@@ -37,7 +37,7 @@ You have practiced new ways to use your Sneak Attack. The following effects are 
 :   The target must succeed on a Wisdom saving throw, or until the end of its next turn, the target has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against targets other than you and can't make :rsc-r: Opportunity Attacks against targets other than you.
 
 **Awe** <br>_Cost: `3d6`_ 
-:   Each creature of your choice within 30 feet of you must succeed on a Wisdom saving throw or have the ^^Charmed^^ condition until the end of your next turn.
+:   Each creature of your choice within 30 feet of you must succeed on a Wisdom saving throw or have the **Charmed**{ .cond } condition until the end of your next turn.
 
 
 ### Level 13: Dashing Strikes

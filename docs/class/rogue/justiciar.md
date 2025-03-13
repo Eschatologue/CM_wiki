@@ -25,7 +25,7 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can open your awareness to detect Cel
 
 #### :ui-chdiv-cleric: Shroud of Faith
 
-As an **:rsc-b: Bonus Action**{ .rsc }, you grip your holy symbol and invoke the protection of your god. You have the ^^Invisible^^ condition for 1 minute. This effect ends early if you attack or cast a spell.
+As an **:rsc-b: Bonus Action**{ .rsc }, you grip your holy symbol and invoke the protection of your god. You have the **Invisible**{ .cond } condition for 1 minute. This effect ends early if you attack or cast a spell.
 
 ### Level 3: Spellcasting
 

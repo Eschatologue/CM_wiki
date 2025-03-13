@@ -59,7 +59,7 @@ When you make a Dragon’s Exhalation, you can choose for it to be a **30-foot :
 
 ### Level 10: Flowing Spirit
 
-You gain **:dmg-imm: Immunity** to the damage type of your [Draconic Spark]. You also have **:d20-adv: Advantage**{ .d20 } on **:d20-save: Saving Throws**{ .em } you make to avoid or end the ^^Charmed^^ or ^^Frightened^^ condition. 
+You gain **:dmg-imm: Immunity** to the damage type of your [Draconic Spark]. You also have **:d20-adv: Advantage**{ .d20 } on **:d20-save: Saving Throws**{ .em } you make to avoid or end the **Charmed**{ .cond } or **Frightened**{ .cond } condition. 
 
 Moreover, you gain the [:class-phb24-warlock: Curse of Permanence](../../option/class-options/warlock-invocations/hb.md#curse-of-permanence) Invocation. This Invocation doesn't count against the number of Invocation you can have and can't be replaced. Choose a different Invocation if you already have it. 
 

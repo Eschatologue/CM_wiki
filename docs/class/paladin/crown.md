@@ -42,7 +42,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 When you take the **:rsc-a: Attack**{ .rsc } action, you can expend one use of your **:ui-chdiv-pal: Channel Divinity**  to issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a **:d20-save: Wisdom saving throw**. On a failed save, a creature can't willingly move more than 30 feet away from you, and has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against creatures other than you. 
 
-This effect ends on the creature after 1 minute, and ends early if you have the ^^Incapacitated^^ condition, die, or if the creature is more than 30 feet away from you.
+This effect ends on the creature after 1 minute, and ends early if you have the **Incapacitated**{ .cond } condition, die, or if the creature is more than 30 feet away from you.
 
 ### Level 3: Turn the Tide
 
@@ -56,7 +56,7 @@ You exude an aura that bolsters the resolve of your allies. When a creature that
 
 You are an unstoppable force for your cause. 
  
-You have **:dmg-imm: Immunity** to the ^^Paralyzed^^ and ^^Stunned^^ conditions, you cannot unwillingly gain the ^^Prone^^ condition, and you cannot be forcefully moved against your will.
+You have **:dmg-imm: Immunity** to the **Paralyzed**{ .cond } and **Stunned**{ .cond } conditions, you cannot unwillingly gain the **Prone**{ .cond } condition, and you cannot be forcefully moved against your will.
 
 ### Level 20: Exalted Champion
 
@@ -64,8 +64,8 @@ Your presence on the field of battle is an inspiration to those dedicated to you
 
 **Damage Resistance**{ .inl } You have **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps } and **:dmg-slsh: Slashing**{ .dmg-bps } damage.
 
-**Regal Presence**{ .inl } Your Aura of Protection exudes unearthly majesty. Whenever the Aura enters the space of a creature you can see and whenever a creature you can see enters the Aura or ends its turn there, you can force that creature to make a **:d20-save: Wisdom saving throw** against your Spell Save DC. On a failed save, it takes **10 :dmg-psyc: Psychic**{ .dmg-psyc } damage and has the ^^Prone^^ condition so long it is within your Aura of Protection.  
-&emsp; At the end of each of its turns, the creature can repeat this save, ending the effect preventing it from removing the ^^Prone^^ condition from itself on a successful save, or taking **10 :dmg-psyc: Psychic**{ .dmg-psyc } damage on a failed save.
+**Regal Presence**{ .inl } Your Aura of Protection exudes unearthly majesty. Whenever the Aura enters the space of a creature you can see and whenever a creature you can see enters the Aura or ends its turn there, you can force that creature to make a **:d20-save: Wisdom saving throw** against your Spell Save DC. On a failed save, it takes **10 :dmg-psyc: Psychic**{ .dmg-psyc } damage and has the **Prone**{ .cond } condition so long it is within your Aura of Protection.  
+&emsp; At the end of each of its turns, the creature can repeat this save, ending the effect preventing it from removing the **Prone**{ .cond } condition from itself on a successful save, or taking **10 :dmg-psyc: Psychic**{ .dmg-psyc } damage on a failed save.
 
 Once you use this feature, you cannot use it again until you finish a **:rest-long: Long Rest**, or you expend a level 5 spell slot to use it again.
 

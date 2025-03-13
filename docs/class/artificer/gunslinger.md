@@ -69,7 +69,7 @@ This bonus damage is 2d6 for a level 1 spell slot and it increases by 1d6 for ea
 
 ### Level 9: Quickdraw
 
-You always seem to shoot first. You can add your Intelligence modifier (minimum of +1) to your **:d20-inv: Initiative**{.d20 } rolls. Also, if you roll **:d20-inv: Initiative**{.d20 } and don't have the ^^Surprised^^ or the ^^Incapacitated^^ conditon, you can use a **:rsc-r: Reaction**{ .rsc } to make one attack with your Arcane Firearm.
+You always seem to shoot first. You can add your Intelligence modifier (minimum of +1) to your **:d20-inv: Initiative**{.d20 } rolls. Also, if you roll **:d20-inv: Initiative**{.d20 } and don't have the ^^Surprised^^ or the **Incapacitated**{ .cond } conditon, you can use a **:rsc-r: Reaction**{ .rsc } to make one attack with your Arcane Firearm.
 
 ### Level 15: Master Gunslinger
 

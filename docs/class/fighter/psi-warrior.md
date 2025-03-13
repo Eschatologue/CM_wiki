@@ -50,7 +50,7 @@ You have mastered new ways to use your telekinetic abilities, detailed below.
 
 ### Level 10: Guarded Mind
 
-The psionic energy flowing through you has bolstered your mind. You have **:dmg-res: Resistance** to **:dmg-psyc: Psychic**{ .dmg-psyc } damage. Moreover, if you start your turn with the ^^Charmed^^ or ^^Frightened^^ condition, you can expend a Psionic Energy Die (no action required) and end every effect on yourself subjecting you to those conditions.
+The psionic energy flowing through you has bolstered your mind. You have **:dmg-res: Resistance** to **:dmg-psyc: Psychic**{ .dmg-psyc } damage. Moreover, if you start your turn with the **Charmed**{ .cond } or **Frightened**{ .cond } condition, you can expend a Psionic Energy Die (no action required) and end every effect on yourself subjecting you to those conditions.
 
 ### Level 15: Bulwark of Force
 
