@@ -24,7 +24,7 @@ While you have the **Blinded** condition, you experience the following effects.
 
 **Can't See**{ .inl } You can't see and automatically fail any ability check that requires sight.
 
-**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 } , and your attack rolls have Dis**:d20-adv: Advantage**{ .d20 }.
+**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 } , and your attack rolls have **:d20-dis: Disadvantage**{ .d20 }.
 
 ---
 
@@ -172,7 +172,7 @@ While you have the **Restrained** condition, you experience the following effect
 
 **Speed 0**{ .inl } Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
-**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 } , and your attack rolls have Dis**:d20-adv: Advantage**{ .d20 }.
+**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 } , and your attack rolls have **:d20-dis: Disadvantage**{ .d20 }.
 
 **Saving Throws Affected**{ .inl } You have **:d20-dis: Disadvantage**{ .d20 } on **:d20-save: DEX Save**.
 
