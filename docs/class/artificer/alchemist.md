@@ -58,7 +58,7 @@ Through your explorations into alchemy you have learned to make explosive concoc
 
 **Creating a Grenade**{ .inl } When you start casting a spell using your Alchemist's Supplies as the spellcasting focus, you can turn that casting into an Alchemical Grenade. The spell must deal **:dmg-acid: Acid**{ .dmg-acid } **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-necr: Necrotic**{ .dmg-necr } or **:dmg-posn: Poison**{ .dmg-posn } damage. You can ignore any Verbal components for this casting of the spell.
 
-**Alchemical Explosion**{ .inl } When you cast a spell in this way and only target one creature with it, each creature within 5 feet of the target, other than the target itself, must succeed a :d20-save: Dexterity saving throw against your Spell Save DC, or takes half of the spell's damage. The spell does not gain this benefit if it already targets an area.
+**Alchemical Explosion**{ .inl } When you cast a spell in this way and only target one creature with it, each creature within 5 feet of the target, other than the target itself, must succeed a **:d20-save: DEX Save**{ .d20 } against your Spell Save DC, or takes half of the spell's damage. The spell does not gain this benefit if it already targets an area.
 
 The radius of this explosion increases to 10 feet when you reach level 9 in this class.
 

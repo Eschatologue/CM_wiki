@@ -93,7 +93,7 @@ If you take the **Disengage**{ .rsc } action, your Movement doesn't provoke Oppo
 
 **Cost:** **:rsc-a: Action**{ .rsc }
 
-When you take the **Dodge**{ .rsc } action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has **:d20-dis: Disadvantage**{ .d20 } if you can see the attacker, and you make **:d20-save: Dexterity saving throws** with **:d20-adv: Advantage**{ .d20 }. You lose this benefit if you have the Incapacitated condition or if your **:rsc-spd: Speed**{ .em } is 0.
+When you take the **Dodge**{ .rsc } action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has **:d20-dis: Disadvantage**{ .d20 } if you can see the attacker, and you make **:d20-save: DEX Save**{ .d20 } with **:d20-adv: Advantage**{ .d20 }. You lose this benefit if you have the Incapacitated condition or if your **:rsc-spd: Speed**{ .em } is 0.
 
 ---
 

@@ -163,7 +163,7 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     _**Prerequisite:** Level 5+ Artificer_
 
-    Once per turn when you hit a target with an Arcane Firearm attack, you can force all creatures within 5 feet of it to make a **:d20-save: Dexterity saving throw**{ .d20 }. On a failed save, they take damage as if they had also been hit by your Arcane Firearm attack.
+    Once per turn when you hit a target with an Arcane Firearm attack, you can force all creatures within 5 feet of it to make a **:d20-save: DEX Save**{ .d20 }. On a failed save, they take damage as if they had also been hit by your Arcane Firearm attack.
 
     ---
 
@@ -189,7 +189,7 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
     _**Prerequisite:** Level 15+ Artificer_
 
-    Once on your turn in place of making an Arcane Firearm attack, you can force creatures in a **60-foot :aoe-line: Line** originating from your Arcane Firearm to make a **:d20-save: Dexterity saving throw**{ .d20 }. Targets take **4d6 :dmg-force: Force**{ .dmg-force } damage on a failed save, and half as much on a successful save.
+    Once on your turn in place of making an Arcane Firearm attack, you can force creatures in a **60-foot :aoe-line: Line** originating from your Arcane Firearm to make a **:d20-save: DEX Save**{ .d20 }. Targets take **4d6 :dmg-force: Force**{ .dmg-force } damage on a failed save, and half as much on a successful save.
 
     ---
 

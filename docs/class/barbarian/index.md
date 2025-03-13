@@ -159,7 +159,7 @@ When you reach certain Barbarian levels, you gain the ability to use the mastery
 
 You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. 
 
-You have **:d20-adv: Advantage**{ .d20 } on :d20-save: Dexterity saving throws unless you have the Incapacitated condition.
+You have **:d20-adv: Advantage**{ .d20 } on **:d20-save: DEX Saves**{ .d20 } unless you have the Incapacitated condition.
 
 ### Level 2: Reckless Attack
 

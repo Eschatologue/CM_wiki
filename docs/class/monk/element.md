@@ -30,7 +30,7 @@ At the start of your turn, you can spend **1 :class-phb24-monk: Focus Point(s)**
 
 As a **:rsc-a: Magic**{ .rsc } action, you can spend **2 :class-phb24-monk: Focus Point(s)** to cause environmental energy to burst in a **20-foot-radius :aoe-sphere: Sphere** centered on a point within 120 feet of yourself. Choose a damage type **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun }.
 
-Each creature in the sphere must make a **:d20-save: Dexterity saving throw**{ .d20 }. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Martial Arts die. On a successful save, a creature takes half as much damage.
+Each creature in the sphere must make a **:d20-save: DEX Save**{ .d20 }. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Martial Arts die. On a successful save, a creature takes half as much damage.
 
 ### Level 11: Stride Of The Elements
 
