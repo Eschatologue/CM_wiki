@@ -11,7 +11,7 @@ search:
 
     <div class="grid cards" markdown>
 
-    - **:material-sword-cross: Attack**{ .x2l }<>brPerform a Melee or Ranged attack with your weapon or perform **:rsc-a: Unarmed Strike**{ .rsc }.
+    - **:material-sword-cross: Attack**{ .xl .rsc }<br>Perform a Melee or Ranged attack with your weapon or perform **:rsc-a: Unarmed Strike**{ .rsc }.
 
     - #### **:action-dash: Dash**{ .chev-lr }
 
