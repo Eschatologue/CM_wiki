@@ -1,125 +1,175 @@
 ---
+hide: 
+    - navigation
 search:
   exclude: true
 ---
 
 <!-- --8<-- [start:quickref-action] -->
 
-#### Action { .hide }
+### Actions
 
-!!! action "Action"
+<div class="grid" markdown>
 
-    <div class="grid cards" markdown>
+!!! action ""
 
-    - **:material-sword-cross: Attack**{ .x2l .rsc }<br>Perform a Melee or Ranged attack with your weapon or perform **:rsc-a: Unarmed Strike**{ .rsc }.
+    <div class="grid" markdown>
 
-    - #### **:action-dash: Dash**{ .chev-lr }
+    :material-sword-cross:{.x3l}
+    :   #### ATTACK
+    
+        Perform a Melee or Ranged attack with your weapon or perform **:rsc-a: Unarmed Strike**{ .rsc }.
 
+    :action-dash:{.x3l}
+    :   #### DASH
+    
         For the rest of the turn, give yourself extra Movement equal to your **:rsc-spd: Speed**.
 
-    - #### **:material-arrange-send-to-back: Disengage**{ .chev-lr } 
+    :material-arrange-send-to-back:{.x3l}
+    :   #### DISENGAGE
+    
+        Your Movement doesn't provoke **:rsc-r: Opp. Attack**{ .rsc } for the rest of the turn.
 
-        Your Movement doesn't provoke **:rsc-r: Opportunity Attack**{ .rsc } for the rest of the turn.
+    :material-arrow-expand:{.x3l}
+    :   #### DODGE
+    
+        Focus entirely on avoiding attacks. Attack Rolls against you have **:d20-dis: Disadvantage**{ .d20 } & you have **:d20-adv: Advantage**{ .d20 } on **:d20-save: DEX Save**
 
-    - #### **:material-arrow-expand: Dodge**{ .chev-lr } 
-
-        Focus entirely on avoiding attacks.  
-        Attack Rolls against you have **:d20-dis: Disadvantage**{ .d20 } & you have **:d20-adv: Advantage**{ .d20 } on **:d20-save: DEX Save**
-        
-    - #### **:material-handshake: Help**{ .chev-lr } 
+    :material-handshake:{.x3l}
+    :   #### HELP
 
         Give **:d20-adv: Advantage**{ .d20 } on another creature's Ability Check or Attack Roll.
 
-    - #### **:action-hide: Hide**{ .chev-lr }
+    :action-hide:{.x3l}
 
-        Make a DC 15 Dexterity (Stealth) check. Gain Invisible condition on success.
+    :   #### HIDE
 
-    - #### **:material-translate-variant: Influence**{ .chev-lr }
+        Make a DC 15 :d20-check: DEX (Stealth) check. Gain **Invisible**{.cond} condition on success.
+    
+    </div>
+
+!!! action ""
+
+     <div class="grid" markdown>
+
+    :material-translate-variant:{.x3l}
+
+    :   #### INFLUENCE
 
         Make a Charisma (Deception, Intimidation, Performance, or Persuasion) or Wisdom (Animal Handling) check to alter a creature's attitude.
 
-    - #### **:material-spa: Magic**{ .chev-lr }
+    :material-spa:{.x3l}
 
-        Cast a spell that has a casting time of an Action or use a feature or magic item that requires a Magic action to be activated. 
+    :   #### MAGIC
 
-    - #### **:material-timer-alert: Ready**{ .chev-lr }
+        Cast a spell that has a casting time of an Action or use a feature or magic item that requires a Magic action to be activated.
 
-        Prepare to take an action or Move in response to a trigger you define.
 
-    - #### **:material-magnify: Search**{ .chev-lr }
+    :material-timer-alert:{ .x3l }
 
+    :   #### READY
+        
+        Prepare to take an action or Move in response to a trigger you define. 
+
+    :material-magnify:{ .x3l }
+
+    :   #### SEARCH
+    
         Make a Wisdom (Insight, Medicine, Perception, or Survival) check to discern something that isn't obvious.
 
-    - #### **:material-book-clock: Study**{ .chev-lr }
+    :material-book-clock:{ .x3l }
 
-        Make an Intelligence (Arcana, History, Investigation, Nature, or Religion) check to call to mind an important piece of information about it.
+    :   #### STUDY
     
-    - #### **:material-cog-box: Utilise**{ .chev-lr }
-        
+        Make an Intelligence (Arcana, History, Investigation, Nature, or Religion) check to call to mind an important piece of information about it.
+
+
+    :material-cog-box:{ .x3l }
+
+    :   #### UTILISE
+    
         Use a nonmagical object, equip Shield.
 
     </div>
 
-### Bonus Action { .hide }
+</div>
 
-!!! bonusaction "**Bonus Action**{ .em }"
 
-    <div class="grid cards" markdown>
+### Bonus Action
 
-    - #### :material-sword-cross: Off-Hand Attack { .chev-lr }
+!!! bonusaction ""
 
-        If you attack with a **:wp-prop-light: Light weapon** weapon, you can make one Extra Attack with a different **:wp-prop-light: Light weapon** weapon. Ability modifier is not added to damage roll (unless negative).
+    <div class="grid" markdown>
 
-    - #### :fontawesome-solid-hand-sparkles: Cast a Spell { .chev-lr }
+    :material-sword-cross:{ .x3l }
 
+    :   #### OFF-HAND ATTACK
+    
+        If you attack with a **:wp-prop-light: Light**{ .wp } weapon, you can make one Extra Attack with a different **:wp-prop-light: Light**{ .wp } weapon. Ability modifier is not added to damage roll (unless negative).
+
+    :fontawesome-solid-hand-sparkles:{ .x3l }
+
+    :   #### CAST A SPELL
+    
         Cast a spell with a casting time of a **:rsc-b: Bonus Action**{ .rsc }.
+    
+    :simple-sparkfun:{ .x3l }
 
-    - #### :simple-sparkfun: Use a Feature { .chev-lr }
-
+    :   #### Use a Feature
+    
         Activate a feature (e.g, Class feature, Species feature) that uses a a **:rsc-b: Bonus Action**{ .rsc }.
 
     </div>
 
-### Reaction { .hide }
+### Reaction
 
-!!! reaction "**Reaction**{ .em }"
+<div class="grid" markdown>
 
-    <div class="grid cards" markdown>
+!!! reaction ""
 
-    - #### Opportunity Attack { .chev-lr }
+    <div class="grid" markdown>
+
+    :material-sword-cross:{ .x3l }
+
+    :   #### OPPORTUNITY ATTACK
 
         _**Trigger:** a Creature leaves your reach_
 
         Make one Melee attack against the triggering creature.
 
-    - #### Readied Action { .chev-lr }
+    :rsc-a:{ .x3l }
 
+    :   #### READIED ACTION
+    
         _**Trigger:** specified by your **:rsc-a: Ready**{ .rsc } action_
 
         Execute the reaction specified by your **:rsc-a: Ready**{ .rsc } action.
 
-    - #### :fontawesome-solid-hand-sparkles: Cast a Spell { .chev-lr }
+    </div>
 
+!!! reaction ""
+
+    <div class="grid" markdown>
+
+    :fontawesome-solid-hand-sparkles:{ .x3l }
+
+    :   #### CAST A SPELL
+    
         _**Trigger:** specified by the spell_
 
         Cast a spell with a casting time of a **:rsc-r: Reaction**{ .rsc }.
 
-    - #### :simple-sparkfun: Use a Feature { .chev-lr }
+    :simple-sparkfun:{ .x3l }
 
+    :   #### USE A FEATURE
+    
         _**Trigger:** specified by the feature_
-        
+
         Activate a feature (e.g, Class feature, Species feature) that uses a a **:rsc-r: Reaction**{ .rsc }.
 
     </div>
 
+</div>
+
 
 <!-- --8<-- [end:quickref-action] -->
-
-
-
-| | |
-|:-:|---|
-| **:rsc-a: Attack**{ .rsc .x2l } | Perform a Melee or Ranged attack with your weapon or perform **:rsc-a: Unarmed Strike**{ .rsc }. |
-| **:rsc-a: Attack**{ .rsc .x2l } | Perform a Melee or Ranged attack with your weapon or perform **:rsc-a: Unarmed Strike**{ .rsc }. |
-| **:rsc-a: Attack**{ .rsc .x2l } | Perform a Melee or Ranged attack with your weapon or perform **:rsc-a: Unarmed Strike**{ .rsc }. |
-| **:rsc-a: Attack**{ .rsc .x2l } | Perform a Melee or Ranged attack with your weapon or perform **:rsc-a: Unarmed Strike**{ .rsc }. |

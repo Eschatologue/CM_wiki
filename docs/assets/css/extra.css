@@ -143,6 +143,10 @@
   margin-bottom: 0.1875em !important;
 }
 
+.md-typeset .grid dl dt {
+  text-align: center;
+}
+
 /*------------------------------------------------------- 
     Tables
 --------------------------------------------------------*/
@@ -204,7 +208,8 @@
   font-weight: 600 !important;
   word-spacing: -0.1rem;
 }
-.jetbrains :is(.emojione, .twemoji, .gemoji), .dmg-heal :is(.emojione, .twemoji, .gemoji), .dmg-bps :is(.emojione, .twemoji, .gemoji), .dmg-force :is(.emojione, .twemoji, .gemoji), .dmg-radi :is(.emojione, .twemoji, .gemoji), .dmg-necr :is(.emojione, .twemoji, .gemoji), .dmg-lgtn :is(.emojione, .twemoji, .gemoji), .dmg-psyc :is(.emojione, .twemoji, .gemoji), .dmg-thun :is(.emojione, .twemoji, .gemoji), .dmg-posn :is(.emojione, .twemoji, .gemoji), .dmg-fire :is(.emojione, .twemoji, .gemoji), .dmg-cold :is(.emojione, .twemoji, .gemoji), .dmg-acid :is(.emojione, .twemoji, .gemoji), .calc :is(.emojione, .twemoji, .gemoji), .wp :is(.emojione, .twemoji, .gemoji), .cond :is(.emojione, .twemoji, .gemoji), .rsc :is(.emojione, .twemoji, .gemoji), .d20 :is(.emojione, .twemoji, .gemoji) {
+
+.jetbrains-icon :is(.emojione, .twemoji, .gemoji), .jetbrains :is(.emojione, .twemoji, .gemoji), .dmg-heal :is(.emojione, .twemoji, .gemoji), .dmg-bps :is(.emojione, .twemoji, .gemoji), .dmg-force :is(.emojione, .twemoji, .gemoji), .dmg-radi :is(.emojione, .twemoji, .gemoji), .dmg-necr :is(.emojione, .twemoji, .gemoji), .dmg-lgtn :is(.emojione, .twemoji, .gemoji), .dmg-psyc :is(.emojione, .twemoji, .gemoji), .dmg-thun :is(.emojione, .twemoji, .gemoji), .dmg-posn :is(.emojione, .twemoji, .gemoji), .dmg-fire :is(.emojione, .twemoji, .gemoji), .dmg-cold :is(.emojione, .twemoji, .gemoji), .dmg-acid :is(.emojione, .twemoji, .gemoji), .calc :is(.emojione, .twemoji, .gemoji), .wp :is(.emojione, .twemoji, .gemoji), .cond :is(.emojione, .twemoji, .gemoji), .rsc :is(.emojione, .twemoji, .gemoji), .d20 :is(.emojione, .twemoji, .gemoji) {
   font-size: calc(var(--gbl-font-size) * 0.95);
   margin-right: -0.125rem;
 }
@@ -392,31 +397,31 @@ table:not([class]) .smallcap {
     Text Sizes
 -------------------------------------------------------*/
 .x2l {
-  font-size: calc(var(--gbl-font-size) * 2);
+  font-size: calc(var(--gbl-font-size) * 2) !important;
 }
 
 .x3l {
-  font-size: calc(var(--gbl-font-size) * 3);
+  font-size: calc(var(--gbl-font-size) * 3) !important;
 }
 
 .x4l {
-  font-size: calc(var(--gbl-font-size) * 4);
+  font-size: calc(var(--gbl-font-size) * 4) !important;
 }
 
 .x5l {
-  font-size: calc(var(--gbl-font-size) * 5);
+  font-size: calc(var(--gbl-font-size) * 5) !important;
 }
 
 .x6l {
-  font-size: calc(var(--gbl-font-size) * 6);
+  font-size: calc(var(--gbl-font-size) * 6) !important;
 }
 
 .x7l {
-  font-size: calc(var(--gbl-font-size) * 7);
+  font-size: calc(var(--gbl-font-size) * 7) !important;
 }
 
 .x8l {
-  font-size: calc(var(--gbl-font-size) * 8);
+  font-size: calc(var(--gbl-font-size) * 8) !important;
 }
 
 /*-------------------------------------------------------
@@ -1118,7 +1123,7 @@ table:not([class]) .smallcap {
 }
 @media (max-width: 720px) {
   .md-typeset .grid.cards {
-    grid-template-columns: repeat(auto-fit, minmax(7.5rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
   }
 }
 

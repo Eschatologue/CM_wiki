@@ -7,81 +7,29 @@ search:
 icon: material/fast-forward
 ---
 
-# Quick Reference
-
 :die-d4:{.x3l} :die-d6:{.x3l} :die-d8:{.x3l} :die-d10:{.x3l} :die-d12:{.x3l} :die-d20:{.x3l}
 { .align-center }
 
-| | |
-|:-:|---|
-| **:d20-adv:{ .lg } Advantage**{ .x2l } | Roll 2 D20s, take the ^^higher^^ result |
-| **:d20-dis: Disdvantage**{ .x2l } | Roll 2 D20s, take the ^^lower^^ result |
-
-## Dice Rolls
+# Quick Reference { .align-center }
 
 ---
 
-**:d20-attack:{ .xl } <br>Attack Roll**
+## <br>Dice Rolls { .align-center .noborder }
 
-:   Made to hit a target and is contested by the target's **Armour Class (AC)**.
+| **:d20-attack:{ .x2l }** <br>**Attack Roll**{ .xl } | **:d20-save:{ .x2l }** <br>**Saving Throw**{ .xl } | **:d20-check:{ .x2l }** <br>**Ability Check**{ .xl } |
+|:-:|:-:|:-:|
+| Made to *hit* a target and is contested by the target's **Armour Class (AC)** | Made to resist an effect and is contested by **Dificulty Class (DC)** | Made to succeed a particular task and is contested by **Dificulty Class (DC)** | 
+| **D20 + Ability Modifier + PB (if proficient)**{ .calc } | **D20 + Ability Modifier + PB (if proficient)**{ .calc } | **D20 + Ability Modifier**{ .calc }  |
+| ↓ | - | ↓ |
+| **DAMAGE ROLL**{ .chev-lr } | | **SKILL CHECK**{ .chev-lr } |
+| Rolled to determine how much harm is done to a target | | Ability Checks made using skills (e.g. Perception, Intimidation, History, etc) |
+| **Damage Die + Ability Modifier**{ .calc } | | **D20 + Ability Modifier + PB (if proficient)**{ .calc } |
 
-    `D20 + Ability Modifier + PB (if proficient) + other Bonuses`
+## <br>Calculations { .align-center .noborder }
 
-    ---
-
-    **Damage Roll**{ .chev-lr }  
-    When an attack or attempt to harm is successful, the creature often makes a Damage Roll to determine how much damage it causes to its target.   
-
-    `Damage Die + Ability Modifier + other Bonuses`
-
-
----
-
-**:d20-save:{ .xl } <br>Saving Throw**
-
-:   Made to resist an effect and is contested by **Dificulty Class (DC)**
-
-    `D20 + Ability Modifier + PB (if proficient) + other Bonuses`
-
----
-
-**:d20-check:{ .xl } <br>Ability Check**
-
-:   Made to see if a creature succeed a particular task and is contested by **Dificulty Class (DC)**
-
-    `D20 + Ability Modifier + other Bonuses`
-
-    ---
-
-    **Skill Check**{ .chev-lr }  
-    Skill checks are Ability Checks made using skills (e.g. Perception, Intimidation, History, etc)
-
-    `D20 + Ability Modifier + PB (if proficient) + other Bonuses`
-
-
----
-
-## Calculations
-
----
-
-**:material-shield:{ .xl .align-center } <br>Armour Class**
-
-:   **Base AC:** `10 + DEX modifier`
-
-    **Light Armour:** `Armour's AC + DEX modifier`
-
-    **Medium Armour:** `Armour's AC + DEX modifier (max 2)`
-
-    **Heavy Armour:** A`rmour's AC`
-
----
-
-**:material-eye-plus:{ .xl .align-center } <br>Passive Perception**
-
-:   `10 + Wisdom (Perception) check bonus`
-
-    **:d20-adv: Advantage**{ .d20 } grants **+5 bonus** and **:d20-dis: Disadvantage**{ .d20 } grants **-5 penalty**.
+| **:material-shield:{ .x2l }** <br>**Armour Class**{ .xl } | **:material-eye-plus:{ .x2l }** <br>**Passive Perception**{ .xl } |
+|:-:|:-:|
+| **Light Armour:** `Armour's AC + DEX modifier` <br>**Medium Armour:** `Armour's AC + DEX modifier (max 2)` <br>**Heavy Armour:** `Armour's AC` | `10 + Wisdom (Perception) bonus` |
 
 ---
 

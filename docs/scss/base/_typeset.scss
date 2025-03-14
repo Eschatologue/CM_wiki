@@ -184,6 +184,7 @@
 
     dt {
         text-align: right;
+
     }
 
     dd {
@@ -194,6 +195,14 @@
         p {
             margin-top: convert.px2em(3px) !important;
             margin-bottom: convert.px2em(3px) !important;
+        }
+    }
+}
+
+.md-typeset .grid {
+    dl {
+        dt {
+            text-align: center;
         }
     }
 }
