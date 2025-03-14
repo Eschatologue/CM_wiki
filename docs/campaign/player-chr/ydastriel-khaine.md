@@ -1,5 +1,5 @@
 ---
-title: Ydastriel Khaine's Gimmick
+title: "Ydastriel Khaine's Gimmick"
 ---
 
 # Parable of the Stars

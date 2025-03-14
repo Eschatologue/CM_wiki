@@ -1,11 +1,11 @@
 ---
-title: Path of the Finality
+title: "John K. Gimmick"
 
 ---
 
 <p style="display:none">
 
-John K. Gimmick
+Path of the Finality
 
 </p>
 

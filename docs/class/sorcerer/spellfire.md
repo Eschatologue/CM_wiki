@@ -14,11 +14,13 @@ Your sorcerous power are drawn from an innate connection with the Weave, the ver
 
 ### Level 3: Spellfire Burst
 
-When you spend at least **1 :class-phb24-sorcerer: Sorcery Point(s)** as part of the **:rsc-a: Magic**{ .rsc } action or a **:rsc-b: Bonus Action**{ .rsc } on your turn, you can unleash one of the following magical effects of your choice. You can do so only once per turn.
+When you spend at least **1 :class-phb24-sorcerer: Sorcery Point(s)** as part of the **:rsc-a: Magic**{ .rsc } action or a **:rsc-b: Bonus Action**{ .rsc } on your turn, you can unleash **one** of the following magical effects of your choice. You can do so only once per turn.
 
 **Bolstering Flames**{ .inl } You or one creature you can see within 30 feet of yourself gains **:trt-thp: Temporary Hit Points** equal to `1d4 plus your Charisma modifier`. 
+{ .indt }
 
 **Radiant Fire**{ .inl } One creature you can see within 30 feet of yourself must succeed on a **:d20-save: DEX Save**{ .d20 } against your Spell Save DC or take `1d6` **:dmg-fire: Fire**{ .dmg-fire } or **:dmg-radi: Radiant**{ .dmg-radi } damage (your choice). 
+{ .indt }
 
 ### Level 3: Spellfire Magic
 

@@ -1,5 +1,5 @@
 ---
-title: Eris Decrat's Gimmick
+title: "Eris Decrat's Gimmick"
 ---
 
 <p style="display:none">
