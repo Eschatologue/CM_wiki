@@ -9,13 +9,13 @@ icon: material/fast-forward
 
 # Quick Reference
 
-:die-d4:{.x2l} :die-d6:{.x2l} :die-d8:{.x2l} :die-d10:{.x2l} :die-d12:{.x2l} :die-d20:{.x2l}
+:die-d4:{.x3l} :die-d6:{.x3l} :die-d8:{.x3l} :die-d10:{.x3l} :die-d12:{.x3l} :die-d20:{.x3l}
 { .align-center }
 
 | | |
 |:-:|---|
-| **:d20-adv: Advantage**{ .lg } | Roll 2 D20s, take the ^^higher^^ result |
-| **:d20-dis: Disdvantage**{ .lg } | Roll 2 D20s, take the ^^lower^^ result |
+| **:d20-adv:{ .lg } Advantage**{ .x2l } | Roll 2 D20s, take the ^^higher^^ result |
+| **:d20-dis: Disdvantage**{ .x2l } | Roll 2 D20s, take the ^^lower^^ result |
 
 ## Dice Rolls
 
