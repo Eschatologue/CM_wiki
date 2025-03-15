@@ -52,7 +52,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
     You can use a weapon that has the **:wp-prop-ammunition: Ammunition** property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
 
-    At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with **[:wp-prop-explosive: Explosive](#explosive)**{ .nowrap } property can't benefit from this.
+    At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms can't benefit from this.
 
 :wp-prop-automatic:{ .x3l } 
 
@@ -61,7 +61,6 @@ Many weapons have special properties related to their use, as shown in the Weapo
     Each time you make an attack with an **:wp-prop-automatic: Automatic** weapon, you can make one extra attack later on the same turn. This extra attack must be made with the *same weapon* provided it has enough Ammunition for the attack, and you don't add your ability modifier to the additional attack's damage roll, unless that modifier is negative. 
 
     If the Automatic property includes a plus and a number (e.g., Automatic (+3)), that number determines the maximum additional attacks you can make each time you attack with the weapon. For example, a Sub-Machine Gun with Automatic (+3) allows up to 3 extra attacks per attack.
-
 
 :wp-prop-finesse:{ .x3l }
 
@@ -95,7 +94,6 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
     The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have **:d20-dis: Disadvantage**{ .d20 } on the attack roll. You can't attack a target beyond the weapon's long range.
 
-
 :wp-prop-reach:{ .x3l }
 
 :   ### REACH { .noborder data-toc-label="Reach" }
@@ -120,20 +118,17 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
     This weapon has **:d20-dis: Disadvantage**{ .d20 } on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your turn.
 
-
 :wp-prop-thrown:{ .x3l }
 
 :   ### THROWN { .noborder data-toc-label="Thrown" }
  
     You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. If the weapon has the [:wp-prop-finesse: Finesse](#finesse) property, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls.
 
-
 :wp-prop-two-handed:{ .x3l }
 
 :   ### TWO-HANDED { .noborder data-toc-label="Two-Handed" }
 
     This weapon requires two hands when you attack with it. This property is relevant only when you attack with the weapon, not when you simply hold it.
-
 
 :wp-prop-versatile:{ .x3l }
 
