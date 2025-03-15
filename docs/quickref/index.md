@@ -40,7 +40,7 @@ icon: material/fast-forward
 
 <div class="grid" markdown>
 
-!!! movement ""
+!!! move ""
 
     <div class="grid" markdown>
 
@@ -56,7 +56,7 @@ icon: material/fast-forward
 
     :   #### PRONE
 
-        **Cost:** *none**
+        **Cost:** *none*
     
         Give yourself the **Prone**{ .cond } condition.
 
@@ -68,7 +68,11 @@ icon: material/fast-forward
     
         End the **Prone**{ .cond } condition
 
-!!! movement ""
+    </div>
+
+!!! move ""
+
+    <div class="grid" markdown>
 
     :material-waves-arrow-right:{.x3l}
 
