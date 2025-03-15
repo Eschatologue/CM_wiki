@@ -426,7 +426,8 @@ nav:
     - Player's Gimmick:
       - John K. Godsmith: campaign/player-chr/john-godsmith.md
       - Ydastriel Khaine: campaign/player-chr/ydastriel-khaine.md
-      # - Eris Decrat: campaign/player-chr/eris-dekrat.md
+      - Eris Decrat: campaign/player-chr/eris-dekrat.md
+      # - Ichimaru Masaki: campaign/player-chr/ichi.md
   - Lore:
     - Antares: 
       - Continent: lore/antares/continent.md
