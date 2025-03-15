@@ -868,7 +868,6 @@ table:not([class]) .smallcap {
   box-shadow: var(--md-shadow-z3);
 }
 .md-typeset .admonition {
-  --gbl-font-size: 0.7rem;
   border-color: var(--md-admonition-icon-color--note);
   transition: box-shadow 250ms;
 }
