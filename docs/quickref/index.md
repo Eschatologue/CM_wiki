@@ -36,48 +36,67 @@ icon: material/fast-forward
 
 ## Your Turn
 
-### Movement { .hide }
+### Movement
 
-!!! move "Movement"
+<div class="grid" markdown>
 
-    <div class="grid cards" markdown>
+!!! movement ""
 
-    - #### Move { .chev-lr }
+    <div class="grid" markdown>
 
+    :material-fast-forward:{.x3l}
+
+    :   #### MOVE :rsc-spd:{ title="requires Movement" }
+    
         **Cost:** *5 ft. per tile* / *10 ft. per tile (Difficult Terrain)*
 
-        Change your position.
+        Change your position. Movement Cost is ^^Doubled^^ on irregullar surface, such as Deep Liquid (Swim) or Vertical Surface (Climbing).
 
-    - #### Prone { .chev-lr }
+    :material-arrow-down-bold-hexagon-outline:{.x3l}
 
-        **Cost:** *none*
+    :   #### PRONE
 
+        **Cost:** *none**
+    
         Give yourself the **Prone**{ .cond } condition.
 
-    - #### Stand Up { .chev-lr }
+    :material-arrow-up-bold-hexagon-outline:{.x3l}
+
+    :   #### STAND UP :rsc-spd:{ title="requires Movement" }
 
         **Cost:** *half your max __:rsc-spd: Speed__*
-
+    
         End the **Prone**{ .cond } condition
 
-    - #### Climb { .chev-lr }
+!!! movement ""
 
-        **Cost:** *10 ft. per tile*
+    :material-waves-arrow-right:{.x3l}
 
-        Scale a vertical surface. 
-
-    - #### Swim { .chev-lr }
+    :   #### SWIM
 
         **Cost:** *10 ft. per tile*
 
         Move on deep liquid. 
 
-    - #### Move while Grappling { .chev-lr }
-    
+    :fontawesome-solid-arrow-up-wide-short:{.x3l}
+
+    :   #### CLIMB
+
+        **Cost:** *10 ft. per tile*
+
+        Scale a vertical surface. 
+        
+    :material-gesture-tap-hold:{.x3l}
+
+    :   #### MOVE WHILE GRAPPLING
+
         _**Modifier:** :rsc-spd: Speed is halved_
 
         Move while Grappling a creature. 
 
     </div>
+
+</div>
+
 
 --8<-- "docs/quickref/action.md:quickref-action"
