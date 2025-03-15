@@ -48,7 +48,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :wp-prop-ammunition:{ .x3l }
 
-:   ### AMMUNITION { .noborder }
+:   ### AMMUNITION { .noborder data-toc-label="Ammunition" }
 
     You can use a weapon that has the **:wp-prop-ammunition: Ammunition** property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
 
@@ -56,31 +56,20 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :wp-prop-automatic:{ .x3l } 
 
-:   ### AUTOMATIC { .noborder }
+:   ### AUTOMATIC { .noborder data-toc-label="Automatic" }
 
     Each time you make an attack with an **:wp-prop-automatic: Automatic** weapon, you can make one extra attack later on the same turn. This extra attack must be made with the *same weapon* provided it has enough Ammunition for the attack, and you don't add your ability modifier to the additional attack's damage roll, unless that modifier is negative. 
 
     If the Automatic property includes a plus and a number (e.g., Automatic (+3)), that number determines the maximum additional attacks you can make each time you attack with the weapon. For example, a Sub-Machine Gun with Automatic (+3) allows up to 3 extra attacks per attack.
 
+
+:wp-prop-finesse:{ .x3l }
+
+:   ### FINESSE { .noborder data-toc-label="Finesse" }
+
+    When making an attack with a **:wp-prop-finesse: Finesse** weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+
 </div>
-
----
-
-### Explosive { .hide }
-
-:wp-prop-explosive:{ .xl }<br>Explosive 
-
-:   When this weapon's hits a target, it explodes and affect an area of effect on the parenthesis, originating from the target. The weapon can target a point within its range. Each creature in the area of effect centered on the point or the target must make a **:d20-save: DEX Save**{ .d20 } against your Weapon Save DC. The creature takes the weapon's damage on a failed save, or half as much damage on a successful one.
-
-    Your initial target makes this **:d20-save: Saving Throw** at a **:d20-dis: Disadvantage**{ .d20 }.
-
----
-
-### Finesse { .hide }
-
-:wp-prop-finesse:{ .xl }<br>Finesse 
-
-:   When making an attack with a **:wp-prop-finesse: Finesse** weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
 ---
 
