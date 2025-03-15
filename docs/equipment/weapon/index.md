@@ -46,14 +46,15 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 ### Ammunition { .hide }
 
-:wp-prop-ammunition:{ .xl }<br>Ammunition
+<div class="grid" markdown>
 
-:   You can use a weapon that has the **:wp-prop-ammunition: Ammunition** property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
+:wp-prop-ammunition:{ .x3l }
+
+:   ### Ammunition 
+
+    You can use a weapon that has the **:wp-prop-ammunition: Ammunition** property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
 
     At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with **[:wp-prop-explosive: Explosive](#explosive)**{ .nowrap } property can't benefit from this.
-
----
-<div class="grid" markdown>
 
 :wp-prop-automatic:{ .x3l } 
 
