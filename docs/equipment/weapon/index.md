@@ -53,14 +53,17 @@ Many weapons have special properties related to their use, as shown in the Weapo
     At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with **[:wp-prop-explosive: Explosive](#explosive)**{ .nowrap } property can't benefit from this.
 
 ---
+<div class="grid" markdown>
 
-### Automatic { .hide }
+:wp-prop-automatic:{ .x3l } 
 
-:wp-prop-automatic:{ .xl }<br>Automatic 
+:   ### Automatic
 
-:   Each time you make an attack with an **:wp-prop-automatic: Automatic** weapon, you can make one extra attack later on the same turn. This extra attack must be made with the *same weapon* provided it has enough Ammunition for the attack, and you don't add your ability modifier to the additional attack's damage roll, unless that modifier is negative. 
+    Each time you make an attack with an **:wp-prop-automatic: Automatic** weapon, you can make one extra attack later on the same turn. This extra attack must be made with the *same weapon* provided it has enough Ammunition for the attack, and you don't add your ability modifier to the additional attack's damage roll, unless that modifier is negative. 
 
     If the Automatic property includes a plus and a number (e.g., Automatic (+3)), that number determines the maximum additional attacks you can make each time you attack with the weapon. For example, a Sub-Machine Gun with Automatic (+3) allows up to 3 extra attacks per attack.
+
+</div>
 
 ---
 
