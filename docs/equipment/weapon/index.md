@@ -44,17 +44,25 @@ Main article: [Firearms](weapon-firearm.md)
 
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-### Ammunition :wp-prop-ammunition:
+<div class="grid" markdown>
 
-You can use a weapon that has the **:wp-prop-ammunition: Ammunition** property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
+:wp-prop-ammunition:{ .x3l }
 
-At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with **[:wp-prop-explosive: Explosive](#explosive)**{ .nowrap } property can't benefit from this.
+:   ### AMMUNITION { .noborder }
 
-### Automatic :wp-prop-automatic:
+    You can use a weapon that has the **:wp-prop-ammunition: Ammunition** property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). 
 
-Each time you make an attack with an **:wp-prop-automatic: Automatic** weapon, you can make one extra attack later on the same turn. This extra attack must be made with the *same weapon* provided it has enough Ammunition for the attack, and you don't add your ability modifier to the additional attack's damage roll, unless that modifier is negative. 
+    At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield. Firearms and weapon with **[:wp-prop-explosive: Explosive](#explosive)**{ .nowrap } property can't benefit from this.
 
-If the Automatic property includes a plus and a number (e.g., Automatic (+3)), that number determines the maximum additional attacks you can make each time you attack with the weapon. For example, a Sub-Machine Gun with Automatic (+3) allows up to 3 extra attacks per attack.
+:wp-prop-automatic:{ .x3l } 
+
+:   ### AUTOMATIC { .noborder }
+
+    Each time you make an attack with an **:wp-prop-automatic: Automatic** weapon, you can make one extra attack later on the same turn. This extra attack must be made with the *same weapon* provided it has enough Ammunition for the attack, and you don't add your ability modifier to the additional attack's damage roll, unless that modifier is negative. 
+
+    If the Automatic property includes a plus and a number (e.g., Automatic (+3)), that number determines the maximum additional attacks you can make each time you attack with the weapon. For example, a Sub-Machine Gun with Automatic (+3) allows up to 3 extra attacks per attack.
+
+</div>
 
 ---
 
