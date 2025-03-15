@@ -69,110 +69,81 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
     When making an attack with a **:wp-prop-finesse: Finesse** weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
-</div>
+:wp-prop-heavy:{ .x3l }
 
----
+:   ### HEAVY { .noborder data-toc-label="Heavy" }
 
-### Heavy { .hide }
+    Heavy weapon is unwieldy compared to other weapons. You have **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
-:wp-prop-heavy:{ .xl }<br>Heavy 
+:wp-prop-light:{ .x3l }
 
-:   Heavy weapon is unwieldy compared to other weapons. You have **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
+:   ### LIGHT { .noborder data-toc-label="Light" }
 
----
+    When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with a Light weapon, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a *different Light weapon*, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
-### Light { .hide }
+:wp-prop-loading:{ .x3l }
 
-:wp-prop-light:{ .xl }<br>Light 
+:   ### LOADING { .noborder data-toc-label="Loading" }
 
-:   When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with a Light weapon, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a *different Light weapon*, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
+    Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc } to fire it, regardless of the number of attacks you can normally make.
 
----
+:wp-prop-range:{ .x3l }
 
-### Loading { .hide }
+:   ### RANGE { .noborder data-toc-label="Ranged" }
 
-:wp-prop-loading:{ .xl }<br>Loading 
-
-:   Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc } to fire it, regardless of the number of attacks you can normally make.
-
----
-
-### Mounted { .hide }
-
-:wp-prop-mounted:{ .xl }<br>Mounted 
-
-:   This weapon is normally used while attached to a tripod, vehicle, or other bracing mount. You can mount or unmount this weapon as an **:rsc-a: Action**{ .rsc }. While it is mounted, it can't be moved. It can only be used to make an attack while unmounted if held by a creature with a Strength score of at least 15.
-
----
-
-### Range { .hide }
-
-:wp-prop-range:{ .xl }<br>Range 
-
-:   This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. 
+    This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. 
 
     The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have **:d20-dis: Disadvantage**{ .d20 } on the attack roll. You can't attack a target beyond the weapon's long range.
 
----
 
-### Reach { .hide }
+:wp-prop-reach:{ .x3l }
 
-:wp-prop-reach:{ .xl }<br>Reach 
+:   ### REACH { .noborder data-toc-label="Reach" }
 
-:   This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for **:rsc-r: Opportunity Attacks** with a reach weapon.
+    This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for **:rsc-r: Opportunity Attacks** with a reach weapon.
 
----
+:wp-prop-reload:{ .x3l }
 
-### Reload { .hide }
+:   ### RELOAD { .noborder data-toc-label="Reload" }
 
-:wp-prop-reload:{ .xl }<br>Reload 
+    This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a **:rsc-b: Bonus Action**{ .rsc }; otherwise, reloading it takes an **:rsc-a: Action**{ .rsc }. Some weapons require an **:rsc-a: Action**{ .rsc } or longer to reload, even if you have Proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
 
-:   This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a **:rsc-b: Bonus Action**{ .rsc }; otherwise, reloading it takes an **:rsc-a: Action**{ .rsc }. Some weapons require an **:rsc-a: Action**{ .rsc } or longer to reload, even if you have Proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
+:wp-prop-scatter:{ .x3l }
 
----
+:   ### SCATTER { .noborder data-toc-label="Scatter" }
 
-### Scatter { .hide }
+    If you make an attack against a target that is within half this weapon's normal range (round up), you deal the damage value listed in parenthesis instead of the weapon's normal damage dice.
 
-:wp-prop-scatter:{ .xl }<br>Scatter 
+:wp-prop-sighted:{ .x3l }
 
-:   If you make an attack against a target that is within half this weapon's normal range (round up), you deal the damage value listed in parenthesis instead of the weapon's normal damage dice.
+:   ### SIGHTED { .noborder data-toc-label="Sighted" }
 
----
+    This weapon has **:d20-dis: Disadvantage**{ .d20 } on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your turn.
 
-### Sighted { .hide }
 
-:wp-prop-sighted:{ .xl }<br>Sighted 
+:wp-prop-thrown:{ .x3l }
 
-:   This weapon has **:d20-dis: Disadvantage**{ .d20 } on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your turn.
-
----
-
-### Thrown { .hide }
+:   ### THROWN { .noborder data-toc-label="Thrown" }
  
-:wp-prop-thrown:{ .xl }<br>Thrown 
+    You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. If the weapon has the [:wp-prop-finesse: Finesse](#finesse) property, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls.
 
-:   You can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. If the weapon has the [:wp-prop-finesse: Finesse](#finesse) property, you can use your choice of your Strength or Dexterity modifier for the attack and damage rolls.
 
----
+:wp-prop-two-handed:{ .x3l }
 
-### Two-Handed { .hide }
+:   ### TWO-HANDED { .noborder data-toc-label="Two-Handed" }
 
-:wp-prop-two-handed:{ .xl }<br>Two-Handed 
+    This weapon requires two hands when you attack with it. This property is relevant only when you attack with the weapon, not when you simply hold it.
 
-:   This weapon requires two hands when you attack with it. This property is relevant only when you attack with the weapon, not when you simply hold it.
 
----
+:wp-prop-versatile:{ .x3l }
 
-### Versatile { .hide }
+:   ### VERSATILE { .noborder data-toc-label="Versatile" }
 
-:wp-prop-versatile:{ .xl }<br>Versatile 
+    A **:wp-prop-versatile: Versatile** weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
 
-:   A **:wp-prop-versatile: Versatile** weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
+    **Improved Versatile**{.inl} A weapon's Property or a Mastery property might appears within parentheses. You can use that Property or Mastery property when you are wielding or attacking with the weapon using two hands.
 
-    **Improved Versatile**^*CM*^
-    :   A weapon's Property or a Mastery property might appears within parentheses. You can use that Property or Mastery property when you are wielding or attacking with the weapon using two hands.
-
----
+</div>
 
 <!--- 
 

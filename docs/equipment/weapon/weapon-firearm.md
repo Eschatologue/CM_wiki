@@ -61,7 +61,7 @@ The Long-arm Table encompass rifles and other longer-range weapons. These are de
 | Name | damage | properties | mastery | weight | cost |
 |---|---|---|:-:|:-:|--:|
 | *Automatic Rifle* | **1d8 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 80/240), Automatic (+2), Heavy, Reload (12), Two-handed | **:wp-mas: Spray**{ .wp } | L. | 6,500 SP |
-| *Machine Gun* | **1d10 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 120/360), Automatic (+2), Heavy, Reload (50), Two-Handed | **:wp-mas: Spray**{ .wp } | XL. | 10,000  SP |
+| *Machine Gun* | **1d10 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 120/360), Automatic (+2), Heavy (STR/DEX 15), Reload (50), Two-Handed | **:wp-mas: Spray**{ .wp } | XL. | 10,000  SP |
 | *Marksmen Rifle* | **2d6 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 120/360), Reload (6), Sighted, Two-handed | **:wp-mas: Vex**{ .wp } | L. | 5,000 SP |
 | *Over-under Shotgun* | **1d8 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 30/90), Automatic, Reload (2), Scatter (2d8), Two-handed | **:wp-mas: Slow**{ .wp } | M. | 3,500 SP |
 | *Pump Shotgun* | **1d8 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 40/120), Automatic, Heavy, Reload (7), Scatter (1d12), Two-handed | **:wp-mas: Push**{ .wp } | M. | 5,000 SP |
