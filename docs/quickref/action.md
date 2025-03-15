@@ -16,33 +16,39 @@ search:
     <div class="grid" markdown>
 
     :material-sword-cross:{.x3l}
-    :   #### ATTACK
+
+    :   #### ATTACK :rsc-a:
     
         Perform a Melee or Ranged attack with your weapon or perform **:rsc-a: Unarmed Strike**{ .rsc }.
 
     :action-dash:{.x3l}
-    :   #### DASH
+
+    :   #### DASH :rsc-a:
     
         For the rest of the turn, give yourself extra Movement equal to your **:rsc-spd: Speed**.
 
     :material-arrange-send-to-back:{.x3l}
-    :   #### DISENGAGE
+
+    :   #### DISENGAGE :rsc-a:
     
         Your Movement doesn't provoke **:rsc-r: Opp. Attack**{ .rsc } for the rest of the turn.
 
     :material-arrow-expand:{.x3l}
-    :   #### DODGE
+
+    :   #### DODGE :rsc-a:
     
         Focus entirely on avoiding attacks. Attack Rolls against you have **:d20-dis: Disadvantage**{ .d20 } & you have **:d20-adv: Advantage**{ .d20 } on **:d20-save: DEX Save**
 
     :material-handshake:{.x3l}
-    :   #### HELP
+
+    :   #### HELP :rsc-a:
 
         Give **:d20-adv: Advantage**{ .d20 } on another creature's Ability Check or Attack Roll.
 
     :action-hide:{.x3l}
 
-    :   #### HIDE
+
+    :   #### HIDE :rsc-a:
 
         Make a DC 15 :d20-check: DEX (Stealth) check. Gain **Invisible**{.cond} condition on success.
     
@@ -54,39 +60,38 @@ search:
 
     :material-translate-variant:{.x3l}
 
-    :   #### INFLUENCE
+    :   #### INFLUENCE :rsc-a:
 
         Make a Charisma (Deception, Intimidation, Performance, or Persuasion) or Wisdom (Animal Handling) check to alter a creature's attitude.
 
     :material-spa:{.x3l}
 
-    :   #### MAGIC
+    :   #### MAGIC :rsc-a:
 
         Cast a spell that has a casting time of an Action or use a feature or magic item that requires a Magic action to be activated.
 
 
     :material-timer-alert:{ .x3l }
 
-    :   #### READY
+    :   #### READY :rsc-a:
         
         Prepare to take an action or Move in response to a trigger you define. 
 
     :material-magnify:{ .x3l }
 
-    :   #### SEARCH
+    :   #### SEARCH :rsc-a:
     
         Make a Wisdom (Insight, Medicine, Perception, or Survival) check to discern something that isn't obvious.
 
     :material-book-clock:{ .x3l }
 
-    :   #### STUDY
+    :   #### STUDY :rsc-a:
     
         Make an Intelligence (Arcana, History, Investigation, Nature, or Religion) check to call to mind an important piece of information about it.
 
-
     :material-cog-box:{ .x3l }
 
-    :   #### UTILISE
+    :   #### UTILISE :rsc-a:
     
         Use a nonmagical object, equip Shield.
 
@@ -103,19 +108,19 @@ search:
 
     :material-sword-cross:{ .x3l }
 
-    :   #### OFF-HAND ATTACK
+    :   #### OFF-HAND ATTACK :rsc-b:
     
         If you attack with a **:wp-prop-light: Light**{ .wp } weapon, you can make one Extra Attack with a different **:wp-prop-light: Light**{ .wp } weapon. Ability modifier is not added to damage roll (unless negative).
 
     :fontawesome-solid-hand-sparkles:{ .x3l }
 
-    :   #### CAST A SPELL
+    :   #### CAST A SPELL :rsc-b:
     
         Cast a spell with a casting time of a **:rsc-b: Bonus Action**{ .rsc }.
     
     :simple-sparkfun:{ .x3l }
 
-    :   #### Use a Feature
+    :   #### USE A FEATURE :rsc-b:
     
         Activate a feature (e.g, Class feature, Species feature) that uses a a **:rsc-b: Bonus Action**{ .rsc }.
 
@@ -131,7 +136,7 @@ search:
 
     :material-sword-cross:{ .x3l }
 
-    :   #### OPPORTUNITY ATTACK
+    :   #### OPPORTUNITY ATTACK :rsc-r:
 
         _**Trigger:** a Creature leaves your reach_
 
@@ -139,7 +144,7 @@ search:
 
     :rsc-a:{ .x3l }
 
-    :   #### READIED ACTION
+    :   #### READIED ACTION :rsc-r:
     
         _**Trigger:** specified by your **:rsc-a: Ready**{ .rsc } action_
 
@@ -153,7 +158,7 @@ search:
 
     :fontawesome-solid-hand-sparkles:{ .x3l }
 
-    :   #### CAST A SPELL
+    :   #### CAST A SPELL :rsc-r:
     
         _**Trigger:** specified by the spell_
 
@@ -161,7 +166,7 @@ search:
 
     :simple-sparkfun:{ .x3l }
 
-    :   #### USE A FEATURE
+    :   #### USE A FEATURE :rsc-r:
     
         _**Trigger:** specified by the feature_
 
