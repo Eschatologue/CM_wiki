@@ -76,7 +76,7 @@ icon: material/fast-forward
 
     :material-waves-arrow-right:{.x3l}
 
-    :   #### SWIM
+    :   #### SWIM :rsc-spd:{ title="requires Movement" }
 
         **Cost:** *10 ft. per tile*
 
@@ -84,7 +84,7 @@ icon: material/fast-forward
 
     :fontawesome-solid-arrow-up-wide-short:{.x3l}
 
-    :   #### CLIMB
+    :   #### CLIMB :rsc-spd:{ title="requires Movement" }
 
         **Cost:** *10 ft. per tile*
 
@@ -94,7 +94,7 @@ icon: material/fast-forward
 
     :   #### MOVE WHILE GRAPPLING
 
-        _**Modifier:** :rsc-spd: Speed is halved_
+        _**Modifier:** Max :rsc-spd: Speed is halved_
 
         Move while Grappling a creature. 
 

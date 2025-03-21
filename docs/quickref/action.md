@@ -47,7 +47,6 @@ search:
 
     :action-hide:{.x3l}
 
-
     :   #### HIDE :rsc-a:{ title="requires Action" }
 
         Make a DC 15 :d20-check: DEX (Stealth) check. Gain **Invisible**{.cond} condition on success.

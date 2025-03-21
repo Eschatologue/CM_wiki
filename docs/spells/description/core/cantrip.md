@@ -11,7 +11,7 @@ search:
 ### Acid Splash
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 60 feet   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -27,7 +27,7 @@ You create an acidic bubble at a point within range, where it explodes in a 5-fo
 ### Blade Ward
 *Abjuration Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Self   
 **Components:** V, S   
 **Duration:** Concentration, up to 1 minute
@@ -41,7 +41,7 @@ Whenever a creature makes an attack roll against you before the spell ends, the 
 ### Booming Blade
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Self (5-foot radius)   
 **Components:** S, M (a melee weapon worth at least 1 sp)   
 **Duration:** 1 round
@@ -57,7 +57,7 @@ This spell's damage increases when you reach certain levels. At 5th level, the m
 ### Chill Touch
 *Necromancy Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Touch   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -73,7 +73,7 @@ Channeling the chill of the grave, make a melee spell attack against a target wi
 ### Control Flames
 *Transmutation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 60 feet   
 **Components:** S   
 **Duration:** Instantaneous or 1 hour (see below)
@@ -94,7 +94,7 @@ If you cast this spell multiple times, you can have up to three non-instantaneou
 ### Create Bonfire
 *Conjuration Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 60 feet   
 **Components:** V, S   
 **Duration:** Concentration, up to 1 minute
@@ -112,7 +112,7 @@ The bonfire ignites flammable objects in its area that aren't being worn or carr
 ### Dancing Lights
 *Illusion Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 120 feet   
 **Components:** V, S, M (a bit of phosphorus)   
 **Duration:** Concentration, up to 1 minute
@@ -128,7 +128,7 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can move the lights up to 60 feet to 
 ### Druidcraft
 *Transmutation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 30 feet   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -150,7 +150,7 @@ Whispering to the spirits of nature, you create one of the following effects wit
 ### Eldritch Blast
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 120 feet   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -166,7 +166,7 @@ You hurl a beam of crackling energy. Make a ranged spell attack against one crea
 ### Elementalism
 *Transmutation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 30 feet   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -190,7 +190,7 @@ You exert control over the elements, creating one of the following effects withi
 ### Fire Bolt
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 120 feet   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -206,7 +206,7 @@ You hurl a mote of fire at a creature or an object within range. Make a ranged s
 ### Friends
 *Enchantment Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 10 feet   
 **Components:** S, M (some makeup)   
 **Duration:** Concentration, up to 1 minute
@@ -222,7 +222,7 @@ The spell ends early if the target takes damage or if you make an attack roll, d
 ### Frostbite
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 60 feet   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -238,7 +238,7 @@ You cause numbing frost to form on one creature that you can see within range. T
 ### Green-Flame Blade
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Self (5-foot radius)   
 **Components:** S, M (a melee weapon worth at least 1 sp)   
 **Duration:** Instantaneous
@@ -254,7 +254,7 @@ This spell's damage increases when you reach certain levels. At 5th level, the m
 ### Guidance
 *Divination Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Touch   
 **Components:** V, S   
 **Duration:** Concentration, up to 1 minute
@@ -268,7 +268,7 @@ You touch a willing creature and choose a skill. Until the spell ends, the creat
 ### Gust
 *Transmutation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 30 feet   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -286,7 +286,7 @@ You seize the air and compel it to create one of the following effects at a poin
 ### Infestation
 *Conjuration Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 30 feet   
 **Components:** V, S, M (a living flea)   
 **Duration:** Instantaneous
@@ -302,7 +302,7 @@ You cause a cloud of mites, fleas, and other parasites to appear momentarily on 
 ### Light
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Touch   
 **Components:** V, M (a firefly or phosphorescent moss)   
 **Duration:** 1 hour
@@ -318,7 +318,7 @@ Covering the object with something opaque blocks the light. The spell ends if yo
 ### Lightning Lure
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Self (15-foot radius)   
 **Components:** V   
 **Duration:** Instantaneous
@@ -334,7 +334,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 ### Mage Hand
 *Conjuration Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 30 feet   
 **Components:** V, S   
 **Duration:** 1 minute
@@ -370,7 +370,7 @@ If you cast this spell again, the spell ends on any pebbles still affected by yo
 ### Magical Tinkering
 *Transmutation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Touch  
 **Components:** S, M (a set of Artisan's Tools)  
 **Duration:** Instantaneous
@@ -414,7 +414,7 @@ This spell can physically repair a magic item, but it can't restore magic to suc
 ### Message
 *Transmutation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 120 feet   
 **Components:** S, M (a copper wire)   
 **Duration:** 1 round
@@ -430,7 +430,7 @@ You can cast this spell through solid objects if you are familiar with the targe
 ### Mind Sliver
 *Enchantment Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 60 feet   
 **Components:** V   
 **Duration:** Instantaneous
@@ -446,7 +446,7 @@ You try to temporarily sliver the mind of one creature you can see within range.
 ### Minor Illusion
 *Illusion Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 30 feet   
 **Components:** S, M (a bit of fleece)   
 **Duration:** 1 minute
@@ -466,7 +466,7 @@ If a creature takes a Study action to examine the sound or image, the creature c
 ### Mold Earth
 *Transmutation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 30 feet   
 **Components:** S   
 **Duration:** Instantaneous or 1 hour (see below)
@@ -486,7 +486,7 @@ If you cast this spell multiple times, you can have no more than two of its non-
 ### Poison Spray
 *Necromancy Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 30 feet   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -502,7 +502,7 @@ You spray toxic mist at a creature within range. Make a ranged spell attack agai
 ### Prestidigitation
 *Transmutation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 10 feet   
 **Components:** V, S   
 **Duration:** 1 hour
@@ -528,7 +528,7 @@ You create a magical effect within range. Choose the effect from the options bel
 ### Primal Savagery
 *Transmutation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Self   
 **Components:** S   
 **Duration:** Instantaneous
@@ -562,7 +562,7 @@ Until the spell ends, you can take a **:rsc-a: Magic**{ .rsc } action to hurl fi
 ### Ray of Frost
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 60 feet   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -578,7 +578,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 ### Resistance
 *Abjuration Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Touch   
 **Components:** V, S   
 **Duration:** Concentration, up to 1 minute
@@ -592,7 +592,7 @@ You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, 
 ### Sacred Flame
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 60 feet   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -608,7 +608,7 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 ### Shape Water
 *Transmutation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 30 feet   
 **Components:** S   
 **Duration:** Instantaneous or 1 hour (see below)
@@ -647,7 +647,7 @@ The spell ends early if you cast it again or if you let go of the weapon.
 ### Shocking Grasp
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Touch   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -663,7 +663,7 @@ Lightning springs from you to a creature that you try to touch. Make a melee spe
 ### Sorcerous Burst
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 120 feet   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -681,7 +681,7 @@ If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to 
 ### Spare the Dying
 *Necromancy Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 15 feet   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -697,7 +697,7 @@ Choose a creature within range that has 0 Hit Points and isn't dead. The creatur
 ### Starry Wisp
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 60 feet   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -713,7 +713,7 @@ You launch a mote of light at one creature or object within range. Make a ranged
 ### Sword Burst
 *Conjuration Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Self (5-foot radius)   
 **Components:** V   
 **Duration:** Instantaneous
@@ -729,7 +729,7 @@ This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 ### Thaumaturgy
 *Transmutation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 30 feet   
 **Components:** V   
 **Duration:** 1 minute
@@ -755,7 +755,7 @@ You manifest a minor wonder within range. You create one of the effects below wi
 ### Thorn Whip
 *Transmutation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 30 feet   
 **Components:** V, S, M (the stem of a plant with thorns)   
 **Duration:** Instantaneous
@@ -771,7 +771,7 @@ You create a vine-like whip covered in thorns that lashes out at your command to
 ### Thunderclap
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Self (5-foot emanation)   
 **Components:** S   
 **Duration:** Instantaneous
@@ -787,7 +787,7 @@ Each creature in a 5-foot Emanation originating from you must succeed on a Const
 ### Toll the Dead
 *Necromancy Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 60 feet   
 **Components:** V, S   
 **Duration:** Instantaneous
@@ -803,7 +803,7 @@ You point at one creature you can see within range, and the single chime of a do
 ### True Strike
 *Divination Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Self   
 **Components:** S, M (a weapon with which you have proficiency and that is worth 1+ CP)   
 **Duration:** Instantaneous
@@ -819,7 +819,7 @@ Guided by a flash of magical insight, you make one attack with the weapon used i
 ### Vicious Mockery
 *Enchantment Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** 60 feet   
 **Components:** V   
 **Duration:** Instantaneous
@@ -835,7 +835,7 @@ You unleash a string of insults laced with subtle enchantments at one creature y
 ### Word of Radiance
 *Evocation Cantrip*
 
-**Casting Time:** Action  
+**Casting Time:** **:rsc-a: Action**{.rsc}  
 **Range:** Self (5-foot emanation)   
 **Components:** V, M (a sunburst token)   
 **Duration:** Instantaneous
