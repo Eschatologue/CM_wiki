@@ -4,6 +4,4 @@ search:
 status: draft
 ---
 
-:nation-tartessia:{ .x6l }
-
-# Tartessia
+# **:nation-tartessia:**{ .x8l } <br> **Tartessia**{ .chev-lr } { .align-center }

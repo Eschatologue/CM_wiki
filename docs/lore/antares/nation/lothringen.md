@@ -2,15 +2,12 @@
 search:
   boost: 0.25
 ---
-
-:nation-lothringen:{ .x6l }
-
-# Lothringen  
+# **:nation-lothringen:**{ .x8l } <br> **Lothringen**{ .chev-lr } { .align-center }
 
 ## Overview  
 
 > *"We don’t rely on the old ways or wait for blessings from gods—we build with our hands, our minds, and our will. We shape our own future."*{ .emq }  
-— Wilhelm von Lothringen, Kaiser of Lothringen
+— Wilhelm von Lothringen
 { .quote }
 
 The **Empire of Lothringen**, often simply called **Lothringen**, is a nation marked by its distinct culture, independent spirit, and drive for innovation. Unlike many other nations in Antares, Lothringen thrives on a mix of craftsmanship, industry, and commerce. With a rich history of arts and trade, its people have long been known for their resilience and ingenuity. The empire is an amalgamation of old-world tradition and forward-thinking progress, where innovation isn't just encouraged—it's expected.

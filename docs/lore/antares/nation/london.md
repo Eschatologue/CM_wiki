@@ -3,9 +3,7 @@ search:
   boost: 0.25
 ---
 
-:nation-albion:{ .x6l }
-
-# Albion  
+# **:nation-albion:**{ .x8l } <br> **Albion**{ .chev-lr } { .align-center }
 
 ## Overview  
 

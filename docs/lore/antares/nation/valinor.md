@@ -3,9 +3,7 @@ search:
   boost: 0.25
 ---
 
-:nation-valinor:{ .x6l }
-
-# Valinor  
+# **:nation-valinor:**{ .x8l } <br> **Valinor**{ .chev-lr } { .align-center }
 
 ## Overview  
 

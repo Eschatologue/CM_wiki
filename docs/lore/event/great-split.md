@@ -5,44 +5,68 @@ search:
 
 # The Great Split
 
-**The Great Split** was a conflict between the **Tähdenvalta Empire** (Elven Empire) and the **Dominion of Albion** (Albion), marking the first major clash between raw arcane and natural power with industrialised warfare. The conflict primarily occurred in the vast forestlands that once stood as a symbol of the Elven Empire's natural dominion, now entirely under Albion's control. Characterised by unprecedented brutality, the war saw the employment of diverse and devastating tactics, ranging from necromancy, dark magic, and mind control to heavy artillery bombardments, mechanical war constructs, and chemical weapons. 
+The Great Split was a war between the **Tähdenvalta Empire** (Elven Empire) and the **Dominion of Albion**, marking the first major conflict that heralded a new age. Fought primarily in the vast forests that once symbolised the Elven Empire’s natural dominion—now entirely under Albion’s control—the war was defined by its unprecedented brutality.
 
-Although the war was brief, it was among the deadliest in the history of Antares, resulting in the total collapse of the Elven Empire and the rise of Albion as a significant power in the region. 
+Although brief, the war was among the deadliest in Antares’ history, resulting in the total collapse of the Elven Empire and the rise of Albion as a dominant power.
 
 ## Background
 
-For decades, tensions between the Tähdenvalta Empire and the Dominion of Albion had been escalating. As Albion expanded its industrial and territorial ambitions, the elves perceived this as a direct threat to their ancient traditions and dominion over the natural world. The growing influence of Albion's technology, coupled with their refusal to share these advancements further fueled the currently growing elven nationalism and resentment. These sentiments manifested in a series of covert operations by the elves, including the abduction and enslavement of British citizens, which were seen as a prelude to a larger conflict. Additionally, Albion's deforestation efforts to support its industrial growth further exacerbated hostilities, with the elves viewing this as an assault on their sacred lands and way of life.
+Tensions between the Tähdenvalta Empire and Albion had been escalating for decades. As Albion expanded its industry and territorial ambitions, the elves saw this as a direct threat to their traditions. Albion’s rapid technological advancements, combined with its refusal to share its innovations, fueled growing elven nationalism and resentment.
 
-## Prelude
+This hostility manifested in covert elven operations, including the abduction and enslavement of British citizens, seen by Albion as a prelude to war. Meanwhile, deforestation efforts to fuel Albion’s industry further enraged the elves, who viewed these actions as an assault on their sacred lands.
 
-In the lead-up to the war, both sides engaged in increasingly hostile actions. The elves, leveraging their mastery of arcane arts, infiltrated British territories, claiming these incursions were part of their effort to reclaim ancestral lands. Albion, anticipating a broader conflict, responded by fortifying its borders and initiating a military build-up. Attempts at diplomacy were made, but these were undermined by mutual distrust and uncompromising positions. As provocations escalated, including several border skirmishes and sabotage attempts, the path to war became unavoidable. Both sides prepared for a confrontation that neither fully understood, with the elves confident in their magical supremacy and the British determined to assert their industrial might.
+### Prelude
+
+In the years leading up to war, both sides engaged in increasingly hostile actions. The elves, leveraging their mastery over the Weave, infiltrated Albion’s territories, claiming they were reclaiming ancestral lands. Albion, anticipating a broader conflict, fortified its borders and expanded its military.
+
+Diplomatic efforts were made but collapsed under mutual distrust. As border skirmishes and acts of sabotage escalated, war became inevitable. The elves, confident in their supremacy, prepared for a decisive victory. Albion, determined to fight for its own survival, readied itself for total war.
 
 ## Progress of the War
 
-The Great Split unfolded with a level of brutality never before seen in Antares. The clash between the elves' magic and Albion's industrial might defined the conflict. While the elves initially held the advantage with their arcane prowess, the British quickly adapted, using their experience in warfare and advanced technology to counter the elves' strategies. The war was characterised by devastating battles, where the elves' traditional wood and earth-based defences were shattered by Albion's steel and firepower. Despite fierce resistance, the elves were gradually pushed back, unable to match the relentless efficiency of the British war machine. Atrocities were committed on both sides, with many remaining unreported or shrouded in secrecy.
+The Great Split was unlike any war Antares had seen before. The elves, with centuries of experience and dominion over the continent, believed they would overwhelm Albion’s armies. However, Albion’s ability to adapt and innovate quickly turned the tide. Steel and firepower shattered the elves’ wooden fortifications and earthen strongholds.
 
-#### Great Blight
+The war was brutal, defined by devastating battles, atrocities on both sides, and unprecedented levels of destruction. Despite fierce resistance, the elves were gradually pushed back, unable to match the relentless efficiency of Albion’s so-called "war machines."
 
-The Great Blight was one of the notable event during the war, where elven druid circles sabotaged Albion's farms by poisoning crops with a potent druidic toxin. This toxin not only destroyed the food supply but also twisted those who consumed it, turning them into mindless, savage creatures driven by an insatiable hunger. The situation became so dire that the British goverment were forced to kill their own to prevent the spread of the blight.
+### Hidden War  
 
-#### Titanfall
+While the Great Split was a defining moment in Antares' history, the elven empire’s isolation and the sheer vastness of the continent kept much of the war’s aftermath hidden. News of the conflict remained scarce, with only Albion and the elves fully aware of its true scale. It was not until Myrkheim’s first contact with Albion decades later—an encounter that sparked yet another war—that the world began to learn of what had transpired.  
 
-As part of Albion's broader strategy to demoralise and overwhelm the elven forces, Albion deployed their mechanical war constructs, or mechs, in a series of assaults on elven cities. The event known as "Titanfall" saw these mechs, armed with flamethrowers, dropped from airships directly into undefended elven settlements. The result was catastrophic: entire cities were reduced to smouldering ruins, and countless elven civilians were killed.
+Outside of Albion and the fallen elven empire, only high-ranking officials and leaders knew of the war before it was made public, fearing that any revelation might provoke the elves into silencing them permanently.
+
+### Magic and Steel
+
+The Great Split was a war unlike any other. Albion, and its people, possessed no connection to the Weave—an anomaly in Antares. They could not wield magic, a flaw that should have left them defenceless against the arcane might of the elves. Yet, what Albion lacked in magic, it made up for in ingenuity.
+
+Where the elves bent nature to their will, Albion shaped metal and fire into aberrant machines of war. Where the elves wielded spells and summoned beasts, Albion retaliated with relentless barrages of artillery and mechanical constructs
+
+And though Albion’s war machines played a significant role in turning the tide, it was not their technology that truly gave them the advantage. It was their ability to adapt. The elves, despite their centuries of experience, could not comprehend how a race with such short lifespans could learn and evolve at a rate that outpaced even their oldest war councils. It was this ability to change—to discard old tactics and invent new ones on the battlefield—that ultimately ensured Albion’s survival.
 
 #### The Siege of Yllfasera
 
-The Siege of Yllfasera marked the final chapter of the Great Split. Over the course of two relentless weeks, Albion unleashed a continuous artillery bombardment upon the elven capital, **Yllfasera**, a city once renowned for its beauty and the sacred Tree of Life at its heart. The elves were unfortunately unprepared for the sheer scale and length of the attack.
+The war reached its climax at the Siege of Yllfasera, the last bastion of the Tähdenvalta Empire.
 
-The heavy bombardment lasts for two weeks non-stop from day to night. Most of the elven infrastructures and the very earth itself were shattered under the relentless barrage of explosive and chemical shells. The Tree of Life became the primary target for Albion's forces. Despite the best efforts of the elves to protect it, the tree itself eventually succumbed to the overwhelming firepower, its fall sending shockwaves through the elven ranks and marking the end of their resistance.
+For two relentless weeks, Albion pounded the city with uninterrupted artillery fire. The streets ran red as chemical and incendiary shells tore through homes, fortifications, and the sacred groves that had stood for millennia. The city's defenders fought with desperation, but they could not outlast the barrage.
 
-The destruction of the Tree of Life was more than a strategic victory for Albion; it was a psychological blow from which the elves could not recover. As the capital city burned and crumbled, the remaining elven forces were left in disarray, their spirits broken by the loss of their most sacred site. The siege effectively ended the war, as the fall of the capital signaled the complete collapse of the Tähdenvalta Empire.
+At the heart of Yllfasera stood the Tree of Life, the most sacred symbol of the elven race. Though protected by powerful wards, it was not immune to the weight of endless firepower. As the siege dragged on, the ancient tree cracked, splintered, and finally collapsed, its fall sending a ripple of despair through the remaining elven forces.
+
+With its fall, the war was effectively over. The elven resistance shattered, and what few survivors remained scattered into exile.
 
 ## Aftermath
 
-The aftermath of the Great Split was devastating for the Elven Empire. The destruction of the Tree of Life (Yggdrasil), a sacred symbol of the elven connection to nature, signified the end of their dominion. The tree's destruction also marked the ascension of Sri the Harmony, a mysterious entity whose rise further destabilised the remnants of the empire. With their leadership decimated and their lands occupied, the remaining political leaders of the Tähdenvalta Empire were hunted down, effectively ending their reign.
+The Great Split left Antares scarred beyond recognition.
 
-The victory of Albion sent shockwaves across Antares. The notion that a faction without magic could defeat the Tähdenvalta Empire was previously unthinkable, and the implications were profound, as the once-dominant belief in the supremacy of magic was forever shattered. The spread of paintings depicting Albion's war machines further intensified this shock, as societies across Antares struggled to comprehend what monstrosities had emerged. The war fundamentally altered the balance of power in Antares, with Albion now seen as a major force to be reckoned with.
+The Tähdenvalta Empire ceased to exist. Its rulers were executed, its lands were seized, and its people were left broken. The destruction of the Tree of Life marked the end of elven dominance, and with it, a chapter of history that could never be reclaimed.
+
+Yet even in victory, Albion did not escape unscathed. Their war machine had consumed everything—lives, resources, even their own humanity. The cost of survival had been steep, and the scars of the war would linger for generations.
+
+The war had ended. But the wounds it left behind had only begun to fester.
 
 ## Casualties
 
-The Great Split resulted in catastrophic losses on both sides. It is estimated that hundreds of thousands of elves perished during the conflict, with many more displaced, enslaved, or otherwise traumatised in the aftermath. Entire elven cities were razed, and the once-vast forests that defined their empire were left in ruins. Albion however. The war also led to widespread civilian suffering, with countless lives disrupted by the conflict's devastation. The long-term impact on the civilian population, including the loss of homes, livelihoods, and cultural heritage, was profound, leaving deep scars that would take generations to heal.
+The full death toll of the Great Split will never be known.
+
+Hundreds of thousands perished—soldiers, civilians, entire bloodlines erased. Elven cities, once thriving metropolises, were reduced to graveyards. The forests that had stood for millennia were left as blackened husks.
+
+Albion, too, suffered beyond measure. Though they had emerged victorious, their lands were ravaged, their people forever changed. For many, the victory was hollow—a necessary evil that had come at the cost of everything they once were.
+
+The Great Split was not merely a war. It was the breaking of an age. And in its wake, nothing remained untouched.

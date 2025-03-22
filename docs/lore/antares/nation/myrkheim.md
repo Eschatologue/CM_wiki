@@ -3,9 +3,7 @@ search:
   boost: 0.25
 ---
 
-:nation-myrkheim:{ .x6l }
-
-# Myrkheim
+# **:nation-myrkheim:**{ .x8l } <br> **Myrkheim**{ .chev-lr } { .align-center }
 
 *"Stone endures where flesh withers. The mountain does not kneel."*{ .emq }  
 — Ancestral Proverb of Myrkheim

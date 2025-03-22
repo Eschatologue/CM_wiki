@@ -4,6 +4,4 @@ search:
 status: draft
 ---
 
-:nation-soterrano:{ .x6l }
-
-# Soterrano
+# **:nation-soterrano:**{ .x8l } <br> **Soterrano**{ .chev-lr } { .align-center }
