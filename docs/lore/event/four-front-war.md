@@ -5,10 +5,6 @@ search:
   exclude: true
 ---
 
-Below is a **polished, cohesive revision** that maintains the original narrative while casting Albion as the **formidable, enigmatic threat** rather than a victim. I’ve trimmed where possible without losing the impact:
-
----
-
 # Four-Front War  
 
 It began as a land grab. It ended in catastrophe.  
