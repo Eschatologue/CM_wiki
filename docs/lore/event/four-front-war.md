@@ -71,8 +71,8 @@ Where **Soterrano and Myrkheim** had charged headlong, **Karakorum hesitated**. 
 
 This was the first time a non-elven force witnessed **Albion’s method**—not brute force or arcane might, but a cold, calculated efficiency.  
 
-Albion fielded no **spellcasters**—its people were alien to Antares. It had no famed warriors; instead, it employed **iron carriages, steel walkers, and men encased in metal**, raining death with merciless precision. The Kamikaze had no word for it—until later, when they learned its name.
+Albion fielded no **spellcasters**—its people were alien to Antares. It had no famed warriors; instead, it employed **iron carriages, steel walkers, and men encased in metal**, raining death with merciless precision.
 
 Yet the Kamikaze were no fools. Recognizing the threat, they sent envoys rather than more warriors. No words were exchanged, but the intent was clear: neither side desired needless bloodshed.
 
-Thus, in the smoldering ruins of **Tähdenvalta**, Albion forged its first alliance on Antares—not in trust or friendship, but in the shared understanding of an unyielding, inevitable fate.
+Thus, in the smoldering ruins of **Tähdenvalta**, Albion forged its first alliance on Antares—not in trust or friendship, but blood.
