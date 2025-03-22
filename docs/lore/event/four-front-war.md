@@ -13,21 +13,21 @@ The **Four-Front War** was the first continent-spanning conflict after the **Sec
 
 ## Background  
 
-The fall of **Tähdenvalta** was gradual, its cause shrouded in mystery. For centuries, the elves ruled unchallenged—until their cities lay abandoned and their ancient forests turned to ash. The prevailing theory blamed **Warp contamination**, the only known force capable of such devastation.  
+The fall of **Tähdenvalta** was less of a shock but a gradual realisation by other parties of dwindling elven supremacy. For centuries, the elves ruled unchallenged—until their cities lay abandoned and their ancient forests turned to ash. The prevailing theory blamed **Warp**, the only known force capable of such devastation.  
 
 Scouting parties found unsettling evidence: **elven corpses mingled with human remains**, and hulking, unfamiliar steel constructs littered the ruins. Initially thought to be dwarven, even the dwarves themselves were baffled by these machines.
 
 ### Prelude  
 
-Historians would later call it **"The Great Misunderstanding"** or **"The Flaccid Ambitions."** No one had planned for war. The four nations entered **Tähdenvalta** expecting unguarded riches—only to discover the territory was already claimed.  
+Historians would later call it **"The Great Misunderstanding"** or **"The Flaccid Ambitions."** No one had planned for war. The four nations entered the ruins of **Tähdenvalta** expecting unguarded riches—only to discover the territory was already claimed.  
 
-At the time, **Albion** was little more than a rumor. Few had heard its name, yet it had already fought to seize the former elven heartland. Invaders had anticipated scattered Warp-spawn and dying elven holdouts. Instead, they faced a disciplined, highly organized force that brooked no compromise.
+At the time, **Albion** was little more than a rumour. Few had heard its name, yet it had already fought to seize the former elven heartland. Invaders had anticipated scattered Warp-spawn and dying elven holdouts. Instead, they faced a disciplined, highly organized force that brooked no compromise.
 
 The first shots were fired before anyone grasped the truth. By then, the war was lost.
 
 ## Progress of the War  
 
-The **Four-Front War** unfolded as a series of miscalculations—each nation relying on age-old tactics that proved hopeless against Albion. Generations of fighting **Warp-spawn** had honed their strategies around **swarms, teleporting horrors, and mind-altering entities**. Against Albion, these methods were disastrously ineffective.
+The **Four-Front War** unfolded as a series of miscalculations—each nation relying on age-old tactics that proved hopeless against Albion. Generations of fighting **Warp-spawn** had honed their strategies around **swarms, teleporting horrors, and reality or mind-altering entities**. Against Albion, these methods were disastrously ineffective.
 
 **Soterrano** was first on the field. Their scouts reported burned forests, elven corpses, and the eerie presence of steel constructs. At first, they dismissed these signs as the work of mere bandits. But bandits do not fight in disciplined formations. By the time the truth was revealed, it was too late—**Albion was no scavenger force. It was an empire in the making.**
 

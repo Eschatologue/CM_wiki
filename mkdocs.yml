@@ -445,6 +445,14 @@ nav:
         - Dwarf: lore/antares/race/dwarf.md
         - Elf: lore/antares/race/elf.md
         - Londoner: lore/antares/race/londoner.md
+    - Event:
+      - The Second Maelstorm: lore/event/second-maelstorm.md
+      - Fall of Tähdenvalta: 
+        - Great Split: lore/event/great-split.md
+        - Valinor Establishment: lore/event/valinor-establishment.md
+      - Rise of Albion: 
+        - Four Front War: lore/event/four-front-war.md
+        - Anglo-Dwarven War: lore/event/anglo-dwarven-war.md
     - The Warp:
       - lore/warp/index.md
       - Entities: lore/warp/warp-entities.md
