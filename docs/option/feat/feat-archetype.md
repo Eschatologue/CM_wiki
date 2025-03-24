@@ -29,10 +29,14 @@ _Archetype Feat (Prerequisites: Level 4+ Fighter)_
 You gain the following benefits.
 
 ###### Ability Score Increase  
+
 Increase your Strength, Dexterity or Constitution score by 1, to a maximum of 20.
 
-###### Martial Training  
+###### Martial Training 
+
 You gain one ^^Fighting Style Feat^^ of your choice from the [Fighting Style Feats](../feat-fighting-style/index.md), the one you choose must be different from one that you already have. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat's fighting style with another one which you don't have.
+
+
 
 **Repeatable**{ .inl } Choose a different Fighting Style Feat each time.
 
