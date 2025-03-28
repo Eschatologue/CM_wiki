@@ -31,7 +31,7 @@ The **Four-Front War** unfolded as a series of miscalculations—each nation rel
 
 **Soterrano** was first on the field. Their scouts reported burned forests, elven corpses, and the eerie presence of steel constructs. At first, they dismissed these signs as the work of mere bandits. But bandits do not fight in disciplined formations. By the time the truth was revealed, it was too late—**Albion was no scavenger force. It was an empire in the making.**
 
-Among the invaders, **Ruthenia paid the highest price**. By war’s end, their armies were shattered, their lands partitioned, their name erased. The survivors retreated, broken and humiliated. Albion had not merely defended its territory—it had redefined warfare.
+Among the invaders, **Ruthenia paid the highest price**– with their name erased from Antares' map. Albion had not merely defended its territory—it had redefined warfare.
 
 ### Burying the Crusaders  
 
@@ -39,7 +39,7 @@ Soterrano struck from below. Giant moles carved tunnels under the battlefield, a
 
 Then Albion adapted.  
 
-The very tunnels that had been Soterrano’s strength became their doom. Instead of fighting underground, Albion used flying machines to deliver **drilling explosives** that burrowed into the soft earth and detonated within the tunnels. Soterrano’s assault turned on itself as their own passages became graves.
+The very tunnels that had been Soterrano’s strength became their doom. Instead of fighting underground, Albion used flying machines to deliver explosives that drills into the soft earth and detonated within the tunnels. Soterrano’s assault turned on itself as their own passages became graves.
 
 ### Breaking the Line  
 
@@ -47,7 +47,7 @@ Myrkheim, having witnessed Soterrano’s downfall, believed they could counter t
 
 At first, the tactic held. Albion’s forces struggled against the dwarven walls. But then Albion struck with sudden speed.  
 
-Before Myrkheim could regroup, Albion’s spearheads—**steel walkers, shock troops, and the dreaded carriages**—broke through the flanks. These mechanized units roared like thunder, turning the disciplined advance into utter chaos. Against the relentless might of Albion, Myrkheim’s strategy crumbled before their eyes.
+Before Myrkheim could regroup, Albion’s spearheads—steel walkers, shock troops, and the Dreadnoughts—broke through the flanks. These mechanized units roared like thunder, turning the disciplined advance into utter chaos. Myrkheim’s strategy crumbled before their eyes.
 
 ### The Last Ride of Ruthenia  
 
@@ -67,12 +67,12 @@ Within hours, Ruthenia was obliterated. The empire, the royal bloodline, every s
 
 The **Kamikaze** arrived from the sea—not to conquer, but to claim what remained. Unlike their counterparts, they advanced with caution. They saw that the ruins were not abandoned. Something was amiss.  
 
-Where **Soterrano and Myrkheim** had charged headlong, **Karakorum hesitated**. The corpses and machines defied explanation until an ambush wiped out one of their best expeditionary teams.  
+Where **Soterrano and Myrkheim** had charged headlong, **Karakorum hesitated**. The corpses and machines defied explanation until an ambush wiped out one of their expeditionary teams.  
 
 This was the first time a non-elven force witnessed **Albion’s method**—not brute force or arcane might, but a cold, calculated efficiency.  
 
-Albion fielded no **spellcasters**—its people were alien to Antares. It had no famed warriors; instead, it employed **iron carriages, steel walkers, and men encased in metal**, raining death with merciless precision.
+Albion fielded no **spellcasters**—its people were alien to Antares. It had no famed warriors; instead, it employed *men encased in metal*, raining death with merciless precision.
 
 Yet the Kamikaze were no fools. Recognizing the threat, they sent envoys rather than more warriors. No words were exchanged, but the intent was clear: neither side desired needless bloodshed.
 
-Thus, in the smoldering ruins of **Tähdenvalta**, Albion forged its first alliance on Antares—not in trust or friendship, but blood.
+Thus, in the smoldering ruins of **Tähdenvalta**, Albion forged its first contact on Antares—not in trust or friendship, but blood.
