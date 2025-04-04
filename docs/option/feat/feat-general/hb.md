@@ -169,14 +169,13 @@ One of your spells with a duration of Concentration remain in effect after you u
 
 You gain the following benefits.
 
-###### Ability Score Increase
-Increase one ability score of your by 1, to a maximum of 20.
-
 ###### Lessons of Life
-You gain two Origin Feats of your choice, all other rules related to gaining Feats still apply. Replacing this Feat will forgo all the Origin Feats gained from this Feat.
 
-**Repeatable**{ .inl }
-You can take this feat more than once. Choose another two eligible Origin Feats each time. All other rules related to gaining Feats still apply.
+You gain two [:option-feat-origin: Origin Feats] of your choice, all other rules related to gaining Feats still apply. Replacing this Feat will forgo all the [:option-feat-origin: Origin Feats] gained from this Feat.
+
+**Repeatable**{ .inl } You can take this feat more than once. Choose another two eligible Origin Feats each time. All other rules related to gaining Feats still apply.
+
+[:option-feat-origin: Origin Feats]: ../feat-origin/index.md
 
 ---
 
