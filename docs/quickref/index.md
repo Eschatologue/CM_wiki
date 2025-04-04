@@ -16,25 +16,69 @@ icon: material/fast-forward
 
 ## <br>Dice Rolls { .align-center .noborder }
 
-| **:d20-attack:{ .x2l }** <br>**Attack Roll**{ .xl } | **:d20-save:{ .x2l }** <br>**Saving Throw**{ .xl } | **:d20-check:{ .x2l }** <br>**Ability Check**{ .xl } |
-|:-:|:-:|:-:|
-| Made to *hit* a target and is contested by the target's **Armour Class (AC)** | Made to resist an effect and is contested by **Dificulty Class (DC)** | Made to succeed a particular task and is contested by **Dificulty Class (DC)** | 
-| **D20 + Ability Modifier + PB (if proficient)**{ .calc } | **D20 + Ability Modifier + PB (if proficient)**{ .calc } | **D20 + Ability Modifier**{ .calc }  |
-| ↓ | - | ↓ |
-| **DAMAGE ROLL**{ .chev-lr } | | **SKILL CHECK**{ .chev-lr } |
-| Rolled to determine how much harm is done to a target | | Ability Checks made using skills (e.g. Perception, Intimidation, History, etc) |
-| **Damage Die + Ability Modifier**{ .calc } | | **D20 + Ability Modifier + PB (if proficient)**{ .calc } |
+!!! dice ""
+
+    <div class="grid" markdown>
+
+    **:d20-attack:{ .x2l }**<br>**ATTACK ROLL**{ .xl } 
+    :   Made to *hit* a target and is contested by the target's **Armour Class (AC).** 
+
+        ```
+        D20 + Ability Modifier + PB (if proficient)
+        ```
+
+        **^^DAMAGE ROLL^^**
+        :   Rolled to determine how much harm is done to a target. 
+            ``` 
+            Damage Die + Ability Modifier
+            ```
+
+    **:d20-save:{ .x2l }**<br>**SAVING THROW**{ .xl } 
+    :   Made to resist an effect and is contested by **Dificulty Class (DC)**.  
+
+        ```
+        D20 + Ability Modifier + PB (if proficient)
+        ```
+    
+    **:d20-attack:{ .x2l }**<br>**ATTACK ROLL**{ .xl } 
+    :   Made to *hit* a target and is contested by the target's **Armour Class (AC).** 
+
+        ```
+        D20 + Ability Modifier
+        ```
+
+        **^^SKILL CHECK^^**
+        :   Ability Checks made using skills (e.g. Perception, Intimidation, History, etc). 
+            ``` 
+            D20 + Ability Modifier + PB (if proficient)
+            ```       
+
+    </div>
+
+
 
 ## <br>Calculations { .align-center .noborder }
 
-| **:material-shield:{ .x2l }** <br>**Armour Class**{ .xl } | **:material-eye-plus:{ .x2l }** <br>**Passive Perception**{ .xl } |
-|:-:|:-:|
-| **Light Armour:** `Armour's AC + DEX modifier` <br>**Medium Armour:** `Armour's AC + DEX modifier (max 2)` <br>**Heavy Armour:** `Armour's AC` | `10 + Wisdom (Perception) bonus` |
 
----
+!!! glossary ""
+
+    <div class="grid" markdown>
+
+    **:material-shield:{ .x2l }**<br>**ARMOUR CLASS**{ .xl } 
+    :   **Light Armour:** `Armour's AC + DEX modifier`   
+        **Medium Armour:** `Armour's AC + DEX modifier (max 2)`  
+        **Heavy Armour:** `Armour's AC` 
+
+    :octicons-key-asterisk-16:{.x2l}**<br>PASSIVE CHECKS**
+
+    :   Passive Checks are skill checks that does not require rolling a d20, most commonly used for **Passive Perception** (`10 + Wisdom (Perception) bonus`{.nowrap}).  
+        **Calculation**: `10 + Ability (Skill) bonus`
+
+    </div>
 
 
-## Your Turn
+
+## <br>Your Turn { .align-center }
 
 ### Movement
 
@@ -52,7 +96,7 @@ icon: material/fast-forward
 
         Change your position. Movement Cost is ^^Doubled^^ on irregullar surface, such as Deep Liquid (Swim) or Vertical Surface (Climbing).
 
-    :material-arrow-down-bold-hexagon-outline:{.x3l}
+    :fontawesome-solid-person-arrow-down-to-line:{.x3l}
 
     :   #### PRONE
 
@@ -60,7 +104,7 @@ icon: material/fast-forward
     
         Give yourself the **Prone**{ .cond } condition.
 
-    :material-arrow-up-bold-hexagon-outline:{.x3l}
+    :fontawesome-solid-person-arrow-up-from-line:{.x3l}
 
     :   #### STAND UP :rsc-spd:{ title="requires Movement" }
 

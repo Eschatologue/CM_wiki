@@ -36,9 +36,9 @@ Initiative determines the order in which characters and creatures act during com
 
 #### Surprise
 
-If a combatant is suprised by combat starting, that combatant has **:d20-dis: Disadvantage**{ .d20 } on their **:d20-inv: Initiative**{.d20 } roll, this is relevant during ambushes.
+If a combatant is suprised by combat starting, that combatant has **:d20-dis: Disadvantage**{ .d20 } on their **Initiative** roll, this is relevant during ambushes.
 
-#### **:d20-inv: Initiative**{.d20 } Order
+#### Initiative Order
 
 **Turn Order**{ .inl } The DM organizes all participants from highest to lowest Initiative roll. This order dictates who acts first, second, and so on, throughout each round of combat.
 
@@ -92,7 +92,7 @@ On a grid, each square represents 5 feet. A character with 30 feet of Movement s
 
 #### Speed
 
-Rather than moving foot by foot, move square by square on the Grid using your **:rsc-spd: Speed**{ .em } in 5-foot segments. You can translate your **:rsc-spd: Speed**{ .em } into squares by dividing it by 5. For example, a Speed of 30 feet translate into 6 squuares. Consider writing your **:rsc-spd: Speed**{ .em } in sqyares on your character sheet
+Rather than moving foot by foot, move square by square on the Grid using your **:rsc-spd: Speed**{ .em } in 5-foot segments. You can translate your **:rsc-spd: Speed**{ .em } into squares by dividing it by 5. For example, a Speed of 30 feet translate into 6 squares. Consider writing your **:rsc-spd: Speed**{ .em } in sqyares on your character sheet
 
 #### Entering a Square
 
