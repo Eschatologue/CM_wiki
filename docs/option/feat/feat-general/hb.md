@@ -37,7 +37,7 @@ Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 You can use a Card Deck as your spellcasting focus.
     
 ###### Card Tricks
-You learn the *Thaumaturgy* and *Guidance* cantrip. When you cast those cantrips through card deck and you can use it to create illusions that duplicate the effects of stage magic or use it to reveal a divination to a target. You can conceal the Verbal and Somatic components of the spell as ordinary conversation or card handling.
+You learn the [:spell-lv0: Thaumaturgy] and [:spell-lv0: Guidance] cantrip. When you cast those cantrips through card deck and you can use it to create illusions that duplicate the effects of stage magic or use it to reveal a divination to a target. You can conceal the Verbal and Somatic components of the spell as ordinary conversation or card handling.
     
 ###### Hidden Ace
 When you finish a **:rest-long: Long Rest**, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have :rsc-spell-slot: Spell Slots. The card remains imbued with this spell for 8 hours. 
@@ -56,7 +56,7 @@ You've developed the ability to instantly recall an unprepared spell in moments 
 You increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
     
 ###### Compartmentalize
-As an **:rsc-a: Action**{ .rsc }, you can instantly learn a spell from your available class spell list (or spellbook, if your class prepare spells from one) that you did not know or have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: **Spell Slots**. You then lose the knowledge or preparation of a different spell of your choice of equal or higher spell level. 
+As a **:rsc-a: Magic**{ .rsc } action, you can instantly learn or prepare a spell from your available class spell list (or spellbook, if your class prepare spells from one) that you did not know or have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: **Spell Slots**. You then lose the knowledge or preparation of a different spell of your choice of equal or higher spell level. 
     
 Once you use this ability, you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
 
@@ -72,10 +72,12 @@ You gain the following benefits.
 Increase your Strength score by 1, to a maximum of 20.
 
 ###### All In  
-Before you make a melee attack with a **:wp-prop-heavy: Heavy**{.wp} weapon with no **:d20-dis: Disadvantage**{.d20}, you can choose to impose **:d20-dis: Disadvantage**{.d20} on the attack roll. If the attack hits, it deals extra damage equals to two times your Strength modifier.
+Before you make a melee attack with a **:wp-prop-heavy: Heavy**{.wp} weapon with no **:d20-dis: Disadvantage**{.d20}, you can choose to impose **:d20-dis: Disadvantage**{.d20} on the attack roll. If the attack hits, it deals extra damage equals to two times your Strength modifier. This attack will always has **:d20-dis: Disadvantage**{.d20}.
 
 ###### Hew  
 Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a **:rsc-b: Bonus Action**{ .rsc }.
+
+**Alternate Version**{ .inl } You can't take this feat if you already has [:option-feat-general: Great Weapon Master](phb24.md#great-weapon-master) feat
 
 ---
 
@@ -214,6 +216,8 @@ The number you need to roll for Critical Hit with spells is reduced by 1. This e
 ###### One Cantrip
 You learn one cantris of your choice that deals damage and has a range of 10+ feet from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat)
 
+**Alternate Version**{ .inl } You can't take this feat if you already has [:option-feat-general: Spell Sniper](phb24.md#spell-sniper) feat
+
 ---
 
 ### Sword Dancing
@@ -243,13 +247,13 @@ You've honed your ability to lob weaponry into the fray, including weapons not m
 Increase your Strength or Dexterity by 1, to a maximum of 20.
 
 ###### Throwable Weapons
-Simple and Martial melee weapons without the **:wp-prop-thrown: Thrown** property have the **:wp-prop-thrown: Thrown** property for you. One-handed weapons has **:wp-prop-thrown: Thrown (30/60)**, while Two-handed weapons has **:wp-prop-thrown: Thrown (15/30)**
+Simple and Martial melee weapons without the **:wp-prop-thrown: Thrown**{.wp} property have the **:wp-prop-thrown: Thrown**{.wp} property for you. One-handed weapons has **:wp-prop-thrown: Thrown (30/60)**{.wp}, while Two-handed weapons has **:wp-prop-thrown: Thrown (15/30)**{.wp}
 
 ###### Improved Throw Range
-Weapons that already have the **:wp-prop-thrown: Thrown** property has their range is increased by (+20/+40)
+Weapons that already have the **:wp-prop-thrown: Thrown**{.wp} property has their range is increased by (+20/+40)
 
 ###### Boomerang
-When you miss with a **:wp-prop-thrown: Thrown** weapon attack using a weapon with **:wp-prop-light: Light** property, the weapon returns to your grasp like a boomerang at the end of your turn, unless something prevents it from returning. You can catch and stow as many weapons as you threw in this way.
+When you miss with a **:wp-prop-thrown: Thrown**{.wp} weapon attack using a weapon with **:wp-prop-light: Light**{.wp} property, the weapon returns to your grasp like a boomerang at the end of your turn, unless something prevents it from returning. You can catch and stow as many weapons as you threw in this way.
 
 ---
 
@@ -263,6 +267,8 @@ You gain the following benefits:
 Increase your Dexterity by 1, to a maximum of 20.
 
 ###### Return Fire 
-When a creature you can see hits or misses you with a ranged attack, you can take a **:rsc-r: Reaction**{ .rsc } and make one ranged weapon attack against that creature with ranged or thrown weapon that has the **:wp-prop-light: Light**property.
+When a creature you can see hits or misses you with a ranged attack, you can take a **:rsc-r: Reaction**{ .rsc } and make one ranged weapon attack against that creature with ranged or thrown weapon that has the **:wp-prop-light: Light**{.wp} property.
 
 ---
+
+--8<-- "includes\snippets\spells3\lv0-5.md"
