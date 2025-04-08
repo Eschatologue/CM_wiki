@@ -62,6 +62,23 @@ Once you use this ability, you must finish a **:rest-short: Short** or **:rest-l
 
 ---
 
+### Great Weapon Master (Alternate)
+
+*General Feat (Prerequisite: Level 4+, Strength 13+)*
+
+You gain the following benefits.
+
+###### Ability Score Increase  
+Increase your Strength score by 1, to a maximum of 20.
+
+###### All In  
+Before you make a melee attack with a **:wp-prop-heavy: Heavy**{.wp} weapon with no **:d20-dis: Disadvantage**{.d20}, you can choose to impose **:d20-dis: Disadvantage**{.d20} on the attack roll. If the attack hits, it deals extra damage equals to two times your Strength modifier.
+
+###### Hew  
+Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a **:rsc-b: Bonus Action**{ .rsc }.
+
+---
+
 ### Gunner
 
 *General Feat (Prerequisite: Level 4+, Firearms Proficiency)*  
@@ -72,7 +89,7 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 Increase your Dexterity score by 1, to a maximum of 20.
 
 ###### Controlled Burst
-When you make the extra attack of the **:wp-prop-automatic: Automatic** property, you can add your ability modifier to the damage of the extra attacks.
+When you make the extra attack of the **:wp-prop-automatic: Automatic**{.wp} property, you can add your ability modifier to the damage of the extra attacks.
     
 ###### Race Modded
 As part of an attack with Firearms, you can take a **:rsc-r: Reaction**{ .rsc } to reload it if it ran out of ammunition before or after the attack. Moreover, you don't need a free hand to reload a Firearm.

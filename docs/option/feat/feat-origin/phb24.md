@@ -143,7 +143,7 @@ Accustomed to brawling, you gain the following benefits:
 When you hit with your **:rsc-a: Unarmed Strike**{ .rsc } and deal damage, you can deal Bludgeoning Damage equal to 1d4 + your Strength modifier, instead of the normal damage of an **:rsc-a: Unarmed Strike**{ .rsc }.
     
 ###### Damage Rerolls  
-Whenever you roll a damage die for your **:rsc-a: Unarmed Strike**{ .rsc } , you can reroll the die if it rolls a 1, and you must use the new roll.
+Whenever you roll a damage die for your **:rsc-a: Unarmed Strike**{ .rsc }, you can reroll the die if it rolls a 1, and you must use the new roll.
 
 ###### Improvised Weapon  
 You have proficiency with Improvised weapons.

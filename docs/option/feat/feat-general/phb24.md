@@ -105,7 +105,7 @@ You ignore the Loading property of crossbows.
 Being within 5 feet of an enemy doesn't impose **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with crossbows.
 
 ###### Dual Wielding  
-When you make the extra attack of the **:wp-prop-light: Light** property, you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the **:wp-prop-light: Light** property and you aren't already adding that modifier to the damage.
+When you make the extra attack of the **:wp-prop-light: Light**{.wp} property, you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the **:wp-prop-light: Light**{.wp} property and you aren't already adding that modifier to the damage.
 
 ---
 
@@ -119,10 +119,10 @@ You are practiced in the art of crushing your enemies, granting you the followin
 Increase your Strength or Constitution by 1, to a maximum of 20.
 
 ###### Push  
-Once per turn, when you hit a creature with an attack that deals :dmg-bldg: Bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
+Once per turn, when you hit a creature with an attack that deals **:dmg-bldg: Bludgeoning**{.dmg-bps} damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
 
 ###### Enhanced Critical  
-When you score a Critical Hit that deals :dmg-bldg: Bludgeoning damage to a creature, attack rolls against that creature have **:d20-adv: Advantage**{ .d20 } until the start of your next turn.
+When you score a Critical Hit that deals **:dmg-bldg: Bludgeoning**{.dmg-bps} damage to a creature, attack rolls against that creature have **:d20-adv: Advantage**{ .d20 } until the start of your next turn.
 
 ---
 
@@ -136,7 +136,7 @@ You gain the following benefits.
 Increase your Dexterity score by 1, to a maximum of 20.
 
 ###### Parry  
-If you're holding a :wp-prop-finesse: Finesse weapon and another creature hits you with a melee attack, you can take a **:rsc-r: Reaction**{ .rsc } to add your Proficiency Bonus to your Armour Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
+If you're holding a **:wp-prop-finesse: Finesse**{.dmg-bps} weapon and another creature hits you with a melee attack, you can take a **:rsc-r: Reaction**{ .rsc } to add your Proficiency Bonus to your Armour Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.
 
 ---
 
@@ -150,10 +150,10 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 ###### Enhanced Dual Wielding  
-When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with a weapon that has the **:wp-prop-light: Light** property, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn with a different weapon, which must be a Melee weapon that lacks the **:wp-prop-two-handed: Two-Handed** property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
+When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with a weapon that has the **:wp-prop-light: Light**{.wp} property, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn with a different weapon, which must be a Melee weapon that lacks the **:wp-prop-two-handed: Two-Handed**{.wp} property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
 
 ###### Quick Draw  
-You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
+You can draw or stow two weapons that lack the **:wp-prop-two-handed: Two-Handed**{.wp} property when you would normally be able to draw or stow only one.
 
 ---
 
@@ -200,7 +200,7 @@ Your exposure to the Feywild's magic has changed you, granting you the following
 Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 
 ###### Fey Magic  
-Choone one level 1 spell from the Divination or Enchantment school of magic. You always have that and the *Misty Step* spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a **:rest-long: Long Rest**. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
+Choone one level 1 spell from the Divination or Enchantment school of magic. You always have that and the [:spell-lv2: Misty Step] spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either of these spells in this way, you can't cast that spell in this way again until you finish a **:rest-long: Long Rest**. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.
 
 ---
 
@@ -234,7 +234,7 @@ You gain the following benefits.
 Increase your Strength score by 1, to a maximum of 20.
 
 ###### Heavy Weapon Mastery  
-When you hit a creature with a weapon that has the Heavy property as part of the Attack Action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
+When you hit a creature with a weapon that has the **:wp-prop-heavy: Heavy**{ .wp } property as part of the **:rsc-a: Attack**{.rsc} action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
 
 ###### Hew  
 Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a **:rsc-b: Bonus Action**{ .rsc }.
@@ -502,10 +502,10 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 ###### Guardian  
-Immediately after a creature within 5 feet of you takes the Disengage action or hits a target other than you with an attack, you can make an Opportunity Attack against that creature.
+Immediately after a creature within 5 feet of you takes the **:rsc-a: Disengage**{.rsc} action or hits a target other than you with an attack, you can make an **:rsc-r: Opp. Attack**{.rsc} against that creature.
 
 ###### Halt  
-When you hit a creature with an Opportunity Attack, the creature's Speed becomes 0 for the rest of the current turn.
+When you hit a creature with an **:rsc-r: Opp. Attack**{.rsc}, the creature's Speed becomes 0 for the rest of the current turn.
 
 ---
 

@@ -50,7 +50,7 @@ When you roll damage for an attack you make with a Melee Weapon that you are hol
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*{ .fg-light }
 
-When a creature you can see hits another creature within 5 feet of you with an attack roll, you can take a **:rsc-r: Reaction**{ .rsc } to reduce the damage dealt to the target by 1d10 + your Proficiency Bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to take this **:rsc-r: Reaction**{ .rsc }.
+When a creature you can see hits another creature within 5 feet of you with an attack roll, you can take a **:rsc-r: Reaction**{ .rsc } to reduce the damage dealt to the target by 1d10 + your Proficiency Bonus (to a minimum of 0 damage). You must be wielding a Shield or a Simple or Martial weapon to take this **:rsc-r: Reaction**{ .rsc }.
 
 ---
 

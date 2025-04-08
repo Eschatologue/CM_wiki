@@ -68,6 +68,7 @@ The table below lists available General Feats, divided into two categories: *PHB
 - [:option-feat-general: Battlecaster](hb.md#battlecaster)
 - [:option-feat-general: Cartomancy](hb.md#cartomancy)
 - [:option-feat-general: Flash Recall](hb.md#flash-recall)
+- [:option-feat-general: Great Weapon Master (Alt.)](hb.md#great-weapon-master-alternate)
 - [:option-feat-general: Gunner](hb.md#gunner)
 - [:option-feat-general: Helpful Insights](hb.md#helpful-insights)
 - [:option-feat-general: Metamagic Adept](hb.md#metamagic-adept)

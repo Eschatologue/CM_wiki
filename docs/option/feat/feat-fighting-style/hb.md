@@ -20,7 +20,7 @@ You only gain these benefits so long you are not wearing Heavy Armour or wieldin
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_{ .fg-light }  
 
-When you make an attack with a **:wp-prop-heavy: Heavy**{ .wp } Cold Weapon as part of your **:rsc-a: Attack**{ .rsc } action and the total damage roll from your weapon is 5 or lower, you treat it as 6
+When you make an attack with a **:wp-prop-heavy: Heavy**{ .wp } Cold Weapon as part of your **:rsc-a: Attack**{ .rsc } action and the total damage roll from your weapon is 5 or lower, you treat it as 6.
 
 --- 
 
@@ -42,49 +42,13 @@ You have studied combat techniques that allow you to perform Combat Manoeuvre.
 
 ###### Combat Manoeuvre 
 
-You learn two [Manoeuvre](../../class-options/fighter-manoeuvre.md) of your choice from among those available to the Battle Master. If a manoeuvre forces a saving throw, the DC equals to 8 plus your Proficiency Bonus and Strength or Dexterity modifier (your choice). Each time you gain a level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
+You learn two [Manoeuvre](../../class-options/fighter-manoeuvre/index.md) of your choice from among those available to the Battle Master. If a manoeuvre forces a saving throw, the DC equals to 8 plus your Proficiency Bonus and Strength or Dexterity modifier (your choice). Each time you gain a level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
 
 ###### Three Superiority Die 
 
 You gain three :die-d4: d4 Superiority Die. This die is used to fuel your manoeuvres. A Superiority Die is expended when you use it. You regain your expended Superiority Dice when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 If you already have a pool of Superiority Dice, these dice are added to that pool. Their size matches the largest die in your pool, increasing to match if you have a feature that improves your Superiority Dice.
-
-<!--
-
----
-
-### Signature Weapon
-
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
-
-You specialise one weapon rather than many. Choose one Weapon that you are Proficient with to be your Signature Weapon. When you make an attack with that type of weapon, you gain the following benefit, you can change your Signature Weapon when you gain a level.
-
-###### Damage Die Increase The weapon's damage die that is in the Original Damage Die column changes to the die in the Signature Damage Die column.
-
-###### Improved Attack Roll When you make a weapon attack with the weapon, you can treat a roll equal to your Proficiency Bonus or lower on the d20 as your Proficiency Bonus.
-
-###### Mastery Property You can use the weapon Mastery property even if you don't have the class feature to do so. If you have a class feature that allows you to use it, the weapon can benefit from one extra eligible Mastery properties of your choice. (e.g, a Longsword can have both the Vex and Flex property)
-
-##### Signature Weapon Die
-
-<div class="grid" markdown>
-
-| Orginal Damage Die | Signature Damage Die |
-|:-:|:-:|
-| 1 | 1d4 |
-| 1d4 | 1d6 |
-| 1d6 | 1d8 |
-
-| Orginal Damage Die | Signature Damage Die |
-|:-:|:-:|
-| 2d4 / 1d8 | 1d10 |
-| 1d10 | 1d12 |
-| 2d6 / 1d12 | 2d6 + 1 |
-
-</div>
-
--->
 
 ---
 
@@ -112,7 +76,7 @@ Moreover, having the **Prone**{ .cond } condition doesn't impose **:d20-dis: Dis
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_{ .fg-light }
 
-When a creature within 10 feet of you makes an attack against a creature that you can see, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:d20-adv: Advantage**{ .d20 } on its attack roll. You must be carrying a banner, flag, holy symbol, or standard in your hand.
+When a creature within 15 feet of you makes an attack against a creature that you can see, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:d20-adv: Advantage**{ .d20 } on its attack roll. You must be carrying a banner, flag, holy symbol, or standard in your hand.
 
 ---
 
