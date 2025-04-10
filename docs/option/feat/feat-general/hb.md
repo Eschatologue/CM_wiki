@@ -152,7 +152,7 @@ You are considered to be one size larger to determine your [Carrying Capacity](.
 Whenever you make a Strength-based D20 Test, you can treat a roll of 7 or lower on the d20 as an 8.
 
 ###### Iron Grip
-Creatures with the same size as you and smaller has **:d20-dis: Disadvantage**{ .d20 } on the saving throw of escaping your Grapple.
+Creatures with the same size as you and smaller has **:d20-dis: Disadvantage**{.d20} on the saving throw of escaping your Grapple.
 
 ---
 
@@ -166,7 +166,7 @@ Your body has the ability to recover quickly from terrible injuries, and is unus
 Increase your Constitution score by 1, to a maximum of 20.
 
 ###### From the Brink 
-Once per Long Rest, when you would be reduced to 0 Hit Points, make a :d20-save: Constitution Saving Throw. The DC equals 10 or half the damage you take, whichever number is higher. On a successful save, you are reduced to 1 Hit Points instead.
+Once per Long Rest, when you would be reduced to 0 Hit Points, make a **:d20-save: CON Save**{.d20}. The DC equals 10 or half the damage you take, whichever number is higher. On a successful save, you are reduced to 1 Hit Points instead.
     
 ###### Fast Healing
 Whenever you regain Hit Points as a result of a spell, potion, or class feature (but not this feat), you regain additional Hit Points equal to your Constitution modifier (minimum of 1).
@@ -193,9 +193,12 @@ One of your spells with a duration of Concentration remain in effect after you u
 
 You gain the following benefits.
 
+###### Ability Score Increase
+Increase one Ability Score of your choice by 1, to a maximum of 20.
+
 ###### Lessons of Life
 
-You gain two [:option-feat-origin: Origin Feats] of your choice, all other rules related to gaining Feats still apply. Replacing this Feat will forgo all the [:option-feat-origin: Origin Feats] gained from this Feat.
+You gain two ^^different^^ [:option-feat-origin: Origin Feats] of your choice, all other rules related to gaining Feats still apply. Replacing this Feat will forgo all the [:option-feat-origin: Origin Feats] gained from this Feat.
 
 **Repeatable**{ .inl } You can take this feat more than once. Choose another two eligible Origin Feats each time. All other rules related to gaining Feats still apply.
 
@@ -235,10 +238,10 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 You increase your Dexterity by 1, up to a maximum of 20.
     
 ###### Dynamic Swordplay
-When you take the **:rsc-a: Attack**{ .rsc } action and attack with melee weapon that has the **:wp-prop-finesse: Finesse** property, you can choose to deal either **:dmg-slsh: Slashing**{ .dmg phys } or **:dmg-prcg: Piercing**{ .dmg phys }  damage.
+When you take the **:rsc-a: Attack**{.rsc} action and attack with melee weapon that has the **:wp-prop-finesse: Finesse**{.wp} property, you can choose to deal either **:dmg-slsh: Slashing**{.dmg-bps} or **:dmg-prcg: Piercing**{.dmg-bps} damage.
 
 ###### Fleuret
-The first creature you hit on your turn has **:d20-dis: Disadvantage**{ .d20 } on any attack against you until the start of your next turn.
+The first creature you hit on your turn has **:d20-dis: Disadvantage**{.d20} on any attack against you until the start of your next turn.
 
 ---
 
@@ -252,7 +255,7 @@ You've honed your ability to lob weaponry into the fray, including weapons not m
 Increase your Strength or Dexterity by 1, to a maximum of 20.
 
 ###### Throwable Weapons
-Simple and Martial melee weapons without the **:wp-prop-thrown: Thrown**{.wp} property have the **:wp-prop-thrown: Thrown**{.wp} property for you. One-handed weapons has **:wp-prop-thrown: Thrown (30/60)**{.wp}, while Two-handed weapons has **:wp-prop-thrown: Thrown (15/30)**{.wp}
+Simple and Martial melee weapons without the **:wp-prop-thrown: Thrown**{.wp} property have the **:wp-prop-thrown: Thrown**{.wp} property for you. One-handed weapons has **:wp-prop-thrown: Thrown (30/60)**{.wp}, while **:wp-prop-two-handed: Two-handed**{.wp} weapons has **:wp-prop-thrown: Thrown (15/30)**{.wp}
 
 ###### Improved Throw Range
 Weapons that already have the **:wp-prop-thrown: Thrown**{.wp} property has their range is increased by (+20/+40)
