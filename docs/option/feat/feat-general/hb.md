@@ -1,5 +1,5 @@
 ---
-title: Homebrew GeneralFeats
+title: "Homebrew General Feats"
 status: homebrew
 ---
 
@@ -71,8 +71,13 @@ You gain the following benefits.
 ###### Ability Score Increase  
 Increase your Strength score by 1, to a maximum of 20.
 
-###### All In  
-Before you make a melee attack with a **:wp-prop-heavy: Heavy**{.wp} weapon with no **:d20-dis: Disadvantage**{.d20}, you can choose to impose **:d20-dis: Disadvantage**{.d20} on the attack roll. If the attack hits, it deals extra damage equals to two times your Strength modifier. This attack will always has **:d20-dis: Disadvantage**{.d20}.
+###### All In
+You sacrifice accurary to land more powerful hits. Before you make a melee attack with a **:wp-prop-heavy: Heavy**{.wp} weapon with no **:d20-dis: Disadvantage**{.d20}, you can choose to impose **:d20-dis: Disadvantage**{.d20} on the attack roll. If the attack hits, it deals extra damage equals to two times your Strength modifier.
+
+<!---
+###### GWM: All In  2
+You sacrifice accurary to land more powerful hits. Before you make a melee attack with a **:wp-prop-heavy: Heavy**{.wp} weapon, you can choose to impose penalty on the attack roll up to your Strength Modifier. If the attack hits, it deals extra damage equals to two twice the imposed penalty.
+-->
 
 ###### Hew  
 Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a **:rsc-b: Bonus Action**{ .rsc }.
