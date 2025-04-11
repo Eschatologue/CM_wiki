@@ -1,0 +1,68 @@
+@use './typeset';
+@use '../utility/convert';
+@use '../palette/accent';
+
+/*------------------------------------------------------- 
+    Tables
+--------------------------------------------------------*/
+
+.md-typeset {
+    & table:not([class]) {
+        margin-bottom: convert.px2rem(-14px);
+        display: table;
+        border-color: transparent !important;
+
+        th,
+        td {
+            min-width: #{convert.px2em(2px)};
+        }
+
+        th {
+            text-transform: uppercase;
+            vertical-align: bottom;
+            font-size: var(--gbl-font-size);
+            font-weight: bold !important;
+            color: var(--md-text-color);
+            // border-bottom: #{convert.px2rem(2px)} solid var(--md-primary-fg-color--light);
+            padding: #{convert.px2em(8px)} #{convert.px2em(8px)};
+        }
+
+        td {
+            font-size: calc(var(--gbl-font-size) * 0.95);
+            border: #{convert.px2rem(0px)} transparent;
+            vertical-align: middle;
+            padding: #{convert.px2em(6px)} #{convert.px2em(8px)};
+
+            b,
+            strong {
+                font-weight: calc(var(--default-font-weight, 400) * 1.8); // Fallback for default weight
+            }
+        }
+
+        // Responsive adjustments for smaller screens
+        @media screen and (max-width: 720px) {
+            th {
+                font-size: calc(var(--gbl-font-size) * 0.9);
+            }
+
+            td {
+                font-size: calc(var(--gbl-font-size) * 0.8);
+            }
+        }
+
+        // Preserve striped rows
+        tbody tr {
+            &:nth-child(even) {
+                background-color: transparent !important;
+            }
+
+            &:nth-child(odd) {
+                background-color: var(--md-typeset-table-color--light) !important;
+            }
+        }
+    }
+
+    &__table {
+        width: 100%;
+    }
+}
