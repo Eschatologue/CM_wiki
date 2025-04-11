@@ -19,23 +19,28 @@ Blades who abandon their lives as entertainers have often run into trouble that 
 
 ### Level 3: Martial Training
 
-Your training in martial combat has granted you Medium Armour Training and proficiency with Melee weapons that has the :wp-prop-finesse: ^^Finesse^^ or :wp-prop-light: ^^Light^^ property. You can use those weapons as a spellcasting focus for your Bard spells.
+Your training in martial combat has granted you training with Medium Armour and proficiency with Melee weapons that has the **:wp-prop-finesse: Finesse**{.wp} or **:wp-prop-light: Light**{.wp} property (e.g. Estocs, Rapiers, Sabres, Shortswords, Scimitars). You can use those weapons as a spellcasting focus for your Bard spells.
 
 ### Level 3: Fighting Style
 
-You have honed your martial prowess and gain a Fighting Style feat of your choice (those feats have this feature as a prerequisite).
+You have honed your martial prowess and gain a [:option-feat-fighting: Fighting Style] feat of your choice (those feats have this feature as a prerequisite).
 
-Whenever you gain a Bard level, you can replace the feat you chose with a different Fighting Style feat.
+Whenever you gain a Bard level, you can replace the feat you chose with a different [:option-feat-fighting: Fighting Style] feat.
+
+[:option-feat-fighting: Fighting Style]: ../../option/feat/feat-fighting-style/index.md
 
 ### Level 3: Blade Flourish
 
 Whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.
 
-**Defensive Flourish**{ .inl } You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You also add the number rolled to your AC until the start of your next turn.
+**Defensive Flourish**<br>_Cost:`1 Bardic Die`_
+:   The attack deals additional damage equals to one roll of your Bardic Die. You also add the number rolled to your AC until the start of your next turn.
 
-**Slashing Flourish**{ .inl } You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit and to any number of other creatures of your choice that you can see within 5 feet of you. The damage equals the number you roll on the Bardic Inspiration die.
+**Slashing Flourish**<br>_Cost:`1 Bardic Die`_
+:   The attack deals additional damage equals to one roll of your Bardic Die. Moreover, each creature of your choice within 5 feet of you also take damage equals one roll of your Bardic Die.
 
-**Mobile Flourish**{ .inl } You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You can also push the target up to a number of feet equal to three times the number you roll on that die, rounded to the nearest 5 foot increment. You can then immediately take a **:rsc-r: Reaction**{ .rsc } to move up to your **:rsc-spd: Speed**{ .em } to an unoccupied space within 5 feet of the target.
+**Mobile Flourish**<br>_Cost:`1 Bardic Die`_
+:   The attack deals additional damage equals to one roll of your Bardic Die. You can also push the target up to a number of feet equal to three times the number you roll on that die, rounded to the nearest 5 foot increment. You can then immediately take a **:rsc-r: Reaction**{ .rsc } to move up to your **:rsc-spd: Speed**{ .em } to an unoccupied space within 5 feet of the target.
 
 ### Level 6: Extra Attack
 
@@ -57,5 +62,5 @@ Whenever you finish a **:rest-long: Long Rest**, you can change the kinds of wea
 
 Whenever you use a Blade Flourish option, you can roll a d6 and use it instead of expending a Bardic Inspiration die.
 
-:material-book-arrow-up: Updated by *Spaghetti0* 
+:material-book-arrow-up: Updated by *Eschatologue* 
 { .author }
