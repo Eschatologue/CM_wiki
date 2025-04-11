@@ -11,11 +11,9 @@ Turn Combat Mastery into a Performance.
 
 > *Turn Combat Mastery into a Performance*
 
-Bards of the College of Swords are called blades, and they entertain through daring feats of weapon prowess. Blades perform stunts such as sword swallowing, knife throwing and juggling, and mock combats. Though they use their weapons to entertain, they are also highly trained and skilled warriors in their own right.
+Bards of the College of Swords are called blades. They turn martial prowess into spectacle, captivating audiences with graceful duels, knife tricks, and theatrical combat. Their flair for performance hides deadly precision, making them as dangerous as they are dazzling.
 
-Their talent with weapons inspires many blades to lead double lives. One blade might use a circus troupe as cover for nefarious deeds such as assassination, robbery, and blackmail. Other blades strike at the wicked, bringing justice to bear against the cruel and powerful. Most troupes are happy to accept a blade's talent for the excitement it adds to a performance, but few entertainers fully trust a blade in their ranks.
-
-Blades who abandon their lives as entertainers have often run into trouble that makes maintaining their secret activities impossible. A blade caught stealing or engaging in vigilante justice is too great a liability for most troupes. With their weapon skills and magic, these blades either take up work as enforcers for thieves' guilds or strike out on their own as adventurers.
+Many blades walk a fine line between entertainer and operative. Some use their talents to fight injustice or pursue secret agendas, while others chase coin and chaos. Whether in the spotlight or the shadows, a blade is always performing.
 
 ### Level 3: Martial Training
 
@@ -34,13 +32,13 @@ Whenever you gain a Bard level, you can replace the feat you chose with a differ
 Whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. Each option costs 1 Bardic Die and you can use only one Blade Flourish option per attack.
 
 **Defensive Flourish**
-:   The attack deals additional damage equals to one roll of your Bardic Die. You also add the number rolled to your AC until the start of your next turn.
+:   The attack deals extra damage equals to one roll of your Bardic Die. You also add the number rolled to your AC until the start of your next turn.
 
 **Slashing Flourish**
-:   The attack deals additional damage equals to one roll of your Bardic Die. Moreover, each creature of your choice within 5 feet of you also take damage equals one roll of your Bardic Die.
+:   The attack deals extra damage equals to one roll of your Bardic Die. Moreover, each creature of your choice within 5 feet of you also take damage equals one roll of your Bardic Die.
 
 **Mobile Flourish**
-:   The attack deals additional damage equals to one roll of your Bardic Die. You can also push the target up to a number of feet equal to three times the number you roll on that die, rounded to the nearest 5 foot increment. You can then immediately take a **:rsc-r: Reaction**{ .rsc } to move up to your **:rsc-spd: Speed**{ .em } to an unoccupied space within 5 feet of the target.
+:   The attack deals extra damage equals to one roll of your Bardic Die. You can also push the target up to a number of feet equal to three times the number you roll on that die, rounded to the nearest 5 foot increment. You can then immediately take a move up to your **:rsc-spd: Speed**{ .em } to an unoccupied space within 5 feet of the target. This movement does not provoke **:rsc-r: Opp. Attack**{.rsc}.
 
 ### Level 6: Extra Attack
 
@@ -60,7 +58,7 @@ Whenever you finish a **:rest-long: Long Rest**, you can change the kinds of wea
 
 ### Level 14: Master's Flourish
 
-Whenever you use a Blade Flourish option, you can roll a d6 and use it instead of expending a Bardic Inspiration die.
+Whenever you use a Blade Flourish option, you can roll a d6 and use it instead of expending a Bardic Die. When you do, the Blade Flourishes uses the d6 instead of scaling with your Bardic Die.
 
 :material-book-arrow-up: Updated by *Eschatologue* 
 { .author }

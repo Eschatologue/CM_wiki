@@ -39,7 +39,6 @@ You have practiced new ways to use your Sneak Attack. The following effects are 
 **Awe** <br>_Cost: `3d6`_ 
 :   Each creature of your choice within 30 feet of you must succeed on a Wisdom saving throw or have the **Charmed**{ .cond } condition until the end of your next turn.
 
-
 ### Level 13: Dashing Strikes
 
 You have practiced new ways to use your Sneak Attack. The following effects are now among your Cunning Strike options.
