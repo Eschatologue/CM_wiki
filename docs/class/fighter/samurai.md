@@ -23,13 +23,11 @@ Your intensive training in battle grants you unparalleled focus. You gain a numb
 
 You can use the following effects using these points. A Fighting Spirit Point is expended upon use.
 
-**Precision**<br>_Cost: `1 Fs. Point(s)`_
+**Precision**<br>_'1 Fs. Point(s)`_
 :   When you make an attack, you can grant yourself **:d20-adv: Advantage**{ .d20 } on all your attacks until the start of your next turn. You also gain **(WIS mod. + Fighter Level/2) :trt-thp: Temporary Hit Points**. (minimum of 1). 
-{ .indt }
    
-**Counter**<br>_Cost: `1 Fs. Point(s)`_
+**Counter**<br>_`1 Fs. Point(s)`_
 :    When a creature you can see hit or misses you with an attack, you can take a **:rsc-r: Reaction**{ .rsc } to make a weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } against the triggering creature.
-{ .indt }
 
 ### Level 7: Elegant Courtier
 
