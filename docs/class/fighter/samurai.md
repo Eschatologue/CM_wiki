@@ -28,7 +28,7 @@ You can use Fighting Spirit a number of time equals to `1 plus your Wisdom modif
     You also gain **(WIS mod. + Fighter Level/2) :trt-thp: Temporary Hit Points**{.dmg-bps}. (minimum of 1). 
    
 **Fighting Spirit: Counter**
-:    When a creature you can see hit or misses you with an attack, you can take a **:rsc-r: Reaction**{ .rsc } to make a weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } against the triggering creature.
+:    When a creature you can see damages or misses you with an attack roll, you can take a **:rsc-r: Reaction**{ .rsc } to make a weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } against the triggering creature.
 
 ### Level 7: Elegant Courtier
 
