@@ -31,15 +31,15 @@ Whenever you gain a Bard level, you can replace the feat you chose with a differ
 
 ### Level 3: Blade Flourish
 
-Whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. You can use only one Blade Flourish option per turn.
+Whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn, your walking speed increases by 10 feet until the end of the turn, and if a weapon attack that you make as part of this action hits a creature, you can use one of the following Blade Flourish options of your choice. Each option costs 1 Bardic Die and you can use only one Blade Flourish option per attack.
 
-**Defensive Flourish**<br>_Cost:`1 Bardic Die`_
+**Defensive Flourish**
 :   The attack deals additional damage equals to one roll of your Bardic Die. You also add the number rolled to your AC until the start of your next turn.
 
-**Slashing Flourish**<br>_Cost:`1 Bardic Die`_
+**Slashing Flourish**
 :   The attack deals additional damage equals to one roll of your Bardic Die. Moreover, each creature of your choice within 5 feet of you also take damage equals one roll of your Bardic Die.
 
-**Mobile Flourish**<br>_Cost:`1 Bardic Die`_
+**Mobile Flourish**
 :   The attack deals additional damage equals to one roll of your Bardic Die. You can also push the target up to a number of feet equal to three times the number you roll on that die, rounded to the nearest 5 foot increment. You can then immediately take a **:rsc-r: Reaction**{ .rsc } to move up to your **:rsc-spd: Speed**{ .em } to an unoccupied space within 5 feet of the target.
 
 ### Level 6: Extra Attack
