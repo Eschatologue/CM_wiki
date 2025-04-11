@@ -1,4 +1,5 @@
 ---
+title: "Ichimaru Masaki Gimmick"
 search:
   exclude: true
 ---
