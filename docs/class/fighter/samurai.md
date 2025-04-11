@@ -19,14 +19,15 @@ You gain a set of Calligrapher's Tools and you have proficiency in it and two of
 
 ### Level 3: Fighting Spirit
 
-Your intensive training in battle grants you unparalleled focus. You gain a number of Fighting Spirit Points equals to `1 + your Wisdom modifier` (minimum of 1). You regain 1 Point(s) at the end of a **:rest-short: Short Rest**, and all expended Point(s) at the end of a **:rest-long: Long Rest**. 
+Your intensive training in battle grants you unparalleled focus. You gain the ability to use one of the following effects described below. Each time you use a Fighting Spirit, you choose which effect from among those you have from this subclass.
 
-You can use the following effects using these points. A Fighting Spirit Point is expended upon use.
+You can use Fighting Spirit a number of time equals to `1 plus your Wisdom modifier`. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
-**Precision**<br>_'1 Fs. Point(s)`_
-:   When you make an attack, you can grant yourself **:d20-adv: Advantage**{ .d20 } on all your attacks until the start of your next turn. You also gain **(WIS mod. + Fighter Level/2) :trt-thp: Temporary Hit Points**. (minimum of 1). 
+**Fighting Spirit: Precision**
+:   When you make an attack, you can grant yourself **:d20-adv: Advantage**{ .d20 } on all your attacks until the start of your next turn.  
+    You also gain **(WIS mod. + Fighter Level/2) :trt-thp: Temporary Hit Points**{.dmg-bps}. (minimum of 1). 
    
-**Counter**<br>_`1 Fs. Point(s)`_
+**Fighting Spirit: Counter**
 :    When a creature you can see hit or misses you with an attack, you can take a **:rsc-r: Reaction**{ .rsc } to make a weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } against the triggering creature.
 
 ### Level 7: Elegant Courtier
