@@ -27,7 +27,7 @@ You can use Fighting Spirit a number of time equals to `1 plus your Wisdom modif
 :   When you make an attack, you can grant yourself **:d20-adv: Advantage**{ .d20 } on all your attacks until the start of your next turn.  
    
 **Fighting Spirit: Counter**
-:    When a creature you can see damages or misses you with an attack roll, you can take a **:rsc-r: Reaction**{ .rsc } to make a weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } against the triggering creature.
+:    When a creature you can see damages or misses you with after an attack roll, you can make an **:rsc-r: Opp. Attack**{.rsc} against it.
 
 ### Level 7: Elegant Courtier
 
