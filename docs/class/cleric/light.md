@@ -30,7 +30,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### Level 3: Radiance of Dawn
 
-As a **:rsc-a: Magic**{ .rsc } action, you present your Holy Symbol and expend a use of your **:ui-chdiv-cleric: Channel Divinity**{ .em } to emit sunlight in a 30-foot-radius sphere centered on yourself. Any magical darkness-such as that created by the Darkness spell—in the sphere is dispelled. Additionally, each creature of your choice in the sphere must make a Constitution saving throw, taking Radiant damage equal to 2d10 + your Cleric level on a failed save, or half as much damage on a successful one.
+As a **:rsc-a: Magic**{ .rsc } action, you present your Holy Symbol and expend a use of your **:ui-chdiv-cleric: Channel Divinity**{ .em } to emit sunlight in a **30-foot-radius :aoe-sphere: Sphere** centered on yourself. Any magical darkness-such as that created by the Darkness spell—in the sphere is dispelled. Additionally, each creature of your choice in the sphere must make a Constitution saving throw, taking **2d10 + Cleric level :dmg-radi: Radiant**{.dmg-radi} damage on a failed save, or half as much damage on a successful one.
 
 ### Level 3: Warding Flare
 

@@ -34,15 +34,19 @@ You gain the ability to imbue magic into a weapon or armour.
 
 **Bonus Proficiency**{ .inl } You gain a set of Smith's Tools and have proficiency with it.
 
-**Blessed Smithing**{ .inl } At the end of a **:rest-long: Long Rest**, you can touch one nonmagical object that is a suit of armour or a weapon. Until the end of your next Long Rest or until you die, the object becomes a magical, granting a +1 bonus to AC if it's armour or a +1 bonus to attack and damage rolls if it's a weapon. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**.
+**Blessed Smithing**{ .inl } At the end of a **:rest-long: Long Rest**, you can touch one object that is a suit of armour or a weapon. Until the end of your next **:rest-long: Long Rest** or until you die, the object becomes a magical, granting a +1 bonus to AC if it's armour or a +1 bonus to attack and damage rolls if it's a weapon, this bonus doesn't apply if the object already has higher innate bonus. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**.
 
 ### Level 3: Artisan's Blessing
 
-You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to create nonmagical metal items. Over an hour, you conduct a ritual to craft a metal-based item, such as a weapon, armour, ten pieces of ammunition, a set of tools, or another object containing metal. The item appears in an unoccupied space within 5 feet of you and cannot be worth more than 1.000 SP. To create it, you must provide metal of equal value, which can include coins, which is consumed during the ritual. You can even create a copy of a nonmagical metal item, like a key, if you have the original.
+You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to create nonmagical metal items. 
+
+Over an hour, you conduct a ritual to craft a metal-based item, such as a weapon, armour, ten pieces of ammunition, a set of tools, or another object containing metal. The item appears in an unoccupied space within 5 feet of you and cannot be worth more than 1.000 SP. To create it, you must provide metal of equal value, which can include coins, which is consumed during the ritual. You can even create a copy of a nonmagical metal item, like a key, if you have the original.
 
 ### Level 6: Soul of the Forge
 
 Your mastery of the forge grants you special abilities. You have **:dmg-res: Resistance**{ .em } to **:dmg-fire: Fire**{.dmg-fire} damage and while wearing metal armour, you have a +1 bonus to your Armour Class.
+
+Moreover, the bonus you gain for objects imbued by your Blessed Smithing feature increases to +2.
 
 ### Level 7: Burning Smite (Optional)
 

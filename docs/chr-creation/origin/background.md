@@ -56,7 +56,7 @@ Mechanically, your background contains six plus one aspects detailed as follow, 
 
 ### Backstory
 
-Not to be confused with Backgrounds, a Backstory is the actual story that your character experienced before the present. Who are they? Where were they born? What inspires them to take up the adventuring way of life? What is the background reason for your character being in a certain class? The backstory can be as simple or as elaborate as you like, but please keep it grounded under the [Three Core Principles](../../create-your-character.md#the-core-principles).
+Not to be confused with Backgrounds, a Backstory is the actual story that your character experienced before the present. Who are they? Where were they born? What inspires them to take up the adventuring way of life? What is the background reason for your character being in a certain class? The backstory can be as simple or as elaborate as you like, but please keep it grounded under the [Three Core Principles](../create-your-character.md#the-core-principles).
 
 This [article](https://5e.tools/book.html#XGE,1,this%20is%20your%20life,0) provides a good example of how to construct your backstory.
 
