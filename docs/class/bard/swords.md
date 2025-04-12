@@ -38,7 +38,7 @@ Whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn, your walki
 :   The attack deals extra damage equals to one roll of your Bardic Die. Moreover, each creature of your choice within 5 feet of you also take damage equals one roll of your Bardic Die.
 
 **Mobile Flourish**
-:   The attack deals extra damage equals to one roll of your Bardic Die. You can also push the target up to a number of feet equal to three times the number you roll on that die, rounded to the nearest 5 foot increment. You can then immediately take a move up to your **:rsc-spd: Speed**{ .em } to an unoccupied space within 5 feet of the target. This movement does not provoke **:rsc-r: Opportunity Attack**{.rsc}.
+:   The attack deals extra damage equals to one roll of your Bardic Die. You can also push the target up to a number of feet equal to three times the number you roll on that die, rounded to the nearest 5 foot increment. You can then immediately Teleport to an unoccupied space within 5 feet of the target.
 
 ### Level 6: Extra Attack
 
