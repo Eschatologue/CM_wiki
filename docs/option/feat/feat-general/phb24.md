@@ -502,10 +502,10 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 ###### Guardian  
-Immediately after a creature within 5 feet of you takes the **:rsc-a: Disengage**{.rsc} action or hits a target other than you with an attack, you can make an **:rsc-r: Opp. Attack**{.rsc} against that creature.
+Immediately after a creature within 5 feet of you takes the **:rsc-a: Disengage**{.rsc} action or hits a target other than you with an attack, you can make an **:rsc-r: Opportunity Attack**{.rsc} against that creature.
 
 ###### Halt  
-When you hit a creature with an **:rsc-r: Opp. Attack**{.rsc}, the creature's Speed becomes 0 for the rest of the current turn.
+When you hit a creature with an **:rsc-r: Opportunity Attack**{.rsc}, the creature's **:rsc-spd: Speed** becomes 0 for the rest of the current turn.
 
 ---
 
@@ -621,13 +621,13 @@ You gain the following benefits.
 Increase your Dexterity or Constitution score by 1, to a maximum of 20.
 
 ###### Speed Increase  
-Your **:rsc-spd: Speed**{ .em } increases by 10 feet.
+Your **:rsc-spd: Speed** increases by 10 feet.
 
 ###### Dash Over Difficult Terrain  
-When you take the Dash action on your turn, Difficult Terrain doesn't cost you extra Movement for the rest of that turn.
+When you take the **:rsc-a: Dash**{.rsc} action on your turn, Difficult Terrain doesn't cost you extra Movement for the rest of that turn.
 
 ###### Agile Movement  
-Opportunity Attacks have **:d20-dis: Disadvantage**{ .d20 } against you.
+Opportunity Attacks have **:d20-dis: Disadvantage**{.d20} against you.
 
 ---
 
@@ -698,7 +698,7 @@ Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 You have **:d20-adv: Advantage**{ .d20 } on **:d20-save: Constitution saving throws**{ .d20 } that you make to maintain your **:spell-conc: Concentration**.
 
 ###### Reactive Spell  
-When a creature provokes an Opportunity Attack from you by leaving your reach, you can take a **:rsc-r: Reaction**{ .rsc } to cast a spell at the creature, rather than making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.
+When a creature provokes an Opportunity Attack from you by leaving your reach, you can take a **:rsc-r: Reaction**{ .rsc } to cast a spell at the creature, rather than making an **:rsc-r: Opportunity Attack**{.rsc}. The spell must have a casting time of one action and must target only that creature.
 
 ###### Somatic Components   
 You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands.

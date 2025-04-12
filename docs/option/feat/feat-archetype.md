@@ -38,7 +38,7 @@ You gain one [:option-feat-fighting: Fighting Style Feat] of your choice, the on
 
 You gain ^^one^^ additional [:option-feat-fighting: Fighting Style Feat] for free when you reach certain Fighter level: 12 (2 total) and 18 (3 total).
 
-[:option-feat-fighting: Fighting Style Feat]: ../feat-fighting-style/index.md
+[:option-feat-fighting: Fighting Style Feat]: ../feat/feat-fighting-style/index.md
 
 ---
 

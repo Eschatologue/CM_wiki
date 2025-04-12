@@ -30,7 +30,7 @@ You gain the following benefits.
 Increase one ability score of your choice by 1, to a maximum of 30.
 
 ###### Blink Steps
-Immediately after you take the **:rsc-a: Attack**{ .rsc } action or the **:rsc-a: Magic**{ .rsc } action, you can teleport up to 30 feet to an unoccupied space you can see.
+Immediately after you take the **:rsc-a: Attack**{.rsc} action or the **:rsc-a: Magic**{.rsc} action, you can teleport up to 30 feet to an unoccupied space you can see.
 
 ---
 
@@ -44,10 +44,10 @@ You gain the following benefits.
 Increase one ability score of your choice by 1, to a maximum of 30.
 
 ###### Energy Resistances
-You gain Resistance to two of the following damage types of your choice: Acid, Cold, Fire, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder. Whenever you finish a **:rest-long: Long Rest**, you can change your choices.
+You gain **:dmg-res: Resistance** to two of the following damage types of your choice: **:dmg-acid: Acid**{.dmg-acid}, **:dmg-cold: Cold**{.dmg-cold}, **:dmg-fire: Fire**{.dmg-fire}, **:dmg-lgtn: Lightning**{.dmg-lgtn}, **:dmg-posn: Necrotic**{.dmg-necr}, **:dmg-posn: Poison**{.dmg-posn}, **:dmg-psyc: Psychic**{.dmg-psyc}, **:dmg-radi: Radiant**{.dmg-radi}, or **:dmg-thun: Thunder**{.dmg-thun}. Whenever you finish a **:rest-long: Long Rest**, you can change your choices.
 
 ###### Energy Redirection
-When you take damage of one of the types chosen for the Energy Resistances benefit, you can take a **:rsc-r: Reaction**{ .rsc } to direct damage of the same type toward another creature you can see within 60 feet of yourself that isn't behind Total Cover. If you do so, that creature must succeed on a Dexterity saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus) or take damage equal to 2d12 plus your Constitution modifier.
+When you take damage of one of the types chosen for the Energy Resistances benefit, you can take a **:rsc-r: Reaction**{ .rsc } to direct damage of the same type toward another creature you can see within 60 feet of yourself that isn't behind Total Cover. If you do so, that creature must succeed on a :d20-save: Dexterity saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus) or take damage equal to 2d12 plus your Constitution modifier.
 
 ---
 

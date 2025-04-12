@@ -21,8 +21,8 @@
 
     // Base values
     --base-font-size: #{convert.px2rem(16px)};
-    --scale-small: 0.8125;
-    --scale-table: 0.9;
+    --scale-small: 0.75; // Used for Mobiles
+    --scale-table: 0.9; // Used for Tables
 
     // Default font size initially equals the base size
     --default-font-size: var(--base-font-size);

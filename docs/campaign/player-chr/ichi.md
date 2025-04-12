@@ -16,7 +16,9 @@ Will you master the Void, or will it master you?
 
 ### Level 3: Blitzing Strike
 
-Your connection to the Void allows you to manifest spatial anomalies. When you take the **:rsc-a: Attack**{ .rsc } action, you can Teleport up to 10 feet to an unoccupied space you can see before each attack. 
+*Your connection to the Void allows you to exploit Antares' inherent spatial anomalies.*
+
+When you attack as part of the **:rsc-a: Attack**{ .rsc } action, you can Teleport up to 10 feet to an unoccupied space you can see. You can choose to Teleport either before or after the attack. You can only teleport once per attack. 
 
 ### Level 3: Extraplanar Hunter
 

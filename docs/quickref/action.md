@@ -31,7 +31,7 @@ search:
 
     :   #### DISENGAGE :rsc-a:{ title="requires Action" }
     
-        Your Movement doesn't provoke **:rsc-r: Opp. Attack**{ .rsc } for the rest of the turn.
+        Your Movement doesn't provoke **:rsc-r: Opportunity Attack**{ .rsc } for the rest of the turn.
 
     :material-arrow-expand:{.x3l}
 
