@@ -844,7 +844,7 @@ table:not([class]) .smallcap {
 .md-typeset {
   --default-font-weight: 400;
   --base-font-size: 0.8rem;
-  --scale-small: 0.8125;
+  --scale-small: 0.75;
   --scale-table: 0.9;
   --default-font-size: var(--base-font-size);
   --gbl-font-size: var(--default-font-size);
