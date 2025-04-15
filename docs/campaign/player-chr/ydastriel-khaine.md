@@ -50,7 +50,7 @@ You can use this feature **twice**. You regain one expended use when you finish 
     :   When you restore **:trt-hp: Hit Points** to a creature using the Chalice Form feature, any **:trt-hp: Hit Points** that exceeds the target's HP becomes **:trt-thp: Temporary Hit Points**.
     
     **Warding Aura** <br>_Dragon_
-    :   While **:spell-conc: Concentrating** on a Druid spell, all allies within 10 feet of you gain the benefit of Half Cover.
+    :   While **:spell-conc: Concentrating** on a Druid spell, each creature that you choose within 10 feet of you gain the benefit of Half Cover.
     
 === "Resonance of Judgement – Locked"
 
@@ -65,8 +65,16 @@ You can use this feature **twice**. You regain one expended use when you finish 
     **Judgement's Overture** <br>_Dragon_
     :   While **:spell-conc: Concentrating** on a Druid spell, if the total damage roll of one of your attacks is lower than your Proficiency Bonus, you can treat the damage as equal to your Proficiency Bonus.
 
-
 <!---
+
+=== "Resonance of Harmony – Locked"
+
+    The power of the Harmony is in your hands, the fate of the elves is your will. 
+    
+    So long your Starry Form is active, you know the **:spell-lv5: Dominate Person** spell and can cast it without expending a spell slot a number of times equals to half your Proficiency Bonus. Elves always has **:d20-dis: Disadvantage** on this spell's Saving Throw regardless of circumstances.
+
+
+
 
 #### Resonance of Enlightenment – Locked
 
