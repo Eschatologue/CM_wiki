@@ -22,7 +22,7 @@ When you attack as part of the **:rsc-a: Attack**{ .rsc } action, you can Telepo
 
 ### Level 3: Extraplanar Hunter
 
-The number you need to roll for a Critical Hit against Aberration, Celestial, Elemental, Fey, and Fiend is reduced by **1**{ title="Critical Hit on 19-20" } for attack rolls with weapons or **:rsc-a: Unarmed Strike**{ .rsc }. This effect can stack with other sources of Critical Hit reduction. This number increases at level 7 (**2**{ title="Critical Hit on 18-20" }), and again at level 15 (**3**{ title="Critical Hit on 17-20" }).
+The number you need to roll for a Critical Hit against Aberration, Monstrosities, and Fiend is reduced by **1**{ title="Critical Hit on 19-20" } for attack rolls with weapons or **:rsc-a: Unarmed Strike**{ .rsc }. This effect can stack with other sources of Critical Hit reduction. This number increases at level 7 (**2**{ title="Critical Hit on 18-20" }), and again at level 15 (**3**{ title="Critical Hit on 17-20" }).
 
 ### Level 7: Void Adept
 
