@@ -36,7 +36,7 @@ You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 When a creature you can see cast a spell or attempt to Teleport while within 60 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to force the target to make a **:d20-save: CON Save**{ .d20 } against your Cunning Strike DC. On a failed save, it takes **(Sneak Attack) :dmg-force: Force**{ .dmg-force } damage and its spell or Teleport fails. On a successful save, the target only takes half damage.
 
-You can use this **:rsc-r: Reaction**{ .rsc } a number of times up to your Charisma modifier. You regain all expended uses when you finish a **:rest-long: Long Rest**.
+You can use this **:rsc-r: Reaction**{ .rsc } a number of times up to your Proficiency Bonus. You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 5: Dekrat's Special:material-trademark:
 
