@@ -75,7 +75,7 @@ Whenever you finish a **:rest-long: Long Rest**, you can consult your Star Map f
 **:rsc-r: Woe (odd)**{ .inl } Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and subtract the number rolled from the total.
 { .indt }
 
-You can use use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Wisdom modifier (minimum of once),, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+You can use use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 10: Twinkling Constellations
 

@@ -71,9 +71,18 @@ You can use this feature **twice**. You regain one expended use when you finish 
 
     The power of the Harmony is in your hands, the fate of the elves is your will. 
     
-    So long your Starry Form is active, you know the **:spell-lv5: Dominate Person** spell and can cast it without expending a spell slot a number of times equals to half your Proficiency Bonus. Elves always has **:d20-dis: Disadvantage** on this spell's Saving Throw regardless of circumstances.
+    So long your Starry Form is active, you can cast **:spell-lv5: Dominate Person** spell without expending a spell slot a number of times equals to half your Proficiency Bonus. You regain all expended use on a **:rest-long: Long Rest**. The Duration of which you can Concentrate on this spells matches the Duration of your Starry Form feature.
+    
+    When the spell is cast this way, Elves can't benefit from the *Fey Ancestry* trait for the purpose to gain **:d20-adv: Advantage**{.d20}.
 
+    **Whip of Obedience** <br>_Archer_
+    :   When you hit a target that has the **Charmed**{.cond} condition inflicted by **:spell-lv5: Dominate Person** with your Archer Form's **:rsc-b: Bonus Action**{ .rsc } attack, it deals extra damage equals to your Proficiency Bonus and the target makes the spell's Saving Throw with a **:d20-dis: Disadvantage**{.d20}.
 
+    **Distribution of Vitality** <br>_Chalice_
+    :   As a **:rsc-a: Magic** action, you can distribute the vitality of the target that has the **Charmed**{.cond} condition inflicted by **:spell-lv5: Dominate Person**. The creature takes **2d8 + Wisdom modifier :dmg-necr: Necrotic**{.dmg-necr} damage (ignores Resistance) and you distribute the damage dealt as healing to creatures of your choice within 30 feet of the **Charmed**{.cond} target however you like.
+
+    **Flesh to Conduit** <br>_Dragon_
+    :   While **:spell-conc: Concentrating** on **:spell-lv5: Dominate Person**, you can cast Druid spells as though you were in the **Charmed**{.cond} target space, using its senses.
 
 
 #### Resonance of Enlightenment – Locked
