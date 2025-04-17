@@ -81,15 +81,19 @@ You can use use this **:rsc-r: Reaction**{ .rsc } a number of times equal to you
 
 ### Level 10: Twinkling Constellations
 
-The constellations of your Starry Form improves. 
+You are more closely attuned to the cosmic forces, giving you the following benefits.
 
-The 1d8 of the *Archer* and the *Chalice* becomes 2d8, and while the *Dragon* is active, you have a Fly Speed of 20 feet and can hover.
+**Starry Form Improvements**{.inl} The constellations of your Starry Form improves.
 
-Moreover, at the start of each of your turns while in your Starry Form, you can change which constellation glimmers on your body.
+- _**Archer.**_ You can make two Ranged spell attack instead of once when making your Archer Form's **:rsc-b: Bonus Action**{ .rsc } attack.
+- _**Chalice.**_ You can choose two targets instead of one to receive **:trt-hp: Hit Points** from **Chalice Healing**.
+- _**Dragon.**_ You have a Fly Speed of 20 feet and can hover.
+
+**Swift Attunement**{.inl} At the start of each of your turns while in your Starry Form, you can change which constellation glimmers on your body.
 
 ### Level 14: Full of Stars
 
-While in your Starry Form, you become partially incorporeal, giving you **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**{.bps}, **:dmg-prcg: Piercing**{.bps}, and **:dmg-slsh: Slashing**{.bps} damage.
+While in your Starry Form, you become partially incorporeal, giving you **:dmg-res: Resistance** to **:dmg-bldg: Bludgeoning**{.dmg-bps}, **:dmg-prcg: Piercing**{.dmg-bps}, and **:dmg-slsh: Slashing**{.dmg-bps} damage.
 
 ### Level 14: Star Flare
 
