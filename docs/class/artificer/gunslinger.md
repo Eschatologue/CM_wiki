@@ -111,69 +111,32 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
 :   Your Arcane Firearm is crafted so you can adjust it on the fly. You can spend 10 minutes using Smith's Tools to replace one of your Arcane Firearm's Upgrades with another Upgrade that you meet the prerequisites for. You can do so during a **:rest-short: Short Rest**.
 
-    ---
+**Blinding Rounds**<br>_Level 5+ Artificer_
 
-=== "Level 5+ Artificer"
+:   Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: CON Save**{ .d20 }. On a failure, it has the Blinded condition until the start of your next turn.
 
-    ---
+**Concussive Rounds**<br>_Level 5+ Artificer_
 
-    #### Blinding Rounds
+:   Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: CON Save**{ .d20 }. On a failure, the target cannot take reactions, and its Speed is halved until the beginning of your next turn.
 
-    _**Prerequisite:** Level 5+ Artificer_
+**Explosive Rounds**<br>_Level 5+ Artificer_
 
-    Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: Constitution saving throw**{ .d20 }. On a failure, it has the Blinded condition until the start of your next turn.
+:   Once per turn when you hit a target with an Arcane Firearm attack, you can force all creatures within 5 feet of it to make a **:d20-save: DEX Save**{ .d20 }. On a failed save, they take damage as if they had also been hit by your Arcane Firearm attack.
 
-    ---
+**Incapacitating Rounds**<br>_Level 9+ Artificer_
 
-    #### Concussive Rounds
+:   Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: STR Save**{ .d20 }. On a failed save, it has the **Incapacitated**{.cond} condition until the start of your next turn, or until it takes damage or is forced to make a saving throw.
 
-    _**Prerequisite:** Level 5+ Artificer_
+    Large and larger creatures have **:d20-adv: Advantage**{ .d20 } on the **:d20-save: STR Save**{ .d20 } to resist the effects of this Upgrade.
 
-    Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: Constitution saving throw**{ .d20 }. On a failure, the target cannot take reactions, and its Speed is halved until the beginning of your next turn.
+**Arcane Railgun**<br>_Level 15+ Artificer_
 
-    ---
+:   Once on your turn in place of making an Arcane Firearm attack, you can force creatures in a **60-foot :aoe-line: Line** originating from your Arcane Firearm to make a **:d20-save: DEX Save**{ .d20 }. Targets take **4d6 :dmg-force: Force**{ .dmg-force } damage on a failed save, and half as much on a successful save.
 
-    #### Explosive Rounds
+**Independent Turret**<br>_Level 15+ Artificer_
 
-    _**Prerequisite:** Level 5+ Artificer_
+:   As a **:rsc-a: Magic**{ .rsc } action, you can set your Arcane Firearm up as a turret in an unoccupied 5-foot space. While you are within 120 feet of your Arcane Firearm, you can use a **:rsc-b: Bonus Action**{ .rsc } to cause your Arcane Firearm to make an attack, or use another one of its abilities, targeting a creature you can see in its range.
 
-    Once per turn when you hit a target with an Arcane Firearm attack, you can force all creatures within 5 feet of it to make a **:d20-save: DEX Save**{ .d20 }. On a failed save, they take damage as if they had also been hit by your Arcane Firearm attack.
-
-    ---
-
-=== "Level 9+ Artificer"
-
-    ---
-
-    #### Incapacitating Rounds
-
-    _**Prerequisite:** Level 9+ Artificer_
-
-    Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: Strength saving throw**{ .d20 }. On a failed save, it has the Incapacitated condition until the start of your next turn, or until it takes damage or is forced to make a saving throw.
-
-    Large and larger creatures have **:d20-adv: Advantage**{ .d20 } on the **:d20-save: Strength saving throw**{ .d20 } to resist the effects of this Upgrade.
-
-    ---
-
-=== "Level 15+ Artificer"
-
-    ---
-
-    #### Arcane Railgun
-
-    _**Prerequisite:** Level 15+ Artificer_
-
-    Once on your turn in place of making an Arcane Firearm attack, you can force creatures in a **60-foot :aoe-line: Line** originating from your Arcane Firearm to make a **:d20-save: DEX Save**{ .d20 }. Targets take **4d6 :dmg-force: Force**{ .dmg-force } damage on a failed save, and half as much on a successful save.
-
-    ---
-
-    #### Independent Turret
-
-    _**Prerequisite:** Level 15+ Artificer_
-
-    As a **:rsc-a: Magic**{ .rsc } action, you can set your Arcane Firearm up as a turret in an unoccupied 5-foot space. While you are within 120 feet of your Arcane Firearm, you can use a **:rsc-b: Bonus Action**{ .rsc } to cause your Arcane Firearm to make an attack, or use another one of its abilities, targeting a creature you can see in its range.
-
-    ---
 
 :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
 { .quote }
