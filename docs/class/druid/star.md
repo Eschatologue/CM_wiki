@@ -43,7 +43,7 @@ If you lose the map, you can perform a 1-hour ceremony to magically create a rep
 As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a use of your **:material-paw: Wild Shape** feature to take on a starry form, rather than shape shifting.
 
 While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart.  
-This form sheds Bright Light in a 10-foot radius and Dim Light for an additional **10 feet**. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), have the **Incapacitated**{ .cond } condition, or use this feature again.
+This form sheds Bright Light in a 10-foot radius and Dim Light for an additional **10 feet**. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), have the **Incapacitated**{.cond} condition, or use this feature again.
 
 Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form.
 
@@ -51,7 +51,7 @@ Whenever you assume your starry form, choose which of the following constellatio
 
 :   A constellation of an archer appears on you. You gain the following benefits.
 
-    **Luminous Arrow**{ .inl } When you activate this form, and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns while it lasts, you can make a Ranged Spell Attack, hurling a Luminous Arrow that targets one creature within **60 feet** of you. On a hit, the attack deals **1d8 + Wisdom modifier :dmg-radi: Radiant**{ .dmg-radi } damage.
+    **Luminous Arrow**{ .inl } When you activate this form, and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns while it lasts, you can make a Ranged Spell Attack, hurling a Luminous Arrow that targets one creature within **60 feet** of you. On a hit, the attack deals **(1d8 + Wisdom modifier) :dmg-radi: Radiant**{ .dmg-radi } damage.
 
 **Chalice**
 
@@ -89,7 +89,7 @@ Moreover, at the start of each of your turns while in your Starry Form, you can 
 
 ### Level 14: Full of Stars
 
-While in your Starry Form, you become partially incorporeal, giving you **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**, **:dmg-prcg: Piercing**, and **:dmg-slsh: Slashing** damage.
+While in your Starry Form, you become partially incorporeal, giving you **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**{.bps}, **:dmg-prcg: Piercing**{.bps}, and **:dmg-slsh: Slashing**{.bps} damage.
 
 ### Level 14: Star Flare
 

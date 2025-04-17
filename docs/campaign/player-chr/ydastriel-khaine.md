@@ -57,13 +57,13 @@ You can use this feature **twice**. You regain one expended use when you finish 
     You are filled with an insatiable thirst to condemn the guilty. The Judgement Resonance grants you the following benefit for your Starry Form Constellations.
 
     **Fist of Conviction** <br>_Archer_
-    :   You gain a bonus to your AC equal to your Proficiency Bonus so long you are not wearing Medium or Heavy Armour or using a Shield. Additionally, as a **:rsc-a: Magic**{ .rsc } action, you can make a Melee spell attack using your Archer Form's attack. <br>At Druid level 6, this Melee spell attack confers two attacks. 
+    :   You gain a bonus to your AC equal to your Proficiency Bonus so long you are not wearing Medium or Heavy Armour or using a Shield. Additionally, as a **:rsc-a: Magic**{ .rsc } action, you can make a Melee spell attack using dealing **(1d10 + Wisdom modifier) :dmg-radi: Radiant**{.dmg-radi} damage. <br>At Druid level 6, this Melee spell attack confers two attacks. 
 
-    **Forgotten Vessel** <br>_Chalice_
-    :   Once per turn, when you restore **:trt-hp: Hit Points** to a creature using the Chalice Form feature, it gains a bonus to its next D20 Test equal to your Proficiency Bonus.
+    **Guiding Vessel** <br>_Chalice_
+    :   Once per turn, when you restore **:trt-hp: Hit Points** to a creature using the Chalice Form feature, it gains a 1d4 bonus to its next D20 Test.
 
     **Judgement's Overture** <br>_Dragon_
-    :   While **:spell-conc: Concentrating** on a Druid spell, if the total damage roll of one of your attacks is lower than your Proficiency Bonus, you can treat the damage as equal to your Proficiency Bonus.
+    :   While **:spell-conc: Concentrating** on a Druid spell, if the ^^total^^ damage roll of one of your attacks or spells is lower than your Proficiency Bonus, you can treat the damage as equal to your Proficiency Bonus.
 
 <!---
 
