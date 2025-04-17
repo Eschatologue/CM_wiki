@@ -50,8 +50,8 @@ Your groundbreaking research has led to the development of your signature Arcane
 | Trait | Details |
 |---|---|
 | **Weapon Category** | Simple Ranged |
-| **Base Damage** | **1d10 + Ability Modifier :dmg-force: Force**{ .dmg-force .calc } |
-| **Properties** | :wp-prop-reload: Reload (6), :wp-prop-range: Ranged (80/320) | 
+| **Base Damage** | **1d10 + Ability Modifier :dmg-force: Force**{ .dmg-force } |
+| **Properties** | **:wp-prop-reload: Reload (6)**{.wp}, **:wp-prop-range: Ranged (80/320)**{.wp} | 
 
 At certain Artificer levels, your Arcane Firearm gains more Upgrades: at level 5 (3), 10 (4), and 15 (5)
 
@@ -69,7 +69,7 @@ This bonus damage is 2d6 for a level 1 spell slot and it increases by 1d6 for ea
 
 ### Level 9: Quickdraw
 
-You always seem to shoot first. You can add your Intelligence modifier (minimum of +1) to your **:d20-inv: Initiative**{.d20 } rolls. Also, if you roll **:d20-inv: Initiative**{.d20 } and don't have the ^^Surprised^^ or the **Incapacitated**{ .cond } conditon, you can use a **:rsc-r: Reaction**{ .rsc } to make one attack with your Arcane Firearm.
+You always seem to shoot first. You can add your Intelligence modifier (minimum of +1) to your **:d20-inv: Initiative**{.d20 } rolls. Also, if you roll **:d20-inv: Initiative**{.d20 } and don't have the **Surprised**{.cond} or the **Incapacitated**{.cond} conditon, you can use a **:rsc-r: Reaction**{ .rsc } to make one attack with your Arcane Firearm.
 
 ### Level 15: Master Gunslinger
 
@@ -86,51 +86,30 @@ Below are the Upgrades available to Gunslinger Artificers. If one of your Upgrad
 When one of your Upgrades requires a creature to make a saving throw, it makes its save against your Spell save DC
 
 **Close Shot**<br>_Level 3+ Artificer_
+
 :   When you make a ranged attack with your Arcane Firearm while you have a hostile creature within 5 feet of you, you do not have **:d20-dis: Disadvantage**{ .d20 } on your attack roll.
 
-=== "Level 3+ Artificer"
+**Deadly Accuracy**<br>_Level 3+ Artificer_
 
-    ---
+:   You gain a +2 bonus to your Arcane Firearm attack rolls. This Upgrade does not stack with the Archery Fighting Style Feat.
 
-    #### Deadly Accuracy
+**Elemental Shot**<br>_Level 3+ Artificer_
 
-    _**Prerequisite:** Level 3+ Artificer_
-
-    You gain a +2 bonus to your Arcane Firearm attack rolls. This Upgrade does not stack with the Archery Fighting Style Feat.
-
-    ---
-
-    #### Elemental Shot
-
-    _**Prerequisite:** Level 3+ Artificer_
-
-    As a **:rsc-b: Bonus Action**{ .rsc }, you can touch your Arcane Firearm and expend a level 1+ spell slot and choose either **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lighting**{ .dmg-lgtn }, or **:dmg-thun: Thunder**{ .dmg-thun }. For the next minute, your Arcane Firearm deals additional damage of that type on hit.
+:   As a **:rsc-b: Bonus Action**{ .rsc }, you can touch your Arcane Firearm and expend a level 1+ spell slot and choose either **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lighting**{ .dmg-lgtn }, or **:dmg-thun: Thunder**{ .dmg-thun }. For 1 minute, your Arcane Firearm deals additional damage of that type on hit.
 
     The elemental damage is 1d4 for a level 1 spell slot, plus an additional 1d4 for each spell slot above level 1.
 
-    ---
+**Grooved Barrel**<br>_Level 3+ Artificer_
 
-    #### Grooved Barrel
+:   You modify your Arcane Firearm to be especially accurate. You ignore the **:d20-dis: Disadvantage**{ .d20 } imposed on Arcane Firearm attacks that you make at the weapon's long range.
 
-    _**Prerequisite:** Level 3+ Artificer_
+**High Calibre**<br>_Level 3+ Artificer_
 
-    You modify your Arcane Firearm to be especially accurate. You ignore the **:d20-dis: Disadvantage**{ .d20 } imposed on Arcane Firearm attacks that you make at the weapon's long range.
+:   You increase the firepower of the Arcane Firearm. Its range increases to (100/400), its damage die increases from 1d10 to 2d6, and it gains the **:wp-prop-heavy: Heavy**{.wp} and **:wp-prop-two-handed: Two-handed**{.wp} properties.
 
-    ---
+**Replaceable Parts**<br>_Level 3+ Artificer_
 
-    #### High Caliber
-
-    _**Prerequisite:** Level 3+ Artificer_
-
-    You increase the firepower of the Arcane Firearm. Its range increases to (100/400), its damage die increases from 1d10 to 2d6, and it gains the **:wp-prop-heavy: Heavy** and **:wp-prop-two-handed: Two-handed** properties.
-
-    ---
-
-    #### Replaceable Parts
-
-    _**Prerequisite:** Level 3+ Artificer_
-
-    Your Arcane Firearm is crafted so you can adjust it on the fly. You can spend 10 minutes using Smith's Tools to replace one of your Arcane Firearm's Upgrades with another Upgrade that you meet the prerequisites for. You can do so during a **:rest-short: Short Rest**.
+:   Your Arcane Firearm is crafted so you can adjust it on the fly. You can spend 10 minutes using Smith's Tools to replace one of your Arcane Firearm's Upgrades with another Upgrade that you meet the prerequisites for. You can do so during a **:rest-short: Short Rest**.
 
     ---
 
