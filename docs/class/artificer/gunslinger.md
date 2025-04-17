@@ -83,17 +83,12 @@ Finally, once per turn when you make an attack with your Arcane Firearm with **:
 
 Below are the Upgrades available to Gunslinger Artificers. If one of your Upgrades has an Artificer level prerequisite, you can use it at the same time you meet that prerequisite.
 
-When one of your Upgrades requires a creature to make a saving throw, it makes its save against your Spell save DC.
+When one of your Upgrades requires a creature to make a saving throw, it makes its save against your Spell save DC
+
+**Close Shot**<br>_Level 3+ Artificer_
+:   When you make a ranged attack with your Arcane Firearm while you have a hostile creature within 5 feet of you, you do not have **:d20-dis: Disadvantage**{ .d20 } on your attack roll.
 
 === "Level 3+ Artificer"
-
-    ---
-
-    #### Close Shot
-
-    _**Prerequisite:** Level 3+ Artificer_
-
-    When you make a ranged attack with your Arcane Firearm while you have a hostile creature within 5 feet of you, you do not have **:d20-dis: Disadvantage**{ .d20 } on your attack roll.
 
     ---
 

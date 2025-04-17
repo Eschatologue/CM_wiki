@@ -24,7 +24,7 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 1 min
 
 - You have **:d20-adv: Advantage**{ .d20 } on **:d20-save: WIS/INT/CHA Save**{ .d20 } against spells and other magical effect.
 - You can't have **:d20-dis: Disadvatage**{ .d20 } on Dexterity-based weapon attacks.
-- You are under the effect of [:spell-lv1: Detect Magic](../../spells/description/core/level-1.md#detect-magic) spell. This does not require Concentration, though it's only active for 1 minute.
+- You are under the effect of [:spell-lv1: Detect Magic](../../spells/description/core/level-1.md#detect-magic) spell. This does not require Concentration, though the duration last so long your Sorcerous Focus is active.
 
 You can use this feature **twice** without suffering adverse effects. Each additional use before a **:rest-long: Long Rest** imposes 1 level of **Exhaustion**{ .cond }.
 
@@ -68,7 +68,7 @@ Dekrat's Special options appear in alphabetical and level requirement order.
 :   You takes out the target's ability to speak. It must succeed a **:d20-save: CON Save**{ .d20 } or it has the **Silenced**{ .cond } condition. At the end of each of its turns, it repeats the save, ending the effect on itself on a success.
 
 **Blitz** <br>_Level 5+ Rogue_ <br>_Cost: `2d6+`_
-:   After hitting the target with a ^^Melee attack^^, you Teleport up to 30 feet to an unoccupied space you can see. The distance you Teleport increases by 30 feet for each additional `2d6` you forgo: `4d6` (60 feet), `6d6` (90 feet), `8d6` (120 feet) and the maximum of `10d6` (150 feet).
+:   After hitting the target with a ^^Melee attack^^, you Teleport up to 30 feet to an unoccupied space you can see. The distance you can Teleport to increases by 30 feet for each additional `2d6` you forgo: `4d6` (60 feet), `6d6` (90 feet), `8d6` (120 feet) and the maximum of `10d6` (150 feet).
 
 **Flay Skin** <br>_Level 5+ Rogue_ <br>_Cost: `3d6`_
 :   The attack damage type's becomes **:dmg-necr: Necrotic**{ .dmg-necr } and the target must succeed a **:d20-save: CON Save**{ .d20 } or it has **:dmg-vul: Vulnerability** to **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, and **:dmg-slsh: Slashing**{ .dmg-bps } damage. At the end of each of its turns, it repeats the save, ending the effect on itself on a success.
