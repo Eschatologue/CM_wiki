@@ -9,7 +9,7 @@ Enhance Martial Prowess with Eldritch Macic
 
 # Witchblade
 
-> *Enhance Martial Prowess with Eldritch Macic*
+> *Enhance Martial Prowess with Eldritch Magic*
 
 Those who walk the dark path of the Witchblade are driven by an overwhelming desire to destroy the great evils of the world. Those especially dedicated, those willing to give up anything, are often approached by Eldritch Powers, beings of otherworldly might. These benefactors offer power in return for a fraction of the warrior's soul or unquestioning fealty.
 
@@ -70,11 +70,11 @@ You can use an Arcane Focus as a Spellcasting Focus for the spells you prepare f
 
 ### Level 3: Sanguine Offering
 
-Once per turn, when you hit a creature with a weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } (Damage), you can expend one of your Fighter Hit Dice as part of the attack to deal an additional 1d10 :dmg-necr: Necrotic damage to the target, in addition to the normal damage of your weapon.
+Once per turn, when you hit a creature with an attack roll using weapon or an **:rsc-a: Unarmed Strike**{ .rsc }, you can expend one of your Fighter Hit Dice as part of the attack to deal an additional **1d10 :dmg-necr: Necrotic**{.dmg-necr} damage to the target, in addition to the normal damage of your weapon.
 
 ### Level 7: Otherworldly Step
 
-You can use Eldritch power to slip through cracks in reality. When you use Second Wind, you can teleport up to 60 feet to an unoccupied space you can see. If you appear within 5 feet of a creature, you can make one weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } against it.
+You can use Eldritch power to slip through cracks in reality. When you use Second Wind, you can teleport up to 60 feet to an unoccupied space you can see. If you appear within 5 feet of a creature, you can make one weapon attack or an **:rsc-a: Unarmed Strike**{.rsc} against it (no action required).
 
 ### Level 10: Enchanted Strikes
 
@@ -82,13 +82,13 @@ The Eldritch magic within your blood seeps into your weapon strikes. When you hi
 
 ### Level 15: Greater Offering
 
-You can restore your own vitality by inflicting pain on others. When you use [Sanguine Offering](#level-3-sanguine-offering), you gain **:trt-thp: Temporary Hit Points** equal to the :dmg-necr: Necrotic damage dealt to the creature.
+You can restore your own vitality by inflicting pain on others. When you use [Sanguine Offering](#level-3-sanguine-offering), you gain **:trt-thp: Temporary Hit Points** equal to the **:dmg-necr: Necrotic**{.dmg-necr} damage dealt to the creature.
 
 **:trt-thp: Temporary Hit Points** you gain from this feature last for 1 minute, or until you gain **:trt-thp: Temporary Hit Points** again.
 
-### Level 18: Legendary Witchblade
+### Level 18: Siphon Vitality
 
-You siphon power from death. When a creature dies within 30 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to regain one expended Pact Magic spell slot, or 1d4 of your expended Hit Dice.
+When a creature dies within 30 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to regain one expended Pact Magic spell slot, or 1d4 of your expended Hit Dice.
 
 Once you use this feature you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
 

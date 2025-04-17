@@ -16,19 +16,18 @@ The Circle of the Land comprises mystics and sages who safeguard ancient knowled
 
 Whenever you finish a **:rest-long: Long Rest**, choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
 
-Here's the converted table:
+##### Circle of the Land
 
 | Druid Level | Arid Land | Polar Land | Temperate Land | Tropical Land |
 |:-:|---|---|---|---|
-| 3 | [:spell-lv1: Blur], [:spell-lv1: Burning Hands], [:spell-lv0: Fire Bolt] | [:spell-lv1: Fog Cloud], [:spell-lv1: Hold Person], [:spell-lv1: Ray of Frost] | [:spell-lv2: Misty Step], [:spell-lv0: Shocking Grasp], [:spell-lv1: Sleep] | [:spell-lv0: Acid Splash], [:spell-lv1: Ray of Sickness], [:spell-lv2: Web] |
+| 3 | [:spell-lv2: Blur], [:spell-lv1: Burning Hands], [:spell-lv0: Fire Bolt] | [:spell-lv1: Fog Cloud], [:spell-lv2: Hold Person], [:spell-lv2: Ray of Frost] | [:spell-lv2: Misty Step], [:spell-lv0: Shocking Grasp], [:spell-lv1: Sleep] | [:spell-lv0: Acid Splash], [:spell-lv1: Ray of Sickness], [:spell-lv2: Web] |
 | 6 | [:spell-lv3: Fireball] | [:spell-lv3: Sleet Storm] | [:spell-lv3: Lightning Bolt] | [:spell-lv3: Stinking Cloud] |
 | 7 | [:spell-lv4: Blight] | [:spell-lv4: Ice Storm] | [:spell-lv4: Freedom of Movement] | [:spell-lv4: Polymorph] |
 | 9 | [:spell-lv5: Wall of Stone] | [:spell-lv5: Cone of Cold] | [:spell-lv5: Tree Stride] | [:spell-lv5: Insect Plague] |
 
-Let me know if you need further adjustments!
-
 ### Level 3: Land's Aid
-As a **:rsc-a: Magic**{ .rsc } action, you can expend a use of your **:material-paw: Wild Shape** and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius Sphere centered on that point. Each creature of your choice in the Sphere must make a Constitution saving throw against your spell save DC, taking 2d6 Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains 2d6 Hit Points.
+
+As a **:rsc-a: Magic**{ .rsc } action, you can expend a use of your **:material-paw: Wild Shape** and choose a point within **60 feet** of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius Sphere centered on that point. Each creature of your choice in the Sphere must make a Constitution saving throw against your spell save DC, taking 2d6 Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains 2d6 Hit Points.
 
 The damage and healing increase by 1d6 when you reach Druid levels 10 (3d6) and 14 (4d6).
 
