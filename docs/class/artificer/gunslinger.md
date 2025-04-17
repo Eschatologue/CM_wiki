@@ -23,8 +23,6 @@ In addition, whenever you make an ability check with Smith's Tools, you can use 
 
 Your tinkering with Arcane Firearm ensures you always have certain spells ready. When you reach an Artificer level specified in the Armourer Spells table, you thereafter always have the listed spells prepared.
 
----
-
 ##### Gunslinger Spells
 
 | Artificer Level | Spells |
@@ -39,7 +37,9 @@ Your tinkering with Arcane Firearm ensures you always have certain spells ready.
 
 Your groundbreaking research has led to the development of your signature Arcane Firearm, which uses the rules below:
 
-**Crafting your Firearm**{ .inl } During the course of a **:rest-long: Long Rest**, you can spend 1 hour using smith's tools to craft one Arcane Firearm. It is only usable by you, you are proficient with it, and crafting another causes the magic of the previous Firearm to instantly dispel. You can use your Intelligence, in place of Dexterity for its attack and damage rolls. 
+**Crafting your Firearm**{ .inl } During the course of a **:rest-long: Long Rest**, you can spend 1 hour using Smith's Tools to craft one Arcane Firearm. It is only usable by you, you are proficient with it, and crafting another destroys the previous Arcane Firearm. 
+
+**Ability Modifier**{.inl} You can use your Intelligence, in place of Dexterity for its attack and damage rolls. 
 
 **Infusions**{ .inl } Your Firearm can bear one Infusion for a ranged weapon or an arcane focus. At Artificer level 9 it can bear one additional Infusion.
 
