@@ -63,23 +63,7 @@ Below is a list of common actions you can take, along with relevant details:
 
 <div class="grid" markdown>
 
-**:fontawesome-solid-hand-sparkles:{.x3l}**
-
-:   ### Cast a Spell :rsc-a: :rsc-b: :rsc-r:
-
-    Spellcasters such as Wizards and Clerics, as well as many monsters, have access to spells and can use them to great effect in combat. 
-
-    Each spell has a casting time, which specifies whether the caster must use an **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc }, minutes, or even hours to cast the spell. 
-
-    Casting a spell is, therefore, not necessarily an **:rsc-a: Action**{ .rsc }. Most spells do have a casting time of **:rsc-a: Action**{ .rsc }, so a spellcaster often uses their action in combat to cast such a spell. 
-
-</div>
-
----
-
-<div class="grid" markdown>
-
-**:material-fast-forward:{.x3l}**
+**:action-dash:{.x3l}**
 
 :   ### Dash :rsc-a:
 
@@ -91,75 +75,88 @@ Below is a list of common actions you can take, along with relevant details:
 
 ---
 
-### Disengage
+**:material-arrange-send-to-back:{.x3l}
 
-**Cost:** **:rsc-a: Action**{ .rsc }
+:   ### Disengage :rsc-a:
 
-If you take the **Disengage**{ .rsc } action, your Movement doesn't provoke Opportunity Attacks for the rest of the turn.
-
----
-
-### Dodge
-
-**Cost:** **:rsc-a: Action**{ .rsc }
-
-When you take the **Dodge**{ .rsc } action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has **:d20-dis: Disadvantage**{ .d20 } if you can see the attacker, and you make **:d20-save: DEX Save**{ .d20 } with **:d20-adv: Advantage**{ .d20 }. You lose this benefit if you have the Incapacitated condition or if your **:rsc-spd: Speed**{ .em } is 0.
+    If you take the **:rsc-a: Disengage**{ .rsc } action, your Movement doesn't provoke **:rsc-r: Opportunity Attacks**{.rsc} for the rest of the turn.
 
 ---
 
-### End Concentration
+:material-arrow-expand:{.x3l}
 
-**Cost:** None
+:   ### Dodge :rsc-a:
 
-If a spell must be maintained with Concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end Concentration at any time (no action required).
-
----
-
-### Help
-
-**Cost:** **:rsc-a: Action**{ .rsc }
-
-When you take the **Help**{ .rsc } action, you do one of the following:
-
-**Assist Ability Check**{ .inl } Choose one of your skill or tool proficiencies and one ally who can perceive you. You give **:d20-adv: Advantage**{ .d20 } to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
-
-**Assist Attack Roll**{ .inl } You momentarily distract an enemy within 5 feet of you, giving **:d20-adv: Advantage**{ .d20 } to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
+    When you take the **Dodge**{ .rsc } action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has **:d20-dis: Disadvantage**{ .d20 } if you can see the attacker, and you make **:d20-save: DEX Save**{ .d20 } with **:d20-adv: Advantage**{ .d20 }. You lose this benefit if you have the **Incapacitated**{.cond} condition or if your **:rsc-spd: Speed**{ .em } is 0.
 
 ---
 
-### Hide 
+:material-handshake:{.x3l}
 
-**Cost:** **:rsc-a: Action**{ .rsc }
+:   ### Help :rsc-a:
 
-With the **Hide**{ .rsc } action, you try to conceal yourself. To do so stealthily, you must succeed on a :d20-check: DC 15 Dexterity (Stealth) check while you're Heavily Obscured or behind Three-Quarters Cover or Total Cover, and you must be out of any visible enemy's line of sight; if you can see a creature, you can discern whether it can see you.
+    When you take the **Help**{ .rsc } action, you do one of the following:
 
-On a successful check, you have the Invisible condition. Make note of your check's total, which becomes the DC for a creature to find you with a Wisdom (Perception) check.
+    **Assist Ability Check**{ .inl } Choose one of your skill or tool proficiencies and one ally who can perceive you. You give **:d20-adv: Advantage**{ .d20 } to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
 
-The condition ends on you immediately after any of the following occurrences: 
-
-- You make a sound louder than a whisper 
-- An enemy finds you, you make an attack roll
-- You cast a spell with a verbal component.
+    **Assist Attack Roll**{ .inl } You momentarily distract an enemy within 5 feet of you, giving **:d20-adv: Advantage**{ .d20 } to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
 ---
 
-### Magic
+:action-hide:{.x3l}
 
-**Cost:** **:rsc-a: Action**{ .rsc }
+:   ### Hide :rsc-a:
 
-When you take the **Magic**{ .rsc } action, you magic something by casting a spell that has a casting time of an **:rsc-a: Action**{ .rsc } or by using a feature or Magic Item that requires a **:rsc-a: Magic**{ .rsc } action to be activated.
+    With the **Hide**{ .rsc } action, you try to conceal yourself. To do so stealthily, you must succeed on a :d20-check: DC 15 Dexterity (Stealth) check while you're Heavily Obscured or behind Three-Quarters Cover or Total Cover, and you must be out of any visible enemy's line of sight; if you can see a creature, you can discern whether it can see you.
 
-If you cast a spell that has a casting time of 1 minute or longer, you must take the **:rsc-a: Magic**{ .rsc } action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot.
+    On a successful check, you have the **Invisible**{.cond} condition. Make note of your check's total, which becomes the DC for a creature to find you with a Wisdom (Perception) check.
+
+    The condition ends on you immediately after any of the following occurrences: 
+
+    - You make a sound louder than a whisper 
+    - An enemy finds you, you make an attack roll
+    - You cast a spell with a verbal component.
+
+:material-translate-variant:{.x3l}
+
+:   ### Influence
+
+    With the Influence action, you urge a monster to do something. Describe or roleplay how you're communicating with the monster. Are you trying to deceive, intimidate, amuse, or gently persuade? The DM then determines whether the monster feels willing, unwilling, or hesitant due to your interaction; this determination establishes whether an ability check is necessary, as explained below.
+
+    ***Willing.*** If your urging aligns with the monster's desires, no ability check is necessary; the monster fulfills your request in a way it prefers.
+
+    ***Unwilling.*** If your urging is repugnant to the monster or counter to its alignment, no ability check is necessary; it doesn't comply.
+
+    ***Hesitant.*** If you urge the monster to do something that it is hesitant to do, you must make an ability check, which is affected by the monster's attitude: Indifferent, Friendly, or Hostile, each of which is defined in this glossary. The Influence Checks table suggests which ability check to make based on how you're interacting with the monster. The DM chooses the check, which has a default DC equal to 15 or the monster's Intelligence score, whichever is higher. On a successful check, the monster does as urged. On a failed check, you must wait 24 hours (or a duration set by the DM) before urging it in the same way again.
+
+    ##### Influence Checks
+    | Ability Check | Interaction |
+    |---|---|
+    | Charisma (Deception) | Deceiving a monster that understands you |
+    | Charisma (Intimidation) | Intimidating a monster |
+    | Charisma (Performance) | Amusing a monster |
+    | Charisma (Persuasion) | Persuading a monster that understands you |
+    | Wisdom (Animal Handling) | Gently coaxing a Beast or Monstrosity |
+
+
+---
+:material-spa:{.x3l}
+
+:   ### Magic :rsc-a:
+
+    When you take the **Magic**{ .rsc } action, you magic something by casting a spell that has a casting time of an **:rsc-a: Action**{ .rsc } or by using a feature or Magic Item that requires a **:rsc-a: Magic**{ .rsc } action to be activated.
+
+    If you cast a spell that has a casting time of 1 minute or longer, you must take the **:rsc-a: Magic**{ .rsc } action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot.
 
 ---
 
-### Opportunity Attack
+:material-sword-cross:{ .x3l }
 
-**Cost:** **:rsc-r: Reaction**{ .rsc }
+:   ### Opportunity Attack :rsc-r:
 
-In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger; doing so provokes an **Opportunity Attack** (also often referred to as 'Attack of Opportunity').
+    In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger; doing so provokes an **Opportunity Attack** (also often referred to as 'Attack of Opportunity').
 
-You can make an **:rsc-r: Opportunity Attack**{ .em } when a hostile creature that you can see moves out of your reach. To make the Opportunity Attack, you use your **:rsc-r: Reaction**{ .rsc } to make one melee attack against the provoking creature. The attack interrupts the provoking creature's Movement, occurring right before the creature leaves your reach.
+    You can make an **:rsc-r: Opportunity Attack**{ .em } when a hostile creature that you can see moves out of your reach. To make the Opportunity Attack, you use your **:rsc-r: Reaction**{ .rsc } to make one melee attack against the provoking creature. The attack interrupts the provoking creature's Movement, occurring right before the creature leaves your reach.
 
 ---
 
