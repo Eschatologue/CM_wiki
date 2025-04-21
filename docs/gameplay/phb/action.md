@@ -49,13 +49,20 @@ Below is a list of common actions you can take, along with relevant details:
 
 ---
 
-### Attack
+### Attack {.hide}
 
-**Cost:** **:rsc-a: Action**{ .rsc }
+<div class="grid" markdown>
 
-The most common action to take in combat is the **Attack**{ .rsc } action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make one melee or ranged attack. This action often requires you to make an attack roll against the target's AC.
+**:material-sword:{ .x2l }**<br>**ATTACK**{ .xl } 
 
-Certain features, such as the Extra Attack feature of the Fighter, allow you to make more than one attack with this action.
+:   The most common action to take in combat is the **Attack**{ .rsc } action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make one melee or ranged attack. This action often requires you to make an attack roll against the target's AC.
+
+    Certain features, such as the Extra Attack feature of the Fighter, allow you to make more than one attack with this action.
+
+    > **Cost:** **:rsc-a: Action**{ .rsc }
+
+</div>
+
 
 ---
 

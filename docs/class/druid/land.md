@@ -20,7 +20,7 @@ Whenever you finish a **:rest-long: Long Rest**, choose one type of land: arid, 
 
 | Druid Level | Arid Land | Polar Land | Temperate Land | Tropical Land |
 |:-:|---|---|---|---|
-| 3 | [:spell-lv2: Blur], [:spell-lv1: Burning Hands], [:spell-lv0: Fire Bolt] | [:spell-lv1: Fog Cloud], [:spell-lv2: Hold Person], [:spell-lv2: Ray of Frost] | [:spell-lv2: Misty Step], [:spell-lv0: Shocking Grasp], [:spell-lv1: Sleep] | [:spell-lv0: Acid Splash], [:spell-lv1: Ray of Sickness], [:spell-lv2: Web] |
+| 3 | [:spell-lv2: Blur], [:spell-lv1: Burning Hands], [:spell-lv0: Fire Bolt] | [:spell-lv1: Fog Cloud], [:spell-lv2: Hold Person], [:spell-lv0: Ray of Frost] | [:spell-lv2: Misty Step], [:spell-lv0: Shocking Grasp], [:spell-lv1: Sleep] | [:spell-lv0: Acid Splash], [:spell-lv1: Ray of Sickness], [:spell-lv2: Web] |
 | 6 | [:spell-lv3: Fireball] | [:spell-lv3: Sleet Storm] | [:spell-lv3: Lightning Bolt] | [:spell-lv3: Stinking Cloud] |
 | 7 | [:spell-lv4: Blight] | [:spell-lv4: Ice Storm] | [:spell-lv4: Freedom of Movement] | [:spell-lv4: Polymorph] |
 | 9 | [:spell-lv5: Wall of Stone] | [:spell-lv5: Cone of Cold] | [:spell-lv5: Tree Stride] | [:spell-lv5: Insect Plague] |
@@ -43,8 +43,8 @@ You are immune to the Poisoned condition, and you have Resistance to a damage ty
 |---|---|
 | Arid | **:dmg-fire: Fire**{.dmg-fire} |
 | Polar | **:dmg-cold: Cold**{.dmg-cold} |
-| Temperate | **:dmg-lightning: Lightning**{.dmg-lgtn} |
-| Tropical | **:dmg-poison: Poison**{.dmg-posn} |
+| Temperate | **:dmg-lgtn: Lightning**{.dmg-lgtn} |
+| Tropical | **:dmg-posn: Poison**{.dmg-posn} |
 
 ### Level 14: Nature's Sanctuary
 

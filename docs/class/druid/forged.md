@@ -25,7 +25,7 @@ You have attuned yourself to both nature and the spirits that presides inside ma
 
 ### Level 3: Skin of Steel  
 
-Through the fusion of ancient druidic techniques and advanced technology, you can enhance your **:material-paw: Wild Shape** with mechanical augmentations, granting you the following benefits:
+Through the fusion of ancient druidic magic and advanced technology, you can enhance your **:material-paw: Wild Shape** with mechanical augmentations, granting you the following benefits:
 
 **Creature Type**{ .inl } While in your Beast form, you're also considered a Construct in addition of the type of the creature you turn into. Moreover, your body is visibly artificial, with muscles replaced by root-like tendrils and reinforced by metallic plates. It is clear to an observer that you are not a normal animal, but a unique blend of life and machine.
 { .indt }
