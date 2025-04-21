@@ -75,13 +75,19 @@ Below is a list of common actions you can take, along with relevant details:
 
 ---
 
+<div class="grid" markdown>
+
 **:material-arrange-send-to-back:{.x3l}
 
 :   ### Disengage :rsc-a:
 
     If you take the **:rsc-a: Disengage**{ .rsc } action, your Movement doesn't provoke **:rsc-r: Opportunity Attacks**{.rsc} for the rest of the turn.
 
+</div>
+
 ---
+
+<div class="grid" markdown>
 
 :material-arrow-expand:{.x3l}
 
@@ -89,7 +95,11 @@ Below is a list of common actions you can take, along with relevant details:
 
     When you take the **Dodge**{ .rsc } action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has **:d20-dis: Disadvantage**{ .d20 } if you can see the attacker, and you make **:d20-save: DEX Save**{ .d20 } with **:d20-adv: Advantage**{ .d20 }. You lose this benefit if you have the **Incapacitated**{.cond} condition or if your **:rsc-spd: Speed**{ .em } is 0.
 
+</div>
+
 ---
+
+<div class="grid" markdown>
 
 :material-handshake:{.x3l}
 
@@ -101,7 +111,11 @@ Below is a list of common actions you can take, along with relevant details:
 
     **Assist Attack Roll**{ .inl } You momentarily distract an enemy within 5 feet of you, giving **:d20-adv: Advantage**{ .d20 } to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
+</div>
+
 ---
+
+<div class="grid" markdown>
 
 :action-hide:{.x3l}
 
@@ -116,6 +130,12 @@ Below is a list of common actions you can take, along with relevant details:
     - You make a sound louder than a whisper 
     - An enemy finds you, you make an attack roll
     - You cast a spell with a verbal component.
+
+</div>
+
+---
+
+<div class="grid" markdown>
 
 :material-translate-variant:{.x3l}
 
@@ -138,8 +158,12 @@ Below is a list of common actions you can take, along with relevant details:
     | Charisma (Persuasion) | Persuading a monster that understands you |
     | Wisdom (Animal Handling) | Gently coaxing a Beast or Monstrosity |
 
+</div>
 
 ---
+
+<div class="grid" markdown>
+
 :material-spa:{.x3l}
 
 :   ### Magic :rsc-a:
@@ -148,7 +172,11 @@ Below is a list of common actions you can take, along with relevant details:
 
     If you cast a spell that has a casting time of 1 minute or longer, you must take the **:rsc-a: Magic**{ .rsc } action on each turn of that casting, and you must maintain Concentration while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot.
 
+</div>
+
 ---
+
+<div class="grid" markdown>
 
 :material-sword-cross:{ .x3l }
 
@@ -157,6 +185,8 @@ Below is a list of common actions you can take, along with relevant details:
     In a fight, everyone is constantly watching for enemies to drop their guard. You can rarely move heedlessly past your foes without putting yourself in danger; doing so provokes an **Opportunity Attack** (also often referred to as 'Attack of Opportunity').
 
     You can make an **:rsc-r: Opportunity Attack**{ .em } when a hostile creature that you can see moves out of your reach. To make the Opportunity Attack, you use your **:rsc-r: Reaction**{ .rsc } to make one melee attack against the provoking creature. The attack interrupts the provoking creature's Movement, occurring right before the creature leaves your reach.
+
+</div>
 
 ---
 
