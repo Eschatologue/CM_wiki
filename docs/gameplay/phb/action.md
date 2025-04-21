@@ -79,7 +79,7 @@ Below is a list of common actions you can take, along with relevant details:
 
 <div class="grid" markdown>
 
-**:material-fast-forward:{.x3l .rotate-min45}**
+**:material-fast-forward:{.x3l}**
 
 :   ### Dash :rsc-a:
 
