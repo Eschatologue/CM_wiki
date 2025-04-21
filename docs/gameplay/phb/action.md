@@ -77,13 +77,17 @@ Below is a list of common actions you can take, along with relevant details:
 
 ---
 
-**:material-fast-forward:{.x3l}**{.rotate-min45}
+<div class="grid" markdown>
+
+**:material-fast-forward:{.x3l .rotate-min45}**
 
 :   ### Dash :rsc-a:
 
     When you take the **Dash**{ .rsc } action, you gain extra Movement for the current turn. The increase equals your **:rsc-spd: Speed**{ .em }, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash.
 
     Any increase or decrease to your **:rsc-spd: Speed**{ .em } changes this additional Movement by the same amount. If your **:rsc-spd: Speed**{ .em } of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you Dash.
+
+</div>
 
 ---
 
