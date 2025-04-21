@@ -51,30 +51,31 @@ Below is a list of common actions you can take, along with relevant details:
 
 <div class="grid" markdown>
 
-**:material-sword:{ .x3l }**<br>**ATTACK**{ .xl } 
+**:material-sword:{ .x3l }**
 
-:   ### Attack {.noborder}
+:   ### Attack {.noborder} :rsc-a:
 
-    The most common action to take in combat is the **:rsc-a: Attack**{ .rsc } action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make ^^one^^ melee or ranged attack. This action often requires you to make an **:d20-atk: Attack Roll** against the target's AC.
+    The most common action to take in combat is the **:rsc-a: Attack**{ .rsc } action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make ^^one^^ melee or ranged attack. This action often requires you to make an **:d20-attack: Attack Roll** against the target's AC.
 
     Certain features, such as the **Extra Attack** feature of the Fighter, allow you to make more than one attack with this action.
 
-    **Cost:** **:rsc-a: Action**{ .rsc }
-
 </div>
-
 
 ---
 
-### Cast a Spell
+<div class="grid" markdown>
 
-**Cost:** **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc }
+**:fontawesome-solid-hand-sparkles:{ .x3l }**
 
-Spellcasters such as Wizards and Clerics, as well as many monsters, have access to spells and can use them to great effect in combat. 
+:   ### Cast a Spell :rsc-a: :rsc-b: :rsc-r:
 
-Each spell has a casting time, which specifies whether the caster must use an **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc }, minutes, or even hours to cast the spell. 
+    Spellcasters such as Wizards and Clerics, as well as many monsters, have access to spells and can use them to great effect in combat. 
 
-Casting a spell is, therefore, not necessarily an **:rsc-a: Action**{ .rsc }. Most spells do have a casting time of **:rsc-a: Action**{ .rsc }, so a spellcaster often uses their action in combat to cast such a spell. 
+    Each spell has a casting time, which specifies whether the caster must use an **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc }, minutes, or even hours to cast the spell. 
+
+    Casting a spell is, therefore, not necessarily an **:rsc-a: Action**{ .rsc }. Most spells do have a casting time of **:rsc-a: Action**{ .rsc }, so a spellcaster often uses their action in combat to cast such a spell. 
+
+</div>
 
 ---
 
