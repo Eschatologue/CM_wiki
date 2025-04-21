@@ -47,15 +47,13 @@ Below is a list of common actions you can take, along with relevant details:
 
 **Cost:** Each action requires using one of your available resources—**:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc }. To perform a specific action, you must have the appropriate resource available. For example, you cannot take the **Attack**{ .rsc } action (which requires an Action) if you have already used your Action to take the Dash action.
 
----
-
 <div class="grid" markdown>
 
 **:material-sword:{ .x3l }**
 
-:   ### Attack {.noborder} :rsc-a:
+:   ### Attack :rsc-a:
 
-    The most common action to take in combat is the **:rsc-a: Attack**{ .rsc } action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make ^^one^^ melee or ranged attack. This action often requires you to make an **:d20-attack: Attack Roll** against the target's AC.
+    The most common action to take in combat is the **:rsc-a: Attack**{ .rsc } action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists. With this action, you make ^^one^^ melee or ranged attack. This action often requires you to make an **:d20-attack: Attack Roll** against the target's **AC**.
 
     Certain features, such as the **Extra Attack** feature of the Fighter, allow you to make more than one attack with this action.
 
@@ -65,7 +63,7 @@ Below is a list of common actions you can take, along with relevant details:
 
 <div class="grid" markdown>
 
-**:fontawesome-solid-hand-sparkles:{ .x3l }**
+**:fontawesome-solid-hand-sparkles:{.x3l}**
 
 :   ### Cast a Spell :rsc-a: :rsc-b: :rsc-r:
 
@@ -79,13 +77,13 @@ Below is a list of common actions you can take, along with relevant details:
 
 ---
 
-### Dash
+**:material-fast-forward:{.x3l}**{.rotate-min45}
 
-**Cost:** **:rsc-a: Action**{ .rsc }
+:   ### Dash :rsc-a:
 
-When you take the **Dash**{ .rsc } action, you gain extra Movement for the current turn. The increase equals your **:rsc-spd: Speed**{ .em }, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash.
+    When you take the **Dash**{ .rsc } action, you gain extra Movement for the current turn. The increase equals your **:rsc-spd: Speed**{ .em }, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash.
 
-Any increase or decrease to your **:rsc-spd: Speed**{ .em } changes this additional Movement by the same amount. If your **:rsc-spd: Speed**{ .em } of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you Dash.
+    Any increase or decrease to your **:rsc-spd: Speed**{ .em } changes this additional Movement by the same amount. If your **:rsc-spd: Speed**{ .em } of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you Dash.
 
 ---
 
