@@ -58,7 +58,7 @@ Barbarian has the following optional class feature.
 <!-- --8<-- [start:opt-barb-unarmoured-defence] -->
 
 
-_Level 1 Barbarian Optional Class Feature, replaces Unarmoured Defence**_
+_Level 1 Barbarian Optional Class Feature, replaces Unarmoured Defence_{ .fg-light }
 
 While you aren't wearing any armor, your base Armour Class equals **10 + your :abl-str: Strength and :abl-cons: Constitution modifiers**{ .calc }. You can use a Shield and still gain this benefit.
 
@@ -72,7 +72,7 @@ Ranger has the following optional class feature.
 
 <!-- --8<-- [start:opt-rng-aptitude] -->
 
-*Level 1 Ranger Optional Class Feature*
+*Level 1 Ranger Optional Class Feature*{ .fg-light }
 
 You gain invaluable knowledge, experiences, or hard-earned lessons, which is represented by Ranger's Aptidude. You gain one aptidude of your choice. Aptidude are described in the "[Ranger's Aptitude Options]" section later in this class's description.
 
@@ -104,7 +104,7 @@ Paladin has the following optional class feature.
 
 <!-- --8<-- [start:opt-pal-smite] -->
 
-_Level 2 Paladin Optional Class Feature, replaces Paladin's Smite**_
+_Level 2 Paladin Optional Class Feature, replaces Paladin's Smite_{ .fg-light }
 
 When you damage a creature with a Melee weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } , you can expend a spell slot to cause that attack to deal **bonus damage** to the target. This feature also changes the damage type dealt from _**Radiant Strike**_ feature. This bonus damage is `2d8` for a level 1 spell slot and it increases by `1d8` for each spell slot level above 1, to a maximum of `6d8`.
 

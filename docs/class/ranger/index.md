@@ -108,7 +108,7 @@ You always have the [:spell-lv1: Hunter's Mark] spell prepared. You can cast it 
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-conc: Concentration, though it ends early if you have the **Incapacitated**{ .cond } condition.
 
-### Level 1: Ranger's Aptitude
+### Level 1: Ranger's Aptitude (Optional) 
 
 --8<-- "docs/class/index.md:opt-rng-aptitude"
 
@@ -148,7 +148,7 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 --8<-- "includes/snippets/item-mastery.md"
 
-### Level 1: Weapon Mastery - Expanded
+### Level 1: Expanded Weapon Mastery (Optional)
 
 --8<-- "docs/class/index.md:wp-mas-ex"
 

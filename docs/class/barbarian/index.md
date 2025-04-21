@@ -137,7 +137,7 @@ Each time the **:ui-rage: Rage**{ .em } is extended, it lasts until the end of y
 
 While you aren't wearing any armor, your base Armour Class equals **10 plus your :abl-dex: Dexterity and :abl-cons: Constitution modifiers**{ .calc }. You can use a Shield and still gain this benefit.
 
-### Level 1: Primal Defence
+### Level 1: Primal Defence (Optional) 
 
 --8<-- "docs/class/index.md:opt-barb-unarmoured-defence"
 
@@ -151,7 +151,7 @@ When you reach certain Barbarian levels, you gain the ability to use the mastery
 
 --8<-- "includes/snippets/item-mastery.md"
 
-### Level 1: Weapon Mastery - Expanded
+### Level 1: Expanded Weapon Mastery (Optional)
 
 --8<-- "docs/class/index.md:wp-mas-ex"
 

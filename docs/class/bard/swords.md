@@ -52,7 +52,7 @@ Whenever you finish a **:rest-long: Long Rest**, you can change the kinds of wea
 
 --8<-- "includes/snippets/item-mastery.md"
 
-### Level 6: Weapon Mastery - Expanded
+### Level 6: Expanded Weapon Mastery (Optional)
 
 --8<-- "docs/class/index.md:wp-mas-ex"
 

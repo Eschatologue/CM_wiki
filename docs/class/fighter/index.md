@@ -117,7 +117,7 @@ When you reach certain Fighter levels, you gain the ability to use the mastery p
 
 --8<-- "includes/snippets/item-mastery.md"
 
-### Level 1: Weapon Mastery - Expanded
+### Level 1: Expanded Weapon Mastery (Optional)
 
 --8<-- "docs/class/index.md:wp-mas-ex"
 

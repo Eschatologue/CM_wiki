@@ -127,7 +127,7 @@ Your training with weapons allows you to use the mastery properties of two kinds
 
 Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.
 
-### Level 1: Weapon Mastery - Expanded
+### Level 1: Expanded Weapon Mastery (Optional)
 
 --8<-- "docs/class/index.md:wp-mas-ex"
 

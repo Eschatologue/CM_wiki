@@ -25,11 +25,11 @@ Every Ranger has a unique origin, choose one of the following benefit:
 
 **Deathwatch**
 
-:   _You specialise in hunting those not native to your realm._ You gain proficiency in Arcana and Religion. In addition, you can also cast  [:spell-lv1: Protection from Evil and Good] once without expending a spell slot
+:   _You specialise in hunting those not native to your realm._ You gain proficiency in Arcana and Religion. In addition, you know the [:spell-lv1: Protection from Evil and Good] and can cast it once without expending a spell slot, when it is cast this way, the spell doesn't require Concentration, but only last for 1 minute. You regain expended use when you finish a **:rest-long: Long Rest**.
 
 **Mage Breaker**
 
-:   _You have a background in battling spellcasters._ You gain proficiency in Arcana and Insight. In addition, you know the [:spell-lv0: True Strike] cantrip.
+:   _You have a background in battling spellcasters._ You gain proficiency in Arcana and Insight. In addition, you know [:spell-lv0: True Strike] and [:spell-lv1: Detect Magic] spells.
 
 **Ranger Knight**
 
@@ -37,13 +37,13 @@ Every Ranger has a unique origin, choose one of the following benefit:
 
 **Sanctified Hunter**
 
-:   _You have sworn to hunt the enemies of a holy or druidic order._ You gain proficiency in Investigation and Religion. In addition, you know the [:spell-lv0: Sacred Flame] cantrip.
+:   _You have sworn to hunt the enemies of a holy or druidic order._ You gain proficiency in Investigation and Religion. In addition, you know [:spell-lv0: Sacred Flame] and [:spell-lv1: Guiding Bolt] spells.
 
 **Beast Tamer**
 
 :   _You have cultivated a strong bond with animals and nature._ Whenever you would make an Intelligence (Nature), you can choose to make a Wisdom (Nature) check instead. In addition, you can cast [:spell-lv1: Find Familiar], but only as a Ritual.
 
-**Repeatable**{ .inl } You can choose this Aptitude again, choosing a different option each time.
+**Repeatable**{ .inl } You can choose this Aptitude again, choosing a different benefit each time.
 
 ---
 

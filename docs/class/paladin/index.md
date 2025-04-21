@@ -143,7 +143,7 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 --8<-- "includes/snippets/item-mastery.md"
 
-### Level 1: Weapon Mastery - Expanded
+### Level 1: Expanded Weapon Mastery (Optional)
 
 --8<-- "docs/class/index.md:wp-mas-ex"
 
@@ -157,7 +157,7 @@ You gain a Fighting Style feat of your choice (see chapter 5 for feats). Instead
 
 You always have the [:spell-lv1: Divine Smite] spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a **:rest-long: Long Rest** before you can cast it in this way again.
 
-### Level 2: Divine Smite 
+### Level 2: Divine Smite (Optional) 
 
 --8<-- "docs/class/index.md:opt-pal-smite"
 
