@@ -157,9 +157,9 @@ You gain a Fighting Style feat of your choice (see chapter 5 for feats). Instead
 
 You always have the [:spell-lv1: Divine Smite] spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a **:rest-long: Long Rest** before you can cast it in this way again.
 
-### Level 2: Divine Smite
+### Level 2: Divine Smite 
 
---8<-- "docs/class/other/opt-class-feat.md:opt-pal-smite"
+--8<-- "docs/class/index.md:opt-pal-smite"
 
 [Paladin's Smite]: #level-2-paladins-smite
 

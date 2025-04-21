@@ -139,7 +139,7 @@ While you aren't wearing any armor, your base Armour Class equals **10 plus your
 
 ### Level 1: Unarmoured Defence (Strength)
 
---8<-- "docs/class/other/opt-class-feat.md:opt-barb-unarmoured-defence"
+--8<-- "docs/class/index.md:opt-barb-unarmoured-defence"
 
 [Unarmoured Defence]: #level-1-unarmoured-defence
 
@@ -151,9 +151,9 @@ When you reach certain Barbarian levels, you gain the ability to use the mastery
 
 --8<-- "includes/snippets/item-mastery.md"
 
-!!! tip "Weapon Mastery: Expanded"
-    
-    In Crown & Misery setting, the Weapon Mastery feature are expanded to allow more flexibility, More details can be found in the [Weapon Mastery](../../equipment/weapon/mastery.md) section..
+### Level 1: Weapon Mastery - Expanded
+
+--8<-- "docs/class/index.md:wp-mas-ex"
 
 ### Level 2: Danger Sense
 

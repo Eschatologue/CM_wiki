@@ -238,7 +238,7 @@ nav:
         - Spell Scroll: equipment/consumeables/spell-scroll.md
   - Class: 
     - class/index.md
-    - Optional Class Feature: class/other/opt-class-feat.md
+    - Optional Class Feature: class/index.md
     - Expert Group:
       - Artificer: 
         - class/artificer/index.md

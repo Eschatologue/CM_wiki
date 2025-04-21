@@ -17,7 +17,6 @@ Each weapon has a Mastery property, which is usable only by a character who has 
 
 To give more options for martial classess, the folowing homebrew rules are implemented.
 
-
 ### Replaceable Weapon Mastery  
 
 When selecting weapons for Weapon Mastery, you can also **replace the Mastery property** of any weapon you are using with another eligible property. For example, you could change a Longsword’s **:wp-mas: Sap**{ .wp } property to **:wp-mas: Flex**{ .wp }.  
@@ -28,7 +27,7 @@ These changes only affect the character who makes them. If a Barbarian replaces 
 
 When selecting weapons for Weapon Mastery, you can instead **assign an additional _eligible_ Mastery property** to a weapon you already chose. A weapon can have **no more than four** mastery properties at a time.
 
-If a waeapon has multiple mastery properties, you can **only use one of them per attack**. You must choose which mastery property you're using before making the attack.
+If a weapon has multiple mastery properties, you can **only use one of them per attack**. You must choose which mastery property you're using before making the attack.
 
 For example, a Level 1 Barbarian could choose to apply either **:wp-mas: Cleave**{ .wp } or **:wp-mas: Graze**{ .wp } when attacking with a Greataxe, instead of selecting a second weapon for Weapon Mastery. Likewise, a Level 1 Rogue could choose either **:wp-mas: Nick**{ .wp } or **:wp-mas: Slow**{ .wp } for a Dagger.  
 
