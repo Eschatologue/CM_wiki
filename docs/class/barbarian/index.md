@@ -137,7 +137,7 @@ Each time the **:ui-rage: Rage**{ .em } is extended, it lasts until the end of y
 
 While you aren't wearing any armor, your base Armour Class equals **10 plus your :abl-dex: Dexterity and :abl-cons: Constitution modifiers**{ .calc }. You can use a Shield and still gain this benefit.
 
-### Level 1: Unarmoured Defence (Strength)
+### Level 1: Primal Defence
 
 --8<-- "docs/class/index.md:opt-barb-unarmoured-defence"
 

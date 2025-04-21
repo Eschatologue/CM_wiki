@@ -141,11 +141,11 @@ Your training with weapons allows you to use the mastery properties of two kinds
 
 Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Halberds and Flails.
 
-!!! tip "Weapon Mastery: Expanded"
-    
-    In Crown & Misery setting, the Weapon Mastery feature are expanded to allow more flexibility, More details can be found in the [Weapon Mastery](../../equipment/weapon/mastery.md) section..
-
 --8<-- "includes/snippets/item-mastery.md"
+
+### Level 1: Weapon Mastery - Expanded
+
+--8<-- "docs/class/index.md:wp-mas-ex"
 
 ### Level 2: Fighting Style
 
