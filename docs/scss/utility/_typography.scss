@@ -13,7 +13,7 @@
 
 .jetbrains {
     @extend .jetbrains-icon;
-    font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
+    font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
     font-family: var(--jetbrains);
     font-weight: 600 !important;
     word-spacing: convert.px2rem(-2px);
@@ -138,7 +138,7 @@
 
 // Used for d20 test
 .d20 {
-    @extend .em, .nowrap, .jetbrains;
+    @extend .em, .nowrap;
     letter-spacing: convert.px2em(-0.4px) !important;
 }
 
@@ -263,18 +263,6 @@
 }
 
 /*-------------------------------------------------------
-    Text Rotations
--------------------------------------------------------*/
-
-.rotate-45 {
-    transform: rotate(45);
-}
-
-.rotate-min45 {
-    transform: rotate(-45);
-}
-
-/*-------------------------------------------------------
     Damage Type Dynamic Classes
 -------------------------------------------------------*/
 
@@ -298,6 +286,13 @@ $damage-types: (
         @extend .jetbrains;
         color: convert.hex3hsl($color) !important;
         white-space: nowrap;
+        margin: 0 convert.px2rem(2.5px) !important;
+
+        :is(.emojione, .twemoji, .gemoji) {
+            margin-left: convert.px2rem(-3.5px);
+        }
+
+        margin-right: convert.px2rem(0.8px) !important;;
 
         @media screen and (max-width: 720px) {
             white-space: normal;

@@ -156,9 +156,10 @@
 
     h6 {
         text-transform: uppercase;
-        font-size: var(--gbl-font-size);
-        color: var(--md-default-fg-color--light) !important;
-        margin: #{convert.px2rem(3px)} 0 #{convert.px2rem(-6px)} 0;
+        font-size: calc(var(--gbl-font-size) * 0.875);
+        font-family: var(--jetbrains);
+        color: var(--md-gbl-text-color-strong);
+        margin: #{convert.px2rem(4px)} 0 #{convert.px2rem(-5px)} 0;
     }
 }
 
@@ -199,7 +200,16 @@
     }
 }
 
+// Keep for Deprecation
 .md-typeset .grid {
+    dl {
+        dt {
+            text-align: center;
+        }
+    }
+}
+
+.md-typeset .dl-center {
     dl {
         dt {
             text-align: center;

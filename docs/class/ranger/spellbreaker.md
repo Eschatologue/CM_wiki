@@ -17,9 +17,9 @@ Spellbreakers are a small but dedicated group of Rangers that specialize in hunt
 
 ### Level 3: Mage Breaker
 
-You ward your weapons with antimagic enchantments. When you hit a creature with a weapon attack, it has **:d20-dis: Disadvantage**{ .d20 } on its :d20-save: Constitution saving throw to maintain :spell-conc: Concentration.
+You ward your weapons with antimagic enchantments. When you hit a creature with a weapon attack, it has **:d20-dis: Disadvantage**{ .d20 } on **:d20-save: CON Save**{.d20} to maintain :spell-conc: Concentration.
 
-Also, when you see a creature casting a spell with Verbal, Somatic, or Material components, or attempt to teleport, you can take a **:rsc-r: Reaction**{ .rsc } to make one weapon attack or one **:rsc-a: Unarmed Strike**{ .rsc } against it.
+Also, when you see a creature casting a spell with Verbal, Somatic, or Material components, or attempt to Teleport, you can take a **:rsc-r: Reaction**{ .rsc } to make one weapon attack or one **:rsc-a: Unarmed Strike**{ .rsc } against it.
 
 ### Level 3: Spellsight
 
@@ -41,23 +41,23 @@ When you reach a Ranger level specified in the Spellbreaker Spells Table, you th
 
 ### Level 7: Arcane Defense
 
-You can steel yourself to better resist the magics of your foes. Whenever you are forced to make a :d20-save: saving throw to resist a spell or another magical effect, you gain a bonus to your roll equal to your Wisdom modifier (minimum of +1).
+You can steel yourself to better resist the magics of your foes. Whenever you are forced to make a Saving Throw to resist a spell or another magical effect, you gain a bonus to your roll equal to your Wisdom modifier (minimum of +1).
 
-Moreover, whenever you are subjected you to a spell or magical effect that allows you to make a :d20-save: saving throw to take only half damage, you instead take no damage on a success, and only half damage on a fail.
+Moreover, whenever you are subjected you to a spell or magical effect that allows you to make a :Saving Throwow to take only half damage, you instead take no damage on a success, and only half damage on a fail.
 
 ### Level 11: Spellbane
 
-You are an unparalleled hunter of mages. Whenever you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } (Damage), you can expend a level 1+ spell slot to deal bonus :dmg-force: Force damage to your target equal to 1:die-d8: D8 per level of the spell slot you expended. 
+You are an unparalleled hunter of mages. Whenever you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } (Damage), you can expend a level 1+ spell slot to deal bonus **:dmg-force: Force**{.dmg-force} damage to your target equal to `1d8` per level of the spell slot you expended. 
 
 Moreover, when you cast [:spell-lv3: Dispel Magic] or [:spell-lv3: Counterspell], it gains the following effects.
 
 **Dispel Magic**{ .inl } When you cast [:spell-lv3: Dispel Magic] and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. 
 
-**Counterspell**{ .inl } When you cast [:spell-lv3: Counterspell], your target has **:d20-dis: Disadvantage**{ .d20 } on the :d20-save: saving throw.
+**Counterspell**{ .inl } When you cast [:spell-lv3: Counterspell], your target has **:d20-dis: Disadvantage**{ .d20 } on the Saving Throw.
 
 ### Level 15: Mantle of the Master
 
-Your Spellbreaker training has reached its pinnacle. You have **:dmg-res: Resistance**{ .em } to damage from spells and all other magical effects so long you don't have the Unconscious or Incapacitated condition.
+Your Spellbreaker training has reached its pinnacle. You have **:dmg-res: Resistance**{ .em } to damage from spells and all other magical effects so long you don't have the **Unconscious**{.cond} or **Incapacitated**{.cond} condition.
 
 ### Level 15: Reflect Spell
 
