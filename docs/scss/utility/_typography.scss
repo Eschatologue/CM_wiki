@@ -189,8 +189,7 @@
     position: relative;
 
     &::after {
-        content: "–";
-        margin-left: convert.px2em(3px);
+        content: " –"; // This is cleaner
     }
 }
 
