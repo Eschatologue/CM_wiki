@@ -346,7 +346,8 @@ table:not([class]) .smallcap {
   position: relative;
 }
 .inl::after {
-  content: " –";
+  content: " —";
+  color: var(--md-default-fg-color--light) !important;
 }
 
 /*-------------------------------------------------------
