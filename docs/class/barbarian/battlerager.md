@@ -21,9 +21,9 @@ While wearing your Ravager Armour, you gain the following benefits:
 
 **Barbed**{.inl} You have **:d20-adv: Advantage**{ .d20 } on saving throws to avoid or end the Grappled condition.
 
-**Spiked Slam**{.inl} When you make an **:rsc-a: Unarmed Strike**{ .rsc } (Damage), you can slam into the target with your armour, dealing :dmg-prcg: Piercing damage equal to 1d6 plus your Strength modifier, instead of the normal damage for an **:rsc-a: Unarmed Strike**{ .rsc }.
+**Spiked Slam**{.inl} When you make an **:rsc-a: Unarmed Strike (Damage)**{ .rsc }, you can slam into the target with your armour, dealing **1d6 plus Strength modifier :dmg-prcg: Piercing**{.dmg-bps}, instead of the normal damage for an **:rsc-a: Unarmed Strike**{ .rsc }.
 
-**Spiky Embrace**{.inl} At the start of each of your turns while you have a creature Grappled, it takes :dmg-prcg: Piercing damage equal to your Strength modifier (minimum 1 damage).
+**Spiky Embrace**{.inl} At the start of each of your turns while you have a creature Grappled, it takes **(Strength modifier) :dmg-prcg: Piercing** damage (minimum 1 damage).
 
 ### Level 3: Ravager's Hold
 
@@ -39,13 +39,13 @@ When a creature hits you with a melee attack, you can use your **:rsc-r: Reactio
 
 ### Level 10: Death Roll
 
-While your **:ui-rage: Rage**{ .em } is active and you have one or more creatures Grappled, you can use your **:rsc-b: Bonus Action**{ .rsc } to perform a Death Roll. You move yourself to an unoccupied space you can see within 10 feet of you, dragging the Grappled creatures along with you. This Movement doesn't provoke Opportunity Attacks. During this Movement, you violently spin and slam your Grappled targets around you, dealing 2d8 :dmg-prcg: Piercing damage to each target. The damage increases by 1d8 at level 15 (3d8) and at level 20 (4d8).
+While your **:ui-rage: Rage**{ .em } is active and you have one or more creatures Grappled, you can use your **:rsc-b: Bonus Action**{ .rsc } to perform a *Death Roll*. You move yourself to an unoccupied space you can see within 10 feet of you, dragging the Grappled creatures along with you. This Movement doesn't provoke **:rsc-r: Opportunity Attacks**{.rsc}. During this Movement, you violently spin and slam your Grappled targets around you, dealing **2d8 :dmg-prcg: Piercing**{.dmg-bps} damage to each target. The damage increases by `1d8` at level 15 (`3d8`) and at level 20 (`4d8`).
 
 ### Level 14: Ravager's Might
 
 Once per turn, while your **:ui-rage: Rage**{ .em } is active and you have one or more creatures Grappled, you can forgo one of your attacks to use the Grappled creature as a weapon, provided the creature is the same size as you or smaller and you have nothing in your hands. You choose one of the following options:
 
-**Roundhouse Sweep**{ .inl } You spin one of the Grappled creatures around you. Each creature within 10 feet of you must make a Dexterity saving throw (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier). On a failed save, a creature takes 3d8 :dmg-bldg: Bludgeoning damage and is pushed 10 feet away from you. The Grappled creature takes 2d8 :dmg-bldg: Bludgeoning damage.
+**Roundhouse Sweep**{ .inl } You spin one of the Grappled creatures around you. Each creature within 10 feet of you must make a **:d20-save: DEX Save**{.d20} (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier). On a failed save, a creature takes **3d8 :dmg-bldg: Bludgeoning**{.dmg-bps} damage and is pushed 10 feet away from you. The Grappled creature takes **2d8 :dmg-bldg: Bludgeoning**{.dmg-bps} damage.
 
 **Seismic Toss**{ .inl } You throw one of the Grappled creatures at a target you can see within 20 feet of you. The Grappled creature and the target make a Strength save (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier). On a failed save, a creature takes 2d8 :dmg-bldg: Bludgeoning damage and has the Prone condition.
 
