@@ -63,7 +63,7 @@ Whenever you assume your starry form, choose which of the following constellatio
 
 :   A constellation of a wise dragon appears on you. You gain the following benefits.
 
-    **Dragon's Wisdom**{ .inl } When you make an **:d20-check: Intelligence** or a **:d20-check: Wisdom** check or a **:d20-save: Constitution save** to maintain **:spell-conc: Concentration** on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
+    **Dragon's Wisdom**{ .inl } When you make an **:d20-check: INT Check** or a **:d20-check: WIS Check** or a **:d20-save: CON Save** to maintain **:spell-conc: Concentration** on a spell, you can treat a roll of 9 or lower on the d20 as a 10.
 
 ### Level 6: Cosmic Omen
 
@@ -71,11 +71,11 @@ Whenever you assume your starry form, choose which of the following constellatio
 
 Whenever you finish a **:rest-long: Long Rest**, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next Long Rest, you gain access to a special **:rsc-r: Reaction**{ .rsc } based on whether you rolled an even or an odd number on the die:
 
-**:rsc-r: Weal (even)**{ .inl } Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and add the number rolled to the total.
-{ .indt }
+**:rsc-r: Weal (even)**
+:   Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and add the number rolled to the total.
 
-**:rsc-r: Woe (odd)**{ .inl } Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and subtract the number rolled from the total.
-{ .indt }
+**:rsc-r: Woe (odd)**
+:   Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and subtract the number rolled from the total.
 
 You can use use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
@@ -85,8 +85,8 @@ You are more closely attuned to the cosmic forces, giving you the following bene
 
 **Starry Form Improvements**{.inl} The constellations of your Starry Form improves.
 
-- _**Archer.**_ You can make two Ranged spell attack instead of once when making your Archer Form's **:rsc-b: Bonus Action**{ .rsc } attack.
-- _**Chalice.**_ You can choose two targets instead of one to receive **:trt-hp: Hit Points** from **Chalice Healing**.
+- _**Archer.**_ You can make two Ranged spell attack instead of one as part of the same **:rsc-b: Bonus Action**{ .rsc } when making your Archer Form's attack.
+- _**Chalice.**_ Each creature of your choice within 30 feet gain **:trt-hp: Hit Points** instead of only one creature.
 - _**Dragon.**_ You have a Fly Speed of 20 feet and can hover.
 
 **Swift Attunement**{.inl} At the start of each of your turns while in your Starry Form, you can change which constellation glimmers on your body.
