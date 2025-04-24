@@ -345,9 +345,8 @@ table:not([class]) .smallcap {
   display: inline-block;
   position: relative;
 }
-.inl ::after {
-  content: "–";
-  margin-left: 0.1875em;
+.inl::after {
+  content: " –";
 }
 
 /*-------------------------------------------------------
