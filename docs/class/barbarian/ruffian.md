@@ -17,7 +17,7 @@ While most Barbarians draw their Rage from the untamed wilderness, those who fol
 
 You have a way of connecting with the less savoury members of society. 
 
-You can speak, read, and write Thieves' Cant. Additionally, you have **:d20-adv: Advantage**{.d20} whenever you make an ability check when interacting with those who understand Thieves' Cant—such as criminals, rogues, or other disreputable figures.
+You can speak, read, and write Thieves' Cant. Additionally, you have **:d20-adv: Advantage**{.d20} whenever you make Charisma check when interacting with those who understand Thieves' Cant—such as criminals, rogues, or other disreputable figures.
 
 ### Level 3: Bruiser's Might
 
@@ -29,7 +29,7 @@ Your body itself has become a weapon, while you aren't wearing Medium or Heavy a
 
 **Climbing Speed**{ .inl } You gain a Climbing Speed equal to your **:rsc-spd: Speed**{ .em }.
 
-**Quick Jab**{ .inl } When you activate your **:ui-rage: Rage**{ .em }, you can make an **:rsc-a: Unarmed Strike**{ .rsc } as part of the same **:rsc-b: Bonus Action**{ .rsc }.
+**Quick Jab**{ .inl } When you activate your **:ui-rage: Rage**{ .em }, you can make one **:rsc-a: Unarmed Strike**{ .rsc } as part of the same **:rsc-b: Bonus Action**{ .rsc }.
 
 ### Level 6: Forceful Rend
 
@@ -37,15 +37,13 @@ Your fists becomes devastating to whoever at the receiving end. The following op
 
 **Concussion**{ .inl } You can force a creature you hit with **:rsc-a: Unarmed Strike (Damage)**{ .rsc } to make a **:d20-save: DEX Save**{.d20}. On fail, the target must subtract the result of your Unarmed Strike die from its next D20 Test until the start of your next turn.
 
-**Hurl**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can end a **Grapple** to throw the creature to a point you can see within 30 feet. If the creature lands in an unoccupied space, it has the **Prone**{ .cond } condition. If it collides with another creature, that creature must succeed on a **:d20-save: DEX Save**{.d20} or take **(Unarmed Strike) :dmg-bldg: Bludgeoning**{.dmg-bps} damage.
+**Hurl**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can end a **Grapple** to throw the creature to a point you can see within 20 feet. If the creature lands in an unoccupied space, it has the **Prone**{ .cond } condition. If it collides with another creature, that creature must succeed on a **:d20-save: DEX Save**{.d20} or take **(Unarmed Strike) :dmg-bldg: Bludgeoning**{.dmg-bps} damage.
 
-### Level 10: Crushing Strength
+### Level 10: Backbreaker
 
-Your expertise in hand-to-hand combat reaches new heights: your unarmed attacks are deadlier and more punishing. 
+Your expertise in hand-to-hand combat reaches new heights. 
 
-While your **:ui-rage: Rage**{ .em } is active, you gain the following benefits:
-
-**Backbreaker**{ .inl } At the start of each of your turns while your **:ui-rage: Rage**{ .em } is active, you can deal **(Rage Damage) :dmg-bldg: Bludgeoning**{.dmg-bps} damage to one creature that receive the **Grappled**{ .cond } condition from you (no action required).
+At the start of each of your turns while your **:ui-rage: Rage**{ .em } is active, you can deal **(Rage Damage) :dmg-bldg: Bludgeoning**{.dmg-bps} damage to one creature that receive the **Grappled**{ .cond } condition from you (no action required).
 
 ### Level 10: Titan's Grip
 
