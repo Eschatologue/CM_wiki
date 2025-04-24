@@ -188,7 +188,7 @@
     display: inline-block;
     position: relative;
 
-    ::after {
+    &::after {
         content: "–";
         margin-left: convert.px2em(3px);
     }
