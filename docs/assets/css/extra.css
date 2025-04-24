@@ -342,15 +342,18 @@ table:not([class]) .smallcap {
 
 .inl {
   font-weight: 600 !important;
-  font-style: italic;
   display: inline-block;
   position: relative;
+}
+.inl ::after {
+  content: "–";
+  margin-left: 0.1875em;
 }
 
 /*-------------------------------------------------------
     Brackets and Emphasizes
 -------------------------------------------------------*/
-.chevron-right::after, .md-tabs__item--active .md-tabs__link::after, .chev-lr::after, .inl::after {
+.chevron-right::after, .md-tabs__item--active .md-tabs__link::after, .chev-lr::after {
   content: "»";
   font-style: normal !important;
   font-weight: 400 !important;
@@ -358,7 +361,7 @@ table:not([class]) .smallcap {
   margin-left: 0.1875em;
 }
 
-.chevron-left::before, .md-tabs__item--active .md-tabs__link::before, .chev-lr::before, .inl::before {
+.chevron-left::before, .md-tabs__item--active .md-tabs__link::before, .chev-lr::before {
   content: "«";
   font-style: normal !important;
   font-weight: 400 !important;
