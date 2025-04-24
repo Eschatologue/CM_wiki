@@ -21,7 +21,7 @@ While wearing your Ravager Armour, you gain the following benefits:
 
 **Barbed**{.inl} You have **:d20-adv: Advantage**{ .d20 } on saving throws to avoid or end the Grappled condition.
 
-**Spiked Slam** – When you make an **:rsc-a: Unarmed Strike**{ .rsc } (Damage), you can slam into the target with your armour, dealing :dmg-prcg: Piercing damage equal to 1d6 plus your Strength modifier, instead of the normal damage for an **:rsc-a: Unarmed Strike**{ .rsc }.
+**Spiked Slam**{.inl} When you make an **:rsc-a: Unarmed Strike**{ .rsc } (Damage), you can slam into the target with your armour, dealing :dmg-prcg: Piercing damage equal to 1d6 plus your Strength modifier, instead of the normal damage for an **:rsc-a: Unarmed Strike**{ .rsc }.
 
 **Spiky Embrace**{.inl} At the start of each of your turns while you have a creature Grappled, it takes :dmg-prcg: Piercing damage equal to your Strength modifier (minimum 1 damage).
 

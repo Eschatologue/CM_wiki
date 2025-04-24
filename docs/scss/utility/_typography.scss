@@ -182,11 +182,16 @@
 
 // Used for Inline Titles
 .inl {
-    @extend .em, .nowrap, .chev-lr;
+    @extend .em, .nowrap;
     font-weight: 600 !important;
-    font-style: italic;
+    // font-style: italic;
     display: inline-block;
     position: relative;
+
+    ::after {
+        content: "–";
+        margin-left: convert.px2em(3px);
+    }
 }
 
 /*-------------------------------------------------------
