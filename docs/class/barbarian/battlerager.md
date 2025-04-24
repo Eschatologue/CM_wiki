@@ -19,19 +19,19 @@ You adorn your armour with crude spikes with which you can slam your enemies. Yo
 
 While wearing your Ravager Armour, you gain the following benefits:
 
-**Barbed**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on saving throws to avoid or end the Grappled condition.
+**Barbed**{.inl} You have **:d20-adv: Advantage**{ .d20 } on saving throws to avoid or end the Grappled condition.
 
-***Spiked Slam***. When you make an **:rsc-a: Unarmed Strike**{ .rsc } (Damage), you can slam into the target with your armour, dealing :dmg-prcg: Piercing damage equal to 1d6 plus your Strength modifier, instead of the normal damage for an **:rsc-a: Unarmed Strike**{ .rsc }.
+**Spiked Slam** – When you make an **:rsc-a: Unarmed Strike**{ .rsc } (Damage), you can slam into the target with your armour, dealing :dmg-prcg: Piercing damage equal to 1d6 plus your Strength modifier, instead of the normal damage for an **:rsc-a: Unarmed Strike**{ .rsc }.
 
-**Spiky Embrace**{ .inl } At the start of each of your turns while you have a creature Grappled, it takes :dmg-prcg: Piercing damage equal to your Strength modifier (minimum 1 damage).
+**Spiky Embrace**{.inl} At the start of each of your turns while you have a creature Grappled, it takes :dmg-prcg: Piercing damage equal to your Strength modifier (minimum 1 damage).
 
 ### Level 3: Ravager's Hold
 
 Your furious grip becomes extremely tight as you press your spiked armour into your enemies. When your **:ui-rage: Rage**{ .em } is active, you gain the following benefits:
 
-**Tight Grip**{ .inl } You add your **:ui-rage: Rage**{ .em } Damage bonus to the saving throw DC of your Unarmed Strikes.
+**Tight Grip**{.inl} You add your **:ui-rage: Rage**{ .em } Damage bonus to the saving throw DC of your Unarmed Strikes.
 
-**Raging Hold**{ .inl } You add your **:ui-rage: Rage**{ .em } Damage bonus to the damage of your Spiky Embrace.
+**Raging Hold**{.inl} You add your **:ui-rage: Rage**{ .em } Damage bonus to the damage of your Spiky Embrace.
 
 ### Level 6: Spiked Retribution
 
