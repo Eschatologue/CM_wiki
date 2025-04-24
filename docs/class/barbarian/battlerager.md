@@ -23,7 +23,7 @@ While wearing your Ravager Armour, you gain the following benefits:
 
 **Spiked Slam**{.inl} When you make an **:rsc-a: Unarmed Strike (Damage)**{ .rsc }, you can slam into the target with your armour, dealing **(1d6 + Strength modifier) :dmg-prcg: Piercing**{.dmg-bps} damage, instead of the normal damage for an **:rsc-a: Unarmed Strike**{ .rsc }.
 
-**Spiky Embrace**{.inl} At the start of each of your turns while you have a creature Grappled, it takes **(Strength modifier) :dmg-prcg: Piercing** damage (minimum 1 damage). When your **:ui-rage: Rage**{ .em } is active, you add your Rage damage bonus to this damage.
+**Spiky Embrace**{.inl} At the start of each of your turns while you have a creature Grappled, it takes **(Strength modifier) :dmg-prcg: Piercing**{.dmg-bps} damage (minimum 1 damage). When your **:ui-rage: Rage**{ .em } is active, you add your Rage damage bonus to this damage.
 
 ### Level 3: Ravager's Hold
 

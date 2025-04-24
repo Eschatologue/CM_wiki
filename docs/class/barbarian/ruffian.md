@@ -17,13 +17,13 @@ While most Barbarians draw their Rage from the untamed wilderness, those who fol
 
 You have a way of connecting with the less savoury members of society. 
 
-You can speak, read, and write Thieves' Cant. Additionally, whenever you make an ability check when interacting with those who understand Thieves' Cant—such as criminals, rogues, or other disreputable figures—your proficiency bonus is doubled if it applies to the check.
+You can speak, read, and write Thieves' Cant. Additionally, you have **:d20-adv: Advantage**{.d20} whenever you make an ability check when interacting with those who understand Thieves' Cant—such as criminals, rogues, or other disreputable figures.
 
 ### Level 3: Bruiser's Might
 
-Your body itself has become a weapon. You gain the [Unarmed Fighting](../../option/feat/feat-fighting-style/phb24.md#unarmed-fighting) Fighting Style feat.
+Your body itself has become a weapon, while you aren't wearing Medium or Heavy armour, you gain the following benefits:
 
-Additionally, while you aren't wearing Medium or Heavy armour, you gain the following benefits:
+**Ruffian's Fist**{ .inl } You can roll `1d6` in place of the normal damage of your **:rsc-a: Unarmed Strike**{ .rsc }. This die changes at certain Barbarian level; `1d8` at level 6, `1d10` at level 10, and finally `1d12` at level 12.
 
 **Bonus Unarmed Strike**{ .inl } You can make an **:rsc-a: Unarmed Strike**{ .rsc } as a **:rsc-b: Bonus Action**{ .rsc }.
 
@@ -33,21 +33,19 @@ Additionally, while you aren't wearing Medium or Heavy armour, you gain the foll
 
 ### Level 6: Forceful Rend
 
-Your fists becomes devastating to whoever at the receiving end. Your **:rsc-a: Unarmed Strike**{ .rsc } is improved in the following ways:
+Your fists becomes devastating to whoever at the receiving end. The following options are added to your **:rsc-a: Unarmed Strike**{ .rsc }:
 
-**Hurl**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can end a Grapple to throw the creature to a point you can see within 30 feet. If the creature lands in an unoccupied space, it has the **Prone**{ .cond } condition. If it collides with another creature, that creature must succeed on a Dexterity saving throw (DC = 8 + Prof. Bonus + Str. modifier) or take :dmg-bldg: Bludgeoning damage equal to your **:rsc-a: Unarmed Strike**{ .rsc } damage.
+**Concussion**{ .inl } You can force a creature you hit with **:rsc-a: Unarmed Strike (Damage)**{ .rsc } to make a **:d20-save: DEX Save**{.d20}. On fail, the target must subtract the result of your Unarmed Strike die from its next D20 Test until the start of your next turn.
 
-**Concussion**{ .inl } When you hit a creature with an **:rsc-a: Unarmed Strike**{ .rsc } , you can force it to make a Constitution saving throw (DC = 8 + Prof. Bonus + Str. modifier). On a failure, it has the **Stunned**{ .cond } condition until the start of your next turn. On a success, its Speed is halved until the start of your next turn, and the next attack against it has :d20-adv: Advantage.
-
-You can use this class feature a number of times equal to your Strength modifier (a minimum of once), and you regain all expended uses when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
+**Hurl**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can end a **Grapple** to throw the creature to a point you can see within 30 feet. If the creature lands in an unoccupied space, it has the **Prone**{ .cond } condition. If it collides with another creature, that creature must succeed on a **:d20-save: DEX Save**{.d20} or take **(Unarmed Strike) :dmg-bldg: Bludgeoning**{.dmg-bps} damage.
 
 ### Level 10: Crushing Strength
 
-Your expertise in hand-to-hand combat reaches new heights: your unarmed attacks are deadlier and more punishing. While your **:ui-rage: Rage**{ .em } is active, you gain the following benefits:
+Your expertise in hand-to-hand combat reaches new heights: your unarmed attacks are deadlier and more punishing. 
 
-**Backbreaker**{ .inl } At the start of each of your turns while your **:ui-rage: Rage**{ .em } is active, you can deal 1d6 :dmg-bldg: Bludgeoning damage to one creature that receive the **Grappled**{ .cond } condition from you, instead of 1d4. At Barbarial level 14, this damage die becomes 1d8.
+While your **:ui-rage: Rage**{ .em } is active, you gain the following benefits:
 
-**Deadly Strikes**{ .inl } While your **:ui-rage: Rage**{ .em } is active, when you do damage with **:rsc-a: Unarmed Strike**{ .rsc } , its damage die becomes 1d8, or 1d10 if you have two free hands. At Barbarian level 14, this damage die becomes 1d10, or 1d12 if you have two free hands.
+**Backbreaker**{ .inl } At the start of each of your turns while your **:ui-rage: Rage**{ .em } is active, you can deal **(Rage Damage) :dmg-bldg: Bludgeoning**{.dmg-bps} damage to one creature that receive the **Grappled**{ .cond } condition from you (no action required).
 
 ### Level 10: Titan's Grip
 
@@ -61,7 +59,7 @@ Once you have a hold of something it is nearly impossible for it to escape. You 
 
 You can shrug off physical blows that would devastate lesser warriors. When you make a Strength, Dexterity, Constitution, or Death Saving Throw, you roll a d6 and add it to your roll.
 
-Should you roll a 20 or higher on a Death Saving Throw, you instantly regain consciousness and stand up with 1 Hit Point.
+Should you roll a 22 or higher on a Death Saving Throw, you instantly regain consciousness and stand up with a number of Hit Points equals to half your Barbarian level.
 
 :material-book-edit: Written by *Eschatologue*
 { .quote }
