@@ -180,7 +180,7 @@
     padding-left: calc((var(--gbl-font-size) * 1.25) * 2);
 }
 
-// Used for Inline Titles
+// Used for Inline Subheading
 .inl {
     @extend .em, .nowrap;
     font-weight: 600 !important;
@@ -189,7 +189,8 @@
     position: relative;
 
     &::after {
-        content: " –"; // This is cleaner
+        content: " —"; // This is cleaner
+        color: var(--md-default-fg-color--light) !important;
     }
 }
 

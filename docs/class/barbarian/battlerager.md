@@ -21,17 +21,13 @@ While wearing your Ravager Armour, you gain the following benefits:
 
 **Barbed**{.inl} You have **:d20-adv: Advantage**{ .d20 } on saving throws to avoid or end the Grappled condition.
 
-**Spiked Slam**{.inl} When you make an **:rsc-a: Unarmed Strike (Damage)**{ .rsc }, you can slam into the target with your armour, dealing **1d6 plus Strength modifier :dmg-prcg: Piercing**{.dmg-bps}, instead of the normal damage for an **:rsc-a: Unarmed Strike**{ .rsc }.
+**Spiked Slam**{.inl} When you make an **:rsc-a: Unarmed Strike (Damage)**{ .rsc }, you can slam into the target with your armour, dealing **(1d6 + Strength modifier) :dmg-prcg: Piercing**{.dmg-bps} damage, instead of the normal damage for an **:rsc-a: Unarmed Strike**{ .rsc }.
 
-**Spiky Embrace**{.inl} At the start of each of your turns while you have a creature Grappled, it takes **(Strength modifier) :dmg-prcg: Piercing** damage (minimum 1 damage).
+**Spiky Embrace**{.inl} At the start of each of your turns while you have a creature Grappled, it takes **(Strength modifier) :dmg-prcg: Piercing** damage (minimum 1 damage). When your **:ui-rage: Rage**{ .em } is active, you add your Rage damage bonus to this damage.
 
 ### Level 3: Ravager's Hold
 
-Your furious grip becomes extremely tight as you press your spiked armour into your enemies. When your **:ui-rage: Rage**{ .em } is active, you gain the following benefits:
-
-**Tight Grip**{.inl} You add your **:ui-rage: Rage**{ .em } Damage bonus to the saving throw DC of your Unarmed Strikes.
-
-**Raging Hold**{.inl} You add your **:ui-rage: Rage**{ .em } Damage bonus to the damage of your Spiky Embrace.
+Your furious grip becomes extremely tight as you press your spiked armour into your enemies. When your **:ui-rage: Rage**{ .em } is active, you add your Rage Damage bonus to the saving throw DC of your Unarmed Strikes.
 
 ### Level 6: Spiked Retribution
 
@@ -39,15 +35,19 @@ When a creature hits you with a melee attack, you can use your **:rsc-r: Reactio
 
 ### Level 10: Death Roll
 
-While your **:ui-rage: Rage**{ .em } is active and you have one or more creatures Grappled, you can use your **:rsc-b: Bonus Action**{ .rsc } to perform a *Death Roll*. You move yourself to an unoccupied space you can see within 10 feet of you, dragging the Grappled creatures along with you. This Movement doesn't provoke **:rsc-r: Opportunity Attacks**{.rsc}. During this Movement, you violently spin and slam your Grappled targets around you, dealing **2d8 :dmg-prcg: Piercing**{.dmg-bps} damage to each target. The damage increases by `1d8` at level 15 (`3d8`) and at level 20 (`4d8`).
+While your **:ui-rage: Rage**{ .em } is active and you have one or more creatures Grappled, perform a *Death Roll*. 
+
+**Death Roll**{.inl} As a **:rsc-b: Bonus Action**{ .rsc }, you move yourself to an unoccupied space you can see within 15 feet of you, dragging the Grappled creatures along with you. During this Movement, you violently spin and slam your Grappled target, dealing **1d6 :dmg-prcg: Piercing**{.dmg-bps} damage for each 5 feet you move. The damage increases by `1d6` at level 15 (`2d6`) and at level 20 (`3d6`).
 
 ### Level 14: Ravager's Might
 
-Once per turn, while your **:ui-rage: Rage**{ .em } is active and you have one or more creatures Grappled, you can forgo one of your attacks to use the Grappled creature as a weapon, provided the creature is the same size as you or smaller and you have nothing in your hands. You choose one of the following options:
+Once per turn, while your **:ui-rage: Rage**{ .em } is active and you have one or more creatures Grappled, you can forgo one of your attacks to use the Grappled creature as a weapon, provided the creature is the same size as you or smaller and you have nothing in your hands. If an effect imposes a Saving Throw, it uses your Unarmed Strike's DC.
 
-**Roundhouse Sweep**{ .inl } You spin one of the Grappled creatures around you. Each creature within 10 feet of you must make a **:d20-save: DEX Save**{.d20} (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier). On a failed save, a creature takes **3d8 :dmg-bldg: Bludgeoning**{.dmg-bps} damage and is pushed 10 feet away from you. The Grappled creature takes **2d8 :dmg-bldg: Bludgeoning**{.dmg-bps} damage.
+You choose one of the following options:
 
-**Seismic Toss**{ .inl } You throw one of the Grappled creatures at a target you can see within 20 feet of you. The Grappled creature and the target make a Strength save (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier). On a failed save, a creature takes 2d8 :dmg-bldg: Bludgeoning damage and has the Prone condition.
+**Roundhouse Sweep**{ .inl } You spin one of the Grappled creatures around you. Each creature within 10 feet of you must make a **:d20-save: DEX Save**{.d20}. On a failed save, a creature takes **3d6 :dmg-bldg: Bludgeoning**{.dmg-bps} damage and is pushed 10 feet away from you. The Grappled creature takes **2d6 :dmg-bldg: Bludgeoning**{.dmg-bps} damage.
+
+**Seismic Toss**{ .inl } You throw one of the Grappled creatures at a target you can see within 20 feet of you. The Grappled creature and the target make a **:d20-save: STR Save**{.d20}. On a failed save, a creature takes **2d6 :dmg-bldg: Bludgeoning**{.dmg-bps} damage and has the Prone condition.
 
 :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
 { .author }
