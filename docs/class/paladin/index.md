@@ -157,9 +157,23 @@ You gain a Fighting Style feat of your choice (see chapter 5 for feats). Instead
 
 You always have the [:spell-lv1: Divine Smite] spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a **:rest-long: Long Rest** before you can cast it in this way again.
 
-### Level 2: Divine Smite (Optional) 
+### Level 2: Divine Smite :material-directions-fork:{ title="Optional Class Feature"}
 
---8<-- "docs/class/index.md:opt-pal-smite"
+<!-- --8<-- [start:opt-pal-smite] -->
+
+_Level 2 Paladin Optional Class Feature, replaces Paladin's Smite_{ .fg-light }
+
+When you damage a creature with a Melee weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } , you can expend a spell slot to cause that attack to deal **bonus damage** to the target. This feature also changes the damage type dealt from _**Radiant Strike**_ feature. This bonus damage is `2d8` for a level 1 spell slot and it increases by `1d8` for each spell slot level above 1, to a maximum of `6d8`.
+
+The bonus damage of this feature depends on your alignment, or freely choose from the following table.
+
+| Alignment | Damage Type |
+|:-:|:-:|
+| Good | **:dmg-radi: Radiant**{ .dmg-radi } |
+| Neutral | **:dmg-thun: Thunder**{ .dmg-thun } |
+| Evil | **:dmg-necr: Necrotic**{ .dmg-necr } |
+
+<!-- --8<-- [end:opt-pal-smite] -->
 
 [Paladin's Smite]: #level-2-paladins-smite
 
