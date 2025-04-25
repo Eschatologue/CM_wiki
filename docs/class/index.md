@@ -57,9 +57,9 @@ Barbarian has the following optional class feature.
 
 <div class="dl-center" markdown>
 
-**:class-barbarian:**{ .x4l }
+**:class-barbarian:**{.x5l}
 
-:   ### Primal Defence
+:   #### Level 1 – Primal Defence
 
     --8<-- "docs/class/barbarian/index.md:opt-barb-prim-def"
 

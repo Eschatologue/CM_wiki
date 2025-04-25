@@ -137,9 +137,11 @@ Each time the **:ui-rage: Rage**{ .em } is extended, it lasts until the end of y
 
 While you aren't wearing any armor, your base Armour Class equals **10 plus your :abl-dex: Dexterity and :abl-cons: Constitution modifiers**{ .calc }. You can use a Shield and still gain this benefit.
 
-### Level 1: Primal Defence :material-directions-fork:{title= "Optional Class Feature"}
+### Level 1: Primal Defence :material-directions-fork:{ title="Optional Class Feature"}
 
 <!-- --8<-- [start:opt-barb-prim-def] -->
+
+_Level 1 Barbarian Core Class Feature (Optional)_
 
 While you aren't wearing any armor, your base Armour Class equals **10 + your :abl-str: Strength and :abl-cons: Constitution modifiers**{ .calc }. You can use a Shield and still gain this benefit.
 
