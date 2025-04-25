@@ -51,20 +51,25 @@ You gain class features in the Player's Handbook when you reach certain levels i
 
 **Replacement**{.inl}If you take a feature that replaces another feature, you gain no benefit from the replaced one and don't qualify for anything in the game that requires it. 
 
-## Barbarian
+### Barbarian
 
 Barbarian has the following optional class feature.
 
-### Primal Defence
+<div class="dl-center" markdown>
 
-<!-- --8<-- [start:opt-barb-unarmoured-defence] -->
+**:class-barbarian:**{ .x3l }<br>**BARBARIAN**
 
+:   #### Primal Defence
 
-_Level 1 Barbarian Optional Class Feature, replaces Unarmoured Defence_{ .fg-light }
+    <!-- --8<-- [start:opt-barb-unarmoured-defence] -->
 
-While you aren't wearing any armor, your base Armour Class equals **10 + your :abl-str: Strength and :abl-cons: Constitution modifiers**{ .calc }. You can use a Shield and still gain this benefit.
+    _Level 1 Barbarian Optional Class Feature, replaces Unarmoured Defence_{ .fg-light }
 
-<!-- --8<-- [end:opt-barb-unarmoured-defence] -->
+    While you aren't wearing any armor, your base Armour Class equals **10 + your :abl-str: Strength and :abl-cons: Constitution modifiers**{ .calc }. You can use a Shield and still gain this benefit.
+
+    <!-- --8<-- [end:opt-barb-unarmoured-defence] -->
+
+</div>
 
 ## Ranger
 
