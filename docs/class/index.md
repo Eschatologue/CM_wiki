@@ -57,17 +57,11 @@ Barbarian has the following optional class feature.
 
 <div class="dl-center" markdown>
 
-**:class-barbarian:**{ .x3l }<br>**BARBARIAN**
+**:class-barbarian:**{ .x4l }
 
-:   #### Primal Defence
+:   ### Primal Defence
 
-    <!-- --8<-- [start:opt-barb-unarmoured-defence] -->
-
-    _Level 1 Barbarian Optional Class Feature, replaces Unarmoured Defence_{ .fg-light }
-
-    While you aren't wearing any armor, your base Armour Class equals **10 + your :abl-str: Strength and :abl-cons: Constitution modifiers**{ .calc }. You can use a Shield and still gain this benefit.
-
-    <!-- --8<-- [end:opt-barb-unarmoured-defence] -->
+    --8<-- "docs/class/barbarian/index.md:opt-barb-prim-def"
 
 </div>
 

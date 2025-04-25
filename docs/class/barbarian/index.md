@@ -137,9 +137,13 @@ Each time the **:ui-rage: Rage**{ .em } is extended, it lasts until the end of y
 
 While you aren't wearing any armor, your base Armour Class equals **10 plus your :abl-dex: Dexterity and :abl-cons: Constitution modifiers**{ .calc }. You can use a Shield and still gain this benefit.
 
-### Level 1: Primal Defence (Optional) 
+### Level 1: Primal Defence :material-directions-fork:{title= "Optional Class Feature"}
 
---8<-- "docs/class/index.md:opt-barb-unarmoured-defence"
+<!-- --8<-- [start:opt-barb-prim-def] -->
+
+While you aren't wearing any armor, your base Armour Class equals **10 + your :abl-str: Strength and :abl-cons: Constitution modifiers**{ .calc }. You can use a Shield and still gain this benefit.
+
+<!-- --8<-- [end:opt-barb-prim-def] -->
 
 [Unarmoured Defence]: #level-1-unarmoured-defence
 
