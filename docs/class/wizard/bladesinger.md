@@ -30,7 +30,7 @@ While the *Bladesong* is active, you gain the following benefits. You can invoke
 
 ### Level 3: Training in War and Song
 
-You gain proficiency with all Melee Martial weapons that don’t have the **:wp-prop-two-handed: Two-Handed** or **:wp-prop-heavy: Heavy** property. You can use a Melee weapon with which you have proficiency as a Spellcasting Focus for your Wizard spells. 
+You gain proficiency with all Melee Martial weapons that don’t have the **:wp-prop-two-handed: Two-Handed**{.wp} or **:wp-prop-heavy: Heavy**{.wp} property. You can use a Melee weapon with which you have proficiency as a Spellcasting Focus for your Wizard spells. 
  
 You also gain proficiency in one of the following skills of your choice: Acrobatics, Athletics, Performance, or Persuasion
 

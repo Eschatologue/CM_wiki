@@ -105,7 +105,7 @@ Drawing from your innate magic, you can cast spells. See chapter 7 for the rules
 
 #### Cantrips
 
-You know four Sorcerer cantrips of your choice. Light, Prestidigitation, Shocking Grasp, and Sorcerous Burst are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
+You know four Sorcerer cantrips of your choice. [:spell-lv0: Light], [:spell-lv0: Prestidigitation], [:spell-lv0: Shocking Grasp], and [:spell-lv0: Sorcerous Burst] are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.
 
 When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the Sorcerer Features table.
 
@@ -115,7 +115,7 @@ The Sorcerer Features table shows how many spell slots you have to cast your lev
 
 #### Prepared Spells of Level 1+
 
- You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. Burning Hands and Detect Magic are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. [:spell-lv1: Burning Hands] and [:spell-lv1: Detect Magic] are recommended.
 
 The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.
 
@@ -201,3 +201,4 @@ You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat 
 While your Innate Sorcery feature is active, you can use one Metamagic option on each of your turn without spending Sorcery Points on it.
 
 --8<-- "includes/snippets/skills.md"
+--8<-- "includes/snippets/spells2/lv0-5.md"

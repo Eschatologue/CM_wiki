@@ -1,6 +1,8 @@
 ---
 title: "Subclass: College of Whispers (Bard)"
 status: adapted
+search:
+  exclude: true
 ---
 
 <p style="display:none">

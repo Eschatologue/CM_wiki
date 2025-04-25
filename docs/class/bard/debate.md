@@ -1,6 +1,8 @@
 ---
 title: "Subclass: College of Debate (Bard)"
 status: homebrew
+search:
+  exclude: true
 ---
 
 <p style="display:none">

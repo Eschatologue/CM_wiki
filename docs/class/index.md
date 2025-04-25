@@ -65,7 +65,7 @@ Barbarian has the following optional class feature.
 
 </div>
 
-### Ranger
+## Ranger
 
 Ranger has the following optional class feature.
 
@@ -82,8 +82,6 @@ Ranger has the following optional class feature.
 ## Paladin
 
 Paladin has the following optional class feature.
-
-### Divine Smite
 
 <div class="dl-center" markdown>
 
