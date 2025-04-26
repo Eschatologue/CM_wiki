@@ -15,33 +15,44 @@ Below are the Aptitudes available to the [Ranger]. If an Aptitude has a prerequi
 
 ### Ranger's Origin
 
-*What were you before you've taken the mantle of a Ranger?*
-{ .quote }
+*What were you before you've taken the mantle of a Ranger?*{ .quote }
 
 Every Ranger has a unique origin, choose one of the following benefit:
 
 **Bounty Hunter**
-:   _Your expertise in hunting bounties stands out._ You gain proficiency in Insight and Investigation. In addition, creatures has **:d20-dis: Disadvantage**{ .d20 } on saves to resist or end the **Grappled**{ .cond } or **Restrained**{ .cond } condition caused by you.
+:   You gain proficiency in Insight and Investigation. In addition, creatures has **:d20-dis: Disadvantage**{ .d20 } on saves to resist or end the **Grappled**{ .cond } or **Restrained**{ .cond } condition caused by you.
+
+    _Your expertise in hunting bounties stands out._{.quote}
 
 **Deathwatch**
 
-:   _You specialise in hunting those not native to your realm._ You gain proficiency in Arcana and Religion. In addition, you know the [:spell-lv1: Protection from Evil and Good] and can cast it once without expending a spell slot, when it is cast this way, the spell doesn't require Concentration, but only last for 1 minute. You regain expended use when you finish a **:rest-long: Long Rest**.
+:   You gain proficiency in Arcana and Religion. In addition, you know the [:spell-lv1: Protection from Evil and Good] and can cast it once without expending a spell slot, when it is cast this way, the spell doesn't require Concentration, but only last for 1 minute. You regain expended use when you finish a **:rest-long: Long Rest**.
+
+    _You specialise in hunting those not native to your realm._{.quote}
 
 **Mage Breaker**
 
-:   _You have a background in battling spellcasters._ You gain proficiency in Arcana and Insight. In addition, you know [:spell-lv0: True Strike] and [:spell-lv1: Detect Magic] spells.
+:   You gain proficiency in Arcana and Insight. In addition, you know [:spell-lv0: True Strike] and [:spell-lv1: Detect Magic] spells.
+
+    _You have a background in battling spellcasters._{.quote}
 
 **Ranger Knight**
 
-:   _You have sworn to serve a crown or nation and aim to bring its foes to ruin._ You gain proficiency in History and Perception, In addition, you gain training with with Heavy armour.
+:   You gain proficiency in History and Perception, In addition, you gain training with with Heavy armour.
+
+    _You have sworn to serve a crown or nation and aim to bring its foes to ruin._{.quote}
 
 **Sanctified Hunter**
 
-:   _You have sworn to hunt the enemies of a holy or druidic order._ You gain proficiency in Investigation and Religion. In addition, you know [:spell-lv0: Sacred Flame] and [:spell-lv1: Guiding Bolt] spells.
+:   You gain proficiency in Investigation and Religion. In addition, you know [:spell-lv0: Sacred Flame] and [:spell-lv1: Guiding Bolt] spells.
+
+    _You have sworn to hunt the enemies of a holy or druidic order._{.quote}
 
 **Beast Tamer**
 
-:   _You have cultivated a strong bond with animals and nature._ Whenever you would make an Intelligence (Nature), you can choose to make a Wisdom (Nature) check instead. In addition, you can cast [:spell-lv1: Find Familiar], but only as a Ritual.
+:   Whenever you would make an Intelligence (Nature), you can choose to make a Wisdom (Nature) check instead. In addition, you can cast the following spells, but only as Rituals: [:spell-lv1: Find Familiar] and [:spell-lv1: Speak with Animals].
+
+    _You have cultivated a strong bond with animals and nature._{.quote}
 
 **Repeatable**{ .inl } You can choose this Aptitude again, choosing a different benefit each time.
 
@@ -79,7 +90,7 @@ Choose one of the following damage types: **:dmg-force: Force**{.dmg-force}, **:
 
 _**Prerequisite:** Level 3+ Ranger_
 
-You learn some rougish techniques. Choose one of the following Actions, you can use a **:rsc-b: Bonus Action**{ .rsc } to take it: Dodge, Disengage, or Hide.
+You learn some rougish techniques. Choose one of the following Actions, you can use a **:rsc-b: Bonus Action**{ .rsc } to take it: **:rsc-a: Dash**{.rsc}, **:rsc-a: Disengage**{.rsc}, or **:rsc-a: Hide**{.rsc}.
 
 **Repeatable**{ .inl } You can choose this Aptitude again, choosing a different action each time.
 
@@ -97,7 +108,7 @@ Though you wander the wilds, you still understood the intricacy of politics. Whe
 
 _**Prerequisite:** Level 3+ Ranger_
 
-You learn how to utilise divine magic. When you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can change the spell's bonus damage type to :dmg-radi: Radiant or :dmg-necr: Necrotic damage (choose each time) instead of :dmg-force: Force.
+You learn how to utilise divine magic. When your [:spell-lv1: Hunter's Mark] spell deal damage, you can change the spell's bonus damage type to **:dmg-radi: Radiant**{.dmg-radi} or **:dmg-necr: Necrotic**{.dmg-necr} damage (choose each time) instead of **:dmg-force: Force**{.dmg-force}.
 
 ---
 
@@ -123,7 +134,7 @@ When you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc
 
 _**Prerequisite:** Level 6+ Ranger, [Slayer I](#slayer-i)_
 
-When you roll **:d20-inv: Initiative**{.d20 }, you can take a **:rsc-r: Reaction**{ .rsc } to cast [:spell-lv1: Hunter's Mark].
+When you roll **:d20-inv: Initiative**{.d20}, you can take a **:rsc-r: Reaction**{ .rsc } to cast [:spell-lv1: Hunter's Mark].
 
 ---
 
@@ -195,7 +206,7 @@ _**Prerequisite:** Level 12+ Ranger, [Primal Focus](#primal-focus)_
 
 You gain the following benefits:
 
-**Improved Critical**{ .inl } When you attack the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
+**Improved Critical**{ .inl } When you attack the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc }, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
 
 **Weakness Exploit**{ .inl } Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
 
@@ -209,7 +220,7 @@ When you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack
 
 ---
 
-## Endurance Aptitude {.hide}
+## Survivor Aptitude {.hide}
 
 ### Survivor I
 
@@ -227,7 +238,7 @@ When you make a Death Saving Throw, you add your Wisdom modifier to the roll (mi
 
 ---
 
-## Surge Aptitude {.hide}
+## Adrenaline Aptitude {.hide}
 
 ### Adrenaline I
 

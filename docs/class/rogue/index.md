@@ -135,7 +135,7 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 ### Level 2: Cunning Action
 
-Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a **:rsc-b: Bonus Action**{ .rsc }: Dash, Disengage, or Hide.
+Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a **:rsc-b: Bonus Action**{ .rsc }: **:rsc-a: Dash**{.rsc}, **:rsc-a: Disengage**{.rsc}, or **:rsc-a: Hide**{.rsc}.
 
 ### Level 3: Rogue Subclass
 
