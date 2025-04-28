@@ -15,13 +15,6 @@ Your race, class, and feats can grant you Proficiency with certain weapons or ca
 
 Proficiency with a weapon allows you to add your Proficiency Bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack Proficiency, you do not add your Proficiency Bonus to the attack roll.
 
-### Weapon Save DC
-
-When a weapon requires its target to make a saving throw—whether through its Property, Mastery property, or other effects—the DC is as follow:
-
-**Weapon Save DC:** `8 + Ability Modifier used in the attack + Proficiency Bonus (if proficient)`
-{ .align-center }
-
 ## Weapon Categories
 
 ### Cold Weapons
@@ -65,6 +58,14 @@ Many weapons have special properties related to their use, as shown in the Weapo
     Each time you make an attack with an **:wp-prop-automatic: Automatic**{.wp} weapon, you can make one extra attack later on the same turn. This extra attack must be made with the *same weapon* provided it has enough Ammunition for the attack, and you don't add your ability modifier to the additional attack's damage roll, unless that modifier is negative. 
 
     If the Automatic property includes a plus and a number (e.g., Automatic (+3)), that number determines the maximum additional attacks you can make each time you attack with the weapon. For example, a Sub-Machine Gun with Automatic (+3) allows up to 3 extra attacks per attack.
+
+---
+
+:wp-prop-burst:{ .x3l }
+
+:   ### Burst Fire { .noborder }
+    
+    As an **:rsc-a: Action**{.rsc}, you can expend at least 5 pieces of ammunition to make a **:rsc-a: Burst Fire Attack**{.rsc}. Each creature in a **10-foot :aoe-cube: Cube**{.nowrap} within the weapon’s normal range must succeed on a **:d20-save: DEX Save**{.d20} (**DC** = `5 + ammunition expended`) or take damage. Roll the weapon’s damage once and apply it to all creatures that failed the save.
 
 ---
 

@@ -120,6 +120,10 @@
   margin: 0.5em 0;
 }
 
+.md-typeset .hr-solid hr {
+  border-bottom: 0.1875em solid var(--md-default-wht--0125);
+}
+
 /*-------------------------------------------------------
     Horizontal Description List
 -------------------------------------------------------*/
@@ -144,11 +148,11 @@
   margin-bottom: 0.1875em !important;
 }
 
-.md-typeset .grid dl dt {
+.md-typeset .dl-center dl dt {
   text-align: center;
 }
 
-.md-typeset .dl-center dl dt {
+.md-typeset .grid dl dt {
   text-align: center;
 }
 
@@ -326,6 +330,7 @@ table:not([class]) .smallcap {
 
 .wp {
   font-weight: 600 !important;
+  font-style: italic;
   color: var(--md-gbl-text-color) !important;
   border-radius: 0.1875em;
   padding: 0.09375em 0.1875em;
@@ -335,11 +340,6 @@ table:not([class]) .smallcap {
 /*-------------------------------------------------------
     Indentation & Inline Styling
 -------------------------------------------------------*/
-.indt {
-  text-indent: calc(var(--gbl-font-size) * 1.25 * -1);
-  padding-left: calc(var(--gbl-font-size) * 1.25 * 2);
-}
-
 .inl {
   font-weight: 600 !important;
   display: inline-block;
@@ -348,6 +348,11 @@ table:not([class]) .smallcap {
 .inl::after {
   content: " —";
   color: var(--md-default-fg-color--light) !important;
+}
+
+.indt {
+  text-indent: calc(var(--gbl-font-size) * 1.25 * -1);
+  padding-left: calc(var(--gbl-font-size) * 1.25 * 2);
 }
 
 /*-------------------------------------------------------
@@ -1162,11 +1167,11 @@ table:not([class]) .smallcap {
 
 /* Content Grid Adjustments */
 .md-grid {
-  max-width: 95%;
+  max-width: 90%;
 }
 @media (max-width: 1024px) {
   .md-grid {
-    max-width: 98%;
+    max-width: 95%;
   }
 }
 

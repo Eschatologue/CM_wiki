@@ -159,6 +159,7 @@
 .wp {
     @extend .nowrap, .disable-abbr, .jetbrains;
     font-weight: 600 !important;
+    font-style: italic;
     color: var(--md-gbl-text-color) !important;
     border-radius: convert.px2em(3px);
     padding: convert.px2em(1.5px) convert.px2em(3px);
@@ -174,12 +175,6 @@
     Indentation & Inline Styling
 -------------------------------------------------------*/
 
-// Used in conjunction with .inl
-.indt {
-    text-indent: calc((var(--gbl-font-size) * 1.25) * (-1));
-    padding-left: calc((var(--gbl-font-size) * 1.25) * 2);
-}
-
 // Used for Inline Subheading
 .inl {
     @extend .em, .nowrap;
@@ -193,6 +188,12 @@
         color: var(--md-default-fg-color--light) !important;
     }
 }
+
+.indt {
+    text-indent: calc((var(--gbl-font-size) * 1.25) * (-1));
+    padding-left: calc((var(--gbl-font-size) * 1.25) * (2));
+}
+
 
 /*-------------------------------------------------------
     Brackets and Emphasizes
