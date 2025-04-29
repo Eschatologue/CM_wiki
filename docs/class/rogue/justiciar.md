@@ -15,7 +15,7 @@ Not all servants of the gods work in the light. Justiciars are zealous enforcers
 
 ### Level 3: Channel Divinity
 
-You gain the ability to channel divine energy directly from your god, and can use it to fuel magical effects. You start with two such divine effect, Divine Sense and Shroud of Faith.
+You gain the ability to channel divine energy from your god, and can use it to fuel magical effects. You start with two such divine effect, Divine Sense and Shroud of Faith.
 
 You can use **:ui-chdiv-cleric: Channel Divinity** *once*. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. You gain additional uses when you reach certain Rogue levels, as shown in the Channel Divinity column of the [Justiciar Spellcasting table].
 
@@ -92,7 +92,7 @@ You and your weapons are blessed by the heavens to smite heretics and blasphemer
 
 ### Level 9: Wrathful Strikes
 
-When you hit a creature with an attack that includes Sneak Attack damage, you can expend a level 1+ spell slot to empower your strike with divine judgment. The additional damage from your Sneak Attack becomes **:dmg-radi: Radiant**{ .dmg-radi } or **:dmg-necr: Necrotic**{ .dmg-necr } damage (choose each time), and you can treat any 1 or 2 on the Sneak Attack damage roll as a 3.
+When you hit a creature with an attack that includes Sneak Attack damage, you can expend a level 1+ spell slot to empower your strike with divine judgment. The additional damage from your Sneak Attack becomes **:dmg-radi: Radiant**{ .dmg-radi } or **:dmg-necr: Necrotic**{ .dmg-necr } damage (choose each time), and you roll each of your Sneak Attack dices twice and use either roll against the target.
 
 ### Level 13: Divine Step
 

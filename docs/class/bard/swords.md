@@ -35,7 +35,7 @@ Whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn, your walki
 :   The attack deals extra damage equals to one roll of your Bardic Die. You also add the number rolled to your AC until the start of your next turn.
 
 **Slashing Flourish**
-:   The attack deals extra damage equals to one roll of your Bardic Die. Moreover, each creature of your choice within 5 feet of you also take damage equals one roll of your Bardic Die.
+:   The attack deals extra damage equals to one roll of your Bardic Die. Moreover, each creature of your choice within 5 feet of you also take damage equals one roll of your Bardic Die. The damage type is the same of type of the attack.
 
 **Mobile Flourish**
 :   The attack deals extra damage equals to one roll of your Bardic Die. You can also push the target up to a number of feet equal to three times the number you roll on that die, rounded to the nearest 5 foot increment. You can then immediately Teleport to an unoccupied space within 5 feet of the target.
