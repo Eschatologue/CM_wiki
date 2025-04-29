@@ -10,7 +10,7 @@ These feat are included within PHB'24.
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 You gain a +2 bonus to attack rolls you make with Ranged weapons.
 
@@ -20,7 +20,7 @@ You gain a +2 bonus to attack rolls you make with Ranged weapons.
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 You have Blindsight with a range of 10 feet.
 
@@ -30,7 +30,7 @@ You have Blindsight with a range of 10 feet.
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 While you are wearing Light, Medium, or Heavy armour, you gain a +1 bonus to Armour Class.
 
@@ -40,7 +40,7 @@ While you are wearing Light, Medium, or Heavy armour, you gain a +1 bonus to Arm
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 When you are wielding a Melee Weapon in one hand and no other Weapons, you gain a +2 bonus to damage rolls with that Melee Weapon.
 
@@ -50,7 +50,7 @@ When you are wielding a Melee Weapon in one hand and no other Weapons, you gain 
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 When you roll damage for an attack you make with a Melee Weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the **:wp-prop-two-handed: Two-Handed**{ .wp } or **:wp-prop-versatile: Versatile**{ .wp } property to gain this benefit.
 
@@ -60,7 +60,7 @@ When you roll damage for an attack you make with a Melee Weapon that you are hol
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 When a creature you can see hits another creature within 5 feet of you with an attack roll, you can take a **:rsc-r: Reaction**{ .rsc } to reduce the damage dealt to the target by 1d10 + your Proficiency Bonus (to a minimum of 0 damage). You must be wielding a Shield or a Simple or Martial weapon to take this **:rsc-r: Reaction**{ .rsc }.
 
@@ -70,7 +70,7 @@ When a creature you can see hits another creature within 5 feet of you with an a
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to interpose your Shield if you're holding one. You impose **:d20-dis: Disadvantage**{ .d20 } on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
 
@@ -80,7 +80,7 @@ When a creature you can see attacks a target other than you that is within 5 fee
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 When you hit with a ranged attack using a weapon that has the **:wp-prop-thrown: Thrown**{ .wp } property, you gain a +2 bonus to the damage roll
 
@@ -90,7 +90,7 @@ When you hit with a ranged attack using a weapon that has the **:wp-prop-thrown:
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 When you make the extra attack of the **:wp-prop-light: Light**{ .wp } weapon property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.
 
@@ -100,7 +100,7 @@ When you make the extra attack of the **:wp-prop-light: Light**{ .wp } weapon pr
 
 *Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 When you do damage with **:rsc-a: Unarmed Strike**{ .rsc } , it deals **1d6 + STR Modifier :dmg-bldg: Bludgeoning**{ .dmg-bps } damage on a hit. If you have two free hands, the :die-d6: d6 damage die becomes a :die-d8: d8.
 

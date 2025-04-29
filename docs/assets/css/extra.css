@@ -120,8 +120,16 @@
   margin: 0.5em 0;
 }
 
-.md-typeset .hr-solid hr {
-  border-bottom: 0.1875em solid var(--md-default-wht--0125);
+.md-typeset hr.hr-solid {
+  border-bottom-style: solid;
+}
+
+.md-typeset hr.hr-dashed {
+  border-bottom-style: dashed;
+}
+
+.md-typeset hr.hr-dotted {
+  border-bottom-style: dotted;
 }
 
 /*-------------------------------------------------------

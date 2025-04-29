@@ -43,7 +43,7 @@ The following Mastery properties are lined in PHB'24
 
 _**Prerequisites:** Melee Weapon; **:wp-prop-heavy: Heavy**{.wp}_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
 
@@ -53,7 +53,7 @@ If you hit a creature with a melee attack using this weapon, you can make an att
 
 _**Prerequisites:** Melee Weapon; **:wp-prop-heavy: Heavy**{.wp}_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 If your attack roll with this weapon misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll. This damage is the same type dealt by the weapon, and the damage can't be increased in any way, other than increasing the ability modifier.
 
@@ -63,7 +63,7 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 
 _**Prerequisites:** Melee Weapon; **:wp-prop-light: Light**{.wp}_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 When you make the [extra attack](index.md#light) of the **:wp-prop-light: Light**{.wp} property, you can make it as part of the **:rsc-a: Attack**{ .rsc } action instead of as a **:rsc-b: Bonus Action**{ .rsc }. You can make this extra attack only once per turn.
 
@@ -73,7 +73,7 @@ When you make the [extra attack](index.md#light) of the **:wp-prop-light: Light*
 
 _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-two-handed: Two-Handed**{.wp}, or **:wp-prop-versatile: Versatile**{.wp}_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.
 
@@ -83,7 +83,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-versatile: Versatile**{.wp} or  **:wp-prop-none: No Properties**{.wp}_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 If you hit a creature with this weapon, that creature has **:d20-dis: Disadvantage**{ .d20 } on its next attack roll before the start of your next turn.
 
@@ -93,7 +93,7 @@ If you hit a creature with this weapon, that creature has **:d20-dis: Disadvanta
 
 _**Prerequisites:** Melee or Ranged Weapon; Any Properties_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 If you hit a creature with this weapon and deal damage to the creature, you can reduce its **:rsc-spd: Speed** by 10 feet until the start of your next turn. If you hit the creature more than once with this property, the Speed reduction doesn't exceed 10 feet.
 
@@ -103,7 +103,7 @@ If you hit a creature with this weapon and deal damage to the creature, you can 
 
 _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-reach: Reach**{.wp}, or **:wp-prop-versatile: Versatile**{.wp}_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 If you hit a creature with this weapon, you can force the creature to make a **:d20-save: CON Save**{.d20} with a **DC** equal to 8 + your Proficiency Bonus + the ability modifier used to make the attack roll. On a failed save, the creature has the **Prone**{.cond} condition.
 
@@ -113,7 +113,7 @@ If you hit a creature with this weapon, you can force the creature to make a **:
 
 _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp}, **:wp-prop-finesse: Finesse**{.wp}, or **:wp-prop-light: Light**{.wp}_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 If you hit a creature with this weapon and deal damage to the creature, you have **:d20-adv: Advantage**{ .d20 } on your next attack roll against that creature before the end of your next turn.
 
@@ -129,7 +129,7 @@ The following Mastery properties are homebrew.
 
 _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-light: Light**{.wp} or **:wp-prop-versatile: Versatile**{.wp}_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 Before or after making an attack with this weapon, you can move up to 5 feet without provoking **:rsc-r: Opportunity Attack**{ .rsc }. You can't move in his way if your **:rsc-spd: Speed** is 0.
 
@@ -139,7 +139,7 @@ Before or after making an attack with this weapon, you can move up to 5 feet wit
 
 _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-heavy: Heavy**{.wp} or **:wp-prop-two-handed: Two-Handed**{.wp}_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 On your turn, you can spend an amount of movement equal to half your **:rsc-spd: Speed** (rounded *up* to the nearest 5-foot increment) to brace your weapon. Until the end of your turn, whenever you damage creatures with this weapon, you roll the weapon's damage dice twice and use either result (e.g, A Wood Elf with 35 ft. speed must spend 20 ft. to use this Mastery property).
 
@@ -149,7 +149,7 @@ On your turn, you can spend an amount of movement equal to half your **:rsc-spd:
 
 _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp}, **:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-versatile: Versatile**{.wp} or deals **:dmg-bldg: Bludgeoning**{.dmg-bps} damage_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 If you hit a creature with this weapon and deal damage to the creature, the next attack roll by a creature other than you against that creature has **:d20-adv: Advantage**{ .d20 } until the start of your next turn.
 
@@ -159,7 +159,7 @@ If you hit a creature with this weapon and deal damage to the creature, the next
 
 _**Prerequisites:** Melee Weapon; **:wp-prop-versatile: Versatile**{.wp}_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 When you hit a melee attack using this weapon, you deal its **:wp-prop-versatile: Versatile**{.wp} damage even if you're wielding it with one hand. 
 
@@ -169,7 +169,7 @@ When you hit a melee attack using this weapon, you deal its **:wp-prop-versatile
 
 _**Prerequisites:** Melee Weapon; **:wp-prop-light: Light**{.wp}_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 If your attack roll with this weapon misses a creature, you can immediately make another attack against that creature *with the same weapon*. You don't add your ability modifier to this attack's damage unless it's negative. You can only make this additional attack once per turn.
 
@@ -179,7 +179,7 @@ If your attack roll with this weapon misses a creature, you can immediately make
 
 _**Prerequisites:** Melee Weapon; **:wp-prop-finesse: Finesse**{.wp} or **:wp-prop-versatile: Versatile**{.wp}_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 While wielding this weapon, when a creature makes a Melee attack roll against you, you can use your **:rsc-r: Reaction**{.rsc} to add *the ability modifier you use for attacks with this weapon* to your AC against that attack, potentially turning it into a miss. 
 
@@ -189,7 +189,7 @@ While wielding this weapon, when a creature makes a Melee attack roll against yo
 
 _**Prerequisites:** Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp} or **:wp-prop-loading: Loading**{.wp}_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 You ignore the **:wp-prop-loading: Loading**{.wp} property of this weapon and you don't need another free hand to load ammunition into the weapon.
 

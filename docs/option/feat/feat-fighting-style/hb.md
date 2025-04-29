@@ -10,7 +10,7 @@ These Fighting Style Feature are homebrew.
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 While making a **:rsc-a: Burst-Fire Attack**{.rsc}, targets that succeed the saving throw still takes half damage.
 
@@ -20,7 +20,7 @@ While making a **:rsc-a: Burst-Fire Attack**{.rsc}, targets that succeed the sav
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 While wielding a **:wp-prop-finesse: Finesse**{ .wp } weapon and no other weapon, you gain a +2 bonus to your attack rolls with the weapon and +1 to your AC. 
 
@@ -32,7 +32,7 @@ You only gain these benefits so long you are not wearing Heavy Armour or wieldin
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-<div class="hr-solid" markdown><hr></div>  
+<hr class="hr-solid">  
 
 When you make an attack with a **:wp-prop-heavy: Heavy**{ .wp } Cold Weapon as part of your **:rsc-a: Attack**{ .rsc } action and the total damage roll from your weapon is 5 or lower, you treat it as 6.
 
@@ -42,7 +42,7 @@ When you make an attack with a **:wp-prop-heavy: Heavy**{ .wp } Cold Weapon as p
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-<div class="hr-solid" markdown><hr></div>  
+<hr class="hr-solid">  
 
 While you are wielding only **:wp-prop-light: Light**{ .wp } weapons, and nothing else, your **:rsc-spd: Speed** increases by 10 feet. You also gain a +1 bonus to damage rolls with **:wp-prop-light: Light**{ .wp } weapons.
 
@@ -54,7 +54,7 @@ You only gain these benefits so long as you are not wearing Medium or Heavy armo
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 You have studied combat techniques that allow you to perform Combat Manoeuvre.
 
@@ -74,7 +74,7 @@ If you already have a pool of Superiority Dice, these dice are added to that poo
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 You gain a +1 bonus to damage rolls with Quarterstaves, Spears, War Scythes, and weapons that has the **:wp-prop-heavy: Heavy**{ .wp } and **:wp-prop-reach: Reach**{ .wp } properties. While wielding one of these weapons, creatures provoke an **:rsc-r: Opportunity Attack**{ .rsc } from you when they *enter* or *move* within your reach with that weapon. 
 
@@ -86,7 +86,7 @@ Moreover, Quarterstaves, Spears, and War Scythes gains the **:wp-prop-reach: Rea
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 You gain a +1 bonus to attack rolls with Ranged weapons, and your attacks with it ignore Half Cover and treat Three-Quarters Cover as Half Cover.
 
@@ -98,7 +98,7 @@ Moreover, having the **Prone**{ .cond } condition doesn't impose **:d20-dis: Dis
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 When a creature within 15 feet of you makes an attack against a creature that you can see, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:d20-adv: Advantage**{ .d20 } on its attack roll. You must be carrying a banner, flag, holy symbol, or standard in your hand.
 
@@ -108,7 +108,7 @@ When a creature within 15 feet of you makes an attack against a creature that yo
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 You can use your Strength modifier, in place of Dexterity, for attack rolls, damage rolls, and to meet the **:wp-prop-heavy: Heavy**{ .wp } weapon property requirement with Compound Bows, Longbows, and Shortbows. You also gain a +1 to damage rolls with those weapons.
 
@@ -118,7 +118,7 @@ You can use your Strength modifier, in place of Dexterity, for attack rolls, dam
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
-<div class="hr-solid" markdown><hr></div>
+<hr class="hr-solid">
 
 
 
