@@ -19,15 +19,15 @@ To give more options for martial classess, the folowing homebrew rules are imple
 
 ### Replaceable Weapon Mastery  
 
-When selecting weapons for Weapon Mastery, you can also **replace the Mastery property** of any weapon you are using with another eligible property. For example, you could change a Longsword’s **:wp-mas: Sap**{.wp} property to **:wp-mas: Flex**{.wp}.  
+When selecting weapons for Weapon Mastery, you can also **replace the Mastery property** of any weapon you are using with another eligible property. For example, you could change a Longsword's **:wp-mas: Sap**{.wp} property to **:wp-mas: Flex**{.wp}.  
 
 These changes only affect the character who makes them. If a Barbarian replaces a Glaive’s **:wp-mas: Graze**{.wp} property with **:wp-mas: Cleave**{.wp}, other characters using the same Glaive still use its default **:wp-mas: Graze**{.wp} property.  
 
 ### Repeated Weapon Mastery
 
-When selecting weapons for Weapon Mastery, you can instead **assign an additional _eligible_ Mastery property** to a weapon you already chose. A weapon can have **no more than four** mastery properties at a time.
+When selecting weapons for Weapon Mastery, you can instead **assign an additional _eligible_ Mastery property** to a weapon you already chose. A weapon can have **no more than six** mastery properties at a time.
 
-If a weapon has multiple mastery properties, you can **only use one of them per attack**. You must choose which mastery property you're using before making the attack.
+If a weapon has multiple mastery properties, you can **only use one of them per attack** (unless specified otherwise). You must choose which mastery property you're using before making the attack.
 
 For example, a Level 1 Barbarian could choose to apply either **:wp-mas: Cleave**{.wp} or **:wp-mas: Graze**{.wp} when attacking with a Greataxe, instead of selecting a second weapon for Weapon Mastery. Likewise, a Level 1 Rogue could choose either **:wp-mas: Nick**{.wp} or **:wp-mas: Slow**{.wp} for a Dagger.  
 
@@ -147,7 +147,7 @@ On your turn, you can spend an amount of movement equal to half your **:rsc-spd:
 
 ### Expose {.noborder}
 
-_**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp}, **:wp-prop-versatile: Versatile**{.wp} or deals **:dmg-bldg: Bludgeoning**{.dmg-bps} damage_
+_**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp}, **:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-versatile: Versatile**{.wp} or deals **:dmg-bldg: Bludgeoning**{.dmg-bps} damage_
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -175,5 +175,22 @@ If your attack roll with this weapon misses a creature, you can immediately make
 
 ---
 
+### Parry {.noborder}
 
+_**Prerequisites:** Melee Weapon; **:wp-prop-finesse: Finesse**{.wp} or **:wp-prop-versatile: Versatile**{.wp}_
 
+<div class="hr-solid" markdown><hr></div>
+
+While wielding this weapon, when a creature makes a Melee attack roll against you, you can use your **:rsc-r: Reaction**{.rsc} to add *the ability modifier you use for attacks with this weapon* to your AC against that attack, potentially turning it into a miss. 
+
+---
+
+### Speedload {.noborder}
+
+_**Prerequisites:** Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp} and **:wp-prop-loading: Loading**{.wp}_
+
+<div class="hr-solid" markdown><hr></div>
+
+You ignore the **:wp-prop-loading: Loading**{.wp} property of this weapon for the attack and you don't need another free hand to load ammunition into the weapon.
+
+---

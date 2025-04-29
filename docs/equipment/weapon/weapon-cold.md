@@ -86,7 +86,7 @@ Martial weapons require more training to use effectively but offer greater damag
 | *Warhammer* | **1d8 :dmg-bldg: Bd.**{ .dmg-bps } | Versatile (1d10; **:wp-mas: Expose**{ .wp }) | **:wp-mas: Push**{ .wp } | M. | 150 SP |
 | *War Pick* | **1d8 :dmg-prcg: Ps.**{ .dmg-bps } | Versatile (1d10; **:wp-mas: Vex**{ .wp }) | **:wp-mas: Sap**{ .wp } | M. | 50 SP |
 | *Whip* | **1d4 :dmg-slsh: Sl.**{ .dmg-bps } | Finesse, Reach | **:wp-mas: Slow**{ .wp } | M. | 20 SP |
-| *Estoc* | **1d8 :dmg-prcg: Ps.**{ .dmg-bps } | Versatile (1d10) | **:wp-mas: Sap**{ .wp } | M. | 100 SP |
+| *Estoc* | **1d8 :dmg-prcg: Ps.**{ .dmg-bps } | Versatile (1d10) | **:wp-mas: Parry**{ .wp } | M. | 100 SP |
 | *Lucerne* | **1d10 :dmg-bldg: Bd.**{ .dmg-bps } | Heavy, Reach, Two-Handed | **:wp-mas: Expose**{ .wp } | L. | 200 SP |
 
 ##### Ranged Martial Weapons

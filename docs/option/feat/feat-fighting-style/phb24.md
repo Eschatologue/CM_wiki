@@ -8,7 +8,7 @@ These feat are included within PHB'24.
 
 ### Archery
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*{.fg-light}
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -18,7 +18,7 @@ You gain a +2 bonus to attack rolls you make with Ranged weapons.
 
 ### Blind Fighting
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*{.fg-light}
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -28,7 +28,7 @@ You have Blindsight with a range of 10 feet.
 
 ### Defense
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*{.fg-light}
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -38,7 +38,7 @@ While you are wearing Light, Medium, or Heavy armour, you gain a +1 bonus to Arm
 
 ### Dueling
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*{.fg-light}
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -48,7 +48,7 @@ When you are wielding a Melee Weapon in one hand and no other Weapons, you gain 
 
 ### Great Weapon Fighting
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*{.fg-light}
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -58,7 +58,7 @@ When you roll damage for an attack you make with a Melee Weapon that you are hol
 
 ### Interception
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*{.fg-light}
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -68,7 +68,7 @@ When a creature you can see hits another creature within 5 feet of you with an a
 
 ### Protection
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*{.fg-light}
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -78,7 +78,7 @@ When a creature you can see attacks a target other than you that is within 5 fee
 
 ### Thrown-Weapon Fighting
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*{.fg-light}
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -88,7 +88,7 @@ When you hit with a ranged attack using a weapon that has the **:wp-prop-thrown:
 
 ### Two-Weapon Fighting
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*{.fg-light}
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -98,7 +98,7 @@ When you make the extra attack of the **:wp-prop-light: Light**{ .wp } weapon pr
 
 ### Unarmed Fighting
 
-*Fighting Style Feat (Prerequisite: Fighting Style Feature)*{.fg-light}
+*Fighting Style Feat (Prerequisite: Fighting Style Feature)*
 
 <div class="hr-solid" markdown><hr></div>
 

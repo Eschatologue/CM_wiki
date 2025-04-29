@@ -155,7 +155,7 @@ You can use this feature twice before a **:rest-long: Long Rest** starting at le
 
 ### Level 9: Tactical Master
 
-When you attack with a weapon whose mastery property you can use, you can replace that property with the Push, Sap, or Slow property for that attack.
+When you attack with a weapon whose mastery property you can use, you can replace that property with the **:wp-mas: Push**{.wp}, **:wp-mas: Sap**{.wp}, or **:wp-mas: Slow**{.wp} property for that attack.
 
 ### Level 11: Two Extra Attacks
 

@@ -8,7 +8,7 @@ These Fighting Style Feature are homebrew.
 
 ### Controlled Burst {.noborder}
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{.fg-light}
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -18,7 +18,7 @@ While making a **:rsc-a: Burst-Fire Attack**{.rsc}, targets that succeed the sav
 
 ### Gallian Swordplay {.noborder}
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{.fg-light}
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -30,7 +30,7 @@ You only gain these benefits so long you are not wearing Heavy Armour or wieldin
 
 ### Heavy Weapon Fighting {.noborder}
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{.fg-light}
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <div class="hr-solid" markdown><hr></div>  
 
@@ -40,7 +40,7 @@ When you make an attack with a **:wp-prop-heavy: Heavy**{ .wp } Cold Weapon as p
 
 ### Lightweight Fighting {.noborder}
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{.fg-light}
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <div class="hr-solid" markdown><hr></div>  
 
@@ -52,7 +52,7 @@ You only gain these benefits so long as you are not wearing Medium or Heavy armo
 
 ### Martial Adept {.noborder}
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{.fg-light}
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -72,7 +72,7 @@ If you already have a pool of Superiority Dice, these dice are added to that poo
 
 ### Polearm Fighting {.noborder}
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{.fg-light}
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -84,7 +84,7 @@ Moreover, Quarterstaves, Spears, and War Scythes gains the **:wp-prop-reach: Rea
 
 ### Sniper {.noborder}
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{.fg-light}
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -96,7 +96,7 @@ Moreover, having the **Prone**{ .cond } condition doesn't impose **:d20-dis: Dis
 
 ### Standard Bearer {.noborder}
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{.fg-light}
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -106,7 +106,7 @@ When a creature within 15 feet of you makes an attack against a creature that yo
 
 ### Strongbow {.noborder}
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{.fg-light}
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <div class="hr-solid" markdown><hr></div>
 
@@ -116,7 +116,7 @@ You can use your Strength modifier, in place of Dexterity, for attack rolls, dam
 
 ### Versatile Fighting {.noborder}
 
-_Fighting Style Feat (Prerequisite: Fighting Style Feature)_{.fg-light}
+_Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <div class="hr-solid" markdown><hr></div>
 

@@ -708,7 +708,7 @@ You can perform the Somatic components of spells even when you have weapons or a
 
 ---
 
-### Weapon Master
+### Weapon Master :material-glass-mug-variant:{title="This is Homebrew/Modified"}
 
 *General Feat (Prerequisite: Level 4+)*
 
@@ -718,7 +718,12 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 ###### Mastery Property  
-Your training with weapons allows you to use the mastery property of one kind of Simple or Martial weapon of your choice, provided you are proficient with it. Whenever you finish a **:rest-long: Long Rest**, you can change the kind of weapon to another eligible kind or change the weapon's mastery property to other eligible kind.
+Your training with weapons allows you to use the mastery property of *two* kinds of Simple or Martial weapon of your choice, provided you are proficient with it. Whenever you finish a **:rest-long: Long Rest**, you can change the kind of weapon to another eligible kind or change the weapon's mastery property to other eligible kind.
+
+###### Quick Practice
+Selecting weapons for Weapon Mastery or changing Mastery properties of weapon to other eligible kinds can now be done as a **:rest-short: Short Rest**.
+
+**Repeatable**{ .inl } You can take this feat more than once, choosing different weapon or Masteries each time.
 
 ---
 
