@@ -141,7 +141,7 @@ _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-heavy: Heavy**{.wp} or **
 
 <div class="hr-solid" markdown><hr></div>
 
-On your turn, you can spend an amount of movement equal to half your **:rsc-spd: Speed** (rounded *up* to the nearest 5-foot increment) to brace your weapon. Until the end of your turn, whenever you hit a creature with this weapon, you roll the weapon's damage dice twice and use either result (e.g, A Wood Elf with 35 ft. speed must spend 20 ft. to use this Mastery property).
+On your turn, you can spend an amount of movement equal to half your **:rsc-spd: Speed** (rounded *up* to the nearest 5-foot increment) to brace your weapon. Until the end of your turn, whenever you damage creatures with this weapon, you roll the weapon's damage dice twice and use either result (e.g, A Wood Elf with 35 ft. speed must spend 20 ft. to use this Mastery property).
 
 ---
 

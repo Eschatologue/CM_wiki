@@ -63,9 +63,9 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :wp-prop-burst:{ .x3l }
 
-:   ### Burst Fire { .noborder }
+:   ### Burst-Fire { .noborder }
     
-    As an **:rsc-a: Action**{.rsc}, you can expend at least 5 pieces of ammunition to make a **:rsc-a: Burst Fire Attack**{.rsc}. Each creature in a **10-foot :aoe-cube: Cube**{.nowrap} within the weapon’s normal range must succeed on a **:d20-save: DEX Save**{.d20} (**DC** = `5 + ammunition expended`) or take damage. Roll the weapon’s damage once and apply it to all creatures that failed the save.
+    As an **:rsc-a: Action**{.rsc}, you can expend at least 5 pieces of ammunition to make a **:rsc-a: Burst-Fire Attack**{.rsc}. Each creature in a **10-foot :aoe-cube: Cube**{.nowrap} within the weapon’s normal range must succeed on a **:d20-save: DEX Save**{.d20} (**DC** = `5 + ammunition expended`) or take damage. Roll the weapon’s damage once and apply it to all creatures that failed the save.
 
 ---
 

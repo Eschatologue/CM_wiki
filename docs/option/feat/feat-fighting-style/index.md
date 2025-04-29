@@ -32,6 +32,7 @@ You can't take the same Fighting Style feat option more than once, even if you g
 
 <div class="grid cards" markdown>
 
+- [:option-feat-fighting: Controlled Burst](hb.md#controlled-burst)
 - [:option-feat-fighting: Gallian Swordplay](hb.md#gallian-swordplay)
 - [:option-feat-fighting: Heavy Weapon Fighting](hb.md#heavy-weapon-fighting)
 - [:option-feat-fighting: Lightweight Fighting](hb.md#lightweight-fighting)

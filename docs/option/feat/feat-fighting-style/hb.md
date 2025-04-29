@@ -12,7 +12,7 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_{.fg-light}
 
 <div class="hr-solid" markdown><hr></div>
 
-While making a **:rsc-a: Burst Fire Attack**{.rsc}, targets that succeed the saving throw still takes half damage.
+While making a **:rsc-a: Burst-Fire Attack**{.rsc}, targets that succeed the saving throw still takes half damage.
 
 ---
 

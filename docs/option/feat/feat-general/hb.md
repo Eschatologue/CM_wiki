@@ -40,7 +40,7 @@ You can use a Card Deck as your spellcasting focus.
 You learn the [:spell-lv0: Thaumaturgy] and [:spell-lv0: Guidance] cantrip. When you cast those cantrips through card deck and you can use it to create illusions that duplicate the effects of stage magic or use it to reveal a divination to a target. You can conceal the Verbal and Somatic components of the spell as ordinary conversation or card handling.
     
 ###### Hidden Ace
-When you finish a **:rest-long: Long Rest**, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of 1 action, and it must be a level for which you have :rsc-spell-slot: Spell Slots. The card remains imbued with this spell for 8 hours. 
+When you finish a **:rest-long: Long Rest**, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of an action, and it must be a level for which you have :rsc-spell-slot: Spell Slots. The card remains imbued with this spell for 8 hours. 
     
 While the card is imbued with the spell, you can use a **:rsc-b: Bonus Action**{ .rsc } to flourish the card and cast the spell within. The card then immediately loses its magic.
 
@@ -95,11 +95,8 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 ###### Ability Score Increase
 Increase your Dexterity score by 1, to a maximum of 20.
 
-###### Controlled Burst
-When you make the extra attack of the **:wp-prop-automatic: Automatic**{.wp} property, you can add your ability modifier to the damage of the extra attacks.
-    
-###### Race Modded
-As part of an attack with Firearms, you can take a **:rsc-r: Reaction**{ .rsc } to reload it if it ran out of ammunition before or after the attack. Moreover, you don't need a free hand to reload a Firearm.
+###### Improved Firing
+When you make the extra attack of the **:wp-prop-automatic: Automatic**{.wp} property, you can add your ability modifier to one of the damage roll.
 
 ---
 
