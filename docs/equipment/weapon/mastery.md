@@ -27,7 +27,7 @@ These changes only affect the character who makes them. If a Barbarian replaces 
 
 When selecting weapons for Weapon Mastery, you can instead **assign an additional _eligible_ Mastery property** to a weapon you already chose. A weapon can have **no more than six** mastery properties at a time.
 
-If a weapon has multiple mastery properties, you can **only use one of them per attack** (unless specified otherwise). You must choose which mastery property you're using before making the attack.
+If a weapon has multiple mastery properties, you can **only use one of them per attack**. You must choose which mastery property you're using before making the attack. This is true for Mastery properties which effects occurs upon a hit, an attack, or a miss (e.g. **:wp-mas: Topple**{.wp}, **:wp-mas: Nick**{.wp}, **:wp-mas: Graze**{.wp}). 
 
 For example, a Level 1 Barbarian could choose to apply either **:wp-mas: Cleave**{.wp} or **:wp-mas: Graze**{.wp} when attacking with a Greataxe, instead of selecting a second weapon for Weapon Mastery. Likewise, a Level 1 Rogue could choose either **:wp-mas: Nick**{.wp} or **:wp-mas: Slow**{.wp} for a Dagger.  
 
@@ -187,10 +187,10 @@ While wielding this weapon, when a creature makes a Melee attack roll against yo
 
 ### Speedload {.noborder}
 
-_**Prerequisites:** Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp} and **:wp-prop-loading: Loading**{.wp}_
+_**Prerequisites:** Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp} or **:wp-prop-loading: Loading**{.wp}_
 
 <div class="hr-solid" markdown><hr></div>
 
-You ignore the **:wp-prop-loading: Loading**{.wp} property of this weapon for the attack and you don't need another free hand to load ammunition into the weapon.
+You ignore the **:wp-prop-loading: Loading**{.wp} property of this weapon and you don't need another free hand to load ammunition into the weapon.
 
 ---

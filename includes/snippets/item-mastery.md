@@ -10,7 +10,8 @@
 *[Agile]: Move 5 ft. without provoking Opportunity Attacks before or after the attack.
 *[Brace]: Sacrifice half your Speed to roll damage dice twice on damage dealt (taking either result).  
 *[Expose]: On a hit, other creatures gain Advantage against the target until the start of your next turn.
-*[Tap]: Add your ability modifier to the damage of the second attack with an Automatic weapon.  
+*[Parry]: As Reaction from being attacked, add your Ability Modifier to your AC. 
 *[Flex]: Deal Versatile damage with one-handed attacks using a Versatile weapon.  
 *[Flurry]: On a miss, make one additional attack against the same target. Only once per turn.
+*[Speedload]: The Loading property of this weapon is ignored. A free hand is not required when loading ammunition.
 <!-- *[Spray]: Expend 8 ammunition to damage creatures in a 15-foot Cube within normal range on a failed DEX Save.   -->
