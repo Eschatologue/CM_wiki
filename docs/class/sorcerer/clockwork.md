@@ -40,7 +40,7 @@ In addition, consult the Manifestations of Order table and choose or randomly de
 
 ### Level 3: Restore Balance
 
-Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of you is about to roll a d20 with **:d20-adv: Advantage**{ .d20 } or **:d20-dis: Disadvantage**{ .d20 }, you can take a **:rsc-r: Reaction**{ .rsc } to prevent the roll from being affected by advantage and disadvantage.
+Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of you is about to roll a d20 with **:d20-adv: Advantage**{.d20} or **:d20-dis: Disadvantage**{.d20}, you can take a **:rsc-r: Reaction**{ .rsc } to prevent the roll from being affected by advantage and disadvantage.
 
 You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 

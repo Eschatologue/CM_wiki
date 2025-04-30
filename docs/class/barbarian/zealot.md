@@ -30,7 +30,7 @@ If you fail a saving throw while your **:ui-rage: Rage**{ .em } is active, you c
 
 ### Level 10: Zealous Presence
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you gain **:d20-adv: Advantage**{ .d20 } on attack rolls and saving throws until the start of your next turn.
+As a **:rsc-b: Bonus Action**{ .rsc }, you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you gain **:d20-adv: Advantage**{.d20} on attack rolls and saving throws until the start of your next turn.
 
 Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. If you've run out of uses of this feature, you can expend a use of your **:ui-rage: Rage**{ .em } to activate Zealous Presence instead of **:ui-rage: Rage**{ .em }.
 

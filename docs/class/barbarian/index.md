@@ -117,7 +117,7 @@ When you make an attack using Strength—with either a weapon or an Unarmed Stri
 
 #### Strength Advantage 
 
-You have **:d20-adv: Advantage**{ .d20 } on Strength checks and Strength saving throws.
+You have **:d20-adv: Advantage**{.d20} on Strength checks and Strength saving throws.
 
 #### No Concentration or Spells
 
@@ -165,11 +165,11 @@ When you reach certain Barbarian levels, you gain the ability to use the mastery
 
 You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. 
 
-You have **:d20-adv: Advantage**{ .d20 } on **:d20-save: DEX Saves**{ .d20 } unless you have the Incapacitated condition.
+You have **:d20-adv: Advantage**{.d20} on **:d20-save: DEX Saves**{.d20} unless you have the Incapacitated condition.
 
 ### Level 2: Reckless Attack
 
-You can throw aside all concern for defense to attack with increased ferocity. When you make your first attack roll on your turn, you can decide to attack recklessly. Doing so gives you **:d20-adv: Advantage**{ .d20 } on attack rolls using :abl-str: Strength until the start of your next turn, but attack rolls against you have **:d20-adv: Advantage**{ .d20 } during that time.
+You can throw aside all concern for defense to attack with increased ferocity. When you make your first attack roll on your turn, you can decide to attack recklessly. Doing so gives you **:d20-adv: Advantage**{.d20} on attack rolls using :abl-str: Strength until the start of your next turn, but attack rolls against you have **:d20-adv: Advantage**{.d20} during that time.
 
 ### Level 3: Barbarian Subclass
 
@@ -195,7 +195,7 @@ Your **:rsc-spd: Speed**{ .em } increases by 10 feet while you aren't wearing He
 
 ### Level 7: Feral Instinct
 
-Your instincts are so honed that you have **:d20-adv: Advantage**{ .d20 } on **:d20-inv: Initiative**{.d20 } rolls.
+Your instincts are so honed that you have **:d20-adv: Advantage**{.d20} on **:d20-inv: Initiative**{.d20 } rolls.
 
 ### Level 7: Instinctive Pounce
 
@@ -203,7 +203,7 @@ As part of the **:rsc-b: Bonus Action**{ .rsc } you take to enter your **:ui-rag
 
 ### Level 9: Brutal Strike
 
-If you use Reckless Attack, you can forgo any **:d20-adv: Advantage**{ .d20 } on one :abl-str: Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have **:d20-dis: Disadvantage**{ .d20 }. 
+If you use Reckless Attack, you can forgo any **:d20-adv: Advantage**{.d20} on one :abl-str: Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have **:d20-dis: Disadvantage**{.d20}. 
 
 If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or **:rsc-a: Unarmed Strike**{ .rsc } , and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
@@ -221,7 +221,7 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
 
-**Staggering Blow**{.inl} The target has **:d20-dis: Disadvantage**{ .d20 } on the next saving throw it makes, and it can't make **:rsc-r: Opportunity Attacks**{ .rsc } until the start of your next turn.
+**Staggering Blow**{.inl} The target has **:d20-dis: Disadvantage**{.d20} on the next saving throw it makes, and it can't make **:rsc-r: Opportunity Attacks**{ .rsc } until the start of your next turn.
 
 **Sundering Blow**{.inl} Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
 

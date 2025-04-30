@@ -22,7 +22,7 @@ Your **:ui-rage: Rage**{ .em } taps into the lifeforce of the World Tree. You ga
 
 ### Level 6: Branches of the Tree
 
-Whenever a creature you can see starts its turn within 30 feet of you while your **:ui-rage: Rage**{ .em } is active, you can take a **:rsc-r: Reaction**{ .rsc } to summon spectral branches of the World Tree around it. The target must succeed on a **:d20-save: Strength saving throw**{ .d20 } (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. After the target teleports, you can reduce its Speed to 0 until the end of the current turn.
+Whenever a creature you can see starts its turn within 30 feet of you while your **:ui-rage: Rage**{ .em } is active, you can take a **:rsc-r: Reaction**{ .rsc } to summon spectral branches of the World Tree around it. The target must succeed on a **:d20-save: Strength saving throw**{.d20} (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. After the target teleports, you can reduce its Speed to 0 until the end of the current turn.
 
 ### Level 10: Battering Roots
 

@@ -67,7 +67,7 @@ The following section list's tools from PHB'24.
 *Artisan's Tool, 50 SP, M.*  
 
 **Ability:** Dexterity  
-**Utilise:** Modify footwear to give **:d20-adv: Advantage**{ .d20 } on the wearer's next Dexterity (Acrobatics) check (DC 10)  
+**Utilise:** Modify footwear to give **:d20-adv: Advantage**{.d20} on the wearer's next Dexterity (Acrobatics) check (DC 10)  
 **Craft:** Climber's Kit  
 
 ---

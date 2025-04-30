@@ -12,7 +12,7 @@ When the outcome of an action is uncertain, the game uses a d20 roll to determin
 
 They follow these steps:
 
-1. **Roll a 1d20:** You always want to roll *high*. If the roll has **:d20-adv: Advantage**{ .d20 } or **:d20-dis: Disadvantage**{ .d20 }, you roll two d20s, but you use the number from only one of them-the higher once if you have **:d20-adv: Advantage**{ .d20 } or the lower one if you have **:d20-dis: Disdvantage**{ .d20 }.
+1. **Roll a 1d20:** You always want to roll *high*. If the roll has **:d20-adv: Advantage**{.d20} or **:d20-dis: Disadvantage**{.d20}, you roll two d20s, but you use the number from only one of them-the higher once if you have **:d20-adv: Advantage**{.d20} or the lower one if you have **:d20-dis: Disdvantage**{.d20}.
 
 2. **Add Modifiers:** Add these modifiers to the number rolled on the d20:
 
@@ -26,13 +26,13 @@ They follow these steps:
 
 ## Ability Check
   
-An **:d20-check: Ability Check**{ .d20 } is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the DM for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
+An **:d20-check: Ability Check**{.d20} is an attempt to succeed at a specific task, and is rolled against a **Difficulty Class** (**DC**) set by the DM for that task. If the final result of the roll equals or exceeds the DC, the attempt is successful.
 
-For every **:d20-check: Ability Check**{ .d20 }, the DM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a [Difficulty Class]. The more difficult a task, the higher its DC.
+For every **:d20-check: Ability Check**{.d20}, the DM decides which of the six abilities is relevant to the task at hand and the difficulty of the task, represented by a [Difficulty Class]. The more difficult a task, the higher its DC.
 
 ### Ability Modifier
 
-The **:d20-check: Ability Check**{ .d20 } is named for the ability modifier is uses: a **:d20-check: STR Check**{.d20}, an **:d20-check: INT check**{.d20}, and so on. Different ability checks are called for in different sutiation, depending on which ability is most relevant. See the Ability Check Examples table of examples of each check's to use.
+The **:d20-check: Ability Check**{.d20} is named for the ability modifier is uses: a **:d20-check: STR Check**{.d20}, an **:d20-check: INT check**{.d20}, and so on. Different ability checks are called for in different sutiation, depending on which ability is most relevant. See the Ability Check Examples table of examples of each check's to use.
 
 ##### Ability Check Examples
 
@@ -74,7 +74,7 @@ If you don't want to resist the effect, you can choose to fail the save without 
 
 ### Ability Modifier
 
-Saving throws are named for the ability modifiers they use: a **:d20-save: Constitution saving throw**{ .d20 }, a **:d20-save: Wisdom saving throw**{ .d20 }, and so on. Different sacing throws are used to ressit different kinds of effects, as shown on the Saving Throw Examples table.
+Saving throws are named for the ability modifiers they use: a **:d20-save: Constitution saving throw**{.d20}, a **:d20-save: Wisdom saving throw**{.d20}, and so on. Different sacing throws are used to ressit different kinds of effects, as shown on the Saving Throw Examples table.
 
 ##### Saving Throw Examples
 
@@ -97,7 +97,7 @@ The Difficulty Class for a Saving Throw is determined by the effect that causes 
 
 ## Attack Roll
 
-When a creature attacks a target, it makes an **:d20-attack: Attack Roll**{ .d20 } against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
+When a creature attacks a target, it makes an **:d20-attack: Attack Roll**{.d20} against the target's AC to determine whether the attack is a hit or a miss. If the attack is a hit, it generally deals damage, and the attacker rolls for damage.
 
 Creatures generally make their attacks with their equipped weapon (including unarmed), but some spells - such as a Warlock's [:spell-lv0: Eldritch Blast](../../spells/description/core/cantrip.md#eldritch-blast) - require the caster to make spell attack rolls.
 
@@ -143,13 +143,13 @@ If you roll a 1 on the d20 (called a "natural 1) for an attack roll, the attack 
 
 ## Advantage & Disadvantage
 
-A number of situations and conditions give creatures **:d20-adv: Advantage**{ .d20 } or **:d20-dis: Disadvantage**{ .d20 } on d20 rolls.
+A number of situations and conditions give creatures **:d20-adv: Advantage**{.d20} or **:d20-dis: Disadvantage**{.d20} on d20 rolls.
 
-A creature that makes a roll with **:d20-adv: Advantage**{ .d20 } rolls two d20 dice separately, and uses the higher of the two results. If they have **:d20-dis: Disadvantage**{ .d20 }, they choose the lower of the two.
+A creature that makes a roll with **:d20-adv: Advantage**{.d20} rolls two d20 dice separately, and uses the higher of the two results. If they have **:d20-dis: Disadvantage**{.d20}, they choose the lower of the two.
 
 ### Interactions with Rerolls
 
-When you have **:d20-adv: Advantage**{ .d20 } or **:d20-dis: Disadvantage**{ .d20 } and something in the game lets you reroll or replace the d20, you can reroll or replace only one die, not both. You choose which one.
+When you have **:d20-adv: Advantage**{.d20} or **:d20-dis: Disadvantage**{.d20} and something in the game lets you reroll or replace the d20, you can reroll or replace only one die, not both. You choose which one.
 
 ### Heroic Inspiration
 

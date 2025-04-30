@@ -254,7 +254,7 @@ While wearing this ring, the creature can recover one expended spell slot as an 
 
 _**Prerequisite:** Level 10+, **Item:** A helmet (requires attunement)_
 
-While wearing this helmet, a creature has **:d20-adv: Advantage**{ .d20 } on **:d20-inv: Initiative**{.d20 } rolls. In addition, the wearer is immune to the Surprised condition, provided it doesn't have the Incapacitated condition.
+While wearing this helmet, a creature has **:d20-adv: Advantage**{.d20} on **:d20-inv: Initiative**{.d20 } rolls. In addition, the wearer is immune to the Surprised condition, provided it doesn't have the Incapacitated condition.
 
 ---
 

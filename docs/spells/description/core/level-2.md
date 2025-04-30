@@ -186,7 +186,7 @@ One creature that you can see within range must succeed on a Constitution saving
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-Your body becomes blurred. For the duration, any creature has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against you. An attacker is immune to this effect if it perceives you with Blindsight or Truesight.
+Your body becomes blurred. For the duration, any creature has **:d20-dis: Disadvantage**{.d20} on attack rolls against you. An attacker is immune to this effect if it perceives you with Blindsight or Truesight.
 
 > **Classes:** Artificer, Sorcerer, Wizard
 
@@ -389,7 +389,7 @@ Choose one creature you can see within range. Yellow strips of magical energy lo
 **Components:** V, S, M (fur or a feather)  
 **Duration:** Concentration, up to 1 hour
 
-You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Charisma. For the duration, the target has **:d20-adv: Advantage**{ .d20 } on ability checks using the chosen ability.
+You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Charisma. For the duration, the target has **:d20-adv: Advantage**{.d20} on ability checks using the chosen ability.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 2. You can choose a different ability for each target.
 
@@ -409,9 +409,9 @@ For the duration, the spell enlarges or reduces a creature or an object you can 
 
 Everything that a targeted creature is wearing and carrying changes size with it. Any item it drops returns to normal size at once. A thrown weapon or piece of ammunition returns to normal size immediately after it hits or misses a target.
 
-***Enlarge.*** The target's size increases by one category—from Medium to Large, for example. The target also has **:d20-adv: Advantage**{ .d20 } on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strike deal an extra 1d4 damage on a hit.
+***Enlarge.*** The target's size increases by one category—from Medium to Large, for example. The target also has **:d20-adv: Advantage**{.d20} on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strike deal an extra 1d4 damage on a hit.
 
-***Reduce.*** The target's size decreases by one category—from Medium to Small, for example. The target also has **:d20-dis: Disadvantage**{ .d20 } on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strike deal 1d4 less damage on a hit (this can't reduce the damage below 1).
+***Reduce.*** The target's size decreases by one category—from Medium to Small, for example. The target also has **:d20-dis: Disadvantage**{.d20} on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strike deal 1d4 less damage on a hit (this can't reduce the damage below 1).
 
 > **Classes:** Artificer, Bard, Druid, Sorcerer, Wizard
 
@@ -575,7 +575,7 @@ As a **:rsc-b: Bonus Action**{ .rsc } on your turn, you can move the spirit up t
 
 Choose a manufactured metal object, such as a metal weapon or a suit of Heavy or Medium metal armour, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 Fire damage when you cast the spell. Until the spell ends, you can take a **:rsc-b: Bonus Action**{ .rsc } on each of your later turns to deal this damage again if the object is within range.
 
-If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has **:d20-dis: Disadvantage**{ .d20 } on attack rolls and ability checks until the start of your next turn.
+If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has **:d20-dis: Disadvantage**{.d20} on attack rolls and ability checks until the start of your next turn.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 2.
 
@@ -933,7 +933,7 @@ Up to five creatures of your choice who remain within range for the spell's enti
 **Components:** V, S  
 **Duration:** 1 hour
 
-You touch a creature and end the Poisoned condition on it. For the duration, the target has **:d20-adv: Advantage**{ .d20 } on saving throws to avoid or end the Poisoned condition, and it has Resistance to Poison damage.
+You touch a creature and end the Poisoned condition on it. For the duration, the target has **:d20-adv: Advantage**{.d20} on saving throws to avoid or end the Poisoned condition, and it has Resistance to Poison damage.
 
 > **Classes:** Artificer, Cleric, Druid, Paladin, Ranger
 
@@ -965,9 +965,9 @@ Choose an area of nonmagical flame that you can see and that fits within a 5-foo
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has **:d20-dis: Disadvantage**{ .d20 } on the next attack roll it makes until the start of your next turn.
+A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has **:d20-dis: Disadvantage**{.d20} on the next attack roll it makes until the start of your next turn.
 
-On a failed save, the target has **:d20-dis: Disadvantage**{ .d20 } on Strength-based D20 Tests for the duration. During that time, it also subtracts 1d8 from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
+On a failed save, the target has **:d20-dis: Disadvantage**{.d20} on Strength-based D20 Tests for the duration. During that time, it also subtracts 1d8 from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
 
 > **Classes:** Warlock, Wizard
 
@@ -1061,7 +1061,7 @@ If you drop the weapon or throw it, it dissipates at the end of the turn. Therea
 **Components:** V, S, M (a chip of mica)  
 **Duration:** Instantaneous
 
-A loud noise erupts from a point of your choice within range. Each creature in a 10-foot-radius Sphere centered there makes a Constitution saving throw, taking 3d8 Thunder damage on a failed save or half as much damage on a successful one. A Construct has **:d20-dis: Disadvantage**{ .d20 } on the save.
+A loud noise erupts from a point of your choice within range. Each creature in a 10-foot-radius Sphere centered there makes a Constitution saving throw, taking 3d8 Thunder damage on a failed save or half as much damage on a successful one. A Construct has **:d20-dis: Disadvantage**{.d20} on the save.
 
 A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
 
@@ -1079,7 +1079,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-The target hit by the strike takes an extra 2d6 Radiant damage from the attack. Until the spell ends, the target sheds Bright Light in a 5-foot radius, attack rolls against it have **:d20-adv: Advantage**{ .d20 } , and it can't benefit from the Invisible condition.
+The target hit by the strike takes an extra 2d6 Radiant damage from the attack. Until the spell ends, the target sheds Bright Light in a 5-foot radius, attack rolls against it have **:d20-adv: Advantage**{.d20} , and it can't benefit from the Invisible condition.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 2.
 

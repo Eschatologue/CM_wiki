@@ -15,11 +15,11 @@ Monks of the Way of the Sun Soul learn to channel their own life energy into sea
 
 ### Level 3: Radiant Sun Bolt
 
-Whenever you make an **:rsc-a: Unarmed Strike (Damage)**{ .rsc }, you can make a ranged attack roll as you shoot a bolt of radiant energy from your fists, instead of the normal strike. When you do, the strike deals **:dmg-radi: Radiant**{ .dmg-radi } damage instead of the normal damage type, and the attack has a Range of (30/60). Being within 5 feet of an enemy does not impose **:d20-dis: Disadvantage**{ .d20 } on this attack.
+Whenever you make an **:rsc-a: Unarmed Strike (Damage)**{ .rsc }, you can make a ranged attack roll as you shoot a bolt of radiant energy from your fists, instead of the normal strike. When you do, the strike deals **:dmg-radi: Radiant**{ .dmg-radi } damage instead of the normal damage type, and the attack has a Range of (30/60). Being within 5 feet of an enemy does not impose **:d20-dis: Disadvantage**{.d20} on this attack.
 
 ### Level 6: Blinding Light
 
-When you use your [Patient Defense](index.md#patient-defense) feature, you can expend **1 :class-phb24-monk: Focus Point(s)** to create a bright, flashing light. Choose a number of creatures that you can see within 10 feet of you equal to your Wisdom modifier (minimum 1 creature). Each creature must succeed on a **:d20-save: Constitution saving throw**{ .d20 } against your Focus save DC or have the **Blinded**{ .cond } condition until the end of its next turn.
+When you use your [Patient Defense](index.md#patient-defense) feature, you can expend **1 :class-phb24-monk: Focus Point(s)** to create a bright, flashing light. Choose a number of creatures that you can see within 10 feet of you equal to your Wisdom modifier (minimum 1 creature). Each creature must succeed on a **:d20-save: Constitution saving throw**{.d20} against your Focus save DC or have the **Blinded**{ .cond } condition until the end of its next turn.
 
 ### Level 11: Searing Radiance
 

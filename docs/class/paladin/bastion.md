@@ -79,9 +79,9 @@ You become an unyielding bulwark, turning aside threats and protecting those wit
 
 ***Truesight***. You gain *Truesight* with a range of 120 feet.
 
-**Saving Throw Advantage**{.inl} You have **:d20-adv: Advantage**{ .d20 } on all saving throws so long you don't have the Incapacitated condition.
+**Saving Throw Advantage**{.inl} You have **:d20-adv: Advantage**{.d20} on all saving throws so long you don't have the Incapacitated condition.
 
-**Protection**{.inl} No creature can make an attack with **:d20-adv: Advantage**{ .d20 } against you or your allies that is within your Aura of Protection.
+**Protection**{.inl} No creature can make an attack with **:d20-adv: Advantage**{.d20} against you or your allies that is within your Aura of Protection.
 
 [^1]: *Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own Movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master's *Pushing Attack*. Forced Movement does **not** provoke Opportunity Attacks and is not limited by a creature's Movement speed.
 

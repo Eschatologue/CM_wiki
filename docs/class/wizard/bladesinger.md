@@ -26,7 +26,7 @@ While the *Bladesong* is active, you gain the following benefits. You can invoke
  
 **Bladework**{.inl} Whenever you attack with a weapon with which you have proficiency, you can use your Intelligence modifier for the attack and damage rolls instead of using Strength or Dexterity. 
 
-**Focus**{.inl} When you make a **:d20-save: Constitution saving throw**{ .d20 } to maintain **:spell-conc: Concentration**, you can add your Intelligence modifier to the total. 
+**Focus**{.inl} When you make a **:d20-save: Constitution saving throw**{.d20} to maintain **:spell-conc: Concentration**, you can add your Intelligence modifier to the total. 
 
 ### Level 3: Training in War and Song
 

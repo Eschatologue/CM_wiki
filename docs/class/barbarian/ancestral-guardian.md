@@ -20,7 +20,7 @@ Barbarians who draw upon their ancestral guardians embody the strength and virtu
 Spectral warriors appear when you enter your Rage.
 { .quote }
 
-While your **:ui-rage: Rage**{ .em } is active, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has **:d20-dis: Disadvantage**{ .d20 } on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has **:dmg-res: Resistance**{ .em } to the damage of the attack. The effect on the target ends early if your **:ui-rage: Rage**{ .em } ends.
+While your **:ui-rage: Rage**{ .em } is active, the first creature you hit with an attack on your turn becomes the target of the warriors, which hinder its attacks. Until the start of your next turn, that target has **:d20-dis: Disadvantage**{.d20} on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has **:dmg-res: Resistance**{ .em } to the damage of the attack. The effect on the target ends early if your **:ui-rage: Rage**{ .em } ends.
 
 ### Level 6: Spirit Shield
 

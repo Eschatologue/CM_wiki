@@ -24,7 +24,7 @@ Your intensive training in battle grants you unparalleled focus. You gain the ab
 You can use Fighting Spirit a number of time equals to `1 plus your Wisdom modifier`. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. Each time you use a Fighting Spirit you also gain **(2x WIS mod) :trt-thp: Temporary Hit Points**{.jetbrains} (minimum of 1).
 
 **Fighting Spirit: Precision**
-:   When you make an attack, you can grant yourself **:d20-adv: Advantage**{ .d20 } on all your attacks until the start of your next turn.  
+:   When you make an attack, you can grant yourself **:d20-adv: Advantage**{.d20} on all your attacks until the start of your next turn.  
    
 **Fighting Spirit: Counter**
 :    When a creature you can see within your reach damages or misses you after an attack roll, you can make an **:rsc-r: Opportunity Attack**{.rsc} against it.
@@ -45,9 +45,9 @@ When you use your [Tactical Shift](index.md#level-5-tactical-shift), you can mak
 
 Your training has reached extraordinary heights, allowing you to combine speed and precision with devastating results. You gain the following benefits: 
 
-**Rapid Strikes**{.inl} You trade accuracy for swift strikes. Once per turn, if you make an attack roll and have **:d20-adv: Advantage**{ .d20 } on it, you can forgo the **:d20-adv: Advantage**{ .d20 } for that roll to immediately make one additional attack.
+**Rapid Strikes**{.inl} You trade accuracy for swift strikes. Once per turn, if you make an attack roll and have **:d20-adv: Advantage**{.d20} on it, you can forgo the **:d20-adv: Advantage**{.d20} for that roll to immediately make one additional attack.
 
-**Helm Splitter**{.inl} You trade accuracy for a powerful blow. Once per turn, if you make an attack and have **:d20-adv: Advantage**{ .d20 } on it, you can forgo the **:d20-adv: Advantage**{ .d20 } for that roll. On hit, the attack deals maximum damage.
+**Helm Splitter**{.inl} You trade accuracy for a powerful blow. Once per turn, if you make an attack and have **:d20-adv: Advantage**{.d20} on it, you can forgo the **:d20-adv: Advantage**{.d20} for that roll. On hit, the attack deals maximum damage.
 
 ### Level 18: Strength Before Death
 

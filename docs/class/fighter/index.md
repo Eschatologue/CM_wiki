@@ -163,7 +163,7 @@ You can attack three times instead of once whenever you take the **:rsc-a: Attac
 
 ### Level 13: Studied Attacks
 
-You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have **:d20-adv: Advantage**{ .d20 } on your next attack roll against that creature before the end of your next turn.
+You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have **:d20-adv: Advantage**{.d20} on your next attack roll against that creature before the end of your next turn.
 
 ### Level 19: Epic Boon
 

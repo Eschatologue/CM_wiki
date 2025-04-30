@@ -73,9 +73,9 @@ You always seem to shoot first. You can add your Intelligence modifier (minimum 
 
 ### Level 15: Master Gunslinger
 
-Your skill with your Arcane Firearm is nearly supernatural in battle. You can take a **:rsc-b: Bonus Action**{ .rsc } on your turn to steady your breathing, granting you **:d20-adv: Advantage**{ .d20 } on any attacks you make with your Arcane Firearm until the end of your current turn.
+Your skill with your Arcane Firearm is nearly supernatural in battle. You can take a **:rsc-b: Bonus Action**{ .rsc } on your turn to steady your breathing, granting you **:d20-adv: Advantage**{.d20} on any attacks you make with your Arcane Firearm until the end of your current turn.
 
-Finally, once per turn when you make an attack with your Arcane Firearm with **:d20-adv: Advantage**{ .d20 } , you can forgo the **:d20-adv: Advantage**{ .d20 } to instead make one additional Arcane Firearm attack.
+Finally, once per turn when you make an attack with your Arcane Firearm with **:d20-adv: Advantage**{.d20} , you can forgo the **:d20-adv: Advantage**{.d20} to instead make one additional Arcane Firearm attack.
 
 ---
 
@@ -87,7 +87,7 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
 **Close Shot**<br>_Level 3+ Artificer_
 
-:   When you make a ranged attack with your Arcane Firearm while you have a hostile creature within 5 feet of you, you do not have **:d20-dis: Disadvantage**{ .d20 } on your attack roll.
+:   When you make a ranged attack with your Arcane Firearm while you have a hostile creature within 5 feet of you, you do not have **:d20-dis: Disadvantage**{.d20} on your attack roll.
 
 **Deadly Accuracy**<br>_Level 3+ Artificer_
 
@@ -101,7 +101,7 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
 **Grooved Barrel**<br>_Level 3+ Artificer_
 
-:   You modify your Arcane Firearm to be especially accurate. You ignore the **:d20-dis: Disadvantage**{ .d20 } imposed on Arcane Firearm attacks that you make at the weapon's long range.
+:   You modify your Arcane Firearm to be especially accurate. You ignore the **:d20-dis: Disadvantage**{.d20} imposed on Arcane Firearm attacks that you make at the weapon's long range.
 
 **High Calibre**<br>_Level 3+ Artificer_
 
@@ -113,25 +113,25 @@ When one of your Upgrades requires a creature to make a saving throw, it makes i
 
 **Blinding Rounds**<br>_Level 5+ Artificer_
 
-:   Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: CON Save**{ .d20 }. On a failure, it has the Blinded condition until the start of your next turn.
+:   Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: CON Save**{.d20}. On a failure, it has the Blinded condition until the start of your next turn.
 
 **Concussive Rounds**<br>_Level 5+ Artificer_
 
-:   Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: CON Save**{ .d20 }. On a failure, the target cannot take reactions, and its Speed is halved until the beginning of your next turn.
+:   Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: CON Save**{.d20}. On a failure, the target cannot take reactions, and its Speed is halved until the beginning of your next turn.
 
 **Explosive Rounds**<br>_Level 5+ Artificer_
 
-:   Once per turn when you hit a target with an Arcane Firearm attack, you can force all creatures within 5 feet of it to make a **:d20-save: DEX Save**{ .d20 }. On a failed save, they take damage as if they had also been hit by your Arcane Firearm attack.
+:   Once per turn when you hit a target with an Arcane Firearm attack, you can force all creatures within 5 feet of it to make a **:d20-save: DEX Save**{.d20}. On a failed save, they take damage as if they had also been hit by your Arcane Firearm attack.
 
 **Incapacitating Rounds**<br>_Level 9+ Artificer_
 
-:   Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: STR Save**{ .d20 }. On a failed save, it has the **Incapacitated**{.cond} condition until the start of your next turn, or until it takes damage or is forced to make a saving throw.
+:   Once per turn when you hit a target with an Arcane Firearm attack, you can force it to make a **:d20-save: STR Save**{.d20}. On a failed save, it has the **Incapacitated**{.cond} condition until the start of your next turn, or until it takes damage or is forced to make a saving throw.
 
-    Large and larger creatures have **:d20-adv: Advantage**{ .d20 } on the **:d20-save: STR Save**{ .d20 } to resist the effects of this Upgrade.
+    Large and larger creatures have **:d20-adv: Advantage**{.d20} on the **:d20-save: STR Save**{.d20} to resist the effects of this Upgrade.
 
 **Arcane Railgun**<br>_Level 15+ Artificer_
 
-:   Once on your turn in place of making an Arcane Firearm attack, you can force creatures in a **60-foot :aoe-line: Line** originating from your Arcane Firearm to make a **:d20-save: DEX Save**{ .d20 }. Targets take **4d6 :dmg-force: Force**{ .dmg-force } damage on a failed save, and half as much on a successful save.
+:   Once on your turn in place of making an Arcane Firearm attack, you can force creatures in a **60-foot :aoe-line: Line** originating from your Arcane Firearm to make a **:d20-save: DEX Save**{.d20}. Targets take **4d6 :dmg-force: Force**{ .dmg-force } damage on a failed save, and half as much on a successful save.
 
 **Independent Turret**<br>_Level 15+ Artificer_
 

@@ -36,7 +36,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 3: Peerless Athlete
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to augment your athleticism. For 1 hour, you have **:d20-adv: Advantage**{ .d20 } on Strength (Athletics) and Dexterity (Acrobatics) checks and the distance of your long and high jumps increases by 10 feet (this extra distance costs Movement as normal).
+As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to augment your athleticism. For 1 hour, you have **:d20-adv: Advantage**{.d20} on Strength (Athletics) and Dexterity (Acrobatics) checks and the distance of your long and high jumps increases by 10 feet (this extra distance costs Movement as normal).
 
 ### Level 7: Aura Of Alacrity
 

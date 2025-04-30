@@ -738,7 +738,7 @@ You manifest a minor wonder within range. You create one of the effects below wi
 
 ***Altered Eyes.*** You alter the appearance of your eyes for 1 minute.
 
-***Booming Voice.*** Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have **:d20-adv: Advantage**{ .d20 } on Charisma (Intimidation) checks.
+***Booming Voice.*** Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have **:d20-adv: Advantage**{.d20} on Charisma (Intimidation) checks.
 
 ***Fire Play.*** You cause flames to flicker, brighten, dim, or change color for 1 minute.
 
@@ -824,7 +824,7 @@ Guided by a flash of magical insight, you make one attack with the weapon used i
 **Components:** V   
 **Duration:** Instantaneous
 
-You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take 1d6 Psychic damage and have **:d20-dis: Disadvantage**{ .d20 } on the next attack roll it makes before the end of its next turn.
+You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take 1d6 Psychic damage and have **:d20-dis: Disadvantage**{.d20} on the next attack roll it makes before the end of its next turn.
 
 ***Cantrip Upgrade.*** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 

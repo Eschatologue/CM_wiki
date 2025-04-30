@@ -20,7 +20,7 @@ Below are the Aptitudes available to the [Ranger]. If an Aptitude has a prerequi
 Every Ranger has a unique origin, choose one of the following benefit:
 
 **Bounty Hunter**
-:   You gain proficiency in Insight and Investigation. In addition, creatures has **:d20-dis: Disadvantage**{ .d20 } on saves to resist or end the **Grappled**{ .cond } or **Restrained**{ .cond } condition caused by you.
+:   You gain proficiency in Insight and Investigation. In addition, creatures has **:d20-dis: Disadvantage**{.d20} on saves to resist or end the **Grappled**{ .cond } or **Restrained**{ .cond } condition caused by you.
 
     _Your expertise in hunting bounties stands out._{.quote}
 
@@ -142,7 +142,7 @@ When you roll **:d20-inv: Initiative**{.d20}, you can take a **:rsc-r: Reaction*
 
 _**Prerequisite:** Level 14+ Ranger, [Slayer II](#slayer-ii-ambush-tactics)_
 
-Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can force the target must succeed a **:d20-save: CON Save**{ .d20 }, or it has the **Blinded**{ .cond } and **Silenced**{ .cond } condition.
+Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can force the target must succeed a **:d20-save: CON Save**{.d20}, or it has the **Blinded**{ .cond } and **Silenced**{ .cond } condition.
 
 ---
 
@@ -178,7 +178,7 @@ You always under the effect of [:spell-lv4: Freedom of Movement] spell so long y
 
 _**Prerequisite:** Level 6+ Ranger_
 
-You can't have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against the target of your [:spell-lv1: Hunter's Mark].
+You can't have **:d20-dis: Disadvantage**{.d20} on attack rolls against the target of your [:spell-lv1: Hunter's Mark].
 
 ---
 
@@ -186,7 +186,7 @@ You can't have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against the ta
 
 _**Prerequisite:** Level 15+ Ranger, [Enhanced Senses](#enhanced-senses)_
 
-You can't have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against any target within 30 feet of you.
+You can't have **:d20-dis: Disadvantage**{.d20} on attack rolls against any target within 30 feet of you.
 
 ---
 
@@ -196,7 +196,7 @@ You can't have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against any ta
 
 _**Prerequisite:** Level 6+ Ranger_
 
-When you score a Critical Hit against a creature, all creature have **:d20-adv: Advantage**{ .d20 } on the next attack they make against that creature before the end of your next turn.
+When you score a Critical Hit against a creature, all creature have **:d20-adv: Advantage**{.d20} on the next attack they make against that creature before the end of your next turn.
 
 ---
 

@@ -81,7 +81,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :   ### Heavy { .noborder }
 
-    **:wp-prop-heavy: Heavy**{.wp} weapon is unwieldy compared to other weapons. You have **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
+    **:wp-prop-heavy: Heavy**{.wp} weapon is unwieldy compared to other weapons. You have **:d20-dis: Disadvantage**{.d20} on your attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13, and if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 ---
 
@@ -107,7 +107,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
     This weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. 
 
-    The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have **:d20-dis: Disadvantage**{ .d20 } on the attack roll. You can't attack a target beyond the weapon's long range.
+    The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have **:d20-dis: Disadvantage**{.d20} on the attack roll. You can't attack a target beyond the weapon's long range.
 
 ---
 
@@ -139,7 +139,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :   ### Sighted { .noborder }
 
-    This weapon has **:d20-dis: Disadvantage**{ .d20 } on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{ .d20 } against target that has not moved at least 15 feet for this before the start of your turn.
+    This weapon has **:d20-dis: Disadvantage**{.d20} on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{.d20} against target that has not moved at least 15 feet for this before the start of your turn.
 
 ---
 

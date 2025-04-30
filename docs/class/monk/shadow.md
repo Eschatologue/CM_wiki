@@ -24,7 +24,7 @@ Through rigorous training, you have learned to draw on the power of the Shadowfe
 
 ### Level 6: Shadow Step
 
-While entirely within Dim Light or Darkness, you can use a **:rsc-b: Bonus Action**{ .rsc } to teleport up to 60 feet to an unoccupied space you can see that is also in Dim Light or Darkness. You then have **:d20-adv Advantage:**{ .d20 } on the next melee attack you make before the end of the turn.
+While entirely within Dim Light or Darkness, you can use a **:rsc-b: Bonus Action**{ .rsc } to teleport up to 60 feet to an unoccupied space you can see that is also in Dim Light or Darkness. You then have **:d20-adv Advantage:**{.d20} on the next melee attack you make before the end of the turn.
 
 ### Level 11: Improved Shadow Step
 

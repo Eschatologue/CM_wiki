@@ -83,7 +83,7 @@ When you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can replac
  
 ### Level 10: Eldritch Strike
 
-You learn how to make your weapon strikes undercut a creature's ability to withstand your spells. When you hit a creature with an attack using a weapon, that creature has **:d20-dis: Disadvantage**{ .d20 } on the next saving throw it makes against a spell you cast before the end of your next turn.
+You learn how to make your weapon strikes undercut a creature's ability to withstand your spells. When you hit a creature with an attack using a weapon, that creature has **:d20-dis: Disadvantage**{.d20} on the next saving throw it makes against a spell you cast before the end of your next turn.
 
 ### Level 15: Arcane Charge
 

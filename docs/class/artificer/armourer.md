@@ -63,7 +63,7 @@ You design your armour to be in the front line of conflict. It has the following
 **Weapon Category:** Simple Melee  
     **Damage on a Hit:** **1d8 :dmg-thun: Thunder (2d8 at level 15)**{ .dmg-thun } plus the ability modifier used for the attack roll
 
-**Distracting Pulse**{.inl} When you hit a creature with a melee attack, it has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
+**Distracting Pulse**{.inl} When you hit a creature with a melee attack, it has **:d20-dis: Disadvantage**{.d20} on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
 
 **Defensive Field**{.inl} While you are Bloodied, you can take a **:rsc-b: Bonus Action**{ .rsc } to gain **:trt-thp: Temporary Hit Points** equal to your Artificer level. You lose these **:trt-thp: Temporary Hit Points** if you doff the armour.
 
@@ -79,7 +79,7 @@ You customize your armour for subtle undertakings. It has the following features
 
 **Lightning Arc**{.inl} Once per turn when you hit a creature with a ranged attack, you can deal an extra **1d6 :dmg-lgtn: Lightning**{ .dmg-lgtn } damage to that target, as your armour arcs electricity between itself and the target.
 
-**Dampening Field**{.inl} You have **:d20-adv: Advantage**{ .d20 }  on Dexterity (Stealth) checks. If the armour normally imposes **:d20-dis: Disadvantage**{ .d20 } on such checks, it cancel each other as normal.
+**Dampening Field**{.inl} You have **:d20-adv: Advantage**{.d20}  on Dexterity (Stealth) checks. If the armour normally imposes **:d20-dis: Disadvantage**{.d20} on such checks, it cancel each other as normal.
 
 ### Level 5: Extra Attack
 
@@ -101,12 +101,12 @@ Your Arcane Armour gains additional benefits based on its model, as shown below.
 
 #### Guardian
 
-When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your **:rsc-r: Reaction**{ .rsc } to magically force it to make a **:d20-save: Strength saving throw**{ .d20 } against your Spell Save DC. On a failed save, you pull the creature up to **25 feet** directly to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.
+When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your **:rsc-r: Reaction**{ .rsc } to magically force it to make a **:d20-save: Strength saving throw**{.d20} against your Spell Save DC. On a failed save, you pull the creature up to **25 feet** directly to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.
 
 You can use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Intelligence modifier, and you regain all expended uses of it when you finish a **:rest-long: Long Rest**.
 
 #### Infiltrator
 
-Any creature that takes **:dmg-lgtn: Lightning**{ .dmg-lgtn } damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has **:d20-adv: Advantage**{ .d20 }, and if that attack hits, the target takes an extra **1d6 :dmg-lgtn: Lightning**{ .dmg-lgtn } damage.
+Any creature that takes **:dmg-lgtn: Lightning**{ .dmg-lgtn } damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius, and it has **:d20-dis: Disadvantage**{.d20} on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has **:d20-adv: Advantage**{.d20}, and if that attack hits, the target takes an extra **1d6 :dmg-lgtn: Lightning**{ .dmg-lgtn } damage.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

@@ -39,7 +39,7 @@ Through the fusion of ancient druidic magic and advanced technology, you can enh
 **Temporary Hit Points**{.inl} You gain **(Druid Level x 3) :trt-thp: Temporary Hit Points**{ .calc }.
 { .indt }
 
-**Resistance**{.inl} You have **:d20-adv: Advantage**{ .d20 } on saves to gain and end the **Poisoned**{ .cond } condition, and you gain **:dmg-res: Resistance** to **:dmg-posn: Poison**{ .dmg-posn } damage.
+**Resistance**{.inl} You have **:d20-adv: Advantage**{.d20} on saves to gain and end the **Poisoned**{ .cond } condition, and you gain **:dmg-res: Resistance** to **:dmg-posn: Poison**{ .dmg-posn } damage.
 { .indt }
 
 **Machine Body**{.inl} While transformed, you do not need to eat, drink, or breathe and you have **:dmg-imm: Immunity** to be put to sleep by magical means
@@ -54,7 +54,7 @@ While in your Beast form, you can change your attacks deals one of the following
 When you use this ability on a creature, your attack has an additional effect, determined by which damage type you selected.
 
 _**Corrosive Blow**_ <br>**:dmg-acid: Acid**{ .dmg-acid .back } 
-:   On a hit, the next attack roll against that creature has **:d20-adv: Advantage**{ .d20 } until the start of your next turn.
+:   On a hit, the next attack roll against that creature has **:d20-adv: Advantage**{.d20} until the start of your next turn.
 
     *Your strikes leave behind sizzling acid, eating through metal and flesh alike.*{ .quote }  
 

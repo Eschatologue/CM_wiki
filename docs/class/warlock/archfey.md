@@ -33,7 +33,7 @@ In addition, whenever you cast that spell, you can choose one of the following a
 
 **Refreshing Step**{.inl} Immediately after you teleport, one creature you can see within 10 feet of you gains 1d10 Temporary Hit Points.
 
-**Taunting Step**{.inl} Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against creatures other than you until the start of your next turn.
+**Taunting Step**{.inl} Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have **:d20-dis: Disadvantage**{.d20} on attack rolls against creatures other than you until the start of your next turn.
 
 ### Level 6: Misty Escape
 

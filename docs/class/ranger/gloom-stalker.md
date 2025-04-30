@@ -54,6 +54,6 @@ The Psychic damage of your Dreadful Strike becomes 2d8. In addition, when you us
 
 ### Level 17: Shadowy Dodge
 
-When a creature makes an attack roll against you, you can use your **:rsc-r: Reaction**{ .rsc } to impose **:d20-dis: Disadvantage**{ .d20 } on that roll. If the attack then misses, you can teleport up to 30 feet to an unoccupied space you can see.
+When a creature makes an attack roll against you, you can use your **:rsc-r: Reaction**{ .rsc } to impose **:d20-dis: Disadvantage**{.d20} on that roll. If the attack then misses, you can teleport up to 30 feet to an unoccupied space you can see.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

@@ -79,7 +79,7 @@ Below is a list of common actions you can take. Each action requires using one o
 
 :   ### Dodge :rsc-a:
 
-    When you take the **:rsc-a: Dodge**{ .rsc } action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has **:d20-dis: Disadvantage**{ .d20 } if you can see the attacker, and you make **:d20-save: DEX Save**{ .d20 } with **:d20-adv: Advantage**{ .d20 }. You lose this benefit if you have the **Incapacitated**{.cond} condition or if your **:rsc-spd: Speed**{ .em } is 0.
+    When you take the **:rsc-a: Dodge**{ .rsc } action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has **:d20-dis: Disadvantage**{.d20} if you can see the attacker, and you make **:d20-save: DEX Save**{.d20} with **:d20-adv: Advantage**{.d20}. You lose this benefit if you have the **Incapacitated**{.cond} condition or if your **:rsc-spd: Speed**{ .em } is 0.
 
 ---
 
@@ -89,9 +89,9 @@ Below is a list of common actions you can take. Each action requires using one o
 
     When you take the **:rsc-a: Help**{ .rsc } action, you do one of the following:
 
-    **Assist Ability Check**{.inl} Choose one of your skill or tool proficiencies and one ally who can perceive you. You give **:d20-adv: Advantage**{ .d20 } to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
+    **Assist Ability Check**{.inl} Choose one of your skill or tool proficiencies and one ally who can perceive you. You give **:d20-adv: Advantage**{.d20} to the next ability check that ally makes with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. To give this assistance, you must be near enough to the ally to assist verbally or physically when the ally makes the check. The DM has final say on whether your assistance is possible.
 
-    **Assist Attack Roll**{.inl} You momentarily distract an enemy within 5 feet of you, giving **:d20-adv: Advantage**{ .d20 } to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
+    **Assist Attack Roll**{.inl} You momentarily distract an enemy within 5 feet of you, giving **:d20-adv: Advantage**{.d20} to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
 ---
 

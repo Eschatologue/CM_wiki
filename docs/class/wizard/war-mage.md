@@ -27,7 +27,7 @@ When you use this feature, you can't cast spells other than cantrips until the e
 
 ### Level 3: Tactical Wit
 
-Your keen ability to assess tactical situations allows you to act quickly in battle. You have **:d20-adv: Advantage**{ .d20 } on **:d20-inv: Initiative**{.d20 } rolls.
+Your keen ability to assess tactical situations allows you to act quickly in battle. You have **:d20-adv: Advantage**{.d20} on **:d20-inv: Initiative**{.d20 } rolls.
 
 ### Level 6: Power Surge
 

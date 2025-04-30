@@ -381,7 +381,7 @@ The creature returns to life with all its Hit Points. This spell also neutralize
 
 Coming back from the dead is an ordeal. The target takes a -4 penalty to D20 Tests. Every time the target finishes a **:rest-long: Long Rest**, the penalty is reduced by 1 until it becomes 0.
 
-Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a **:rest-long: Long Rest**, you can't cast spells again, and you have **:d20-dis: Disadvantage**{ .d20 } on D20 Tests.
+Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a **:rest-long: Long Rest**, you can't cast spells again, and you have **:d20-dis: Disadvantage**{.d20} on D20 Tests.
 
 > **Classes:** Bard, Cleric
 
@@ -463,7 +463,7 @@ Once triggered, the glyph glows, filling a 60-foot-radius Sphere with Dim Light 
 
 ***Death.*** Each target makes a Constitution saving throw, taking 10d10 Necrotic damage on a failed save or half as much damage on a successful save.
 
-***Discord.*** Each target makes a Wisdom saving throw. On a failed save, a target argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has **:d20-dis: Disadvantage**{ .d20 } on attack rolls and ability checks.
+***Discord.*** Each target makes a Wisdom saving throw. On a failed save, a target argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has **:d20-dis: Disadvantage**{.d20} on attack rolls and ability checks.
 
 ***Fear.*** Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute. While Frightened, the target must move at least 30 feet away from the glyph on each of its turns, if able.
 

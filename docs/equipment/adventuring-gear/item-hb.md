@@ -14,7 +14,7 @@ These items are unique to the world that Crown & Misery takes place
 
 _Adventuring gear, 30 sp, S._
 
-A detailed technical drawing of a machine, providing insight into its design and operation. Grants **:d20-adv: Advantage**{ .d20 } on Intelligence checks related to understanding or replicating machines.
+A detailed technical drawing of a machine, providing insight into its design and operation. Grants **:d20-adv: Advantage**{.d20} on Intelligence checks related to understanding or replicating machines.
 
 ---
 
@@ -38,7 +38,7 @@ A compact electronic device designed to detect hazardous gases. It emits a serie
 
 _Adventuring gear, 20 sp, S._
 
-Protective eyewear designed to shield the eyes from debris, sparks, and bright lights while working with machinery. Grants **:d20-adv: Advantage**{ .d20 } on saving throws to avoid the Blinded condition.
+Protective eyewear designed to shield the eyes from debris, sparks, and bright lights while working with machinery. Grants **:d20-adv: Advantage**{.d20} on saving throws to avoid the Blinded condition.
 
 ---
 

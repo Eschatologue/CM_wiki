@@ -60,7 +60,7 @@ At level 5, this object does not require attunement, and at level 10, the wearer
 
 _**Prerequisite:** Level 6+, suit of armour (requires attunement)_
 
-This magic suit of armour retains its weight but is formfitting and wearable under clothes without detection. It also grants its wearer **:d20-adv: Advantage**{ .d20 } on Dexterity (Stealth) checks.
+This magic suit of armour retains its weight but is formfitting and wearable under clothes without detection. It also grants its wearer **:d20-adv: Advantage**{.d20} on Dexterity (Stealth) checks.
 
 At level 10, this armour grants its wearer a +1 bonus to Armour Class. This bonus increases to +2 at level 17.
 

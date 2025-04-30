@@ -38,4 +38,4 @@ When you cast either spell with a spell slot, that slot isn't expended if the sp
 
 ### Level 14: Spell Resistance
 
-You have **:d20-adv: Advantage**{ .d20 } on saving throws against spells, and you have Resistance against the damage of spells.
+You have **:d20-adv: Advantage**{.d20} on saving throws against spells, and you have Resistance against the damage of spells.

@@ -107,7 +107,7 @@ When you cast the spell and as a **:rsc-b: Bonus Action**{ .rsc } on your later 
 **Components:** V  
 **Duration:** Concentration, up to 10 minutes
 
-An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have **:d20-adv: Advantage**{ .d20 } on saving throws against spells and other magical effects. When an affected creature makes a saving throw against a spell or magical effect that allows a save to take only half damage, it takes no damage if it succeeds on the save.
+An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have **:d20-adv: Advantage**{.d20} on saving throws against spells and other magical effects. When an affected creature makes a saving throw against a spell or magical effect that allows a save to take only half damage, it takes no damage if it succeeds on the save.
 
 > **Classes:** Cleric, Paladin, Wizard
 
@@ -247,7 +247,7 @@ On a failed save, you take 6d6 Psychic damage and have the Incapacitated conditi
 **Components:** V, S  
 **Duration:** 7 days
 
-Your touch inflicts a magical contagion. The target must succeed on a Constitution saving throw or take 11d8 Necrotic damage and have the Poisoned condition. Also, choose one ability when you cast the spell. While Poisoned, the target has **:d20-dis: Disadvantage**{ .d20 } on saving throws made with the chosen ability.
+Your touch inflicts a magical contagion. The target must succeed on a Constitution saving throw or take 11d8 Necrotic damage and have the Poisoned condition. Also, choose one ability when you cast the spell. While Poisoned, the target has **:d20-dis: Disadvantage**{.d20} on saving throws made with the chosen ability.
 
 The target must repeat the saving throw at the end of each of its turns until it gets three successes or failures. If the target succeeds on three of these saves, the spell ends on the target. If the target fails three of the saves, the spell lasts for 7 days on it.
 
@@ -364,7 +364,7 @@ Destructive energy ripples outward from you in a 30-foot Emanation. Each creatur
 **Components:** V, S, M (powdered silver and iron)  
 **Duration:** Concentration, up to 1 minute
 
-For the duration, Celestials, Elementals, Fey, Fiends, and Undead have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against you. You can end the spell early by using either of the following special functions.
+For the duration, Celestials, Elementals, Fey, Fiends, and Undead have **:d20-dis: Disadvantage**{.d20} on attack rolls against you. You can end the spell early by using either of the following special functions.
 
 ***Break Enchantment.*** As a **:rsc-a: Magic**{ .rsc } action, you touch a creature that is possessed by or has the Charmed or Frightened condition from one or more creatures of the types above. The target is no longer possessed, Charmed, or Frightened by such creatures.
 
@@ -382,7 +382,7 @@ For the duration, Celestials, Elementals, Fey, Fiends, and Undead have **:d20-di
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-One Humanoid you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has **:d20-adv: Advantage**{ .d20 } on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
+One Humanoid you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has **:d20-adv: Advantage**{.d20} on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
 
 You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
 
@@ -715,7 +715,7 @@ You can see through its eyes and hear through its ears as if you were located wh
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-You attempt to reshape another creature's memories. One creature that you can see within range makes a Wisdom saving throw. If you are fighting the creature, it has **:d20-adv: Advantage**{ .d20 } on the save. On a failed save, the target has the Charmed condition for the duration. While Charmed in this way, the target also has the Incapacitated condition and is unaware of its surroundings, though it can hear you. If it takes any damage or is targeted by another spell, this spell ends, and no memories are modified.
+You attempt to reshape another creature's memories. One creature that you can see within range makes a Wisdom saving throw. If you are fighting the creature, it has **:d20-adv: Advantage**{.d20} on the save. On a failed save, the target has the Charmed condition for the duration. While Charmed in this way, the target also has the Incapacitated condition and is unaware of its surroundings, though it can hear you. If it takes any damage or is targeted by another spell, this spell ends, and no memories are modified.
 
 While this charm lasts, you can affect the target's memory of an event that it experienced within the last 24 hours and that lasted no more than 10 minutes. You can permanently eliminate all memory of the event, allow the target to recall the event with perfect clarity, change its memory of the event's details, or create a memory of some other event.
 

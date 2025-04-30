@@ -37,7 +37,7 @@ When you cast any spell of level 1+ spell from your Psionic Spells feature, you 
 
 ### Level 6: Psychic Defenses
 
-You gain **:dmg-res: Resistance** to **:dmg-psyc: Psychic**{ .dmg-psyc } damage, and you have **:d20-adv: Advantage**{ .d20 } on saving throws to avoid or end the Charmed and Frightnened condition.
+You gain **:dmg-res: Resistance** to **:dmg-psyc: Psychic**{ .dmg-psyc } damage, and you have **:d20-adv: Advantage**{.d20} on saving throws to avoid or end the Charmed and Frightnened condition.
 
 ### Level 14: Revelation in Flesh
 

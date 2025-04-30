@@ -73,7 +73,7 @@ You can use any of the following options, expending one use of this feature per 
 
 **Intercept Attack**{.inl} When you are hit by an attack roll, you can use your **:rsc-r: Reaction**{ .rsc } to command a drone within 60 feet of you to intercept it. The drone immediately moves to an unoccupied space within 10 feet of you, and the attack is redirected to target the drone instead. You avoid all damage and effects associated with the attack.
 
-**Emulate Concentration**{.inl} When you cast a Wizard spell that requires concentration on your turn using the ***Spellcasting Module*** subfeature, you can make the drone concentrate on it instead of you. Though the drone has **:d20-dis: Disadvantage**{ .d20 } on the save it makes to maintain concentration and the spell duration is halved.
+**Emulate Concentration**{.inl} When you cast a Wizard spell that requires concentration on your turn using the ***Spellcasting Module*** subfeature, you can make the drone concentrate on it instead of you. Though the drone has **:d20-dis: Disadvantage**{.d20} on the save it makes to maintain concentration and the spell duration is halved.
 
 !!! statblock "Drone"
 

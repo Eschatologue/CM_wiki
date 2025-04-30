@@ -42,7 +42,7 @@ The maneuvers are presented here in alphabetical order.
 ### Disarming Attack {.hide}
 
 ***Disarming Attack***
-:   When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to disarm the target. Add the Superiority Die roll to the attack's damage roll. The target must succeed on a **:d20-save: STR Save**{ .d20 } or drop one object of your choice that it's holding, with the object landing in its space.
+:   When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to disarm the target. Add the Superiority Die roll to the attack's damage roll. The target must succeed on a **:d20-save: STR Save**{.d20} or drop one object of your choice that it's holding, with the object landing in its space.
 
 ---
 
@@ -70,7 +70,7 @@ The maneuvers are presented here in alphabetical order.
 ### Goading Attack {.hide}
 
 ***Goading Attack***
-:   When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to goad the target into attacking you. Add the Superiority Die to the attack's damage roll. The target must succeed on a **:d20-save: WIS Save**{ .d20 } or have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against targets other than you until the end of your next turn.
+:   When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to goad the target into attacking you. Add the Superiority Die to the attack's damage roll. The target must succeed on a **:d20-save: WIS Save**{.d20} or have **:d20-dis: Disadvantage**{.d20} on attack rolls against targets other than you until the end of your next turn.
 
 ---
 
@@ -91,7 +91,7 @@ The maneuvers are presented here in alphabetical order.
 ### Menacing Attack {.hide}
 
 ***Menacing Attack***
-:   When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to frighten the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a **:d20-save: WIS Save**{ .d20 } or have the **Frightened**{ .cond } condition until the end of your next turn.
+:   When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to frighten the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a **:d20-save: WIS Save**{.d20} or have the **Frightened**{ .cond } condition until the end of your next turn.
 
 ---
 
@@ -112,7 +112,7 @@ The maneuvers are presented here in alphabetical order.
 ### Pushing Attack {.hide}
 
 ***Pushing Attack***
-:   When you hit a creature with an attack roll using a weapon or an **:rsc-a: Unarmed Strike**{ .rsc }, you can expend one Superiority Die to attempt to drive the target back. Add the Superiority Die to the attack's damage roll. If the target is Large or smaller, it must succeed on a **:d20-save: STR Save**{ .d20 } or be pushed up to 15 feet directly away from you.
+:   When you hit a creature with an attack roll using a weapon or an **:rsc-a: Unarmed Strike**{ .rsc }, you can expend one Superiority Die to attempt to drive the target back. Add the Superiority Die to the attack's damage roll. If the target is Large or smaller, it must succeed on a **:d20-save: STR Save**{.d20} or be pushed up to 15 feet directly away from you.
 
 ---
 
@@ -147,7 +147,7 @@ The maneuvers are presented here in alphabetical order.
 ### Trip Attack {.hide}
 
 ***Trip Attack***
-:   When you hit a creature with an attack roll using a weapon or an **:rsc-a: Unarmed Strike**{ .rsc }, you can expend one Superiority Die and add the die to the attack's damage roll. If the target is Large or smaller, it must succeed on a **:d20-save: STR Save**{ .d20 } or have the **Prone**{ .cond } condition.
+:   When you hit a creature with an attack roll using a weapon or an **:rsc-a: Unarmed Strike**{ .rsc }, you can expend one Superiority Die and add the die to the attack's damage roll. If the target is Large or smaller, it must succeed on a **:d20-save: STR Save**{.d20} or have the **Prone**{ .cond } condition.
 
 ---
 

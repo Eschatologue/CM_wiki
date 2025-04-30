@@ -137,7 +137,7 @@ You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a **:rsc-b: Bonus Action**{ .rsc }, you can unleash that magic for 1 minute, during which you gain the following benefits:
 
 - The spell save DC of your Sorcerer spells increases by 1.
-- You have **:d20-adv: Advantage**{ .d20 } on the attack rolls of Sorcerer spells you cast.
+- You have **:d20-adv: Advantage**{.d20} on the attack rolls of Sorcerer spells you cast.
 - You can use this feature twice, and you regain all expended uses of it when you finish a **:rest-long: Long Rest**.
 
 ### Level 2: Font Of Magic

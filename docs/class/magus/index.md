@@ -162,7 +162,7 @@ You can also use an Arcane Focus as a spellcasting focus.
 You learn to channel your spells through weapons. Once per turn, when you make an attack with a melee weapon from your Arcane Armoury, you can cast a Magus spell by expending a spell slot. The spell must meet the following criteria:
 
 - The Magus spell must have a casting time of an **:rsc-a: Action**{ .rsc }.
-- The Magus spell must require a single spell **:d20-attack: Attack Roll**{ .d20 }, force its target to make a **:d20-save: Saving Throw**{ .d20 }, or affect a total number of **:trt-hp: Hit Points**{ .nowrap } worth of creatures (like [:spell-lv1: Sleep]).
+- The Magus spell must require a single spell **:d20-attack: Attack Roll**{.d20}, force its target to make a **:d20-save: Saving Throw**{.d20}, or affect a total number of **:trt-hp: Hit Points**{ .nowrap } worth of creatures (like [:spell-lv1: Sleep]).
 
 If your attack *misses*, the spell *fails* and has no effect. On a hit, the spell takes effect immediately after the normal effects and damage of your weapon attack, using the rules below:
 
@@ -175,7 +175,7 @@ If your attack *misses*, the spell *fails* and has no effect. On a hit, the spel
 **:spell-conc: Concentration**{.inl} If the spell requires your Concentration, you must Concentrate on it as soon as it takes effect on hit.
 { .indt }
 
-**:d20-save: Saving Throw**{.inl} If the spell requires a **:d20-save: Saving Throw**{ .d20 } when cast, the target makes the first save at a **:d20-dis: Disadvantage**{ .d20 } on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
+**:d20-save: Saving Throw**{.inl} If the spell requires a **:d20-save: Saving Throw**{.d20} when cast, the target makes the first save at a **:d20-dis: Disadvantage**{.d20} on hit. On a Critical Hit, the target automatically fails the save. Other target (if any) make this save as normal.
 { .indt }
 
 **:d20-attack: Attack Roll**{.inl} If the spell requires an attack roll, it instantly take effect when you hit with a weapon attack.

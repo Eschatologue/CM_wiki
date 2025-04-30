@@ -24,13 +24,13 @@ At the start of your turn, you can spend **1 :class-phb24-monk: Focus Point(s)**
 
 **Reach**{.inl} When you make an **:rsc-a: Unarmed Strike**{ .rsc }, your reach is 10 feet greater than normal, as elemental energy extends from you.
  
-**Elemental Strikes**{.inl} Whenever you hit with your **:rsc-a: Unarmed Strike**{ .rsc } , you can cause it to deal your choice of **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } damage rather than its normal damage type. When you deal one of these types with your **:rsc-a: Unarmed Strike**{ .rsc }, you can also force the target to make a **:d20-save: Strength saving throw**{ .d20 }. On a failed save, you can move the target up to 10 feet toward or away from you, as elemental energy swirls around it.
+**Elemental Strikes**{.inl} Whenever you hit with your **:rsc-a: Unarmed Strike**{ .rsc } , you can cause it to deal your choice of **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } damage rather than its normal damage type. When you deal one of these types with your **:rsc-a: Unarmed Strike**{ .rsc }, you can also force the target to make a **:d20-save: Strength saving throw**{.d20}. On a failed save, you can move the target up to 10 feet toward or away from you, as elemental energy swirls around it.
 
 ### Level 6: Environmental Burst
 
 As a **:rsc-a: Magic**{ .rsc } action, you can spend **2 :class-phb24-monk: Focus Point(s)** to cause environmental energy to burst in a **20-foot-radius :aoe-sphere: Sphere** centered on a point within 120 feet of yourself. Choose a damage type **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun }.
 
-Each creature in the sphere must make a **:d20-save: DEX Save**{ .d20 }. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Martial Arts die. On a successful save, a creature takes half as much damage.
+Each creature in the sphere must make a **:d20-save: DEX Save**{.d20}. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Martial Arts die. On a successful save, a creature takes half as much damage.
 
 ### Level 11: Stride Of The Elements
 

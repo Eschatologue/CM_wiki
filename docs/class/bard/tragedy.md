@@ -51,7 +51,7 @@ As an :rsc-a: Action, you can touch a willing creature and empower it with tragi
 
 **Bonus AC**{.inl} The creature has a +4 bonus to AC.
 
-**Attack and Save Advantage**{.inl} It has **:d20-adv: Advantage**{ .d20 } on attack rolls and saving throws.
+**Attack and Save Advantage**{.inl} It has **:d20-adv: Advantage**{.d20} on attack rolls and saving throws.
 
 **Extra Damage**{.inl} When the creature hits a target with an attack roll, that target takes an extra 1d10 radiant damage.
 

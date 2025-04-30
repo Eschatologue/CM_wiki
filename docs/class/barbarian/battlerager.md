@@ -19,7 +19,7 @@ You adorn your armour with crude spikes with which you can slam your enemies. Yo
 
 While wearing your Ravager Armour, you gain the following benefits:
 
-**Barbed**{.inl} You have **:d20-adv: Advantage**{ .d20 } on saving throws to avoid or end the Grappled condition.
+**Barbed**{.inl} You have **:d20-adv: Advantage**{.d20} on saving throws to avoid or end the Grappled condition.
 
 **Spiked Slam**{.inl} When you make an **:rsc-a: Unarmed Strike (Damage)**{ .rsc }, you can slam into the target with your armour, dealing **(1d6 + Strength modifier) :dmg-prcg: Piercing**{.dmg-bps} damage, instead of the normal damage for an **:rsc-a: Unarmed Strike**{ .rsc }.
 

@@ -14,7 +14,7 @@ The Armour table lists the game's main armour. The table includes the cost and w
 
 **Strength**{.inl} If the table shows a Strength score in the Strength column for an armour type, that armour reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
-**Stealth**{.inl} If the table shows “Disadvantage” or a :d20-dis: in the Stealth column for an armour type, the wearer has **:d20-dis: Disadvantage**{ .d20 } on Dexterity (Stealth) checks.
+**Stealth**{.inl} If the table shows “Disadvantage” or a :d20-dis: in the Stealth column for an armour type, the wearer has **:d20-dis: Disadvantage**{.d20} on Dexterity (Stealth) checks.
 
 ## Armour Table
 
@@ -59,7 +59,7 @@ Anyone can don armour or hold a Shield, but only those with training can use the
 
 ### Light, Medium, or Heavy Armour
 
-If you wear Light, Medium, or Heavy armour and lack training with it, you have **:d20-dis: Disadvantage**{ .d20 } on any D20 Test that involves Strength or Dexterity, and you can't cast spells.
+If you wear Light, Medium, or Heavy armour and lack training with it, you have **:d20-dis: Disadvantage**{.d20} on any D20 Test that involves Strength or Dexterity, and you can't cast spells.
 
 ### Shields
 

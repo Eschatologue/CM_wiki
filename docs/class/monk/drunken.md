@@ -35,7 +35,7 @@ You can move in sudden, swaying ways. You gain the following benefits.
 
 ### Level 11: Drunkard's Luck
 
-You always seem to get a lucky bounce at the right moment. When you make a D20 Test, you can spend **2 :class-phb24-monk: Focus Point(s)** to gain **:d20-adv Advantage:**{ .d20 } on it.
+You always seem to get a lucky bounce at the right moment. When you make a D20 Test, you can spend **2 :class-phb24-monk: Focus Point(s)** to gain **:d20-adv Advantage:**{.d20} on it.
 
 ### Level 17: Intoxicated Frenzy
 

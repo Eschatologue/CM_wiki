@@ -34,7 +34,7 @@ You have proficiency in the Arcana skill and when you make an Intelligence (Arca
 
 ### Level 3: Collective Knowledge
 
-You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to bestow divine knowledge on yourself and your allies. As a **:rsc-a: Magic**{ .rsc } action, you present your holy symbol to emanate a divine source of truth in a 15 foot Emanation for 1 minute. You and all allies that are within the Emanation have **:d20-adv: Advantage**{ .d20 } on Charisma, Intelligence, and Wisdom saving throws and gain bonus to their Armour Class equals to half your Wisdom modifier (round up).
+You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to bestow divine knowledge on yourself and your allies. As a **:rsc-a: Magic**{ .rsc } action, you present your holy symbol to emanate a divine source of truth in a 15 foot Emanation for 1 minute. You and all allies that are within the Emanation have **:d20-adv: Advantage**{.d20} on Charisma, Intelligence, and Wisdom saving throws and gain bonus to their Armour Class equals to half your Wisdom modifier (round up).
 
 ### Level 6: Spell Breaker
 

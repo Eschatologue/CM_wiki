@@ -36,34 +36,34 @@ Below are the effects of each grenade.
 
 **Conccussion** <br>_500 SP, S._
 
-:   This grenade explodes in a concussive blast that fills a **20-foot-radius :aoe-sphere: Sphere**. Each creature in that area must make a **:d20-save: DEX Save (DC 14)**{ .d20 }, taking **4d6 :dmg-force: Force**{ .dmg-force } damage on a failed save or half as much damage on a successful one.
+:   This grenade explodes in a concussive blast that fills a **20-foot-radius :aoe-sphere: Sphere**. Each creature in that area must make a **:d20-save: DEX Save (DC 14)**{.d20}, taking **4d6 :dmg-force: Force**{ .dmg-force } damage on a failed save or half as much damage on a successful one.
 
 **Cryogenic** <br>_300 SP, S._
 
-:   This grenade detonates in a burst of frost that fills **20-foot-radius :aoe-sphere: Sphere**. Each creature in that area must make a **:d20-save: CON Save (DC 14)**{ .d20 }, taking **2d6 :dmg-cold: Cold**{ .dmg-cold } damage from the grenade and have its **:rsc-spd: Speed**{ .em } halved for 1 minute on a failed save. Affected creatures can repeat this save at the start of each of their turns, ending the slowing effect on a success. On a successful save, the creature takes only half damage and suffers no additional effects. 
+:   This grenade detonates in a burst of frost that fills **20-foot-radius :aoe-sphere: Sphere**. Each creature in that area must make a **:d20-save: CON Save (DC 14)**{.d20}, taking **2d6 :dmg-cold: Cold**{ .dmg-cold } damage from the grenade and have its **:rsc-spd: Speed**{ .em } halved for 1 minute on a failed save. Affected creatures can repeat this save at the start of each of their turns, ending the slowing effect on a success. On a successful save, the creature takes only half damage and suffers no additional effects. 
 
-    Creatures with **:dmg-res: Resistance** to **:dmg-cold: Cold**{ .dmg-cold } damage have **:d20-adv: Advantage**{ .d20 } on the saving throw, while those with **:dmg-imm: Immunity** automatically succeed.
+    Creatures with **:dmg-res: Resistance** to **:dmg-cold: Cold**{ .dmg-cold } damage have **:d20-adv: Advantage**{.d20} on the saving throw, while those with **:dmg-imm: Immunity** automatically succeed.
 
 **Fragmentation** <br>_250 SP, S._
 
-:   This grenade explodes, unleashing a hail of metal fragments that fills a **20-foot-radius :aoe-sphere: Sphere**. Each creature in the area must make on a **:d20-save: DEX Save (DC 14)**{ .d20 },  taking **3d6 :dmg-prcg: Piercing**{ .dmg-bps } damage on a failed save or half as much damage on a successful one.
+:   This grenade explodes, unleashing a hail of metal fragments that fills a **20-foot-radius :aoe-sphere: Sphere**. Each creature in the area must make on a **:d20-save: DEX Save (DC 14)**{.d20},  taking **3d6 :dmg-prcg: Piercing**{ .dmg-bps } damage on a failed save or half as much damage on a successful one.
 
 
 **Flashbang** <br>_300 SP, S._
 
-:   This grenade explodes in a blinding flash and a deafening bang that affect a **20-foot-radius :aoe-sphere: Sphere**. Each creature in the area must make a **:d20-save: CON Save (DC 14)**{ .d20 }, taking **2d6 :dmg-thun: Thunder**{ .dmg-thun } damage and have the **Blinded**{ .cond } and **Deafened**{ .cond } condition for 1 minute on a failed save, or half as much on a successful save with no additional effects. 
+:   This grenade explodes in a blinding flash and a deafening bang that affect a **20-foot-radius :aoe-sphere: Sphere**. Each creature in the area must make a **:d20-save: CON Save (DC 14)**{.d20}, taking **2d6 :dmg-thun: Thunder**{ .dmg-thun } damage and have the **Blinded**{ .cond } and **Deafened**{ .cond } condition for 1 minute on a failed save, or half as much on a successful save with no additional effects. 
 
     Affected creatures can repeat the save at the start of each of their turns, ending the effect on a success. On a successful save, the creature takes only half damage and suffers no additional effects.
 
 **Incendiary** <br>_300 SP, S._
 
-:   This grenade bursts into flames that fills a **20-foot-radius :aoe-sphere: Sphere**. Each creature in the affected area must make a **:d20-save: DEX Save (DC 14)**{ .d20 } taking **3d6 :dmg-fire: Fire**{ .dmg-fire } damage on a failed save. 
+:   This grenade bursts into flames that fills a **20-foot-radius :aoe-sphere: Sphere**. Each creature in the affected area must make a **:d20-save: DEX Save (DC 14)**{.d20} taking **3d6 :dmg-fire: Fire**{ .dmg-fire } damage on a failed save. 
 
     The ground within the Sphere is set ablaze for 1 minute and its is considered a [Burning](../../gameplay/phb/exploration.md#burning) hazard. 
 
 **Sleep** <br>_800 SP, S._
 
-:   This grenade releases a cloud of sedative mist that fills a **20-foot-radius :aoe-sphere: Sphere**, then dissipates. Each creature in that area must succeed on a **:d20-save: CON Save (DC 14)**{ .d20 } or have the **Unconscious**{ .cond } condition for 1 hour. The condition ends on a creature early if the creature takes damage or if another creature uses an Action to shake it awake.
+:   This grenade releases a cloud of sedative mist that fills a **20-foot-radius :aoe-sphere: Sphere**, then dissipates. Each creature in that area must succeed on a **:d20-save: CON Save (DC 14)**{.d20} or have the **Unconscious**{ .cond } condition for 1 hour. The condition ends on a creature early if the creature takes damage or if another creature uses an Action to shake it awake.
 
 
 **Smoke** <br>_500 SP, S._

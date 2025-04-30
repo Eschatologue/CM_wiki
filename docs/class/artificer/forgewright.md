@@ -69,7 +69,7 @@ Moreover, when you finish **:rest-long: Long Rest** you can replace your Arcane 
 
 When you attack with an Arcane Weapon whose Mastery property you can use, you can replace that property with the Push, Sap, or Slow property for that attack.
 
-Moreover, whenever you hit with an Arcane Armament attack you can deal a bonus **1d8 :dmg-force: Force**{ .dmg-force } damage on hit. Each time you attack with your Arcane Armament, you can forgo this potential bonus damage to instead make your attack with **:d20-adv: Advantage**{ .d20 }.
+Moreover, whenever you hit with an Arcane Armament attack you can deal a bonus **1d8 :dmg-force: Force**{ .dmg-force } damage on hit. Each time you attack with your Arcane Armament, you can forgo this potential bonus damage to instead make your attack with **:d20-adv: Advantage**{.d20}.
 
 ### Level 15: Saint of the Forge
 

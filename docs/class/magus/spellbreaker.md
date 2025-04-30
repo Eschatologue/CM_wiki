@@ -19,7 +19,7 @@ As a **:rsc-b: Bonus Action**{ .rsc } on your turn, you can place a **Baleful Ma
 
 This Mark is only visible to you, and while it is active, you gain the benefits listed below:
 
-**Mage Breaker**{.inl} Whenever you damage your Mark, it has **:d20-dis: Disadvantage**{ .d20 } on its subsequent saving throw to maintain Concentration
+**Mage Breaker**{.inl} Whenever you damage your Mark, it has **:d20-dis: Disadvantage**{.d20} on its subsequent saving throw to maintain Concentration
 
 **Mage Slayer**{.inl} If your Mark attempts to cast a spell while it is within your reach, it provokes **:rsc-r: Opportunity Attack**{ .rsc } from you.
 
@@ -49,7 +49,7 @@ Whenever your Mark forces you to make a saving throw to resist a spell or anothe
 
 ### Level 7: Crippling Mark
 
-Whenever you see your Mark make a D20 Test and you are within 30 feet, you can use your **:rsc-r: Reaction**{ .rsc } to end your [Baleful Mark] and impose **:d20-dis: Disadvantage**{ .d20 } on its roll.
+Whenever you see your Mark make a D20 Test and you are within 30 feet, you can use your **:rsc-r: Reaction**{ .rsc } to end your [Baleful Mark] and impose **:d20-dis: Disadvantage**{.d20} on its roll.
 
 
 However, when you end your [Baleful Mark] in this way, you cannot Mark that creature again until you finish a **:rest-long: Long Rest**.
@@ -68,7 +68,7 @@ You have risen through the ranks of your Order to become an unparalleled hunter 
 
 **Quick Mark**{.inl} When you roll **:d20-inv: Initiative**{.d20 }, so long as you are not surprised, you can mark a creature you can see with [Baleful Mark].
 
-**Attack Advantage**{.inl} You have **:d20-adv: Advantage**{ .d20 } on any weapon attack rolls you make as part of [Spellstrike] and [Spellsunder] against your Mark.
+**Attack Advantage**{.inl} You have **:d20-adv: Advantage**{.d20} on any weapon attack rolls you make as part of [Spellstrike] and [Spellsunder] against your Mark.
 
 **Maximum Damage**{.inl} When you hit your Mark with a [Spellstrike] attack, you can end your [Baleful Mark] to cause your attack, including the spell, to deal maximum damage. After you do so, you can't Mark that creature again until you finish a **:rest-long: Long Rest**.
 

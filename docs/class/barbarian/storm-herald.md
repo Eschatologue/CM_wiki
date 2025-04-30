@@ -50,11 +50,11 @@ You learn to use your mastery of the storm to protect others. Each creature of y
 
 The power of your Storm Aura grows mightier, lashing out at your foes.
 
-**Desert**{.inl} Immediately after a creature within the *Aura* hits you with an attack, you can take a **:rsc-r: Reaction**{ .rsc } to force that creature to make a **:d20-save: DEX Save**{ .d20 }. On a failed save, the creature takes **(Barbarian level) :dmg-fire: Fire**{ .dmg-fire } damage.
+**Desert**{.inl} Immediately after a creature within the *Aura* hits you with an attack, you can take a **:rsc-r: Reaction**{ .rsc } to force that creature to make a **:d20-save: DEX Save**{.d20}. On a failed save, the creature takes **(Barbarian level) :dmg-fire: Fire**{ .dmg-fire } damage.
 
-**Sea**{.inl} When you hit a creature within the Aura with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force that creature to make a **:d20-save: STR Save**{ .d20 }. On a failed save, the creature has the **Prone**{ .cond } condition.
+**Sea**{.inl} When you hit a creature within the Aura with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force that creature to make a **:d20-save: STR Save**{.d20}. On a failed save, the creature has the **Prone**{ .cond } condition.
 
-**Tundra**{.inl} Whenever you activate the effect of your Storm Aura, you choose one creature you can see within the Aura. That creature must succeed on a **:d20-save: STR Save**{ .d20 }, or has its **:rsc-spd: Speed** reduced to 0 until the start of your next turn.
+**Tundra**{.inl} Whenever you activate the effect of your Storm Aura, you choose one creature you can see within the Aura. That creature must succeed on a **:d20-save: STR Save**{.d20}, or has its **:rsc-spd: Speed** reduced to 0 until the start of your next turn.
 
 :material-book-arrow-up: Updated by *Eschatologue* 
 { .author }

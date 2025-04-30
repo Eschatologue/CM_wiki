@@ -251,7 +251,7 @@ A creature can be targeted only once by each casting of this spell.
 **Components:** V, S  
 **Duration:** 1 hour
 
-One Humanoid you can see within range makes a Wisdom saving throw. It does so with **:d20-adv: Advantage**{ .d20 } if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
+One Humanoid you can see within range makes a Wisdom saving throw. It does so with **:d20-adv: Advantage**{.d20} if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 
@@ -321,7 +321,7 @@ You speak a one-word command to a creature you can see within range. The target 
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has **:d20-dis: Disadvantage**{ .d20 } on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 30 feet away from you.
+You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has **:d20-dis: Disadvantage**{.d20} on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 30 feet away from you.
 
 The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 30 feet away from the target.
 
@@ -514,7 +514,7 @@ You cause a tremor in the ground within range. Each creature other than you in t
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-As you hit the target, grasping vines appear on it, and it makes a Strength saving throw. A Large or larger creature has **:d20-adv: Advantage**{ .d20 } on this save. On a failed save, the target has the Restrained condition until the spell ends. On a successful save, the vines shrivel away, and the spell ends.
+As you hit the target, grasping vines appear on it, and it makes a Strength saving throw. A Large or larger creature has **:d20-adv: Advantage**{.d20} on this save. On a failed save, the target has the Restrained condition until the spell ends. On a successful save, the vines shrivel away, and the spell ends.
 
 While Restrained, the target takes 1d6 Piercing damage at the start of each of its turns. The target or a creature within reach of it can take an action to make a Strength (Athletics) check against your spell save DC. On a success, the spell ends.
 
@@ -564,7 +564,7 @@ You take the Dash action, and until the spell ends, you can take that action aga
 
 Objects in a 20-foot Cube within range are outlined in blue, green, or violet light (your choice). Each creature in the Cube is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed Dim Light in a 10-foot radius and can't benefit from the Invisible condition.
 
-Attack rolls against an affected creature or object have **:d20-adv: Advantage**{ .d20 } if the attacker can see it.
+Attack rolls against an affected creature or object have **:d20-adv: Advantage**{.d20} if the attacker can see it.
 
 > **Classes:** Artificer, Bard, Druid
 
@@ -760,7 +760,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 **Components:** V, S, M (the petrified eye of a newt)  
 **Duration:** Concentration, up to 1 hour
 
-You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has **:d20-dis: Disadvantage**{ .d20 } on ability checks made with the chosen ability.
+You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has **:d20-dis: Disadvantage**{.d20} on ability checks made with the chosen ability.
 
 If the target drops to 0 Hit Points before this spell ends, you can take a **:rsc-b: Bonus Action**{ .rsc } on a later turn to curse a new creature.
 
@@ -778,7 +778,7 @@ If the target drops to 0 Hit Points before this spell ends, you can take a **:rs
 **Components:** V  
 **Duration:** Concentration, up to 1 hour
 
-You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have **:d20-adv: Advantage**{ .d20 } on any Wisdom (Perception or Survival) check you make to find it.
+You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have **:d20-adv: Advantage**{.d20} on any Wisdom (Perception or Survival) check you make to find it.
 
 If the target drops to 0 Hit Points before this spell ends, you can take a **:rsc-b: Bonus Action**{ .rsc } to move the mark to a new creature you can see within range.
 
@@ -924,7 +924,7 @@ You create three glowing darts of magical force. Each dart strikes a creature of
 **Components:** V, S, M (a flask of Holy Water worth 25+ GP, which the spell consumes)  
 **Duration:** Concentration, up to 10 minutes
 
-Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against the target. The target also can't be possessed by or gain the Charmed or Frightened conditions from them. If the target is already possessed, Charmed, or Frightened by such a creature, the target has **:d20-adv: Advantage**{ .d20 } on any new saving throw against the relevant effect.
+Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have **:d20-dis: Disadvantage**{.d20} on attack rolls against the target. The target also can't be possessed by or gain the Charmed or Frightened conditions from them. If the target is already possessed, Charmed, or Frightened by such a creature, the target has **:d20-adv: Advantage**{.d20} on any new saving throw against the relevant effect.
 
 > **Classes:** Cleric, Druid, Paladin, Warlock, Wizard
 
@@ -1118,7 +1118,7 @@ A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a d
 
 One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.
 
-At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has **:d20-adv: Advantage**{ .d20 } on the save if the save is triggered by damage. On a successful save, the spell ends.
+At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has **:d20-adv: Advantage**{.d20} on the save if the save is triggered by damage. On a successful save, the spell ends.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level about 1.
 

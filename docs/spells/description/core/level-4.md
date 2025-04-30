@@ -46,7 +46,7 @@ An aura radiates from you in a 30-foot Emanation for the duration. While in the 
 **Components:** V   
 **Duration:** Concentration, up to 10 minutes
 
-An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Poison damage and **:d20-adv: Advantage**{ .d20 } on saving throws to avoid or end effects that include the Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, or Stunned condition.
+An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Poison damage and **:d20-adv: Advantage**{.d20} on saving throws to avoid or end effects that include the Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, or Stunned condition.
 
 > **Classes:** Cleric, Paladin
 
@@ -96,7 +96,7 @@ Alternatively, target a nonmagical plant that isn't a creature, such as a tree o
 **Components:** V, S   
 **Duration:** 1 hour
 
-One creature you can see within range makes a Wisdom saving throw. It does so with **:d20-adv: Advantage**{ .d20 } if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
+One creature you can see within range makes a Wisdom saving throw. It does so with **:d20-adv: Advantage**{.d20} if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 4.
 
@@ -263,7 +263,7 @@ If you cast the spell more than once before finishing a **:rest-long: Long Rest*
 **Components:** V, S   
 **Duration:** Concentration, up to 1 minute
 
-One Beast you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has **:d20-adv: Advantage**{ .d20 } on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
+One Beast you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has **:d20-adv: Advantage**{.d20} on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
 
 You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
 
@@ -649,7 +649,7 @@ A *Disintegrate* spell targeting the globe destroys it without harming anything 
 **Components:** V, S   
 **Duration:** Concentration, up to 1 minute
 
-You tap into the nightmares of a creature you can see within range and create an illusion of its deepest fears, visible only to that creature. The target makes a Wisdom saving throw. On a failed save, the target takes 4d10 Psychic damage and has **:d20-dis: Disadvantage**{ .d20 } on ability checks and attack rolls for the duration. On a successful save, the target takes half as much damage, and the spell ends.
+You tap into the nightmares of a creature you can see within range and create an illusion of its deepest fears, visible only to that creature. The target makes a Wisdom saving throw. On a failed save, the target takes 4d10 Psychic damage and has **:d20-dis: Disadvantage**{.d20} on ability checks and attack rolls for the duration. On a successful save, the target takes half as much damage, and the spell ends.
 
 For the duration, the target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes the Psychic damage again. On a successful save, the spell ends.
 

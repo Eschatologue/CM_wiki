@@ -26,7 +26,7 @@ You can spend 2 Sorcery Point(s) to touch a willing creature within 5 feet and c
 
 _**Cost:** 2 :class-phb24-sorcerer: Sorcery Point(s)_
 
-When you cast a spell that forces an **:d20-save: INT or CHA Save**{ .d20 }, you can spend 2 Sorcery Point(s) and change the spell's saving throw to target the other Ability Score instead.
+When you cast a spell that forces an **:d20-save: INT or CHA Save**{.d20}, you can spend 2 Sorcery Point(s) and change the spell's saving throw to target the other Ability Score instead.
 
 This Metamagic only changes the initial save. Any subsequent saves target the original Ability Score.
 
@@ -46,7 +46,7 @@ If the spell requires Concentration, the creature you cast the spell on must Con
 
 _**Cost:** 1 :class-phb24-sorcerer: Sorcery Point(s)_
 
-When you cast a spell that forces a **:d20-save: STR or DEX Save**{ .d20 }, you can spend 1 Sorcery Point(s) and change the spell's saving throw to target the other Ability Score instead.
+When you cast a spell that forces a **:d20-save: STR or DEX Save**{.d20}, you can spend 1 Sorcery Point(s) and change the spell's saving throw to target the other Ability Score instead.
 
 This Metamagic only changes the initial save. Any subsequent Saving Throws target the original Ability Score.
 
@@ -90,7 +90,7 @@ You can use this Metamagic even if you have already used a different Metamagic o
 
 _**Cost:** 1 :class-phb24-sorcerer: Sorcery Point(s)_
 
-When you cast a spell that requires you to make a ranged spell attack while there is an enemy creature within 5 feet of you, you can spend 1 Sorcery Point to turn it into a melee spell attack instead. You have **:d20-adv: Advantage**{ .d20 } for this melee spell attack.
+When you cast a spell that requires you to make a ranged spell attack while there is an enemy creature within 5 feet of you, you can spend 1 Sorcery Point to turn it into a melee spell attack instead. You have **:d20-adv: Advantage**{.d20} for this melee spell attack.
 
 ---
 
@@ -106,7 +106,7 @@ When you cast a spell, you can spend 1 Sorcery Point to possibly conserve your a
 
 _**Cost:** 2 :class-phb24-sorcerer: Sorcery Point(s)_
 
-When you cast a spell that forces a **:d20-save: CON or WIS Save**{ .d20 }, you can spend 1 Sorcery Point(s) and change the spell's saving throw to target the other Ability Score instead.
+When you cast a spell that forces a **:d20-save: CON or WIS Save**{.d20}, you can spend 1 Sorcery Point(s) and change the spell's saving throw to target the other Ability Score instead.
 
 This Metamagic only changes the initial save. Any subsequent Saving Throws target the original Ability Score.
 

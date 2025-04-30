@@ -20,7 +20,7 @@ You have Darkvision with a range of 60 feet.
 
 ### Gnomish Cunning
 
-You have **:d20-adv: Advantage**{ .d20 } on Intelligence, Wisdom, and Charisma saving throws.
+You have **:d20-adv: Advantage**{.d20} on Intelligence, Wisdom, and Charisma saving throws.
 
 ### Gnomish Lineage
 

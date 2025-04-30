@@ -55,9 +55,9 @@ Countless hours have been spent training your mind to maintain focus on concurre
 If you attempt to cast a spell that requires **:spell-conc: Concentration** while already Concentrating on an existing spell, you can maintain Concentration on both spells simultaneously. You must take a **:rsc-a: Magic**{ .rsc } action on each subsequent round on maintaining this Concentration, or lose it for both spells.
     
 ###### Burden  
-At the end of each turn where you have two spells you are **:spell-conc: Concentration** on, you must make a **:d20-save: CON Save**{ .d20 } (`DC 10 + both spells' levels combined`). On a failure, you lose **:spell-conc: Concentration** for both spells. You can end Concentration on one of your spells during your turn to avoid this save.
+At the end of each turn where you have two spells you are **:spell-conc: Concentration** on, you must make a **:d20-save: CON Save**{.d20} (`DC 10 + both spells' levels combined`). On a failure, you lose **:spell-conc: Concentration** for both spells. You can end Concentration on one of your spells during your turn to avoid this save.
 
-Any time you would be forced to make a **:d20-save: CON Save**{ .d20 } to maintain **:spell-conc: Concentration** due to taking damage, the DC equals 10 + both spells' levels combined, or half the damage you take, whichever number is higher. On fail, you lose **:spell-conc: Concentration** on both spells
+Any time you would be forced to make a **:d20-save: CON Save**{.d20} to maintain **:spell-conc: Concentration** due to taking damage, the DC equals 10 + both spells' levels combined, or half the damage you take, whichever number is higher. On fail, you lose **:spell-conc: Concentration** on both spells
 
 ---
 
@@ -94,7 +94,7 @@ Through your repeated exposure to the natural flow of arcane magic throughout yo
 
 ###### Experienced  
 
-You have **:d20-adv: Advantage**{ .d20 } on Intelligence (Arcana) checks when investigating the nature of a magical object or device.
+You have **:d20-adv: Advantage**{.d20} on Intelligence (Arcana) checks when investigating the nature of a magical object or device.
     
 ###### Increased Attunement  
 
@@ -131,7 +131,7 @@ Through meticulous refinement and tinkering of your equipment, you gain unique a
 When a creature you can see hits you *or* an ally within 5 feet of you with an attack roll, you can take a **:rsc-r: Reaction**{ .rsc } to reduce the damage dealt equals your Proficiency Bonus.
 
 ###### Shield Throw  
-When you take the **:rsc-a: Attack**{ .rsc } action on your turn while wielding a Shield, you can replace one of your attacks with a shield throw. Choose a creature that you can see within 30 ft. and it must succeed a **:d20-save: STR Save**{ .d20 } (DC 8 plus your Strength modifier and Proficiency Bonus), or take **:dmg-bldg: Bludgeoning**{ .dmg-bps } damage equals to your Shield's AC. Additionally, the target is also either pushed 10 feet from you or it gains the Prone condition (your choice). The shield harmlessly bounces back you your hand thereafter.
+When you take the **:rsc-a: Attack**{ .rsc } action on your turn while wielding a Shield, you can replace one of your attacks with a shield throw. Choose a creature that you can see within 30 ft. and it must succeed a **:d20-save: STR Save**{.d20} (DC 8 plus your Strength modifier and Proficiency Bonus), or take **:dmg-bldg: Bludgeoning**{ .dmg-bps } damage equals to your Shield's AC. Additionally, the target is also either pushed 10 feet from you or it gains the Prone condition (your choice). The shield harmlessly bounces back you your hand thereafter.
 
 ###### Transforming Shield  
 As a **:rsc-b: Bonus Action**{ .rsc }, while wielding both a Shield and a melee weapon, you can combine the two, transforming the weapon. The melee weapon gains the **:wp-prop-two-handed: Two-handed** property and deals extra damage the equals to the Shield's AC on hit. You lose the AC bonus you gain from the Shield in this form. 

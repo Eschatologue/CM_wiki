@@ -38,7 +38,7 @@ You can magically exert limited control over the flow of time around a creature.
 
 ### Level 3: Temporal Awareness
 
-Your ability to peer into the different possible futures gives you an edge in combat. You have **:d20-adv: Advantage**{ .d20 } on **:d20-inv: Initiative**{.d20 } rolls.
+Your ability to peer into the different possible futures gives you an edge in combat. You have **:d20-adv: Advantage**{.d20} on **:d20-inv: Initiative**{.d20 } rolls.
 
 ### Level 6: Momentary Stasis
 

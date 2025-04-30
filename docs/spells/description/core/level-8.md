@@ -187,7 +187,7 @@ Each time you cast this spell, you can create a new demiplane or connect the sha
 **Components:** V, S   
 **Duration:** Concentration, up to 1 hour
 
-One creature you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has **:d20-adv: Advantage**{ .d20 } on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
+One creature you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has **:d20-adv: Advantage**{.d20} on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
 
 You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
 
@@ -245,7 +245,7 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 **Components:** V, S, M (a reliquary worth 1,000+ GP)   
 **Duration:** Concentration, up to 1 minute
 
-For the duration, you emit an aura in a 30-foot Emanation. While in the aura, creatures of your choice have **:d20-adv: Advantage**{ .d20 } on all saving throws, and other creatures have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the Blinded condition until the end of its next turn.
+For the duration, you emit an aura in a 30-foot Emanation. While in the aura, creatures of your choice have **:d20-adv: Advantage**{.d20} on all saving throws, and other creatures have **:d20-dis: Disadvantage**{.d20} on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the Blinded condition until the end of its next turn.
 
 > **Classes:** Cleric
 

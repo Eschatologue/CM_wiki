@@ -72,7 +72,7 @@ When a creature you can see hits another creature within 5 feet of you with an a
 
 <hr class="hr-solid">
 
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to interpose your Shield if you're holding one. You impose **:d20-dis: Disadvantage**{ .d20 } on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
+When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to interpose your Shield if you're holding one. You impose **:d20-dis: Disadvantage**{.d20} on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
 
 ---
 

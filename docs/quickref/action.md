@@ -37,13 +37,13 @@ search:
 
     :   #### DODGE :rsc-a:{ title="requires Action" }
     
-        Focus entirely on avoiding attacks. Attack Rolls against you have **:d20-dis: Disadvantage**{ .d20 } & you have **:d20-adv: Advantage**{ .d20 } on **:d20-save: DEX Save**
+        Focus entirely on avoiding attacks. Attack Rolls against you have **:d20-dis: Disadvantage**{.d20} & you have **:d20-adv: Advantage**{.d20} on **:d20-save: DEX Save**
 
     :material-handshake:{.x3l}
 
     :   #### HELP :rsc-a:{ title="requires Action" }
 
-        Give **:d20-adv: Advantage**{ .d20 } on another creature's Ability Check or Attack Roll.
+        Give **:d20-adv: Advantage**{.d20} on another creature's Ability Check or Attack Roll.
 
     :action-hide:{.x3l}
 

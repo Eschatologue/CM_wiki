@@ -24,7 +24,7 @@ While you have the **Blinded** condition, you experience the following effects.
 
 **Can't See**{.inl} You can't see and automatically fail any ability check that requires sight.
 
-**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{ .d20 } , and your attack rolls have **:d20-dis: Disadvantage**{ .d20 }.
+**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{.d20} , and your attack rolls have **:d20-dis: Disadvantage**{.d20}.
 
 ---
 
@@ -34,7 +34,7 @@ While you have the **Charmed** condition, you experience the following effects.
 
 **Can't Harm the Charmer**{.inl} You can't attack the charmer or target the charmer with damaging abilities or magical effects.
 
-**Social Advantage**{.inl} The charmer has **:d20-adv: Advantage**{ .d20 } on any ability check to interact with you socially.
+**Social Advantage**{.inl} The charmer has **:d20-adv: Advantage**{.d20} on any ability check to interact with you socially.
 
 ---
 
@@ -64,7 +64,7 @@ While you have the **Exhaustion** condition, you experience the following effect
 
 While you have the **Frightened** condition, you experience the following effects.
 
-**Ability Checks and Attacks Affected**{.inl} You have **:d20-dis: Disadvantage**{ .d20 } on ability checks and attack rolls while the source of fear is within line of sight.
+**Ability Checks and Attacks Affected**{.inl} You have **:d20-dis: Disadvantage**{.d20} on ability checks and attack rolls while the source of fear is within line of sight.
 
 **Can't Approach**{.inl} You can't willingly move closer to the source of fear.
 
@@ -76,7 +76,7 @@ While you have the **Grappled** condition, you experience the following effects.
 
 **Speed 0**{.inl} Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
-**Attacks Affected**{.inl} You have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against any target other than the grappler.
+**Attacks Affected**{.inl} You have **:d20-dis: Disadvantage**{.d20} on attack rolls against any target other than the grappler.
 
 **Movable**{.inl} The grappler can drag or carry you when it moves, but every foot of Movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
 
@@ -96,7 +96,7 @@ While You have the **Incapacitated** condition, you experience the following eff
 
 **Speechless**{.inl} You can't speak.
 
-**Surprised**{.inl} If you're Incapacitated when you roll **:d20-inv: Initiative**{.d20 }, you have **:d20-dis: Disadvantage**{ .d20 } on the roll.
+**Surprised**{.inl} If you're Incapacitated when you roll **:d20-inv: Initiative**{.d20 }, you have **:d20-dis: Disadvantage**{.d20} on the roll.
 
 ---
 
@@ -104,11 +104,11 @@ While You have the **Incapacitated** condition, you experience the following eff
 
 While you have the **Invisible** condition, you experience the following effects.
 
-**Surprise**{.inl} If you're Invisible when you roll **:d20-inv: Initiative**{.d20 }, you have **:d20-adv: Advantage**{ .d20 } on the roll.
+**Surprise**{.inl} If you're Invisible when you roll **:d20-inv: Initiative**{.d20 }, you have **:d20-adv: Advantage**{.d20} on the roll.
 
 **Concealed**{.inl} You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
 
-**Attacks Affected**{.inl} Attack rolls against you have **:d20-dis: Disadvantage**{ .d20 }, and your attack rolls have **:d20-adv: Advantage**{ .d20 }. If a creature can somehow see you, you don't gain this benefit against that creature.
+**Attacks Affected**{.inl} Attack rolls against you have **:d20-dis: Disadvantage**{.d20}, and your attack rolls have **:d20-adv: Advantage**{.d20}. If a creature can somehow see you, you don't gain this benefit against that creature.
 
 ---
 
@@ -122,7 +122,7 @@ While you have the **Paralyzed** condition, you experience the following effects
 
 **Saving Throws Affected**{.inl} You automatically fail **:d20-save: STR & DEX Save**{.d20}.
 
-**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
+**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{.d20}.
 
 **Automatic Critical Hits**{.inl} Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
 
@@ -138,9 +138,9 @@ While you have the **Petrified** condition, you experience the following effects
 
 **Speed 0**{.inl} Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
-**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
+**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{.d20}.
 
-**Saving Throws Affected**{.inl} You automatically fail **:d20-save: STR & DEX Save**{ .d20 }.
+**Saving Throws Affected**{.inl} You automatically fail **:d20-save: STR & DEX Save**{.d20}.
 
 **Resist Damage**{.inl} You have **:dmg-res: Resistance** to all damage.
 
@@ -152,7 +152,7 @@ While you have the **Petrified** condition, you experience the following effects
 
 While you have the **Poisoned** condition, you experience the following effect.
 
-**Ability Checks and Attacks Affected**{.inl} You have **:d20-dis: Disadvantage**{ .d20 } on attack rolls and ability checks.
+**Ability Checks and Attacks Affected**{.inl} You have **:d20-dis: Disadvantage**{.d20} on attack rolls and ability checks.
 
 ---
 
@@ -162,7 +162,7 @@ While you have the **Prone** condition, you experience the following effects.
 
 **Restricted Movement**{.inl} Your only Movement options are to crawl or to spend an amount of Movement equal to half your **:rsc-spd: Speed**{ .em } (round down) to right yourself and thereby end the condition. If your **:rsc-spd: Speed**{ .em } is 0, you can't right yourself.
 
-**Attacks Affected**{.inl} You have **:d20-dis: Disadvantage**{ .d20 } on attack rolls. An attack roll against you has **:d20-adv: Advantage**{ .d20 } if the attacker is within 5 feet of you. Otherwise, that attack roll has **:d20-dis: Disadvantage**{ .d20 }.
+**Attacks Affected**{.inl} You have **:d20-dis: Disadvantage**{.d20} on attack rolls. An attack roll against you has **:d20-adv: Advantage**{.d20} if the attacker is within 5 feet of you. Otherwise, that attack roll has **:d20-dis: Disadvantage**{.d20}.
 
 ---
 
@@ -172,9 +172,9 @@ While you have the **Restrained** condition, you experience the following effect
 
 **Speed 0**{.inl} Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
-**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{ .d20 } , and your attack rolls have **:d20-dis: Disadvantage**{ .d20 }.
+**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{.d20} , and your attack rolls have **:d20-dis: Disadvantage**{.d20}.
 
-**Saving Throws Affected**{.inl} You have **:d20-dis: Disadvantage**{ .d20 } on **:d20-save: DEX Save**.
+**Saving Throws Affected**{.inl} You have **:d20-dis: Disadvantage**{.d20} on **:d20-save: DEX Save**.
 
 ---
 
@@ -194,9 +194,9 @@ While you have the **Stunned** condition, you experience the following effects.
 
 **Incapacitated**{.inl} You have the **Incapacitated**{ .cond } condition.
 
-**Saving Throws Affected**{.inl} You automatically fail **:d20-save: STR & DEX Save**{ .d20 }.
+**Saving Throws Affected**{.inl} You automatically fail **:d20-save: STR & DEX Save**{.d20}.
 
-**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
+**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{.d20}.
 
 ---
 
@@ -208,9 +208,9 @@ While you have the **Unconscious** condition, you experience the following effec
 
 **Speed 0**{.inl} Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
-**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
+**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{.d20}.
 
-**Saving Throws Affected**{.inl} You automatically fail **:d20-save: STR & DEX Save**{ .d20 }.
+**Saving Throws Affected**{.inl} You automatically fail **:d20-save: STR & DEX Save**{.d20}.
 
 **Automatic Critical Hits**{.inl} Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
 

@@ -90,7 +90,7 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 You gain a +1 bonus to attack rolls with Ranged weapons, and your attacks with it ignore Half Cover and treat Three-Quarters Cover as Half Cover.
 
-Moreover, having the **Prone**{ .cond } condition doesn't impose **:d20-dis: Disadvantage**{ .d20 } on your Ranged attacks with Arbalest, Crossbows, and Firearms.
+Moreover, having the **Prone**{ .cond } condition doesn't impose **:d20-dis: Disadvantage**{.d20} on your Ranged attacks with Arbalest, Crossbows, and Firearms.
 
 ---
 
@@ -100,7 +100,7 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <hr class="hr-solid">
 
-When a creature within 15 feet of you makes an attack against a creature that you can see, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:d20-adv: Advantage**{ .d20 } on its attack roll. You must be carrying a banner, flag, holy symbol, or standard in your hand.
+When a creature within 15 feet of you makes an attack against a creature that you can see, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:d20-adv: Advantage**{.d20} on its attack roll. You must be carrying a banner, flag, holy symbol, or standard in your hand.
 
 ---
 

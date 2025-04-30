@@ -35,7 +35,7 @@ A spectral visage covers your face like a helmet or mask. You determine its appe
 
 **Word of the Spirit**{.inl} When you speak, you can direct your words to a creature of your choice that you can see within 60 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.
 
-**Augmented Visage**{.inl} As a **:rsc-b: Bonus Action**{ .rsc }, you can spend **1 :class-phb24-monk: Focus Point(s)** to augment the visage for 1 hour. When you do so, your Darkvision allows you to see normally in magical darkness and you gain **:d20-adv Advantage:**{ .d20 } on Insight, Intimidation and Perception checks.
+**Augmented Visage**{.inl} As a **:rsc-b: Bonus Action**{ .rsc }, you can spend **1 :class-phb24-monk: Focus Point(s)** to augment the visage for 1 hour. When you do so, your Darkvision allows you to see normally in magical darkness and you gain **:d20-adv Advantage:**{.d20} on Insight, Intimidation and Perception checks.
 
 ### Level 11: Mantle of the Astral Self
 

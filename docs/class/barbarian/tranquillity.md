@@ -41,7 +41,7 @@ When you activate your **:ui-rage: Rage**{ .em }, you can choose one of the foll
   
 **Temporary Hit Points**{.inl} You gain a number of **:trt-thp: Temporary Hit Points** equal to one roll of your Superiority Die.
  
-**Improved Speed**{.inl} Opportunity Attack against you have **:d20-dis: Disadvantage**{ .d20 } and your **:rsc-spd: Speed**{ .em } is doubled for your current turn.
+**Improved Speed**{.inl} Opportunity Attack against you have **:d20-dis: Disadvantage**{.d20} and your **:rsc-spd: Speed**{ .em } is doubled for your current turn.
 
 ### Level 6: Improved Superiority
 

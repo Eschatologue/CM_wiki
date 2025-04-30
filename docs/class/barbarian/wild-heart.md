@@ -26,7 +26,7 @@ Your Rage taps into the primal power of animals. Whenever you activate your **:u
 **Eagle**{.inl} When you activate your **:ui-rage: Rage**{ .em }, you can take the **:rsc-a: Disengage**{ .rsc } and **:rsc-a: Dash**{ .rsc } actions as part of that **:rsc-b: Bonus Action**{ .rsc }. While your **:ui-rage: Rage**{ .em } is active, you can take a **:rsc-b: Bonus Action**{ .rsc } to take both of those actions.
 { .indt }
 
-**Wolf**{.inl} While your **:ui-rage: Rage**{ .em } is active, your allies have **:d20-adv: Advantage**{ .d20 } on Melee attack rolls against any enemy of yours within 5 feet of you.
+**Wolf**{.inl} While your **:ui-rage: Rage**{ .em } is active, your allies have **:d20-adv: Advantage**{.d20} on Melee attack rolls against any enemy of yours within 5 feet of you.
 { .indt }
 
 ### Level 6: Aspect of the Wilds
@@ -49,7 +49,7 @@ Whenever you activate your **:ui-rage: Rage**{ .em }, you gain one of the follow
 
 **Falcon**{.inl} While your **:ui-rage: Rage**{ .em } is active, you have a **Fly Speed** equal to your **:rsc-spd: Speed**, provided you aren't wearing any armour.
 
-**Lion**{.inl} While your **:ui-rage: Rage**{ .em } is active, any of your enemies within 5 feet of you have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against targets other than you or another Barbarian with this option active.
+**Lion**{.inl} While your **:ui-rage: Rage**{ .em } is active, any of your enemies within 5 feet of you have **:d20-dis: Disadvantage**{.d20} on attack rolls against targets other than you or another Barbarian with this option active.
 
 **Ram**{.inl} While your **:ui-rage: Rage**{ .em } is active, you can cause a Large or smaller creature to have the Prone condition when you hit it with a melee attack.
 

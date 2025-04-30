@@ -36,7 +36,7 @@ Initiative determines the order in which characters and creatures act during com
 
 #### Surprise
 
-If a combatant is suprised by combat starting, that combatant has **:d20-dis: Disadvantage**{ .d20 } on their **Initiative** roll, this is relevant during ambushes.
+If a combatant is suprised by combat starting, that combatant has **:d20-dis: Disadvantage**{.d20} on their **Initiative** roll, this is relevant during ambushes.
 
 #### Initiative Order
 
@@ -147,7 +147,7 @@ You can't willingly end a move in a space occupied by another creature. If you s
 When you take the **:rsc-a: Attack**{ .rsc } action, you make an attack. Some other actions, Bonus Actions, and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:
 
 1. **Choose a Target.** Pick a target within your attack's range: a creature, an object, or a location.
-2. **Determine Modifiers.** The DM determines whether the target has Cover (see the next section) and whether you have **:d20-adv: Advantage**{ .d20 } or **:d20-dis: Disadvantage**{ .d20 } against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
+2. **Determine Modifiers.** The DM determines whether the target has Cover (see the next section) and whether you have **:d20-adv: Advantage**{.d20} or **:d20-dis: Disadvantage**{.d20} against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
 3. **Resolve the Attack.** Make the attack roll, as detailed earlier in this chapter. On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
 
 ## Cover
@@ -166,9 +166,9 @@ A target can benefit from cover only when an attack or other effect originates o
 
 !!! tip "Unseen Attackers and Targets"
 
-    When you make an attack roll against a target you can't see, you have **:d20-dis: Disadvantage**{ .d20 } on the roll. This is true whether you're guessing the target's location or targeting a creature you can hear but not see. If the target isn't in the location you targeted, you miss.
+    When you make an attack roll against a target you can't see, you have **:d20-dis: Disadvantage**{.d20} on the roll. This is true whether you're guessing the target's location or targeting a creature you can hear but not see. If the target isn't in the location you targeted, you miss.
 
-    When a creature can't see you, you have **:d20-adv: Advantage**{ .d20 } on attack rolls against it.
+    When a creature can't see you, you have **:d20-adv: Advantage**{.d20} on attack rolls against it.
 
     If you are hidden when you make an attack roll, you give away your location when the attack hits or misses.
 
@@ -180,11 +180,11 @@ When you make a ranged attack, you fire a bow, hurl an axe, or otherwise send pr
 
 You can make ranged attacks only against targets within a specified range. If a ranged attack, such as one made with a spell, has a single range, you can't attack a target beyond this range.
 
-Some ranged attacks, such as those made with a Longbow, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has **:d20-dis: Disadvantage**{ .d20 } when your target is beyond normal range, and you can't attack a target beyond long range.
+Some ranged attacks, such as those made with a Longbow, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has **:d20-dis: Disadvantage**{.d20} when your target is beyond normal range, and you can't attack a target beyond long range.
 
 ### Ranged Attacks in Close Combat
 
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack roll with a weapon, a spell, or some other means, you have **:d20-dis: Disadvantage**{ .d20 } on the roll if you are within 5 feet of an enemy who can see you and doesn't have the Incapacitated condition (see the rules glossary).
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack roll with a weapon, a spell, or some other means, you have **:d20-dis: Disadvantage**{.d20} on the roll if you are within 5 feet of an enemy who can see you and doesn't have the Incapacitated condition (see the rules glossary).
 
 ## Melee Attacks
 
@@ -230,9 +230,9 @@ A fight underwater follows these rules.
 
 ### Impeded Weapons
 
-When making a melee attack roll with a weapon underwater, a creature that lacks a Swim Speed has **:d20-dis: Disadvantage**{ .d20 } on the attack roll unless the weapon deals Piercing damage.
+When making a melee attack roll with a weapon underwater, a creature that lacks a Swim Speed has **:d20-dis: Disadvantage**{.d20} on the attack roll unless the weapon deals Piercing damage.
 
-A ranged attack roll with a weapon underwater automatically misses a target beyond the weapon's normal range, and the attack roll has **:d20-dis: Disadvantage**{ .d20 } against a target within normal range.
+A ranged attack roll with a weapon underwater automatically misses a target beyond the weapon's normal range, and the attack roll has **:d20-dis: Disadvantage**{.d20} against a target within normal range.
 
 ### Fire Resistance
 

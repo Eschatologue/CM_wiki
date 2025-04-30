@@ -28,7 +28,7 @@ You gain the following benefits.
 Increase your Charisma score by 1, to a maximum of 20.
 
 ###### Impersonation  
-While you're disguised as a real or fictional person, you have **:d20-adv: Advantage**{ .d20 } on Charisma (Deception or Performance) checks to convince others that you are that person.
+While you're disguised as a real or fictional person, you have **:d20-adv: Advantage**{.d20} on Charisma (Deception or Performance) checks to convince others that you are that person.
 
 ###### Mimicry  
 You can mimic the sounds of other creatures, including speech. A creature that hears the mimicry must succeed on a Wisdom (Insight) check to determine the effect is faked (DC 8 plus your Charisma modifier and Proficiency Bonus).
@@ -102,7 +102,7 @@ Increase your Dexterity score by 1, to a maximum of 20.
 You ignore the Loading property of crossbows.
 
 ###### Firing in Melee  
-Being within 5 feet of an enemy doesn't impose **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with crossbows.
+Being within 5 feet of an enemy doesn't impose **:d20-dis: Disadvantage**{.d20} on your attack rolls with crossbows.
 
 ###### Dual Wielding  
 When you make the extra attack of the **:wp-prop-light: Light**{.wp} property, you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the **:wp-prop-light: Light**{.wp} property and you aren't already adding that modifier to the damage.
@@ -122,7 +122,7 @@ Increase your Strength or Constitution by 1, to a maximum of 20.
 Once per turn, when you hit a creature with an attack that deals **:dmg-bldg: Bludgeoning**{.dmg-bps} damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
 
 ###### Enhanced Critical  
-When you score a Critical Hit that deals **:dmg-bldg: Bludgeoning**{.dmg-bps} damage to a creature, attack rolls against that creature have **:d20-adv: Advantage**{ .d20 } until the start of your next turn.
+When you score a Critical Hit that deals **:dmg-bldg: Bludgeoning**{.dmg-bps} damage to a creature, attack rolls against that creature have **:d20-adv: Advantage**{.d20} until the start of your next turn.
 
 ---
 
@@ -167,7 +167,7 @@ You gain the following benefits.
 Increase your Constitution score by 1, to a maximum of 20.
 
 ###### Defy Death  
-You have **:d20-adv: Advantage**{ .d20 } on Death Saving Throws.
+You have **:d20-adv: Advantage**{.d20} on Death Saving Throws.
 
 ###### Speedy Recovery  
 As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one of your Hit Point Dice, roll the die, and regain a number of Hit Points equal to the roll.
@@ -217,7 +217,7 @@ Increase your Strength or Dexterity score by 1, to a maximum of 20.
 When you hit a creature with an **:rsc-a: Unarmed Strike**{ .rsc } as part of the **:rsc-a: Attack**{ .rsc } action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
 
 ###### Attack Advantage  
-You have **:d20-adv: Advantage**{ .d20 } on attack rolls against a creature Grappled by you.
+You have **:d20-adv: Advantage**{.d20} on attack rolls against a creature Grappled by you.
 
 ###### Fast Wrestler  
 Your **:rsc-spd: Speed**{ .em } isn't halved when you move a creature Grappled by you if the creature is your size or smaller.
@@ -324,7 +324,7 @@ You gain the following benefits.
 Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 ###### Concentration Breaker  
-When you damage a creature that is concentrating, it has **:d20-dis: Disadvantage**{ .d20 } on the saving throw it makes to maintain **:spell-conc: Concentration**.
+When you damage a creature that is concentrating, it has **:d20-dis: Disadvantage**{.d20} on the saving throw it makes to maintain **:spell-conc: Concentration**.
 
 ###### Guarded Mind  
 If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
@@ -381,7 +381,7 @@ You gain the following benefits.
 Increase your Strength, Dexterity, or Wisdom score by 1, to a maximum of 20.
 
 ###### Mounted Strike  
-While mounted, you have **:d20-adv: Advantage**{ .d20 } on attack rolls against any creature that is within 5 feet of your mount and at least one size smaller than it.
+While mounted, you have **:d20-adv: Advantage**{.d20} on attack rolls against any creature that is within 5 feet of your mount and at least one size smaller than it.
 
 ###### Leap Aside  
 If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. For your mount to gain this benefit, you must be riding it, and neither of you can have the Incapacitated condition.
@@ -539,10 +539,10 @@ Increase your Dexterity score by 1, to a maximum of 20.
 Your ranged attacks with weapons ignore Half Cover and Three-Quarters Cover.
 
 ###### Firing in Melee  
-Being within 5 feet of an enemy doesn't impose **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with Ranged weapons.
+Being within 5 feet of an enemy doesn't impose **:d20-dis: Disadvantage**{.d20} on your attack rolls with Ranged weapons.
 
 ###### Long Shots  
-Attacking at long range doesn't impose **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with Ranged weapons.
+Attacking at long range doesn't impose **:d20-dis: Disadvantage**{.d20} on your attack rolls with Ranged weapons.
 
 ---
 
@@ -556,7 +556,7 @@ You gain the following benefits.
 Increase your Strength score by 1, to a maximum of 20.
 
 ###### Shield Bash  
-If you attack a creature within 5 feet of you as part of the **:rsc-a: Attack**{ .rsc } action and hit with a Melee weapon, you can immediately bash the target with your Shield if it's equipped, forcing the target to make a **:d20-save: Strength saving throw**{ .d20 } (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, you either push the target 5 feet from you or cause it to have the Prone condition (your choice). You can use this benefit only once on each of your turns.
+If you attack a creature within 5 feet of you as part of the **:rsc-a: Attack**{ .rsc } action and hit with a Melee weapon, you can immediately bash the target with your Shield if it's equipped, forcing the target to make a **:d20-save: Strength saving throw**{.d20} (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, you either push the target 5 feet from you or cause it to have the Prone condition (your choice). You can use this benefit only once on each of your turns.
 
 ###### Interpose Shield  
 If you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a **:rsc-r: Reaction**{ .rsc } to take no damage if you succeed on the saving throw and are wielding a Shield.
@@ -590,7 +590,7 @@ Increase your Dexterity score by 1, to a maximum of 20.
 You have Blindsight with a range of 10 feet.
 
 ###### Fog of War  
-Exploiting the distractions of battle, you have **:d20-adv: Advantage**{ .d20 } on any Dexterity (Stealth) check you make as part of the Hide Action during combat.
+Exploiting the distractions of battle, you have **:d20-adv: Advantage**{.d20} on any Dexterity (Stealth) check you make as part of the Hide Action during combat.
 
 ###### Sniper  
 If you make an attack roll while hidden and the roll misses, making the attack roll doesn't end the Hidden condition on you.
@@ -647,7 +647,7 @@ Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 Your attack rolls for spells ignore Half Cover and Three-Quarters Cover.
 
 ###### Casting in Melee  
-Being within 5 feet of an enemy doesn't impose **:d20-dis: Disadvantage**{ .d20 } on your attack rolls with spells.
+Being within 5 feet of an enemy doesn't impose **:d20-dis: Disadvantage**{.d20} on your attack rolls with spells.
 
 ###### Increased Range  
 When you cast a spell that has a range of at least 10 feet and requires you to make an attack roll, you can increase the spell's range by 60 feet.
@@ -698,7 +698,7 @@ You gain the following benefits.
 Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 
 ###### Concentration  
-You have **:d20-adv: Advantage**{ .d20 } on **:d20-save: Constitution saving throws**{ .d20 } that you make to maintain your **:spell-conc: Concentration**.
+You have **:d20-adv: Advantage**{.d20} on **:d20-save: Constitution saving throws**{.d20} that you make to maintain your **:spell-conc: Concentration**.
 
 ###### Reactive Spell  
 When a creature provokes an Opportunity Attack from you by leaving your reach, you can take a **:rsc-r: Reaction**{ .rsc } to cast a spell at the creature, rather than making an **:rsc-r: Opportunity Attack**{.rsc}. The spell must have a casting time of one action and must target only that creature.

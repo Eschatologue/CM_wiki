@@ -33,9 +33,9 @@ In addition, you no longer need to forgo any Sneak Attack dice in order to use t
 
 ### Level 13: Ambush Master
 
-You excel at leading ambushes and acting first in a fight. You have **:d20-adv: Advantage**{ .d20 } on **:d20-inv: Initiative**{.d20 } rolls. In addition, the following effect is now among your [Cunning Strike] options.
+You excel at leading ambushes and acting first in a fight. You have **:d20-adv: Advantage**{.d20} on **:d20-inv: Initiative**{.d20 } rolls. In addition, the following effect is now among your [Cunning Strike] options.
 
-**Ambush Strike (Cost: 1d6)**{.inl} All attack rolls made against the target have **:d20-adv: Advantage**{ .d20 } until the start of your next turn. You can only use this option during the first round of a combat. 
+**Ambush Strike (Cost: 1d6)**{.inl} All attack rolls made against the target have **:d20-adv: Advantage**{.d20} until the start of your next turn. You can only use this option during the first round of a combat. 
 
 ### Level 17: Sudden Strike
 

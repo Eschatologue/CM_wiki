@@ -85,7 +85,7 @@ _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-versatile: Versatile**{.w
 
 <hr class="hr-solid">
 
-If you hit a creature with this weapon, that creature has **:d20-dis: Disadvantage**{ .d20 } on its next attack roll before the start of your next turn.
+If you hit a creature with this weapon, that creature has **:d20-dis: Disadvantage**{.d20} on its next attack roll before the start of your next turn.
 
 ---
 
@@ -115,7 +115,7 @@ _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-ammunition: Ammunition**{
 
 <hr class="hr-solid">
 
-If you hit a creature with this weapon and deal damage to the creature, you have **:d20-adv: Advantage**{ .d20 } on your next attack roll against that creature before the end of your next turn.
+If you hit a creature with this weapon and deal damage to the creature, you have **:d20-adv: Advantage**{.d20} on your next attack roll against that creature before the end of your next turn.
 
 ---
 
@@ -151,7 +151,7 @@ _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-ammunition: Ammunition**{
 
 <hr class="hr-solid">
 
-If you hit a creature with this weapon and deal damage to the creature, the next attack roll by a creature other than you against that creature has **:d20-adv: Advantage**{ .d20 } until the start of your next turn.
+If you hit a creature with this weapon and deal damage to the creature, the next attack roll by a creature other than you against that creature has **:d20-adv: Advantage**{.d20} until the start of your next turn.
 
 ---
 
