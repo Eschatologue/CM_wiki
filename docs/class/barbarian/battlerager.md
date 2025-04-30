@@ -45,9 +45,9 @@ Once per turn, while your **:ui-rage: Rage**{ .em } is active and you have one o
 
 You choose one of the following options:
 
-**Roundhouse Sweep**{ .inl } You spin one of the Grappled creatures around you. Each creature within 10 feet of you must make a **:d20-save: DEX Save**{.d20}. On a failed save, a creature takes **3d6 :dmg-bldg: Bludgeoning**{.dmg-bps} damage and is pushed 10 feet away from you. The Grappled creature takes **2d6 :dmg-bldg: Bludgeoning**{.dmg-bps} damage.
+**Roundhouse Sweep**{.inl} You spin one of the Grappled creatures around you. Each creature within 10 feet of you must make a **:d20-save: DEX Save**{.d20}. On a failed save, a creature takes **3d6 :dmg-bldg: Bludgeoning**{.dmg-bps} damage and is pushed 10 feet away from you. The Grappled creature takes **2d6 :dmg-bldg: Bludgeoning**{.dmg-bps} damage.
 
-**Seismic Toss**{ .inl } You throw one of the Grappled creatures at a target you can see within 20 feet of you. The Grappled creature and the target make a **:d20-save: STR Save**{.d20}. On a failed save, a creature takes **2d6 :dmg-bldg: Bludgeoning**{.dmg-bps} damage and has the Prone condition.
+**Seismic Toss**{.inl} You throw one of the Grappled creatures at a target you can see within 20 feet of you. The Grappled creature and the target make a **:d20-save: STR Save**{.d20}. On a failed save, a creature takes **2d6 :dmg-bldg: Bludgeoning**{.dmg-bps} damage and has the Prone condition.
 
 :material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
 { .author }

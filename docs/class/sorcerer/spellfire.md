@@ -16,10 +16,10 @@ Your sorcerous power are drawn from an innate connection with the Weave, the ver
 
 When you spend at least **1 :class-phb24-sorcerer: Sorcery Point(s)** as part of the **:rsc-a: Magic**{ .rsc } action or a **:rsc-b: Bonus Action**{ .rsc } on your turn, you can unleash **one** of the following magical effects of your choice. You can do so only once per turn.
 
-**Bolstering Flames**{ .inl } You or one creature you can see within 30 feet of yourself gains **:trt-thp: Temporary Hit Points** equal to `1d4 plus your Charisma modifier`. 
+**Bolstering Flames**{.inl} You or one creature you can see within 30 feet of yourself gains **:trt-thp: Temporary Hit Points** equal to `1d4 plus your Charisma modifier`. 
 { .indt }
 
-**Radiant Fire**{ .inl } One creature you can see within 30 feet of yourself must succeed on a **:d20-save: DEX Save**{ .d20 } against your Spell Save DC or take `1d6` **:dmg-fire: Fire**{ .dmg-fire } or **:dmg-radi: Radiant**{ .dmg-radi } damage (your choice). 
+**Radiant Fire**{.inl} One creature you can see within 30 feet of yourself must succeed on a **:d20-save: DEX Save**{ .d20 } against your Spell Save DC or take `1d6` **:dmg-fire: Fire**{ .dmg-fire } or **:dmg-radi: Radiant**{ .dmg-radi } damage (your choice). 
 { .indt }
 
 ### Level 3: Spellfire Magic
@@ -47,11 +47,11 @@ Your *Spellfire Burst* improves. You add your Sorcerer level to the **:trt-thp: 
 
 As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 1 minute. Once you use this **:rsc-b: Bonus Action**{ .rsc }, you can’t use it again until you finish a Long Rest unless you spend **7 :class-phb24-sorcerer: Sorcery Point(s)** (no action required) to restore your use of it. 
  
-**Burning Life Force**{ .inl } Once per turn when you are hit by an attack roll, you can expend a number of Hit Dice, up to a maximum equal to your Charisma modifier (minimum of one). Roll the expended dice and reduce the amount of damage from that attack equal to the total rolled plus your Sorcerer level. 
+**Burning Life Force**{.inl} Once per turn when you are hit by an attack roll, you can expend a number of Hit Dice, up to a maximum equal to your Charisma modifier (minimum of one). Roll the expended dice and reduce the amount of damage from that attack equal to the total rolled plus your Sorcerer level. 
 
-**Flight**{ .inl } You gain a Fly Speed of 60 feet and can hover. 
+**Flight**{.inl} You gain a Fly Speed of 60 feet and can hover. 
 
-**Spell Avoidance**{ .inl } When you’re subjected to a spell or magical effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can’t use this benefit if you have the Incapacitated condition. 
+**Spell Avoidance**{.inl} When you’re subjected to a spell or magical effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can’t use this benefit if you have the Incapacitated condition. 
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 --8<-- "includes/snippets/spells2/lv6.md"

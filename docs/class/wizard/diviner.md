@@ -32,11 +32,11 @@ Casting Divination spells comes so easily to you that it expends only a fraction
 
 You can increase your powers of perception. As a **:rsc-b: Bonus Action**{ .rsc }, choose one of the following benefits, which lasts until you start a **:rest-short: Short Rest** or Long Rest. You can't use this feature again until you finish a **:rest-short: Short Rest** or Long Rest.
 
-**Darkvision**{ .inl } You gain Darkvision out to a range of 120 feet.
+**Darkvision**{.inl} You gain Darkvision out to a range of 120 feet.
 
-**Greater Comprehension**{ .inl } You can read any language.
+**Greater Comprehension**{.inl} You can read any language.
 
-**See Invisibility**{ .inl } You can cast See Invisibility without expending a spell slot.
+**See Invisibility**{.inl} You can cast See Invisibility without expending a spell slot.
 
 ### Level 14: Greater Portent
 

@@ -51,9 +51,9 @@ You are an unparalleled hunter of mages. Whenever you hit a creature with a weap
 
 Moreover, when you cast [:spell-lv3: Dispel Magic] or [:spell-lv3: Counterspell], it gains the following effects.
 
-**Dispel Magic**{ .inl } When you cast [:spell-lv3: Dispel Magic] and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. 
+**Dispel Magic**{.inl} When you cast [:spell-lv3: Dispel Magic] and you need to make a spellcasting ability check to determine the result, you can treat a roll of 9 or lower as a 10. 
 
-**Counterspell**{ .inl } When you cast [:spell-lv3: Counterspell], your target has **:d20-dis: Disadvantage**{ .d20 } on the Saving Throw.
+**Counterspell**{.inl} When you cast [:spell-lv3: Counterspell], your target has **:d20-dis: Disadvantage**{ .d20 } on the Saving Throw.
 
 ### Level 15: Mantle of the Master
 

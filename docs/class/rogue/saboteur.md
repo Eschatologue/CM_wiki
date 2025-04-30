@@ -43,19 +43,19 @@ Some of your explosives require your target to make a saving throw to resist the
 
 Your work has given you a knack for identifying structural weak points. You gain the following benefits:
 
-**Weakness Exploit**{ .inl } When you hit a non-magical structure with a weapon attack or one of your explosives, it is considered a Critical Hit.
+**Weakness Exploit**{.inl} When you hit a non-magical structure with a weapon attack or one of your explosives, it is considered a Critical Hit.
 
-**Improved Critical**{ .inl } when you attack a Construct, the number you need to roll for Critical Hit is reduced by 1. This Critical Hit reduction can stack.
+**Improved Critical**{.inl} when you attack a Construct, the number you need to roll for Critical Hit is reduced by 1. This Critical Hit reduction can stack.
 
 ### Level 9: Advanced Alchemy
 
 Your mastery of alchemy allows you to alter the explosives you make in the following ways:
 
-**Appearance**{ .inl } You can alter the outward appearance of an explosive. When they are unlit, creatures must succeed on an Intelligence (Investigation) check against your Explosive Save DC in order to recognize the object as an unlit explosive.
+**Appearance**{.inl} You can alter the outward appearance of an explosive. When they are unlit, creatures must succeed on an Intelligence (Investigation) check against your Explosive Save DC in order to recognize the object as an unlit explosive.
 
-**Color**{ .inl } You alter the color of both explosive itself, the color of the explosion, and the color of the smoke it produces.
+**Color**{.inl} You alter the color of both explosive itself, the color of the explosion, and the color of the smoke it produces.
 
-**Damage Type**{ .inl } You alter the damage type of any explosive you craft to **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-thun: Thunder**{ .dmg-thun }, or **:dmg-lgtn: Lightning**{ .dmg-lgtn }.
+**Damage Type**{.inl} You alter the damage type of any explosive you craft to **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-thun: Thunder**{ .dmg-thun }, or **:dmg-lgtn: Lightning**{ .dmg-lgtn }.
 
 ### Level 13: Sabotage
 

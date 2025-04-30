@@ -14,7 +14,7 @@ These General feats are included in the PHB'24
 
 You increase one Ability Score of your choice by 2, or you can increase two Ability Scores of your choice by 1. You can't increase an Ability Score above 20 using this feat. However, if you're at least level 19, that maximum increases to 22.
 
-**Repeatable**{ .inl } You can take this feat more than once.
+**Repeatable**{.inl} You can take this feat more than once.
 
 ---
 
@@ -186,7 +186,7 @@ Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
 ###### Energy Mastery  
 Choose one of the following damage types: **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn }, or **:dmg-thun: Thunder**{ .dmg-thun }. Spells you cast ignore **:dmg-res: Resistance** to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
 
-**Repeatable**{ .inl } You can take this feat more than once, but you must choose a different damage type each time for [Energy Mastery](#energy-mastery).
+**Repeatable**{.inl} You can take this feat more than once, but you must choose a different damage type each time for [Energy Mastery](#energy-mastery).
 
 ---
 
@@ -723,7 +723,7 @@ Your training with weapons allows you to use the mastery property of *two* kinds
 ###### Quick Practice
 Selecting weapons for Weapon Mastery or changing Mastery properties of weapon to other eligible kinds can now be done as a **:rest-short: Short Rest**.
 
-**Repeatable**{ .inl } You can take this feat more than once, choosing different weapon or Masteries each time.
+**Repeatable**{.inl} You can take this feat more than once, choosing different weapon or Masteries each time.
 
 ---
 

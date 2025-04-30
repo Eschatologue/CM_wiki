@@ -44,9 +44,9 @@ Additionally, when you take the **:rsc-a: Attack**{ .rsc } action, you can forgo
 
 Stitching together strands of shadow, you conjure forth a book in your hand at the end of a **:rest-short: Short** or **:rest-long: Long Rest**. This Book of Shadows (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
 
-**Cantrips and Rituals**{ .inl } When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
+**Cantrips and Rituals**{.inl} When the book appears, choose three cantrips, and choose two level 1 spells that have the Ritual tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
 
-**Spellcasting Focus**{ .inl } You can use the book as a Spellcasting Focus.
+**Spellcasting Focus**{.inl} You can use the book as a Spellcasting Focus.
 
 ---
 
@@ -56,7 +56,7 @@ _**Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage_
 
 Choose one of your known Warlock cantrips that deals damage. You can add your Spellcasting modifier to that spell's damage rolls.
 
-**Repeatable**{ .inl } You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+**Repeatable**{.inl} You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 ---
 
@@ -74,7 +74,7 @@ _**Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage_
 
 Choose one of your known Warlock cantrips that deals damage and has a range of 10+ feet. When you cast that spell, its range increases by a number of feet equal to 30 times your Warlock level.
 
-**Repeatable**{ .inl } You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+**Repeatable**{.inl} You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 ---
 
@@ -92,7 +92,7 @@ _**Prerequisite:** Level 2+ Warlock_
 
 You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice.
 
-**Repeatable**{ .inl } You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
+**Repeatable**{.inl} You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
 
 ---
 
@@ -126,7 +126,7 @@ _**Prerequisite:** Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an 
 
 Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
 
-**Repeatable**{ .inl } You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
+**Repeatable**{.inl} You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
 ---
 
@@ -172,15 +172,15 @@ _**Prerequisite:** Level 5+ Warlock, [Pact of the Chain](#pact-of-the-chain)_
 
 When you cast [:spell-lv1: Find Familiar], you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
 
-**Aerial or Aquatic**{ .inl } The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
+**Aerial or Aquatic**{.inl} The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
 
-**Quick Attack**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can command the familiar to take the **:rsc-a: Attack**{ .rsc } action.
+**Quick Attack**{.inl} As a **:rsc-b: Bonus Action**{ .rsc }, you can command the familiar to take the **:rsc-a: Attack**{ .rsc } action.
 
-**Necrotic or Radiant Damage**{ .inl } Whenever the familiar deals :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, or :dmg-slsh: Slashing damage, you can make it deal :dmg-necr: Necrotic or :dmg-radi: Radiant damage instead.
+**Necrotic or Radiant Damage**{.inl} Whenever the familiar deals :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, or :dmg-slsh: Slashing damage, you can make it deal :dmg-necr: Necrotic or :dmg-radi: Radiant damage instead.
 
-**Your Save DC**{ .inl } If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+**Your Save DC**{.inl} If the familiar forces a creature to make a saving throw, it uses your spell save DC.
 
-**Resistance**{ .inl } When the familiar takes damage, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:dmg-res: Resistance**{ .em } against that damage.
+**Resistance**{.inl} When the familiar takes damage, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:dmg-res: Resistance**{ .em } against that damage.
 
 ---
 

@@ -33,10 +33,10 @@ Dwarves typically live for around 250 years, with the oldest members having witn
 
     Dwarves, shaped by a history of conflict and betrayal, are known for keeping others at arm's length. However, they are also regarded as a fair and pragmatic people, valuing loyalty and honesty in those who manage to break through their renowned stubbornness. According to legend, the surest (and quickest) path to a Dwarf's trust is by besting them in a drinking game—an achievement that, for millennia, no outsider has accomplished.
 
-    **Elves**{ .inl } *"Some say it's hard to tell a wood elf from a high elf, but for us, it's easy. One could be an ally, while the other would smile as they twist a knife in your back and whisper you empty words. Besides, have you seen the Generator those wood elves built in the north? Marvellous piece of work!”*
+    **Elves**{.inl} *"Some say it's hard to tell a wood elf from a high elf, but for us, it's easy. One could be an ally, while the other would smile as they twist a knife in your back and whisper you empty words. Besides, have you seen the Generator those wood elves built in the north? Marvellous piece of work!”*
 
-    **Humans**{ .inl } "Humans are ambitious folk, always pushing boundaries, and they get things done quickly—sometimes too quickly. They're unpredictable, a blessing and a curse, yet in their drive for progress, there's a spark we respect. Share a forge or a drink with one, and you'll find they're not so different from us... though maybe a touch more reckless."
+    **Humans**{.inl} "Humans are ambitious folk, always pushing boundaries, and they get things done quickly—sometimes too quickly. They're unpredictable, a blessing and a curse, yet in their drive for progress, there's a spark we respect. Share a forge or a drink with one, and you'll find they're not so different from us... though maybe a touch more reckless."
 
-    **Londoners**{ .inl } *"Those tea addicts have the strength of a twig! But, ah, their inventions! Centuries ahead of anything we've got. And they're a frightening lot—what we'd call horrors is mere child's play to them. Makes you wonder what they've seen to turn them like that…"*
+    **Londoners**{.inl} *"Those tea addicts have the strength of a twig! But, ah, their inventions! Centuries ahead of anything we've got. And they're a frightening lot—what we'd call horrors is mere child's play to them. Makes you wonder what they've seen to turn them like that…"*
 
 

@@ -38,9 +38,9 @@ You know the *English* language and you gain the [:option-feat-origin: Dominion'
 
 You gain additional ways to gain Heroic Inspiration:
 
-**Critical**{ .inl } When a creature scores a Critical Hit against you, you gain Heroic Inspiration and regain Hit Points equal to your character level.
+**Critical**{.inl} When a creature scores a Critical Hit against you, you gain Heroic Inspiration and regain Hit Points equal to your character level.
 
-**Death**{ .inl } When an ally that you can see or hear drops to 0 hit points, you gain Heroic Inspiration and regain Hit Points equal to your character level.
+**Death**{.inl} When an ally that you can see or hear drops to 0 hit points, you gain Heroic Inspiration and regain Hit Points equal to your character level.
 
 ### Mental Resilience
 

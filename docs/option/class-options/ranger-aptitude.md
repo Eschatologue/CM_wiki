@@ -54,7 +54,7 @@ Every Ranger has a unique origin, choose one of the following benefit:
 
     _You have cultivated a strong bond with animals and nature._{.quote}
 
-**Repeatable**{ .inl } You can choose this Aptitude again, choosing a different benefit each time.
+**Repeatable**{.inl} You can choose this Aptitude again, choosing a different benefit each time.
 
 ---
 
@@ -70,7 +70,7 @@ You are an expert at navigating the urban labyrinth as well as the wilds. You ga
 
 You have spent endless days surviving desolate wastelands. Choose one of the following damage types: **:dmg-cold: Cold**{.dmg-cold}, **:dmg-fire: Fire**{.dmg-fire}, **:dmg-lgtn: Lightning**{.dmg-lgtn}, or **:dmg-posn: Poison**{.dmg-posn}. You gain **:dmg-res: Resistance**{ .nowrap } to the chosen damage type. 
 
-**Repeatable**{ .inl } You can choose this Aptitude again, choosing different damage type each time.
+**Repeatable**{.inl} You can choose this Aptitude again, choosing different damage type each time.
 
 ---
 
@@ -80,7 +80,7 @@ _**Prerequisite:** Level 6+ Ranger_
 
 Choose one of the following damage types: **:dmg-force: Force**{.dmg-force}, **:dmg-necr: Necrotic**{.dmg-necr}, **:dmg-psyc: Psychic**{.dmg-psyc}, or **:dmg-radi: Radiant**{.dmg-radi}. You gain **:dmg-res: Resistance**{ .em } to the chosen damage type. 
 
-**Repeatable**{ .inl } You can choose this Aptitude again, choosing different damage type each time.
+**Repeatable**{.inl} You can choose this Aptitude again, choosing different damage type each time.
 
 ---
 
@@ -92,7 +92,7 @@ _**Prerequisite:** Level 3+ Ranger_
 
 You learn some rougish techniques. Choose one of the following Actions, you can use a **:rsc-b: Bonus Action**{ .rsc } to take it: **:rsc-a: Dash**{.rsc}, **:rsc-a: Disengage**{.rsc}, or **:rsc-a: Hide**{.rsc}.
 
-**Repeatable**{ .inl } You can choose this Aptitude again, choosing a different action each time.
+**Repeatable**{.inl} You can choose this Aptitude again, choosing a different action each time.
 
 ---
 
@@ -206,9 +206,9 @@ _**Prerequisite:** Level 12+ Ranger, [Primal Focus](#primal-focus)_
 
 You gain the following benefits:
 
-**Improved Critical**{ .inl } When you attack the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc }, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
+**Improved Critical**{.inl} When you attack the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc }, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
 
-**Weakness Exploit**{ .inl } Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
+**Weakness Exploit**{.inl} Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
 
 ---
 

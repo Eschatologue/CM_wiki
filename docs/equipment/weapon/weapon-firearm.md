@@ -22,22 +22,22 @@ Most classes lack Firearm proficiency unless specifically granted by a backgroun
 
 If a character isn’t proficient with firearms, their ability to use them is hindered by their magical connection to the Weave. This restriction affects mechanics associated with firearms with the following rules below. These rules is obviously ignored whenever a character gain Proficiency with Firearms.
 
-**Attack Rolls**{ .inl } When making an attack roll with a Firearm without proficiency, the roll is reduced by twice a number equal to the highest spell slot level the character can expend or use. For example, a Wizard who can use a level 5 spell slot at its respective level will have -10 to their attack roll using Firearms. If the Wizard gain a level which allows it to use a level 6 spell slots, this penalty increases to -12.
+**Attack Rolls**{.inl} When making an attack roll with a Firearm without proficiency, the roll is reduced by twice a number equal to the highest spell slot level the character can expend or use. For example, a Wizard who can use a level 5 spell slot at its respective level will have -10 to their attack roll using Firearms. If the Wizard gain a level which allows it to use a level 6 spell slots, this penalty increases to -12.
 
-**Mastery**{ .inl } Creature that lacks proficiency with Firearms can't use its Mastery property, regardless if it has a class feature that allows it.
+**Mastery**{.inl} Creature that lacks proficiency with Firearms can't use its Mastery property, regardless if it has a class feature that allows it.
 
 ## Firearm Table
 
 The Firearm tables in this section shows the game's main weapons. These table lists the cost and weight of each weapon, as well as the following details:
 
-**Category**{ .inl } Every weapon falls into a category: Short-Arm and Long-Arm. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Simple weapons.  
+**Category**{.inl} Every weapon falls into a category: Short-Arm and Long-Arm. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Simple weapons.  
 &emsp;Firearms are considered Ranged weapons for the purposes of effects, abilities, feats, and spells that refer to weapons unless a restriction or limitation explicitly prevents their use. If an ability or spell refers to "ranged weapons" or simply "weapons," firearms are included unless stated otherwise.
 
-**Damage**{ .inl } The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage.
+**Damage**{.inl} The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage.
 
-**Properties**{ .inl } Any properties a weapon has are listed in the Properties column. Each property is defined in the [Properties](index.md#weapon-properties) section.
+**Properties**{.inl} Any properties a weapon has are listed in the Properties column. Each property is defined in the [Properties](index.md#weapon-properties) section.
 
-**Mastery**{ .inl } Each weapon has a mastery property, which is defined in the [Mastery Properties](mastery.md) section. To use or replace that property, you must have a feature that lets you use it.
+**Mastery**{.inl} Each weapon has a mastery property, which is defined in the [Mastery Properties](mastery.md) section. To use or replace that property, you must have a feature that lets you use it.
 
 ### Short-Arm
 

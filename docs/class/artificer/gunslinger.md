@@ -37,13 +37,13 @@ Your tinkering with Arcane Firearm ensures you always have certain spells ready.
 
 Your groundbreaking research has led to the development of your signature Arcane Firearm, which uses the rules below:
 
-**Crafting your Firearm**{ .inl } During the course of a **:rest-long: Long Rest**, you can spend 1 hour using Smith's Tools to craft one Arcane Firearm. It is only usable by you, you are proficient with it, and crafting another destroys the previous Arcane Firearm. 
+**Crafting your Firearm**{.inl} During the course of a **:rest-long: Long Rest**, you can spend 1 hour using Smith's Tools to craft one Arcane Firearm. It is only usable by you, you are proficient with it, and crafting another destroys the previous Arcane Firearm. 
 
 **Ability Modifier**{.inl} You can use your Intelligence, in place of Dexterity for its attack and damage rolls. 
 
-**Infusions**{ .inl } Your Firearm can bear one Infusion for a ranged weapon or an arcane focus. At Artificer level 9 it can bear one additional Infusion.
+**Infusions**{.inl} Your Firearm can bear one Infusion for a ranged weapon or an arcane focus. At Artificer level 9 it can bear one additional Infusion.
 
-**Upgrades**{ .inl } Upon creation, your Arcane Firearm gains two Upgrades of your choice from the list of Upgrades at the end of this subclass.
+**Upgrades**{.inl} Upon creation, your Arcane Firearm gains two Upgrades of your choice from the list of Upgrades at the end of this subclass.
 
 ##### Arcane Firearm
 

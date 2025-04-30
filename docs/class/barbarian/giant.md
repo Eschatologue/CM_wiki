@@ -19,25 +19,25 @@ Barbarians who walk the Path of the Giant draw strength from the same primal for
 
 The primal force of giants wreaths within you.
 
-**Giant's Tongue**{ .inl } You can speak, read, and write Giant or one other language of your choice if you already know Giant.
+**Giant's Tongue**{.inl} You can speak, read, and write Giant or one other language of your choice if you already know Giant.
 
-**Giant Magic**{ .inl } You learn the [:spell-lv0: Elementalism] cantrip and one other cantrip of your choice: either [:spell-lv0: Druidcraft] or [:spell-lv0: Thaumaturgy]. Wisdom is your spellcasting ability for these spells.
+**Giant Magic**{.inl} You learn the [:spell-lv0: Elementalism] cantrip and one other cantrip of your choice: either [:spell-lv0: Druidcraft] or [:spell-lv0: Thaumaturgy]. Wisdom is your spellcasting ability for these spells.
 
 ### Level 3: Giant's Havoc
 
 Your rage pulls strength from the primal might of giants, transforming you into a hulking force of destruction. When your **:ui-rage: Rage**{ .em } is active, you gain the following benefits:
 
-**Giant's Cleaver**{ .inl } You choose one weapon you are holding and infuse it with primordial power. It gains the :wp-prop-thrown: Thrown (20/60) property and if it already has the Thrown property its normal and long range increase by 20 feet. If you throw the weapon, it instantly reappears in your hand after you hit or miss a target. The weapon's infusion is suppressed while a creature other than you wields it.
+**Giant's Cleaver**{.inl} You choose one weapon you are holding and infuse it with primordial power. It gains the :wp-prop-thrown: Thrown (20/60) property and if it already has the Thrown property its normal and long range increase by 20 feet. If you throw the weapon, it instantly reappears in your hand after you hit or miss a target. The weapon's infusion is suppressed while a creature other than you wields it.
 
-**Giant Stature**{ .inl } Your reach increases by 5 feet, and if you are smaller than Large, you can choose to become Large, along with anything you are wearing. If there isn't enough room for you to increase your size, your size doesn't change.
+**Giant Stature**{.inl} Your reach increases by 5 feet, and if you are smaller than Large, you can choose to become Large, along with anything you are wearing. If there isn't enough room for you to increase your size, your size doesn't change.
 
 ### Level 6: Element of Power
 
 Your physique is bolstered by the primordial elements.
 
-**Elemental Fortitude**{ .inl } You have Resistance to one of the following damage types of your choice: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-thun: Thunder, or :dmg-lgtn: Lightning. You can choose a different type when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
+**Elemental Fortitude**{.inl} You have Resistance to one of the following damage types of your choice: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-thun: Thunder, or :dmg-lgtn: Lightning. You can choose a different type when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
-**Elemental Cleaver**{ .inl } When you use your Giant's Cleaver, the weapon is infused with one of the following damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-thun: Thunder, or :dmg-lgtn: Lightning Its damage type changes to the chosen type and it deals an extra 1d6 damage on a hit. You can use your **:rsc-b: Bonus Action**{ .rsc } to change the damage type.
+**Elemental Cleaver**{.inl} When you use your Giant's Cleaver, the weapon is infused with one of the following damage types: :dmg-acid: Acid, :dmg-cold: Cold, :dmg-fire: Fire, :dmg-thun: Thunder, or :dmg-lgtn: Lightning Its damage type changes to the chosen type and it deals an extra 1d6 damage on a hit. You can use your **:rsc-b: Bonus Action**{ .rsc } to change the damage type.
 
 ### Level 10: Mighty Impel
 
@@ -49,9 +49,9 @@ As a **:rsc-b: Bonus Action**{ .rsc } while your **:ui-rage: Rage**{ .em } is ac
 
 The primordial power of your rage intensifies.
 
-**Colossal Stature**{ .inl } While your **:ui-rage: Rage**{ .em } is active, your reach increases by 10 feet, your size can increase to Large or Huge (your choice), and you can use your Mighty Impel to move creatures that are Large or smaller.
+**Colossal Stature**{.inl} While your **:ui-rage: Rage**{ .em } is active, your reach increases by 10 feet, your size can increase to Large or Huge (your choice), and you can use your Mighty Impel to move creatures that are Large or smaller.
 
-**Improved Elemental Cleaver**{ .inl } The extra damage dealt by your Elemental Cleaver feature increases to 2d6.
+**Improved Elemental Cleaver**{.inl} The extra damage dealt by your Elemental Cleaver feature increases to 2d6.
 
 --8<-- "includes/snippets/spells2/lv0.md"
 --8<-- "includes/snippets/item-property.md"

@@ -16,13 +16,13 @@ Members of most species live for about 80 years, with exceptions noted in the te
 
 A species includes the following parts.
 
-**Creature Type**{ .inl } A character's species determines the character's creature type, which is described in the rules glossary. Every species in this chapter is Humanoid; playable non-Humanoid species appear in other D&D books.
+**Creature Type**{.inl} A character's species determines the character's creature type, which is described in the rules glossary. Every species in this chapter is Humanoid; playable non-Humanoid species appear in other D&D books.
 
-**Size**{ .inl } Your character's species determines the character's size. Individuals within a species cover a wide range of heights, and some species include such diversity of size that you can choose whether your character is Small or Medium.
+**Size**{.inl} Your character's species determines the character's size. Individuals within a species cover a wide range of heights, and some species include such diversity of size that you can choose whether your character is Small or Medium.
 
-**Speed**{ .inl } Your character's species determines the character's Speed.
+**Speed**{.inl} Your character's species determines the character's Speed.
 
-**Special Traits**{ .inl } Each species gives a character special traits—unique characteristics based on the species' physiology or magical nature. When you choose a species, your character gets all the special traits listed for it. Some traits involve making a choice from a handful of options.
+**Special Traits**{.inl} Each species gives a character special traits—unique characteristics based on the species' physiology or magical nature. When you choose a species, your character gets all the special traits listed for it. Some traits involve making a choice from a handful of options.
 
 ## Species in the Crown & Misery Setting
 

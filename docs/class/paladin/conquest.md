@@ -43,21 +43,21 @@ You can use your **:ui-chdiv-pal: Channel Divinity** to guide attacks with super
 
 ### Level 7: Aura of Conquest
 
-By your mere presence your foes are frozen in fear. If a creature has the Frightened condition and you are the source of its fear, its Speed is reduced to 0 while in your Aura of Protection, and that creature takes :dmg-psyc: Psychic damage equal to half your Paladin level if it starts its turn there.
+By your mere presence your foes are frozen in fear. If a creature has the Frightened condition and you are the source of its fear, its Speed is reduced to 0 while in your Aura of Protection, and that creature takes **(Paladin level/2) :dmg-psyc: Psychic**{.dmg-psyc} damage if it starts its turn there.
 
 ### Level 15: Scornful Rebuke
 
-Those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes :dmg-psyc: Psychic damage equal to your Charisma modifier (minimum of 1) if you do not have the Incapacitated condition
+Those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes **(CHA Modifier) :dmg-psyc: Psychic**{.dmg-psyc} damage if you do not have the Incapacitated condition
 
 ### Level 20: Invincible Conqueror
 
 You gain the ability to harness extraordinary martial prowess. As a **:rsc-b: Bonus Action**{ .rsc }, you can magically become an avatar of conquest, gaining the following benefits for 10 minutes:
 
-**Damage Resistance**{ .inl } You have resistance to all damage.
+**Damage Resistance**{.inl} You have resistance to all damage.
 
-**Extra Attack**{ .inl } When you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can make one additional attack as part of that action.
+**Extra Attack**{.inl} When you take the **:rsc-a: Attack**{ .rsc } action on your turn, you can make one additional attack as part of that action.
 
-**Brutal Attacks**{ .inl } Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the d20.
+**Brutal Attacks**{.inl} Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the d20.
 
 Once you use this feature, you can’t use it again until you finish a **:rest-long: Long Rest**, or you expend a level 5 spell slot to use it again.
 

@@ -181,15 +181,15 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 Thanks to your travels, you gain the following benefits.
 
-**Expertise**{ .inl } Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
+**Expertise**{.inl} Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
 
-**Languages**{ .inl } You know two languages of your choice from the language tables in chapter 2.
+**Languages**{.inl} You know two languages of your choice from the language tables in chapter 2.
 
 ### Level 2: Fighting Style {data-toc-label="Fighting Style"}
 
 You gain a Fighting Style feat of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
 
-**Druidic Warrior**{ .inl } You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). [:spell-lv0: Guidance] and [:spell-lv0: Starry Wisp] are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+**Druidic Warrior**{.inl} You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). [:spell-lv0: Guidance] and [:spell-lv0: Starry Wisp] are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
 ## Level 3 {.hide}
 
@@ -227,9 +227,9 @@ Choose two of your skill proficiencies with which you lack Expertise. You gain E
 
 Primal forces now help fuel you on your journeys, granting you the following benefits.
 
-**Temporary Hit Points**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can give yourself a number of **:trt-thp: Temporary Hit Points** equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+**Temporary Hit Points**{.inl} As a **:rsc-a: Magic**{ .rsc } action, you can give yourself a number of **:trt-thp: Temporary Hit Points** equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
-**Decrease Exhaustion**{ .inl } Whenever you finish a **:rest-short: Short Rest**, your Exhaustion level, if any, decreases by 1.
+**Decrease Exhaustion**{.inl} Whenever you finish a **:rest-short: Short Rest**, your Exhaustion level, if any, decreases by 1.
 
 ## Level 13 {.hide}
 

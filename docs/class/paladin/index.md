@@ -151,7 +151,7 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 You gain a Fighting Style feat of your choice (see chapter 5 for feats). Instead of choosing one of those feats, you can choose the option below.
 
-**Blessed Warrior**{ .inl } You learn two Cleric cantrips of your choice (see the Cleric class's section for a list of Cleric spells). [:spell-lv0: Guidance] and *[:spell-lv0: Sacred Flame] are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
+**Blessed Warrior**{.inl} You learn two Cleric cantrips of your choice (see the Cleric class's section for a list of Cleric spells). [:spell-lv0: Guidance] and *[:spell-lv0: Sacred Flame] are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.
 
 ### Level 2: Paladin's Smite
 

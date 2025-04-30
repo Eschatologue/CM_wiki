@@ -87,11 +87,11 @@ A Rune can only take effect or *Invoked* if the object its inscribed on is eithe
 
 You have learned how to imbue yourself with the might of giants. As a **:rsc-b: Bonus Action**{ .rsc }, you magically gain the following benefits for 1 minute:
 
-**Titan’s Form**{ .inl } If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.
+**Titan’s Form**{.inl} If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.
 
-**Jötunn’s Strength**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on Strength checks and Strength saving throws.
+**Jötunn’s Strength**{.inl} You have **:d20-adv: Advantage**{ .d20 } on Strength checks and Strength saving throws.
 
-**Runebound Strikes**{ .inl } Once per turn, when you make an attack you deal an extra 1d6 damage to a target on a hit. The damage increases by 1d6 when you reach level 10 (2d6) and 17 (3d6).
+**Runebound Strikes**{.inl} Once per turn, when you make an attack you deal an extra 1d6 damage to a target on a hit. The damage increases by 1d6 when you reach level 10 (2d6) and 17 (3d6).
 
 You can use this once per **:rest-long: Long Rest**. When you have no uses of this feature left, you can expend one us of your Second Wind to use Giant's Might again.
 

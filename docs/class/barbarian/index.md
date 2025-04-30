@@ -207,9 +207,9 @@ If you use Reckless Attack, you can forgo any **:d20-adv: Advantage**{ .d20 } on
 
 If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or **:rsc-a: Unarmed Strike**{ .rsc } , and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
-**Forceful Blow**{ .inl } The target is pushed 15 feet straight away from you. You can then move up to half your **:rsc-spd: Speed**{ .em } straight toward the target without provoking Opportunity Attacks.
+**Forceful Blow**{.inl} The target is pushed 15 feet straight away from you. You can then move up to half your **:rsc-spd: Speed**{ .em } straight toward the target without provoking Opportunity Attacks.
 
-**Hamstring Blow**{ .inl } The target's **:rsc-spd: Speed**{ .em } is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.
+**Hamstring Blow**{.inl} The target's **:rsc-spd: Speed**{ .em } is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.
 
 ### Level 11: Relentless Rage
 
@@ -221,9 +221,9 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
 
-**Staggering Blow**{ .inl } The target has **:d20-dis: Disadvantage**{ .d20 } on the next saving throw it makes, and it can't make **:rsc-r: Opportunity Attacks**{ .rsc } until the start of your next turn.
+**Staggering Blow**{.inl} The target has **:d20-dis: Disadvantage**{ .d20 } on the next saving throw it makes, and it can't make **:rsc-r: Opportunity Attacks**{ .rsc } until the start of your next turn.
 
-**Sundering Blow**{ .inl } Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
+**Sundering Blow**{.inl} Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
 
 ### Level 15: Persistent Rage
 

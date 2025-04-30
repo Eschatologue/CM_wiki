@@ -40,6 +40,6 @@ The number you need to roll for a Critical Hit is reduced by 1 for attack rolls 
 
 You attain the pinnacle of resilience in battle, giving you these benefits:
 
-**Defy Death**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on Death Saving Throws. Moreover, when you roll 18-20 on a death save, you gain the benefit of rolling a 20 on a death save.
+**Defy Death**{.inl} You have **:d20-adv: Advantage**{ .d20 } on Death Saving Throws. Moreover, when you roll 18-20 on a death save, you gain the benefit of rolling a 20 on a death save.
 
-**Heroic Rally**{ .inl } At the start of each of your turns, you regain Hit Points equal to 5 + your Constitution modifier if you have no more than half your Hit Points remaining. You don't gain this benefit if you have 0 Hit Points.
+**Heroic Rally**{.inl} At the start of each of your turns, you regain Hit Points equal to 5 + your Constitution modifier if you have no more than half your Hit Points remaining. You don't gain this benefit if you have 0 Hit Points.

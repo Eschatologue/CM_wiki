@@ -19,30 +19,30 @@ They are devoted to Valinor’s great generator, believing it to be the final in
 
 You have attuned yourself to both nature and the spirits that presides inside machines, granting you the following benefits:
 
-**Mending**{ .inl } You know the [:spell-lv0: Mending] cantrip.
+**Mending**{.inl} You know the [:spell-lv0: Mending] cantrip.
 
-**Proficiency**{ .inl } You gain proficiency with Tinker's Tool or Smith's Tool, and one type of Artisan's Tools of your choice. You can use your Wisdom when you make ability checks using those tools.
+**Proficiency**{.inl} You gain proficiency with Tinker's Tool or Smith's Tool, and one type of Artisan's Tools of your choice. You can use your Wisdom when you make ability checks using those tools.
 
 ### Level 3: Skin of Steel  
 
 Through the fusion of ancient druidic magic and advanced technology, you can enhance your **:material-paw: Wild Shape** with mechanical augmentations, granting you the following benefits:
 
-**Creature Type**{ .inl } While in your Beast form, you're also considered a Construct in addition of the type of the creature you turn into. Moreover, your body is visibly artificial, with muscles replaced by root-like tendrils and reinforced by metallic plates. It is clear to an observer that you are not a normal animal, but a unique blend of life and machine.
+**Creature Type**{.inl} While in your Beast form, you're also considered a Construct in addition of the type of the creature you turn into. Moreover, your body is visibly artificial, with muscles replaced by root-like tendrils and reinforced by metallic plates. It is clear to an observer that you are not a normal animal, but a unique blend of life and machine.
 { .indt }
 
-**Challenge Rating**{ .inl } The maximum Challenge Rating for the form equals your Druid level divided by 3 (round down).
+**Challenge Rating**{.inl} The maximum Challenge Rating for the form equals your Druid level divided by 3 (round down).
 { .indt }
 
-**Armour Class**{ .inl } Your AC equals 13 plus your Wisdom modifier until you leave the form.
+**Armour Class**{.inl} Your AC equals 13 plus your Wisdom modifier until you leave the form.
 { .indt }
 
-**Temporary Hit Points**{ .inl } You gain **(Druid Level x 3) :trt-thp: Temporary Hit Points**{ .calc }.
+**Temporary Hit Points**{.inl} You gain **(Druid Level x 3) :trt-thp: Temporary Hit Points**{ .calc }.
 { .indt }
 
-**Resistance**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on saves to gain and end the **Poisoned**{ .cond } condition, and you gain **:dmg-res: Resistance** to **:dmg-posn: Poison**{ .dmg-posn } damage.
+**Resistance**{.inl} You have **:d20-adv: Advantage**{ .d20 } on saves to gain and end the **Poisoned**{ .cond } condition, and you gain **:dmg-res: Resistance** to **:dmg-posn: Poison**{ .dmg-posn } damage.
 { .indt }
 
-**Machine Body**{ .inl } While transformed, you do not need to eat, drink, or breathe and you have **:dmg-imm: Immunity** to be put to sleep by magical means
+**Machine Body**{.inl} While transformed, you do not need to eat, drink, or breathe and you have **:dmg-imm: Immunity** to be put to sleep by magical means
 { .indt }
 
 ### Level 6: Implements of the Beast
@@ -110,11 +110,11 @@ When you use **:material-paw: Wild Shape**, you can enhance your beast form with
 
 Your fusion of steel and flesh has reached its pinnacle While you are in **:material-paw: Wild Shape** form, you gain the following benefits:
 
-**Condition Immunities**{ .inl } You are immune to conditions such as: **Charmed**{ .cond }, **Frightened**{ .cond }, **Paralyzed**{ .cond }, **Petrified**{ .cond }, and **Poisoned**{ .cond }. In addition, 
+**Condition Immunities**{.inl} You are immune to conditions such as: **Charmed**{ .cond }, **Frightened**{ .cond }, **Paralyzed**{ .cond }, **Petrified**{ .cond }, and **Poisoned**{ .cond }. In addition, 
 
-**Poison Immuntity**{ .inl } You have **:dmg-imm: Immunity** to **:dmg-posn: Poison**{ .dmg-posn } damage.
+**Poison Immuntity**{.inl} You have **:dmg-imm: Immunity** to **:dmg-posn: Poison**{ .dmg-posn } damage.
 
-**Improved Augments**{ .inl } When you use *Bestial Augmentation*, you can choose two option instead of one.
+**Improved Augments**{.inl} When you use *Bestial Augmentation*, you can choose two option instead of one.
 
 --8<-- "includes/snippets/spells2/lv0.md"
 

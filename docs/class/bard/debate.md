@@ -19,9 +19,9 @@ Bards of the College of Debate view rhetoric as a weapon. They don't merely pers
 
 Your sharp retorts can disrupt and unnerve your opponents in the heat of battle. You gain the following benefits:
 
-**Debate Cantrip**{ .inl } You have the [:spell-lv0: Vicious Mockery] cantrips always prepared. You can add your Charisma modifier to this cantrip's damage and the spell's target still takes half damage whenever they succeed its saving throw.
+**Debate Cantrip**{.inl} You have the [:spell-lv0: Vicious Mockery] cantrips always prepared. You can add your Charisma modifier to this cantrip's damage and the spell's target still takes half damage whenever they succeed its saving throw.
 
-**Seething Words**{ .inl } When you deal **:dmg-psyc: Psychic**{ .dmg-psyc } damage from a spell or class feature, it ignores **:dmg-res: Resistance**{ .em }. Creature that are immune to **:dmg-psyc: Psychic**{ .dmg-psyc } damage still takes half damage. 
+**Seething Words**{.inl} When you deal **:dmg-psyc: Psychic**{ .dmg-psyc } damage from a spell or class feature, it ignores **:dmg-res: Resistance**{ .em }. Creature that are immune to **:dmg-psyc: Psychic**{ .dmg-psyc } damage still takes half damage. 
 
 ### Level 3: Engaging Discourse
 
@@ -43,9 +43,9 @@ Targets that are under the effect of ^^Engaging Discourse^^ is also under the ef
 
 Your mind has become a bastion of reason and self-rightousness, giving you the following benefits:
 
-**Resistance**{ .inl } You have **:dmg-res: Resistance**{ .em } to **:dmg-psyc: Psychic**{ .dmg-psyc } damage.
+**Resistance**{.inl} You have **:dmg-res: Resistance**{ .em } to **:dmg-psyc: Psychic**{ .dmg-psyc } damage.
 
-**Saving Throw Bonus**{ .inl } You gain bonus to your Intelligence and Wisdom saves equals to your Charisma modifier.
+**Saving Throw Bonus**{.inl} You gain bonus to your Intelligence and Wisdom saves equals to your Charisma modifier.
 
 :material-book-edit: Written by _Eschatologue_
 { .quote }

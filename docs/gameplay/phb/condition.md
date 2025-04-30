@@ -22,9 +22,9 @@ The following conditions are defined as follow:
 
 While you have the **Blinded** condition, you experience the following effects.
 
-**Can't See**{ .inl } You can't see and automatically fail any ability check that requires sight.
+**Can't See**{.inl} You can't see and automatically fail any ability check that requires sight.
 
-**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 } , and your attack rolls have **:d20-dis: Disadvantage**{ .d20 }.
+**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{ .d20 } , and your attack rolls have **:d20-dis: Disadvantage**{ .d20 }.
 
 ---
 
@@ -32,9 +32,9 @@ While you have the **Blinded** condition, you experience the following effects.
 
 While you have the **Charmed** condition, you experience the following effects.
 
-**Can't Harm the Charmer**{ .inl } You can't attack the charmer or target the charmer with damaging abilities or magical effects.
+**Can't Harm the Charmer**{.inl} You can't attack the charmer or target the charmer with damaging abilities or magical effects.
 
-**Social Advantage**{ .inl } The charmer has **:d20-adv: Advantage**{ .d20 } on any ability check to interact with you socially.
+**Social Advantage**{.inl} The charmer has **:d20-adv: Advantage**{ .d20 } on any ability check to interact with you socially.
 
 ---
 
@@ -42,7 +42,7 @@ While you have the **Charmed** condition, you experience the following effects.
 
 While you have the **Deafened** condition, you experience the following effect.
 
-**Can't Hear**{ .inl } You can't hear and automatically fail any ability check that requires hearing.
+**Can't Hear**{.inl} You can't hear and automatically fail any ability check that requires hearing.
 
 ---
 
@@ -50,13 +50,13 @@ While you have the **Deafened** condition, you experience the following effect.
 
 While you have the **Exhaustion** condition, you experience the following effects.
 
-**Exhaustion Levels**{ .inl } This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
+**Exhaustion Levels**{.inl} This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
 
-**D20 Tests Affected**{ .inl } When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
+**D20 Tests Affected**{.inl} When you make a D20 Test, the roll is reduced by 2 times your Exhaustion level.
 
-**Speed Reduced**{ .inl } Your **:rsc-spd: Speed**{ .em } is reduced by a number of feet equal to 5 times your Exhaustion level.
+**Speed Reduced**{.inl} Your **:rsc-spd: Speed**{ .em } is reduced by a number of feet equal to 5 times your Exhaustion level.
 
-**Removing Exhaustion Levels**{ .inl } Finishing a **:rest-long: Long Rest** removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
+**Removing Exhaustion Levels**{.inl} Finishing a **:rest-long: Long Rest** removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
 
 ---
 
@@ -64,9 +64,9 @@ While you have the **Exhaustion** condition, you experience the following effect
 
 While you have the **Frightened** condition, you experience the following effects.
 
-**Ability Checks and Attacks Affected**{ .inl } You have **:d20-dis: Disadvantage**{ .d20 } on ability checks and attack rolls while the source of fear is within line of sight.
+**Ability Checks and Attacks Affected**{.inl} You have **:d20-dis: Disadvantage**{ .d20 } on ability checks and attack rolls while the source of fear is within line of sight.
 
-**Can't Approach**{ .inl } You can't willingly move closer to the source of fear.
+**Can't Approach**{.inl} You can't willingly move closer to the source of fear.
 
 ---
 
@@ -74,11 +74,11 @@ While you have the **Frightened** condition, you experience the following effect
 
 While you have the **Grappled** condition, you experience the following effects.
 
-**Speed 0**{ .inl } Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
+**Speed 0**{.inl} Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
-**Attacks Affected**{ .inl } You have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against any target other than the grappler.
+**Attacks Affected**{.inl} You have **:d20-dis: Disadvantage**{ .d20 } on attack rolls against any target other than the grappler.
 
-**Movable**{ .inl } The grappler can drag or carry you when it moves, but every foot of Movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
+**Movable**{.inl} The grappler can drag or carry you when it moves, but every foot of Movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
 
 ??? info "Grappling"
 
@@ -90,13 +90,13 @@ While you have the **Grappled** condition, you experience the following effects.
 
 While You have the **Incapacitated** condition, you experience the following effects.
 
-**Inactive**{ .inl } You can't take any **:rsc-a: Action**{.rsc}, **:rsc-b: Bonus Action**{.rsc}, or **:rsc-r: Reaction**{.rsc}.
+**Inactive**{.inl} You can't take any **:rsc-a: Action**{.rsc}, **:rsc-b: Bonus Action**{.rsc}, or **:rsc-r: Reaction**{.rsc}.
 
-**No Concentration**{ .inl } Your Concentration is broken.
+**No Concentration**{.inl} Your Concentration is broken.
 
-**Speechless**{ .inl } You can't speak.
+**Speechless**{.inl} You can't speak.
 
-**Surprised**{ .inl } If you're Incapacitated when you roll **:d20-inv: Initiative**{.d20 }, you have **:d20-dis: Disadvantage**{ .d20 } on the roll.
+**Surprised**{.inl} If you're Incapacitated when you roll **:d20-inv: Initiative**{.d20 }, you have **:d20-dis: Disadvantage**{ .d20 } on the roll.
 
 ---
 
@@ -104,11 +104,11 @@ While You have the **Incapacitated** condition, you experience the following eff
 
 While you have the **Invisible** condition, you experience the following effects.
 
-**Surprise**{ .inl } If you're Invisible when you roll **:d20-inv: Initiative**{.d20 }, you have **:d20-adv: Advantage**{ .d20 } on the roll.
+**Surprise**{.inl} If you're Invisible when you roll **:d20-inv: Initiative**{.d20 }, you have **:d20-adv: Advantage**{ .d20 } on the roll.
 
-**Concealed**{ .inl } You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+**Concealed**{.inl} You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
 
-**Attacks Affected**{ .inl } Attack rolls against you have **:d20-dis: Disadvantage**{ .d20 }, and your attack rolls have **:d20-adv: Advantage**{ .d20 }. If a creature can somehow see you, you don't gain this benefit against that creature.
+**Attacks Affected**{.inl} Attack rolls against you have **:d20-dis: Disadvantage**{ .d20 }, and your attack rolls have **:d20-adv: Advantage**{ .d20 }. If a creature can somehow see you, you don't gain this benefit against that creature.
 
 ---
 
@@ -116,15 +116,15 @@ While you have the **Invisible** condition, you experience the following effects
 
 While you have the **Paralyzed** condition, you experience the following effects.
 
-**Incapacitated**{ .inl } You have the **Incapacitated**{ .cond } condition.
+**Incapacitated**{.inl} You have the **Incapacitated**{ .cond } condition.
 
-**Speed 0**{ .inl } Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
+**Speed 0**{.inl} Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
-**Saving Throws Affected**{ .inl } You automatically fail **:d20-save: STR & DEX Save**{.d20}.
+**Saving Throws Affected**{.inl} You automatically fail **:d20-save: STR & DEX Save**{.d20}.
 
-**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
+**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
 
-**Automatic Critical Hits**{ .inl } Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
+**Automatic Critical Hits**{.inl} Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
 
 ---
 
@@ -132,19 +132,19 @@ While you have the **Paralyzed** condition, you experience the following effects
 
 While you have the **Petrified** condition, you experience the following effects.
 
-**Turned to Inanimate Substance**{ .inl } You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+**Turned to Inanimate Substance**{.inl} You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
 
-**Incapacitated**{ .inl } You have the **Incapacitated**{ .cond } condition.
+**Incapacitated**{.inl} You have the **Incapacitated**{ .cond } condition.
 
-**Speed 0**{ .inl } Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
+**Speed 0**{.inl} Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
-**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
+**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
 
-**Saving Throws Affected**{ .inl } You automatically fail **:d20-save: STR & DEX Save**{ .d20 }.
+**Saving Throws Affected**{.inl} You automatically fail **:d20-save: STR & DEX Save**{ .d20 }.
 
-**Resist Damage**{ .inl } You have **:dmg-res: Resistance** to all damage.
+**Resist Damage**{.inl} You have **:dmg-res: Resistance** to all damage.
 
-**Poison Immunity**{ .inl } You have **:dmg-imm: Immunity** to the **Poisoned**{ .cond } condition.
+**Poison Immunity**{.inl} You have **:dmg-imm: Immunity** to the **Poisoned**{ .cond } condition.
 
 ---
 
@@ -152,7 +152,7 @@ While you have the **Petrified** condition, you experience the following effects
 
 While you have the **Poisoned** condition, you experience the following effect.
 
-**Ability Checks and Attacks Affected**{ .inl } You have **:d20-dis: Disadvantage**{ .d20 } on attack rolls and ability checks.
+**Ability Checks and Attacks Affected**{.inl} You have **:d20-dis: Disadvantage**{ .d20 } on attack rolls and ability checks.
 
 ---
 
@@ -160,9 +160,9 @@ While you have the **Poisoned** condition, you experience the following effect.
 
 While you have the **Prone** condition, you experience the following effects.
 
-**Restricted Movement**{ .inl } Your only Movement options are to crawl or to spend an amount of Movement equal to half your **:rsc-spd: Speed**{ .em } (round down) to right yourself and thereby end the condition. If your **:rsc-spd: Speed**{ .em } is 0, you can't right yourself.
+**Restricted Movement**{.inl} Your only Movement options are to crawl or to spend an amount of Movement equal to half your **:rsc-spd: Speed**{ .em } (round down) to right yourself and thereby end the condition. If your **:rsc-spd: Speed**{ .em } is 0, you can't right yourself.
 
-**Attacks Affected**{ .inl } You have **:d20-dis: Disadvantage**{ .d20 } on attack rolls. An attack roll against you has **:d20-adv: Advantage**{ .d20 } if the attacker is within 5 feet of you. Otherwise, that attack roll has **:d20-dis: Disadvantage**{ .d20 }.
+**Attacks Affected**{.inl} You have **:d20-dis: Disadvantage**{ .d20 } on attack rolls. An attack roll against you has **:d20-adv: Advantage**{ .d20 } if the attacker is within 5 feet of you. Otherwise, that attack roll has **:d20-dis: Disadvantage**{ .d20 }.
 
 ---
 
@@ -170,11 +170,11 @@ While you have the **Prone** condition, you experience the following effects.
 
 While you have the **Restrained** condition, you experience the following effects.
 
-**Speed 0**{ .inl } Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
+**Speed 0**{.inl} Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
-**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 } , and your attack rolls have **:d20-dis: Disadvantage**{ .d20 }.
+**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{ .d20 } , and your attack rolls have **:d20-dis: Disadvantage**{ .d20 }.
 
-**Saving Throws Affected**{ .inl } You have **:d20-dis: Disadvantage**{ .d20 } on **:d20-save: DEX Save**.
+**Saving Throws Affected**{.inl} You have **:d20-dis: Disadvantage**{ .d20 } on **:d20-save: DEX Save**.
 
 ---
 
@@ -182,9 +182,9 @@ While you have the **Restrained** condition, you experience the following effect
 
 While you have the **Silenced** condition, you experience the following effects.
 
-**No Verbal Components**{ .inl } You can't cast spell that requires Verbal component.
+**No Verbal Components**{.inl} You can't cast spell that requires Verbal component.
 
-**Speechless**{ .inl } You can't speak.
+**Speechless**{.inl} You can't speak.
 
 ---
 
@@ -192,11 +192,11 @@ While you have the **Silenced** condition, you experience the following effects.
 
 While you have the **Stunned** condition, you experience the following effects.
 
-**Incapacitated**{ .inl } You have the **Incapacitated**{ .cond } condition.
+**Incapacitated**{.inl} You have the **Incapacitated**{ .cond } condition.
 
-**Saving Throws Affected**{ .inl } You automatically fail **:d20-save: STR & DEX Save**{ .d20 }.
+**Saving Throws Affected**{.inl} You automatically fail **:d20-save: STR & DEX Save**{ .d20 }.
 
-**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
+**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
 
 ---
 
@@ -204,17 +204,17 @@ While you have the **Stunned** condition, you experience the following effects.
 
 While you have the **Unconscious** condition, you experience the following effects.
 
-**Inert**{ .inl } You have the **Incapacitated**{ .cond } and **Prone**{ .cond } conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.
+**Inert**{.inl} You have the **Incapacitated**{ .cond } and **Prone**{ .cond } conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.
 
-**Speed 0**{ .inl } Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
+**Speed 0**{.inl} Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
-**Attacks Affected**{ .inl } Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
+**Attacks Affected**{.inl} Attack rolls against you have **:d20-adv: Advantage**{ .d20 }.
 
-**Saving Throws Affected**{ .inl } You automatically fail **:d20-save: STR & DEX Save**{ .d20 }.
+**Saving Throws Affected**{.inl} You automatically fail **:d20-save: STR & DEX Save**{ .d20 }.
 
-**Automatic Critical Hits**{ .inl } Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
+**Automatic Critical Hits**{.inl} Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.
 
-**Unaware**{ .inl } You're unaware of your surroundings.
+**Unaware**{.inl} You're unaware of your surroundings.
 
 ---
 

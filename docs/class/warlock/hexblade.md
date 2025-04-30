@@ -29,11 +29,11 @@ The magic of your otherworldly patron ensures you always have certain spells rea
 
 You gain the ability to place a baleful curse on your enemies. As a **:rsc-b: Bonus Action**{ .rsc }, choose one creature you can see within **30 feet** of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or when you have the **Incapacitated**{ .cond } condition. Until the curse ends, you gain the following benefits:
 
-**Improved Critical**{ .inl } The number you need to roll a Critical Hit while attacking the a cursed target is reduced by 1.
+**Improved Critical**{.inl} The number you need to roll a Critical Hit while attacking the a cursed target is reduced by 1.
 
 **Maim**{ .inl} Once per turn, when you hit the cursed target with an attack, you can deal additional damage equal to half of your Warlock level (rounded down).
 
-**Reaper**{ .inl } If the cursed target dies, you regain **:trt-hp: Hit Points** equal to your Warlock level.
+**Reaper**{.inl} If the cursed target dies, you regain **:trt-hp: Hit Points** equal to your Warlock level.
 
 You can't use this feature again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**. Alternatively, you can expend a Pact Magic spell slot to regain one use of it (no action required).
 
@@ -41,9 +41,9 @@ You can't use this feature again until you finish a **:rest-short: Short** or **
 
 You acquire the training necessary to effectively arm yourself for battle. You gain the following benefit.
 
-**Proficiencies**{ .inl } You gain Armour Training with Medium Armour and Shields.
+**Proficiencies**{.inl} You gain Armour Training with Medium Armour and Shields.
 
-**Bind Weapon**{ .inl } You gain the [:class-phb24-warlock: Pact of the Blade](../../option/class-options/warlock-invocations/phb24.md#pact-of-the-blade) Invocation. This Invocation doesn't count against the number of Invocation you can have and can't be replaced. Choose a different Invocation if you already have it.  
+**Bind Weapon**{.inl} You gain the [:class-phb24-warlock: Pact of the Blade](../../option/class-options/warlock-invocations/phb24.md#pact-of-the-blade) Invocation. This Invocation doesn't count against the number of Invocation you can have and can't be replaced. Choose a different Invocation if you already have it.  
 &emsp; When you hit a creature with a Pact Weapon, you can curse your target with [Hexblade's Curse] (no action required) as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
 
 ### Level 6: Spectral Weapon
@@ -58,17 +58,17 @@ The *Spectral Weapon* lasts until it is destroyed, until you dismiss it (no acti
 
 Your hex grows more powerful, giving you the follwing benefits: 
 
-**Awaken Weapon**{ .inl } You can take a **:rsc-b: Bonus Action**{ .rsc } to make one attack using your Pact Weapon, originating from the the *Spectral Weapon's* position.
+**Awaken Weapon**{.inl} You can take a **:rsc-b: Bonus Action**{ .rsc } to make one attack using your Pact Weapon, originating from the the *Spectral Weapon's* position.
 
-**Hex Armour**{ .inl } If the target cursed by your [Hexblade's Curse] hits you or your *Spectral Weapon* with an attack roll, you can use your **:rsc-r: Reaction**{ .rsc } to roll a d6. On a 4 or higher, the attack instead misses, regardless of its roll.
+**Hex Armour**{.inl} If the target cursed by your [Hexblade's Curse] hits you or your *Spectral Weapon* with an attack roll, you can use your **:rsc-r: Reaction**{ .rsc } to roll a d6. On a 4 or higher, the attack instead misses, regardless of its roll.
 
 ### Level 14: Master of Hexes
 
 Your Hexblade’s Curse becomes more debilitating. When you curse a creature with your [Hexblade's Curse], you gain the following benefits:
 
-**Impending Doom**{ .inl } The cursed target has its **:rsc-spd: Speed** reduced by 15 feet.
+**Impending Doom**{.inl} The cursed target has its **:rsc-spd: Speed** reduced by 15 feet.
 
-**Relentless Curse**{ .inl } When you take the **:rsc-a: Attack**{ .rsc } action using your Pact Weapon, you can Teleport yourself or your *Spectral Weapon* up to **30 feet** to an unoccupied space within 5 feet of a cursed target that you can see as part of the attack.
+**Relentless Curse**{.inl} When you take the **:rsc-a: Attack**{ .rsc } action using your Pact Weapon, you can Teleport yourself or your *Spectral Weapon* up to **30 feet** to an unoccupied space within 5 feet of a cursed target that you can see as part of the attack.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

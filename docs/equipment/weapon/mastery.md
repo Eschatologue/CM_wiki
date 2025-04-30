@@ -9,9 +9,9 @@ boost: 1.2
 
 Each weapon has a Mastery property, which is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. The properties are defined below witht the following details:
 
-<!-- **Type**{ .inl } A Mastery property applies to specific weapon type; either Melee or Ranged weapons.
+<!-- **Type**{.inl} A Mastery property applies to specific weapon type; either Melee or Ranged weapons.
 
-**Properties**{ .inl } A Mastery property is only eligible to weapons that has specific Weapon properties, or sometimes the weapon itself must have no Properties. -->
+**Properties**{.inl} A Mastery property is only eligible to weapons that has specific Weapon properties, or sometimes the weapon itself must have no Properties. -->
 
 ## Homebrew Addition
 

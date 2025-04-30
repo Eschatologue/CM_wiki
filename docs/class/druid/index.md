@@ -148,21 +148,21 @@ You can use Druidic to leave hidden messages. You and others who know Druidic au
 
 You have dedicated yourself to one of the following sacred roles of your choice.
 
-**Magician**{ .inl } You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
+**Magician**{.inl} You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
 { .idnt }
 
-**Warden**{ .inl } Trained for battle, you gain proficiency with Martial weapons and training with Medium armour.
+**Warden**{.inl} Trained for battle, you gain proficiency with Martial weapons and training with Medium armour.
 { .idnt }
 
 ### Level 2: Wild Shape
 
 The power of nature allows you to assume the form of an animal. As a **:rsc-b: Bonus Action**{ .rsc }, you shape-shift into a Beast form that you have learned for this feature (see “Known Forms” below). You stay in that form for a number of hours equal to half your Druid level or until you use **:material-paw: Wild Shape** again, have the Incapacitated condition, or die. You can also leave the form early as a  **:rsc-b: Bonus Action**{ .rsc }.
 
-**Number of Uses**{ .inl } You can use **:material-paw: Wild Shape** twice. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+**Number of Uses**{.inl} You can use **:material-paw: Wild Shape** twice. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 You gain additional uses when you reach certain Druid levels, as shown in the **:material-paw: Wild Shape** column of the Druid Features table.
 
-**Known Forms**{ .inl } You know **four** Beast forms for this feature, chosen from among Beast stat blocks that have a maximum Challenge Rating of `1/4` and that lack a Fly Speed (see appendix B for stat block options). The Rat, Riding Horse, Spider, and Wolf are recommended. Whenever you finish a **:rest-long: Long Rest**, you can replace one of your known forms with another eligible form.
+**Known Forms**{.inl} You know **four** Beast forms for this feature, chosen from among Beast stat blocks that have a maximum Challenge Rating of `1/4` and that lack a Fly Speed (see appendix B for stat block options). The Rat, Riding Horse, Spider, and Wolf are recommended. Whenever you finish a **:rest-long: Long Rest**, you can replace one of your known forms with another eligible form.
 
 When you reach certain Druid levels, your number of known forms and the maximum Challenge Rating for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.
 
@@ -180,16 +180,16 @@ When choosing known forms, you may look in the Monster Manual or elsewhere for e
 
 While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
-**Temporary Hit Points**{ .inl } When you assume a **:material-paw: Wild Shape** form, you gain a number of **:trt-thp: Temporary Hit Points** equal to your Druid level.
+**Temporary Hit Points**{.inl} When you assume a **:material-paw: Wild Shape** form, you gain a number of **:trt-thp: Temporary Hit Points** equal to your Druid level.
 { .indt }
 
-**Game Statistics**{ .inl } Your game statistics are replaced by the Beast's stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.
+**Game Statistics**{.inl} Your game statistics are replaced by the Beast's stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.
 { .indt }
 
-**No Spellcasting**{ .inl } You can't cast spells, but shape-shifting doesn't break your Concentration or otherwise interfere with a spell you've already cast.
+**No Spellcasting**{.inl} You can't cast spells, but shape-shifting doesn't break your Concentration or otherwise interfere with a spell you've already cast.
 { .indt }
 
-**Objects**{ .inl } Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you're in that form.
+**Objects**{.inl} Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you're in that form.
 { .indt }
 
 ### Level 2: Wild Companion
@@ -216,17 +216,17 @@ In addition, you can expend one use of **:material-paw: Wild Shape** (no action 
 
 The might of the elements flows through you. You gain one of the following options of your choice.
 
-**Potent Spellcasting**{ .inl } Add your Wisdom modifier to the damage you deal with any Druid cantrip.
+**Potent Spellcasting**{.inl} Add your Wisdom modifier to the damage you deal with any Druid cantrip.
 
-**Primal Strike**{ .inl } Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form's attack in **:material-paw: Wild Shape**, you can cause the target to take an extra `1d8` **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn }, or **:dmg-thun: Thunder**{ .dmg-thun } damage (choose when you hit).
+**Primal Strike**{.inl} Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form's attack in **:material-paw: Wild Shape**, you can cause the target to take an extra `1d8` **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn }, or **:dmg-thun: Thunder**{ .dmg-thun } damage (choose when you hit).
 
 ### Level 15: Improved Elemental Fury
 
 The option you chose for Elemental Fury grows more powerful, as detailed below.
 
-**Potent Spellcasting**{ .inl } When you cast a Druid cantrip with a range of 10 feet or greater, the spell's range increases by 300 feet.
+**Potent Spellcasting**{.inl} When you cast a Druid cantrip with a range of 10 feet or greater, the spell's range increases by 300 feet.
 
-**Primal Strike**{ .inl } The extra damage of your Primal Strike increases to `2d8`.
+**Primal Strike**{.inl} The extra damage of your Primal Strike increases to `2d8`.
 
 ### Level 18: Beast Spells
 
@@ -240,11 +240,11 @@ You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat 
 
 The vitality of nature constantly blooms within you, granting you the following benefits.
 
-**Evergreen Wild Shape**{ .inl } Whenever you roll **:d20-inv: Initiative**{ .d20 } and have no uses of **:material-paw: Wild Shape** left, you regain one expended use of it.
+**Evergreen Wild Shape**{.inl} Whenever you roll **:d20-inv: Initiative**{ .d20 } and have no uses of **:material-paw: Wild Shape** left, you regain one expended use of it.
 
-**Nature Magician**{ .inl } You can convert uses of **:material-paw: Wild Shape** into a spell slot (no action required). Choose a number of your unexpended uses of **:material-paw: Wild Shape** and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of **:material-paw: Wild Shape**, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a **:rest-long: Long Rest**.
+**Nature Magician**{.inl} You can convert uses of **:material-paw: Wild Shape** into a spell slot (no action required). Choose a number of your unexpended uses of **:material-paw: Wild Shape** and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of **:material-paw: Wild Shape**, you produce a level 4 spell slot. Once you use this benefit, you can't do so again until you finish a **:rest-long: Long Rest**.
 
-**Longevity**{ .inl } The primal magic that you wield causes you to age more slowly. For every ten years that pass, your body ages only one year.
+**Longevity**{.inl} The primal magic that you wield causes you to age more slowly. For every ten years that pass, your body ages only one year.
 
 --8<-- "includes/snippets/skills.md"
 

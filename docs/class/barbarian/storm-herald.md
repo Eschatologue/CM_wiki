@@ -20,26 +20,26 @@ Whenever you activate your **:ui-rage: Rage**{ .em }, an Aura of storm whips aro
 
 If an effect requires a Saving Throw. its **DC** is equals **8 plus Proficiency Bonus plus Constitution modifier**.
 
-**Dessert**{ .inl } When the Aura moves to a creature's space and when the creature enters the Aura or ends its turn there, it takes **(Rage Damage) :dmg-fire: Fire**{ .dmg-fire } damage. A creature can take this damage only once per turn.
+**Dessert**{.inl} When the Aura moves to a creature's space and when the creature enters the Aura or ends its turn there, it takes **(Rage Damage) :dmg-fire: Fire**{ .dmg-fire } damage. A creature can take this damage only once per turn.
 { .indt }
 
-**Sea**{ .inl } Creatures of your choice that starts its turn within the Aura has its **:rsc-spd: Speed** halved until the start of its next turn.
+**Sea**{.inl} Creatures of your choice that starts its turn within the Aura has its **:rsc-spd: Speed** halved until the start of its next turn.
 { .indt }
 
-**Tundra**{ .inl } Creatures of your choice that starts its turn in the Aura gains **:trt-thp: Temporary Hit Points** equals to your **Rage Damage**.
+**Tundra**{.inl} Creatures of your choice that starts its turn in the Aura gains **:trt-thp: Temporary Hit Points** equals to your **Rage Damage**.
 { .indt }
 
 ### Level 6: Storm Soul
 
 The storm grants you benefits even when your Storm Aura isn't active. You gain one of the following options of your choice. Whenever you finish a **:rest-short: Short** or **:rest-long: Long Rest**, you can change your choice.
 
-**Dessert**{ .inl } You gain **:dmg-res: Resistance** to **:dmg-fire: Fire**{ .dmg-fire } damage. You also know the [:spell-lv0: Produce Flame] cantrip and can cast it even when **:ui-rage: Rage**{ .nowrap } is active. Constitution is your spellcasting ability.
+**Dessert**{.inl} You gain **:dmg-res: Resistance** to **:dmg-fire: Fire**{ .dmg-fire } damage. You also know the [:spell-lv0: Produce Flame] cantrip and can cast it even when **:ui-rage: Rage**{ .nowrap } is active. Constitution is your spellcasting ability.
 { .indt }
 
-**Sea**{ .inl } You gain **:dmg-res: Resistance** to **:dmg-lgtn: Lightning**{ .dmg-lgtn } and  **:dmg-thun: Thunder**{ .dmg-thun } damage. You also gain Swim Speed equal to your **:rsc-spd: Speed** and can breathe underwater.
+**Sea**{.inl} You gain **:dmg-res: Resistance** to **:dmg-lgtn: Lightning**{ .dmg-lgtn } and  **:dmg-thun: Thunder**{ .dmg-thun } damage. You also gain Swim Speed equal to your **:rsc-spd: Speed** and can breathe underwater.
 { .indt }
 
-**Tundra**{ .inl } You gain **:dmg-res: Resistance** to **:dmg-cold: Cold**{ .dmg-cold } damage. You also know the [:spell-lv0: Shape Water] cantrip and can cast it even when **:ui-rage: Rage**{ .nowrap } is active. Constitution is your spellcasting ability.
+**Tundra**{.inl} You gain **:dmg-res: Resistance** to **:dmg-cold: Cold**{ .dmg-cold } damage. You also know the [:spell-lv0: Shape Water] cantrip and can cast it even when **:ui-rage: Rage**{ .nowrap } is active. Constitution is your spellcasting ability.
 { .indt }
 
 ### Level 10: Shielding Storm
@@ -50,11 +50,11 @@ You learn to use your mastery of the storm to protect others. Each creature of y
 
 The power of your Storm Aura grows mightier, lashing out at your foes.
 
-**Desert**{ .inl } Immediately after a creature within the *Aura* hits you with an attack, you can take a **:rsc-r: Reaction**{ .rsc } to force that creature to make a **:d20-save: DEX Save**{ .d20 }. On a failed save, the creature takes **(Barbarian level) :dmg-fire: Fire**{ .dmg-fire } damage.
+**Desert**{.inl} Immediately after a creature within the *Aura* hits you with an attack, you can take a **:rsc-r: Reaction**{ .rsc } to force that creature to make a **:d20-save: DEX Save**{ .d20 }. On a failed save, the creature takes **(Barbarian level) :dmg-fire: Fire**{ .dmg-fire } damage.
 
-**Sea**{ .inl } When you hit a creature within the Aura with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force that creature to make a **:d20-save: STR Save**{ .d20 }. On a failed save, the creature has the **Prone**{ .cond } condition.
+**Sea**{.inl} When you hit a creature within the Aura with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force that creature to make a **:d20-save: STR Save**{ .d20 }. On a failed save, the creature has the **Prone**{ .cond } condition.
 
-**Tundra**{ .inl } Whenever you activate the effect of your Storm Aura, you choose one creature you can see within the Aura. That creature must succeed on a **:d20-save: STR Save**{ .d20 }, or has its **:rsc-spd: Speed** reduced to 0 until the start of your next turn.
+**Tundra**{.inl} Whenever you activate the effect of your Storm Aura, you choose one creature you can see within the Aura. That creature must succeed on a **:d20-save: STR Save**{ .d20 }, or has its **:rsc-spd: Speed** reduced to 0 until the start of your next turn.
 
 :material-book-arrow-up: Updated by *Eschatologue* 
 { .author }

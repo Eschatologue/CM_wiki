@@ -40,9 +40,9 @@ Divine power guards your destiny. If you fail a D20 Test, you can roll 2d4 and a
 
 Whenever you cast a spell that restores Hit Points to a creature, you can modify that spell in one of the following ways:
 
-**Empowered Healing**{ .inl } You can add your Charisma modifier to one of the spell's healing rolls.
+**Empowered Healing**{.inl} You can add your Charisma modifier to one of the spell's healing rolls.
 
-**Discounted Metamagic**{ .inl } You can reduce the cost of one of your Metamagic options on that spell by 1 Sorcery Point.
+**Discounted Metamagic**{.inl} You can reduce the cost of one of your Metamagic options on that spell by 1 Sorcery Point.
 
 ### Level 14: Otherworldly Wings
 

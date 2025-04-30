@@ -54,13 +54,13 @@ The Bait table outlines commonly available baits for purchase at most establishm
 
 #### Additional Description
 
-**Arcane Bait**{ .inl } This bait gives you one additional reroll when rolling for fishing. Moreover, after calculating your Overall Score, you can select a biome—Freshwater, Saltwater, Tundra, or Abyssal—for determining your loot.
+**Arcane Bait**{.inl} This bait gives you one additional reroll when rolling for fishing. Moreover, after calculating your Overall Score, you can select a biome—Freshwater, Saltwater, Tundra, or Abyssal—for determining your loot.
 
-**Gambler's Bait**{ .inl } This bait gives you one additional reroll when rolling for fishing. Moreover, before fishing, select a Special Result from the Special Result Table. If your roll achieves the chosen Special Result, you gain triple the usual loot. However, if you fail to achieve the chosen Special Result, you gain nothing.
+**Gambler's Bait**{.inl} This bait gives you one additional reroll when rolling for fishing. Moreover, before fishing, select a Special Result from the Special Result Table. If your roll achieves the chosen Special Result, you gain triple the usual loot. However, if you fail to achieve the chosen Special Result, you gain nothing.
 
-**Target Bait**{ .inl } This bait gives you one additional reroll when rolling for fishing. Moreover, after calculating your Overall Score, you can select loot up to two rows below your current result on the Loot Table.
+**Target Bait**{.inl} This bait gives you one additional reroll when rolling for fishing. Moreover, after calculating your Overall Score, you can select loot up to two rows below your current result on the Loot Table.
 
-**Wild Bait**{ .inl } This bait gives you one additional reroll when rolling for fishing. Moreover, after calculating your Overall Score, you gain an additional loot result, equal to your Overall Score minus 30.
+**Wild Bait**{.inl} This bait gives you one additional reroll when rolling for fishing. Moreover, after calculating your Overall Score, you gain an additional loot result, equal to your Overall Score minus 30.
 
 ### Tackle
 
@@ -84,9 +84,9 @@ Tackles enhance the functionality of your fishing rod. While baits improve the *
 
 The Fishing Rods table below lists various fishing rods along with their associated costs and features. Each rod includes the following details:  
 
-**Bait Slot**{ .inl } A fishing rod can be equipped with bait to attract fish. Some baits provide flat bonuses, while others may increase the number of fish caught.  
+**Bait Slot**{.inl} A fishing rod can be equipped with bait to attract fish. Some baits provide flat bonuses, while others may increase the number of fish caught.  
 
-**Tackle Slot**{ .inl } A fishing rod can be equipped with specific tackles to modify its functionality.  
+**Tackle Slot**{.inl} A fishing rod can be equipped with specific tackles to modify its functionality.  
 
 ##### Fishing Rods  
 

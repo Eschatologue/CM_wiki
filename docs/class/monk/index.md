@@ -114,11 +114,11 @@ Your practice of martial arts gives you mastery of combat styles that use your *
 
 You gain the following benefits while you are unarmed or wielding only **Monk weapons** and you aren't wearing armour or wielding a Shield.
 
-**Bonus Unarmed Strike**{ .inl } You can make an **:rsc-a: Unarmed Strike**{ .rsc } as a **:rsc-b: Bonus Action**{ .rsc }.
+**Bonus Unarmed Strike**{.inl} You can make an **:rsc-a: Unarmed Strike**{ .rsc } as a **:rsc-b: Bonus Action**{ .rsc }.
 
-**Martial Arts Die**{ .inl } You can roll 1d6 in place of the normal damage of your **:rsc-a: Unarmed Strike**{ .rsc } or **Monk weapons**. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
+**Martial Arts Die**{.inl} You can roll 1d6 in place of the normal damage of your **:rsc-a: Unarmed Strike**{ .rsc } or **Monk weapons**. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
 
-**Dexterous Attacks**{ .inl } You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your **:rsc-a: Unarmed Strike**{ .rsc } and **Monk weapons**. In addition, when you use the Grapple or Shove option of your **:rsc-a: Unarmed Strike**{ .rsc } , you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
+**Dexterous Attacks**{.inl} You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your **:rsc-a: Unarmed Strike**{ .rsc } and **Monk weapons**. In addition, when you use the Grapple or Shove option of your **:rsc-a: Unarmed Strike**{ .rsc } , you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
 
 ### Level 1: Unarmoured Defense
 
@@ -200,11 +200,11 @@ While you aren't wearing armour or wielding a Shield, you gain the ability to mo
 
 Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following benefits.
 
-**Flurry of Blows**{ .inl } You can expend **1 :class-phb24-monk: Focus Point(s)** to use [Flurry of Blows](#flurry-of-blows) and make three **:rsc-a: Unarmed Strike**{ .rsc } with it instead of two.
+**Flurry of Blows**{.inl} You can expend **1 :class-phb24-monk: Focus Point(s)** to use [Flurry of Blows](#flurry-of-blows) and make three **:rsc-a: Unarmed Strike**{ .rsc } with it instead of two.
 
-**Patient Defense**{ .inl } When you expend a **:class-phb24-monk: Focus Point(s)** to use [Patient Defense](#patient-defense), you gain a number of **:trt-thp: Temporary Hit Points** equal to two rolls of your Martial Arts die.
+**Patient Defense**{.inl} When you expend a **:class-phb24-monk: Focus Point(s)** to use [Patient Defense](#patient-defense), you gain a number of **:trt-thp: Temporary Hit Points** equal to two rolls of your Martial Arts die.
 
-**Step of the Wind**{ .inl } When you expend a **:class-phb24-monk: Focus Point(s)** to use [Step of the Wind](#step-of-the-wind), you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's Movement doesn't provoke Opportunity Attacks.
+**Step of the Wind**{.inl} When you expend a **:class-phb24-monk: Focus Point(s)** to use [Step of the Wind](#step-of-the-wind), you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's Movement doesn't provoke Opportunity Attacks.
 
 ### Level 10: Self-Restoration
 

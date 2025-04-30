@@ -33,9 +33,9 @@ Your training to hunt monsters ensures you always have certain spells ready; whe
 
 Your [:spell-lv1: Hunter's Mark] spell improves in the following ways:
 
-**Slayer's Strike**{ .inl } Once per turn when you deal the extra damage of your Hunter's Mark, the damage increases by 1d6.
+**Slayer's Strike**{.inl} Once per turn when you deal the extra damage of your Hunter's Mark, the damage increases by 1d6.
 
-**Hunter's Sense**{ .inl } When you mark a creature, you immediately learn whether it has any damage **:dmg-imm: Immunity**, **:dmg-res: Resistance**, or **:dmg-vul: Vulnerability** and what they are. If the creature is hidden from Divination magic, you sense that it has none of the aforementioned.
+**Hunter's Sense**{.inl} When you mark a creature, you immediately learn whether it has any damage **:dmg-imm: Immunity**, **:dmg-res: Resistance**, or **:dmg-vul: Vulnerability** and what they are. If the creature is hidden from Divination magic, you sense that it has none of the aforementioned.
 
 ### Level 3: Slayer's Cunning
 
@@ -51,9 +51,9 @@ Whenever the target of your [:spell-lv1: Hunter's Mark] forces you to make an ab
 
 Your [:spell-lv1: Hunter's Mark] spell improves in the following ways:
 
-**Bypass**{ .inl } Your Weapon attack and **:rsc-a: Unarmed Strike**{ .rsc } against the spell's target ignores the target's **:dmg-res: Resistance**, and **:dmg-imm: Immunity** is treated as **:dmg-res: Resistance**.
+**Bypass**{.inl} Your Weapon attack and **:rsc-a: Unarmed Strike**{ .rsc } against the spell's target ignores the target's **:dmg-res: Resistance**, and **:dmg-imm: Immunity** is treated as **:dmg-res: Resistance**.
 
-**Slayer's Strike Improvement**{ .inl } The extra damage of your Slayer's Strike increases to 2d6.
+**Slayer's Strike Improvement**{.inl} The extra damage of your Slayer's Strike increases to 2d6.
 
 ### Level 15: Slayer's Counter
 

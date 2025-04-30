@@ -115,7 +115,7 @@ Your journey are full of experience.
 ###### Tales from Adventure  
 You gain two [:option-feat-general: General Feats] of your choice. You can't benefit from a Feat's feature that grants increase to ability scores (e.g [Ability Score Improvement](./feat-general/phb24.md#abl-scores-improvement)). All other rules related to gaining Feats still apply. Replacing this Feat will forgo all the General Feats gained from this Feat.
 
-**Repeatable**{ .inl } You can take this feat more than once. Choose another two eligible [:option-feat-general: General Feats] each time. All other rules related to gaining Feats still apply. 
+**Repeatable**{.inl} You can take this feat more than once. Choose another two eligible [:option-feat-general: General Feats] each time. All other rules related to gaining Feats still apply. 
 
 [:option-feat-general: General Feats]: ../feat/feat-general/index.md
 
@@ -149,7 +149,7 @@ You focus further into the unique strengths of your archetype.
 ###### Extra Subclass  
 You gain one level 3 subclass feature from a different subclass within your current class that has this Feat.
 
-**Repeatable**{ .inl } You can take this feat multiple times. Each time, select either a new level 3 subclass feature from a different subclass or an additional feature from the same subclass, provided your level qualifies for that feature.
+**Repeatable**{.inl} You can take this feat multiple times. Each time, select either a new level 3 subclass feature from a different subclass or an additional feature from the same subclass, provided your level qualifies for that feature.
 
 ---
 
@@ -206,7 +206,7 @@ You learn how to channel divine power given by the divine.
 ###### Channel Divinity  
 Choose one Channel Divinity option from a Cleric or Paladin subclass. You can use this Channel Divinity once per **:rest-short: Short Rest** and it uses your Intelligence, Wisdom, or Charisma (choose one) modifier for it.
 
-**Repeatable**{ .inl } Pick a different Channel Divinity option from a different Cleric or Paladin domain each time.
+**Repeatable**{.inl} Pick a different Channel Divinity option from a different Cleric or Paladin domain each time.
 
 ---
 

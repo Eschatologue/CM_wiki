@@ -19,13 +19,13 @@ Your patron grants you gifts to aid your journey, bestowing the following benefi
 
 #### Draconic Spark { .hide }
 
-**Draconic Spark**{ .inl } Your patron imbues you with a fragment of its elemental power. Choose one of the following damage types: **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-posn: Poison**{ .dmg-posn }. You can change this choice when you finish a **:rest-long: Long Rest**. This choice will affects multiple features in this subclass.
+**Draconic Spark**{.inl} Your patron imbues you with a fragment of its elemental power. Choose one of the following damage types: **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-posn: Poison**{ .dmg-posn }. You can change this choice when you finish a **:rest-long: Long Rest**. This choice will affects multiple features in this subclass.
 { .indt }
 
-**Draconic Transmutation**{ .inl } Whenever you deal damage using a Warlock spell or a Warlock feature, you can change its damage type to that of your [Draconic Spark].
+**Draconic Transmutation**{.inl} Whenever you deal damage using a Warlock spell or a Warlock feature, you can change its damage type to that of your [Draconic Spark].
 { .indt }
 
-**Draconic Language**{ .inl } Your patron imbues you with its wisdom. You know the *Draconic* language.
+**Draconic Language**{.inl} Your patron imbues you with its wisdom. You know the *Draconic* language.
 { .indt }
 
 ### Level 3: Draconic Spells

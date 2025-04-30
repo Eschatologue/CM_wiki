@@ -51,11 +51,11 @@ You’ve learned how to chastise anyone who dares wield beguilements against you
 
 You manifest a spark of divine power in defense of the mortal realms. As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 10 minutes:
 
-**Truesight**{ .inl } You gain Truesight with a range of 120 feet.
+**Truesight**{.inl} You gain Truesight with a range of 120 feet.
 
-**Invader’s Bane**{ .inl } You have **:d20-adv: Advantage**{ .d20 } on attack rolls against Aberrations, Celestials, Elementals, Fey, and Fiends.
+**Invader’s Bane**{.inl} You have **:d20-adv: Advantage**{ .d20 } on attack rolls against Aberrations, Celestials, Elementals, Fey, and Fiends.
 
-***Extraplanar Banishment***. When you hit a creature with an attack roll and deal damage to it, you can also force it to make a Charisma saving throw against your spell save DC. On a failed save, the creature is magically banished to its native plane of existence if it’s currently not there. On a successful save, the creature can’t be banished by this feature for 24 hours.
+**Extraplanar Banishment**{.inl}  When you hit a creature with an attack roll and deal damage to it, you can also force it to make a Charisma saving throw against your spell save DC. On a failed save, the creature is magically banished to its native plane of existence if it’s currently not there. On a successful save, the creature can’t be banished by this feature for 24 hours.
 
 Once you use this **:rsc-b: Bonus Action**{ .rsc }, you can’t use it again until you finish a **:rest-long: Long Rest**, unless you expend a level 5 spell slot to use it again.
 

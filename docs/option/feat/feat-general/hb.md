@@ -82,7 +82,7 @@ You sacrifice accurary to land more powerful hits. Before you make a melee attac
 ###### Hew  
 Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a **:rsc-b: Bonus Action**{ .rsc }.
 
-**Alternate Version**{ .inl } You can't take this feat if you already has [:option-feat-general: Great Weapon Master](phb24.md#great-weapon-master) feat
+**Alternate Version**{.inl} You can't take this feat if you already has [:option-feat-general: Great Weapon Master](phb24.md#great-weapon-master) feat
 
 ---
 
@@ -197,7 +197,7 @@ Increase one Ability Score of your choice by 1, to a maximum of 20.
 
 You gain two ^^different^^ [:option-feat-origin: Origin Feats] of your choice, all other rules related to gaining Feats still apply. Replacing this Feat will forgo all the [:option-feat-origin: Origin Feats] gained from this Feat.
 
-**Repeatable**{ .inl } You can take this feat more than once. Choose another two eligible Origin Feats each time. All other rules related to gaining Feats still apply.
+**Repeatable**{.inl} You can take this feat more than once. Choose another two eligible Origin Feats each time. All other rules related to gaining Feats still apply.
 
 [:option-feat-origin: Origin Feats]: ../feat-origin/index.md
 
@@ -221,7 +221,7 @@ The number you need to roll for Critical Hit with spells is reduced by 1. This e
 ###### One Cantrip
 You learn one cantris of your choice that deals damage and has a range of 10+ feet from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat)
 
-**Alternate Version**{ .inl } You can't take this feat if you already has [:option-feat-general: Spell Sniper](phb24.md#spell-sniper) feat
+**Alternate Version**{.inl} You can't take this feat if you already has [:option-feat-general: Spell Sniper](phb24.md#spell-sniper) feat
 
 ---
 

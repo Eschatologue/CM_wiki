@@ -97,7 +97,7 @@ Choose a level 1 spell from the same list you selected for this feat's cantrips.
 ###### Spell Change  
 Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
 
-**Repeatable**{ .inl } You can take this feat more than once, but you must choose a different spell list each time.
+**Repeatable**{.inl} You can take this feat more than once, but you must choose a different spell list each time.
 
 ---
 
@@ -129,7 +129,7 @@ You've trained to deal particularly damaging strikes. Once per turn when you hit
 
 You gain proficiency in any combination of three skills or tools of your choice.
 
-**Repeatable**{ .inl }  You can take this feat more than once.
+**Repeatable**{.inl}  You can take this feat more than once.
 
 ---
 

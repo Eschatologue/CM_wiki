@@ -36,9 +36,9 @@ You have an arcane storm whirling through your body. Immediately before or after
 
 You are overflowing with storming energy. You gain the following benefits.
 
-**Lightning Rod**{ .inl } You have **:dmg-res: Resistance** to **:dmg-lgtn: Lightning**{ .dmg-lgtn } and **:dmg-thun: Thunder**{ .dmg-thun } damage.
+**Lightning Rod**{.inl} You have **:dmg-res: Resistance** to **:dmg-lgtn: Lightning**{ .dmg-lgtn } and **:dmg-thun: Thunder**{ .dmg-thun } damage.
 
-**Potent Storm**{ .inl } Whenever you deal **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } damage with a Sorcerer spell that requires you to make an attack roll, you can cause a small storm to erupt. Each creature within 20 feet of your target takes **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } equals to half of your Sorcerer level respectively.
+**Potent Storm**{.inl} Whenever you deal **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } damage with a Sorcerer spell that requires you to make an attack roll, you can cause a small storm to erupt. Each creature within 20 feet of your target takes **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } equals to half of your Sorcerer level respectively.
 
 ### Level 6: Storm Transmutation
 
@@ -52,9 +52,9 @@ When you are hit by a Melee attack, the attacker takes **:dmg-lgtn: Lightning**{
 
 The storm inside of you becomes more powerful.
 
-**One with the Storm**{ .inl } You have **:dmg-imm: Immunity** to **:dmg-lgtn: Lightning**{ .dmg-lgtn } and **:dmg-thun: Thunder**{ .dmg-thun } damage and you have a Fly Speed of 60 feet.
+**One with the Storm**{.inl} You have **:dmg-imm: Immunity** to **:dmg-lgtn: Lightning**{ .dmg-lgtn } and **:dmg-thun: Thunder**{ .dmg-thun } damage and you have a Fly Speed of 60 feet.
 
-**Blessing of the Tempest**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can reduce your Fly Speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a Fly Speed of 30 feet for 1 hour. Once you use this feature, you can’t use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
+**Blessing of the Tempest**{.inl} As a **:rsc-a: Magic**{ .rsc } action, you can reduce your Fly Speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a Fly Speed of 30 feet for 1 hour. Once you use this feature, you can’t use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

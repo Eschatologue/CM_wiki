@@ -38,9 +38,9 @@ Once you use this feature, you can't use it again until you finish a **:rest-lon
 
 When you activate tyour **:ui-rage: Rage**{ .em }, you can assume the form of a divine warrior. This form lasts for 1 minute or until you drop to 0 Hit Points. Once you use this feature, you can't do so again until you finish a **:rest-long: Long Rest**.
 
-**Fly Speed**{ .inl } You have a Fly Speed equal to your **:rsc-spd: Speed**{ .em } and can hover.
+**Fly Speed**{.inl} You have a Fly Speed equal to your **:rsc-spd: Speed**{ .em } and can hover.
 
-**Resistance**{ .inl } You have **:dmg-res: Resistance**{ .em } to **:dmg-necr: Necrotic**{ .dmg-necr }, **:dmg-psyc: Psychic**{ .dmg-psyc } and **:dmg-radi: Radiant**{ .dmg-radi } damage
+**Resistance**{.inl} You have **:dmg-res: Resistance**{ .em } to **:dmg-necr: Necrotic**{ .dmg-necr }, **:dmg-psyc: Psychic**{ .dmg-psyc } and **:dmg-radi: Radiant**{ .dmg-radi } damage
 
-**Revification**{ .inl } When a creature within 30 feet of you would drop to 0 Hit Points, you can take a **:rsc-r: Reaction**{ .rsc } to expend a use of your **:ui-rage: Rage**{ .em } to instead change the target's hit point to a number equal to your Barbarian level.
+**Revification**{.inl} When a creature within 30 feet of you would drop to 0 Hit Points, you can take a **:rsc-r: Reaction**{ .rsc } to expend a use of your **:ui-rage: Rage**{ .em } to instead change the target's hit point to a number equal to your Barbarian level.
 

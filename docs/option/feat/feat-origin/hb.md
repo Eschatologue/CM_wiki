@@ -69,7 +69,7 @@ You have studied occult lore and perhaps, forbidden knowledge.
 ###### Occultist  
 You learn one Eldritch Invocation option of your choice from the Warlock class. If the invocation has a prerequisite of any kind, you can choose that invocation only if you're a Warlock who meets the prerequisite. Whenever you gain a level, you can replace the invocation with another one from the Warlock class.
 
-**Repeatable**{ .inl } You can take this Origin feat multiple times, all other [rules](../../../class/warlock/index.md#level-1-eldritch-invocations) of choosing an Invocations still applies.
+**Repeatable**{.inl} You can take this Origin feat multiple times, all other [rules](../../../class/warlock/index.md#level-1-eldritch-invocations) of choosing an Invocations still applies.
 
 ---
 
@@ -82,7 +82,7 @@ You learn how to fight in your early days.
 ###### Martial Training  
 You gain one Fighting Style Feat of your choice from the [Fighting Style Feats](../feat-fighting-style/index.md), the one you choose must be different from one that you already have. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace this feat's fighting style with another one which you don't have.
 
-**Repeatable**{ .inl } Choose a different Fighting Style Feat each time.
+**Repeatable**{.inl} Choose a different Fighting Style Feat each time.
 
 ---
 
@@ -171,7 +171,7 @@ Though you might not be a Ranger, your past experiences with them teaches you im
 ###### Ranger's Knacks  
 You learn one Ranger's Aptitude option of your choice from the Ranger class. If the aptitude has a prerequisite of any kind, you can choose that aptitude only if you're a Ranger who meets the prerequisite. Whenever you gain a level, you can replace the invocation with another one from the Ranger class.
 
-**Repeatable**{ .inl } You can take this Origin feat multiple times, all other [rules](../../../class/ranger/index.md#level-1-rangers-aptitude) of choosing an Aptitude still applies.
+**Repeatable**{.inl} You can take this Origin feat multiple times, all other [rules](../../../class/ranger/index.md#level-1-rangers-aptitude) of choosing an Aptitude still applies.
 
 ---
 

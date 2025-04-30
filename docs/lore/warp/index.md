@@ -33,5 +33,5 @@ Not only the environment, hapless mortals can also be influenced and corrupted b
 - **Black Blood:** Black liquid, similar in consistency to the black rain, oozing from their bodies.
 - **Walking Dead:** Mangled and literally walking corpses that lunge at anything, paired with extreme convulsions and terrifying speed.
 - **Featureless Face:** Any facial features replaced with a black hole that absorbs light from electronic or electrical devices, such as flashlights or electric lanterns. Flares, torches, and light from spells or magical means work fine.
-- **Fused Bodies:**{ .inl } Multiple mortals can fuse together, forming grotesque and nightmarish creatures, often larger and more dangerous than their individual components.
+- **Fused Bodies:**{.inl} Multiple mortals can fuse together, forming grotesque and nightmarish creatures, often larger and more dangerous than their individual components.
 - **Crystaline Growth:** Rapid crystalline growth on the body, both externally and internally, killing the affected almost instantly.

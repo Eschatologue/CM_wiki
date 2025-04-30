@@ -37,11 +37,11 @@ You enter a state of heightened focus when you **:ui-rage: Rage**{ .em }. While 
 
 When you activate your **:ui-rage: Rage**{ .em }, you can choose one of the following benefits:
 
-**Restoration**{ .inl } You regain one of your expended Superiority Dice.
+**Restoration**{.inl} You regain one of your expended Superiority Dice.
   
-**Temporary Hit Points**{ .inl } You gain a number of **:trt-thp: Temporary Hit Points** equal to one roll of your Superiority Die.
+**Temporary Hit Points**{.inl} You gain a number of **:trt-thp: Temporary Hit Points** equal to one roll of your Superiority Die.
  
-**Improved Speed**{ .inl } Opportunity Attack against you have **:d20-dis: Disadvantage**{ .d20 } and your **:rsc-spd: Speed**{ .em } is doubled for your current turn.
+**Improved Speed**{.inl} Opportunity Attack against you have **:d20-dis: Disadvantage**{ .d20 } and your **:rsc-spd: Speed**{ .em } is doubled for your current turn.
 
 ### Level 6: Improved Superiority
 
@@ -51,9 +51,9 @@ You gain one additional Superiority Die (Four total) and all your Superiority Di
 
 Your seething fury is unstopable. You gain the following benefits:
 
-**Freedom of Movement**{ .inl } While your **:ui-rage: Rage**{ .em } is active, your Movement is unaffected by Difficult Terrain and Your **:rsc-spd: Speed**{ .em } can't be reduced by spells or other magical effects. You also have **:dmg-imm: Immunity** to **Paralyzed**{ .cond } and **Restrained**{ .cond } condition while your **:ui-rage: Rage**{ .em } is active.
+**Freedom of Movement**{.inl} While your **:ui-rage: Rage**{ .em } is active, your Movement is unaffected by Difficult Terrain and Your **:rsc-spd: Speed**{ .em } can't be reduced by spells or other magical effects. You also have **:dmg-imm: Immunity** to **Paralyzed**{ .cond } and **Restrained**{ .cond } condition while your **:ui-rage: Rage**{ .em } is active.
 
-**More Manoeuvre**{ .inl } You learn one additional Combat Manoeuvre of your choice.
+**More Manoeuvre**{.inl} You learn one additional Combat Manoeuvre of your choice.
 
 ### Level 14: Flurry of Steel
 

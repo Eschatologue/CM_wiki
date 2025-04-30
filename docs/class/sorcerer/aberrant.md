@@ -43,13 +43,13 @@ You gain **:dmg-res: Resistance** to **:dmg-psyc: Psychic**{ .dmg-psyc } damage,
 
 You can unleash the aberrant truth hidden within yourself. As a **:rsc-b: Bonus Action**{ .rsc }, you can spend 1 or more Sorcery Points to magically transform your body for 10 minutes. For each Sorcery Point you spend, you can gain one of the following benefits of your choice, the effects of which last until the transformation ends:
 
-**Aquatic Adaptation**{ .inl } You gain a Swim Speed equal to twice your Speed, and you can breathe underwater. Moreover, gills grow from your neck or fan out from behind your ears, your fingers become webbed, or you grow writhing cilia that extend through your clothing.
+**Aquatic Adaptation**{.inl} You gain a Swim Speed equal to twice your Speed, and you can breathe underwater. Moreover, gills grow from your neck or fan out from behind your ears, your fingers become webbed, or you grow writhing cilia that extend through your clothing.
 
-**Glistening Flight**{ .inl }  You gain a Fly Speed equal to your **:rsc-spd: Speed**{ .em } and can hover. As you fly, your skin glistens with mucus or shines with an otherworldly light.
+**Glistening Flight**{.inl}  You gain a Fly Speed equal to your **:rsc-spd: Speed**{ .em } and can hover. As you fly, your skin glistens with mucus or shines with an otherworldly light.
 
-**See the Invisible**{ .inl } You can see any invisible creature within 60 feet of you, provided it isn't behind total cover. Your eyes also turn black or become writhing sensory tendrils.
+**See the Invisible**{.inl} You can see any invisible creature within 60 feet of you, provided it isn't behind total cover. Your eyes also turn black or become writhing sensory tendrils.
 
-**Wormlike Movement**{ .inl } Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch without squeezing, and you can spend 5 feet of Movement to escape from nonmagical restraints or the Grappled condition.
+**Wormlike Movement**{.inl} Your body, along with any equipment you are wearing or carrying, becomes slimy and pliable. You can move through any space as narrow as 1 inch without squeezing, and you can spend 5 feet of Movement to escape from nonmagical restraints or the Grappled condition.
 
 ### Level 18: Warping Implosion
 

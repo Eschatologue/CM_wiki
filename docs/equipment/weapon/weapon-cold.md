@@ -8,19 +8,19 @@ icon: wp/sword
 
 The Weapons tables in this section shows the game's main weapons. These table lists the cost and weight of each weapon, as well as the following details:
 
-**Category**{ .inl } Every weapon falls into a category: Simple or Martial. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Simple weapons.
+**Category**{.inl} Every weapon falls into a category: Simple or Martial. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Simple weapons.
 { .indt }
 
-**Melee or Ranged**{ .inl } A weapon is classified as either Melee or Ranged. A Melee weapon is used to attack a target within 5 feet, whereas a Ranged weapon is used to attack at a greater distance.
+**Melee or Ranged**{.inl} A weapon is classified as either Melee or Ranged. A Melee weapon is used to attack a target within 5 feet, whereas a Ranged weapon is used to attack at a greater distance.
 { .indt }
 
-**Damage**{ .inl } The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage.
+**Damage**{.inl} The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage.
 { .indt }
 
-**Properties**{ .inl } Any properties a weapon has are listed in the Properties column. Each property is defined in the [Properties](index.md#weapon-properties) section.
+**Properties**{.inl} Any properties a weapon has are listed in the Properties column. Each property is defined in the [Properties](index.md#weapon-properties) section.
 { .indt }
 
-**Mastery**{ .inl } Each weapon has a mastery property, which is defined in the [Mastery Properties](mastery.md) section. To use or replace that property, you must have a feature that lets you use it.
+**Mastery**{.inl} Each weapon has a mastery property, which is defined in the [Mastery Properties](mastery.md) section. To use or replace that property, you must have a feature that lets you use it.
 { .indt }
 
 ## Cold Weapon Table

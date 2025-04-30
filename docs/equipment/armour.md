@@ -8,13 +8,13 @@ search:
 
 The Armour table lists the game's main armour. The table includes the cost and weight of armour, as well as the following details:
 
-**Category**{ .inl } Every type of Armour falls into a category: Light, Medium, or Heavy. The category determines how long it takes to don or doff the armour (as shown in the table).
+**Category**{.inl} Every type of Armour falls into a category: Light, Medium, or Heavy. The category determines how long it takes to don or doff the armour (as shown in the table).
 
-**Armour Class (AC)**{ .inl } The table's Armour Class column tells you what your base AC is when you wear a type of armour. For example, if you wear Leather Armour, your base AC is 11 plus your Dexterity modifier, whereas your AC is 16 in Chain Mail.
+**Armour Class (AC)**{.inl} The table's Armour Class column tells you what your base AC is when you wear a type of armour. For example, if you wear Leather Armour, your base AC is 11 plus your Dexterity modifier, whereas your AC is 16 in Chain Mail.
 
-**Strength**{ .inl } If the table shows a Strength score in the Strength column for an armour type, that armour reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+**Strength**{.inl} If the table shows a Strength score in the Strength column for an armour type, that armour reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
 
-**Stealth**{ .inl } If the table shows “Disadvantage” or a :d20-dis: in the Stealth column for an armour type, the wearer has **:d20-dis: Disadvantage**{ .d20 } on Dexterity (Stealth) checks.
+**Stealth**{.inl} If the table shows “Disadvantage” or a :d20-dis: in the Stealth column for an armour type, the wearer has **:d20-dis: Disadvantage**{ .d20 } on Dexterity (Stealth) checks.
 
 ## Armour Table
 

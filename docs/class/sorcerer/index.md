@@ -148,9 +148,9 @@ You have 2 Sorcery Points, and you gain more as you reach higher levels, as show
 
 You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.
 
-**Converting Spell Slots to Sorcery Points**{ .inl } You can expend a spell slot to gain a number of Sorcery Points equal to the slot's level (no action required).
+**Converting Spell Slots to Sorcery Points**{.inl} You can expend a spell slot to gain a number of Sorcery Points equal to the slot's level (no action required).
 
-**Creating Spell Slots**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
+**Creating Spell Slots**{.inl} As a **:rsc-b: Bonus Action**{ .rsc }, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.
 
 Any spell slot you create with this feature vanishes when you finish a **:rest-long: Long Rest**.
 

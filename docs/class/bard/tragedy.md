@@ -49,13 +49,13 @@ You can't use this feature again until you finish a **:rest-short: Short** or **
 
 As an :rsc-a: Action, you can touch a willing creature and empower it with tragic heroism. For 1 minute, the creature is surrounded by mournful music and ghostly singing, granting it the following benefits and drawbacks:
 
-**Bonus AC**{ .inl } The creature has a +4 bonus to AC.
+**Bonus AC**{.inl} The creature has a +4 bonus to AC.
 
-**Attack and Save Advantage**{ .inl } It has **:d20-adv: Advantage**{ .d20 } on attack rolls and saving throws.
+**Attack and Save Advantage**{.inl} It has **:d20-adv: Advantage**{ .d20 } on attack rolls and saving throws.
 
-**Extra Damage**{ .inl } When the creature hits a target with an attack roll, that target takes an extra 1d10 radiant damage.
+**Extra Damage**{.inl} When the creature hits a target with an attack roll, that target takes an extra 1d10 radiant damage.
 
-**Critical Hit Vulnerability**{ .inl } The number needed to roll for a Critical Hit against the creature using weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } is reduced by 2.
+**Critical Hit Vulnerability**{.inl} The number needed to roll for a Critical Hit against the creature using weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } is reduced by 2.
 
 When this effect ends, the creature immediately drops to 0 hit points and has the Unconcious condition. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**.
 

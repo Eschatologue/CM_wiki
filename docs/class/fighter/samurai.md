@@ -33,9 +33,9 @@ You can use Fighting Spirit a number of time equals to `1 plus your Wisdom modif
 
 Your discipline and attention to detail allow you to excel in social situations.
 
-**Well Mannered**{ .inl } When you make a Charisma (Persuasion) check, it gains bonus equals to your Wisdom modifier.
+**Well Mannered**{.inl} When you make a Charisma (Persuasion) check, it gains bonus equals to your Wisdom modifier.
 
-**Self Control**{ .inl } You have proficiency in Wisdom saving throws. If you already have this proficiency, you instead have proficiency in Intelligence or Charisma saving throws (your choice).
+**Self Control**{.inl} You have proficiency in Wisdom saving throws. If you already have this proficiency, you instead have proficiency in Intelligence or Charisma saving throws (your choice).
 
 ### Level 10: Tactical Strike
 
@@ -45,9 +45,9 @@ When you use your [Tactical Shift](index.md#level-5-tactical-shift), you can mak
 
 Your training has reached extraordinary heights, allowing you to combine speed and precision with devastating results. You gain the following benefits: 
 
-**Rapid Strikes**{ .inl } You trade accuracy for swift strikes. Once per turn, if you make an attack roll and have **:d20-adv: Advantage**{ .d20 } on it, you can forgo the **:d20-adv: Advantage**{ .d20 } for that roll to immediately make one additional attack.
+**Rapid Strikes**{.inl} You trade accuracy for swift strikes. Once per turn, if you make an attack roll and have **:d20-adv: Advantage**{ .d20 } on it, you can forgo the **:d20-adv: Advantage**{ .d20 } for that roll to immediately make one additional attack.
 
-**Helm Splitter**{ .inl } You trade accuracy for a powerful blow. Once per turn, if you make an attack and have **:d20-adv: Advantage**{ .d20 } on it, you can forgo the **:d20-adv: Advantage**{ .d20 } for that roll. On hit, the attack deals maximum damage.
+**Helm Splitter**{.inl} You trade accuracy for a powerful blow. Once per turn, if you make an attack and have **:d20-adv: Advantage**{ .d20 } on it, you can forgo the **:d20-adv: Advantage**{ .d20 } for that roll. On hit, the attack deals maximum damage.
 
 ### Level 18: Strength Before Death
 

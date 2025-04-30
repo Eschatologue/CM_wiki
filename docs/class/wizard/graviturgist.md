@@ -39,7 +39,7 @@ The spells in Dunamancy Spells Table are added to your class spell list.
 
 As a **:rsc-a: Magic**{ .rsc } action, you can alter the weight of one object or creature you can see within 30 feet of you. The object or creature must be Large or smaller. The target's weight is halved or doubled for up to 1 minute or until your Concentration ends (as if you were Concentrating on a spell). Upon reaching level 10 in this class, you can target an object or a creature that is Huge or smaller.
 
-**Halved Weight**{ .inl } The creature's Speed increases by 10 feet, it can jump twice as far as normal, and it has **:d20-dis: Disadvantage**{ .d20 } on Strength checks and Strength saves.
+**Halved Weight**{.inl} The creature's Speed increases by 10 feet, it can jump twice as far as normal, and it has **:d20-dis: Disadvantage**{ .d20 } on Strength checks and Strength saves.
 
 ***Doubled Weight***. The creature's Speed is reduced by 10 feet, and it has **:d20-adv: Advantage**{ .d20 } on Strength checks and Strength saves.
 
@@ -51,9 +51,9 @@ Whenever you cast a spell on a creature, you can move the target 5 feet to an un
 
 You can manipulate the velocity of creatures and objects.
 
-**Increase Velocity**{ .inl } When another creature that you can see within 60 feet of you hits with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to increase the attack's velocity, causing the attack's target to take an extra 1d10 damage of the weapon's type.
+**Increase Velocity**{.inl} When another creature that you can see within 60 feet of you hits with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to increase the attack's velocity, causing the attack's target to take an extra 1d10 damage of the weapon's type.
 
-**Decrease Velocity**{ .inl } If a creature within 60 feet of you takes damage from a fall, you can use your **:rsc-r: Reaction**{ .rsc } to increase the fall's damage by 2d10.
+**Decrease Velocity**{.inl} If a creature within 60 feet of you takes damage from a fall, you can use your **:rsc-r: Reaction**{ .rsc } to increase the fall's damage by 2d10.
 
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a **:rest-long: Long Rest**.
 

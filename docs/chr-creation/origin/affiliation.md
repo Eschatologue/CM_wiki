@@ -25,13 +25,13 @@ The DM will determine **when and how** Affiliation Points are spent or regained.
 
 The following are common usage of Affiliation Points:
 
-**Calling in a Favour**{ .inl } Request aid from a contact, such as an academic granting access to restricted research, an artist spreading a message, or a noble intervening in legal matters.  
+**Calling in a Favour**{.inl} Request aid from a contact, such as an academic granting access to restricted research, an artist spreading a message, or a noble intervening in legal matters.  
 
-**Gaining Access**{ .inl } Enter an exclusive location tied to your Affiliation, such as a royal court, underground club, or hidden temple.  
+**Gaining Access**{.inl} Enter an exclusive location tied to your Affiliation, such as a royal court, underground club, or hidden temple.  
 
-**Securing Resources**{ .inl } Obtain rare materials, services, or information unique to your Affiliation. This could include spell components, smuggled goods, or an invitation to an elite gathering.  
+**Securing Resources**{.inl} Obtain rare materials, services, or information unique to your Affiliation. This could include spell components, smuggled goods, or an invitation to an elite gathering.  
 
-**Avoiding Trouble**{ .inl } Reduce suspicion, gain leniency, or persuade someone within your Affiliation to overlook a misdeed.  
+**Avoiding Trouble**{.inl} Reduce suspicion, gain leniency, or persuade someone within your Affiliation to overlook a misdeed.  
 
 ### Regaining Affiliation Points 
 

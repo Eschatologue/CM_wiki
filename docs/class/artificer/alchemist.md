@@ -33,13 +33,13 @@ You always have certain spells prepared after you reach particular levels in thi
 
 You have learned to produce magical potions called Experimental Elixirs, which sometimes have random effects:
 
-**Random Elixirs**{ .inl } Whenever you finish a **:rest-short: Short** or **:rest-long: Long Rest**, you can magically produce an Elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. The number of Elixirs you can make in this way increases to two at level 10, rolling for each elixir separately, and containing each in its own flask.  
+**Random Elixirs**{.inl} Whenever you finish a **:rest-short: Short** or **:rest-long: Long Rest**, you can magically produce an Elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. The number of Elixirs you can make in this way increases to two at level 10, rolling for each elixir separately, and containing each in its own flask.  
 
-**Controlled Elixirs**{ .inl } As a **:rsc-a: Magic**{ .rsc } action, you can produce one Elixir in a flask you touch. Instead of rolling, you choose the desired effect from the Experimental Elixir table. You can do this once per **:rest-short: Short Rest**.  
+**Controlled Elixirs**{.inl} As a **:rsc-a: Magic**{ .rsc } action, you can produce one Elixir in a flask you touch. Instead of rolling, you choose the desired effect from the Experimental Elixir table. You can do this once per **:rest-short: Short Rest**.  
 
-**Drinking and Administering Elixirs**{ .inl } As a **:rsc-b: Bonus Action**{ .rsc }, a creature can drink the elixir or administer it to an Incapacitated creature.
+**Drinking and Administering Elixirs**{.inl} As a **:rsc-b: Bonus Action**{ .rsc }, a creature can drink the elixir or administer it to an Incapacitated creature.
 
-**Alchemical Limitations**{ .inl } Creating an Experimental Elixir requires you to have alchemist's supplies on your person, and any Elixir you create with this feature lasts until it is drunk or until the end of your next **:rest-short: Short** or **:rest-long: Long Rest**.
+**Alchemical Limitations**{.inl} Creating an Experimental Elixir requires you to have alchemist's supplies on your person, and any Elixir you create with this feature lasts until it is drunk or until the end of your next **:rest-short: Short** or **:rest-long: Long Rest**.
 
 ##### Experimental Elixir Table
 
@@ -56,9 +56,9 @@ You have learned to produce magical potions called Experimental Elixirs, which s
 
 Through your explorations into alchemy you have learned to make explosive concoctions that can be lobbed at groups of enemies.
 
-**Creating a Grenade**{ .inl } When you start casting a spell using your Alchemist's Supplies as the spellcasting focus, you can turn that casting into an Alchemical Grenade. The spell must deal **:dmg-acid: Acid**{ .dmg-acid } **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-necr: Necrotic**{ .dmg-necr } or **:dmg-posn: Poison**{ .dmg-posn } damage. You can ignore any Verbal components for this casting of the spell.
+**Creating a Grenade**{.inl} When you start casting a spell using your Alchemist's Supplies as the spellcasting focus, you can turn that casting into an Alchemical Grenade. The spell must deal **:dmg-acid: Acid**{ .dmg-acid } **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-necr: Necrotic**{ .dmg-necr } or **:dmg-posn: Poison**{ .dmg-posn } damage. You can ignore any Verbal components for this casting of the spell.
 
-**Alchemical Explosion**{ .inl } When you cast a spell in this way and only target one creature with it, each creature within 5 feet of the target, other than the target itself, must succeed a **:d20-save: DEX Save**{ .d20 } against your Spell Save DC, or takes half of the spell's damage. The spell does not gain this benefit if it already targets an area.
+**Alchemical Explosion**{.inl} When you cast a spell in this way and only target one creature with it, each creature within 5 feet of the target, other than the target itself, must succeed a **:d20-save: DEX Save**{ .d20 } against your Spell Save DC, or takes half of the spell's damage. The spell does not gain this benefit if it already targets an area.
 
 The radius of this explosion increases to 10 feet when you reach level 9 in this class.
 
@@ -66,25 +66,25 @@ The radius of this explosion increases to 10 feet when you reach level 9 in this
 
 You've developed masterful command of magical chemicals, enhancing the healing and damage you create through them.
 
-**Enhanced Healing**{ .inl } Whenever you cast a spell using your Alchemist's supplies that restores **:trt-hp: Hit Points** to a creature, you can add your Intelligence modifier (minimum +1) to one healing roll of the spell. You add the same bonus to the Healing roll of the Healing effect of your Experimental Elixir.
+**Enhanced Healing**{.inl} Whenever you cast a spell using your Alchemist's supplies that restores **:trt-hp: Hit Points** to a creature, you can add your Intelligence modifier (minimum +1) to one healing roll of the spell. You add the same bonus to the Healing roll of the Healing effect of your Experimental Elixir.
 
-**Deadly Toxins**{ .inl } Whenever you use your Alchemical Grenades feature and use the Alchemical Explosion benefit, you add your Intelligence modifier to the explosion's damage. The affected creatures still take half damage on a successful saving throw.
+**Deadly Toxins**{.inl} Whenever you use your Alchemical Grenades feature and use the Alchemical Explosion benefit, you add your Intelligence modifier to the explosion's damage. The affected creatures still take half damage on a successful saving throw.
 
 ### Level 9: Restorative Reagents
 
 You can incorporate restorative reagents into some of your works:
 
-**Fortifying Elixirs**{ .inl } Whenever a creature drinks an experimental elixir you created, the creature gains **:trt-thp: Temporary Hit Points** equal to 2d6 + your Intelligence modifier (minimum of **1 :trt-thp: Temporary Hit Point**).
+**Fortifying Elixirs**{.inl} Whenever a creature drinks an experimental elixir you created, the creature gains **:trt-thp: Temporary Hit Points** equal to 2d6 + your Intelligence modifier (minimum of **1 :trt-thp: Temporary Hit Point**).
 
-**Lesser Restoration**{ .inl } You always have the [:spell-lv2: Lesser Restoration] spell prepared, and you cast it without expending a spell slot, provided you use Alchemist's Supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+**Lesser Restoration**{.inl} You always have the [:spell-lv2: Lesser Restoration] spell prepared, and you cast it without expending a spell slot, provided you use Alchemist's Supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 15: Chemical Mastery
 
 You have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:
 
-**Chemical Resistance**{ .inl } You gain Resistance to Acid damage and Poison damage, and you have immunity to the Poisoned condition.
+**Chemical Resistance**{.inl} You gain Resistance to Acid damage and Poison damage, and you have immunity to the Poisoned condition.
 
-**Mastered Alchemy**{ .inl } You can cast the [:spell-lv5: Greater Restoration] and [:spell-lv6: Tasha's Bubbling Cauldron] spells without expending a spell slot, without preparing the spell, and without material components, provided you use Alchemist's Supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a **:rest-long: Long Rest**.
+**Mastered Alchemy**{.inl} You can cast the [:spell-lv5: Greater Restoration] and [:spell-lv6: Tasha's Bubbling Cauldron] spells without expending a spell slot, without preparing the spell, and without material components, provided you use Alchemist's Supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a **:rest-long: Long Rest**.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 --8<-- "includes/snippets/spells2/lv6.md"

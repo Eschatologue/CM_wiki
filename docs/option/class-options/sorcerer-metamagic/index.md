@@ -10,7 +10,7 @@ Metamagic options allow you to change how you cast spells, their effects, range,
 
 This page contains a list of all Sorcerer's Metamagic. Several metamagic have been slightly modified to align with the Crown & Misery campaign.
 
-**Spellcasting Modifier Adjustments**{ .inl } Certain Metamagic have been altered to use the player's spellcasting modifier instead of Charisma. Note that the specific metamagic affected by these changes are not listed.
+**Spellcasting Modifier Adjustments**{.inl} Certain Metamagic have been altered to use the player's spellcasting modifier instead of Charisma. Note that the specific metamagic affected by these changes are not listed.
 
 ### 2024 Player's Handbook Metamagic
 
