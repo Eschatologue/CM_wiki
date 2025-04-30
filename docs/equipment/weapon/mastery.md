@@ -81,7 +81,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 ### Sap {.noborder}
 
-_**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-versatile: Versatile**{.wp} or  **:wp-prop-none: No Properties**{.wp}_
+_**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-versatile: Versatile**{.wp} or **:wp-prop-none: No Properties**{.wp}_
 
 <hr class="hr-solid">
 
