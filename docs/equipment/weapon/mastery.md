@@ -115,7 +115,7 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 
 ---
 
-### Agile :material-glass-mug-variant:{title="Homebrew"} {.noborder}
+### Agile :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
 
 _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-light: Light**{.wp} or **:wp-prop-versatile: Versatile**{.wp}_
 
@@ -125,7 +125,7 @@ Before or after making an attack with this weapon, you can move up to 5 feet wit
 
 ---
 
-### Brace :material-glass-mug-variant:{title="Homebrew"} {.noborder}
+### Brace :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
 
 _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-heavy: Heavy**{.wp} or **:wp-prop-two-handed: Two-Handed**{.wp}_
 
@@ -135,7 +135,7 @@ On your turn, you can spend an amount of movement equal to half your **:rsc-spd:
 
 ---
 
-### Expose :material-glass-mug-variant:{title="Homebrew"} {.noborder}
+### Expose :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
 
 _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp}, **:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-versatile: Versatile**{.wp} or deals **:dmg-bldg: Bludgeoning**{.dmg-bps} damage_
 
@@ -145,7 +145,7 @@ If you hit a creature with this weapon and deal damage to the creature, the next
 
 ---
 
-### Flex :material-glass-mug-variant:{title="Homebrew"} {.noborder}
+### Flex :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
 
 _**Prerequisites:** Melee Weapon; **:wp-prop-versatile: Versatile**{.wp}_
 
@@ -155,7 +155,7 @@ When you hit a melee attack using this weapon, you deal its **:wp-prop-versatile
 
 ---
 
-### Flurry :material-glass-mug-variant:{title="Homebrew"} {.noborder}
+### Flurry :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
 
 _**Prerequisites:** Melee Weapon; **:wp-prop-light: Light**{.wp}_
 
@@ -165,7 +165,7 @@ If your attack roll with this weapon misses a creature, you can immediately make
 
 ---
 
-### Parry :material-glass-mug-variant:{title="Homebrew"} {.noborder}
+### Parry :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
 
 _**Prerequisites:** Melee Weapon; **:wp-prop-finesse: Finesse**{.wp} or **:wp-prop-versatile: Versatile**{.wp}_
 
@@ -175,12 +175,22 @@ While wielding this weapon, when a creature makes a Melee attack roll against yo
 
 ---
 
-### Speedload :material-glass-mug-variant:{title="Homebrew"} {.noborder}
+### Speedload :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
 
 _**Prerequisites:** Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp} or **:wp-prop-loading: Loading**{.wp}_
 
 <hr class="hr-solid">
 
 You ignore the **:wp-prop-loading: Loading**{.wp} property of this weapon and you don't need another free hand to load ammunition into the weapon.
+
+---
+
+### Split :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
+
+_**Prerequisites:** Melee Weapon; **:wp-prop-finesse: Finesse**{.wp}_
+
+<hr class="hr-solid">
+
+When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with this weapon ^^with one hand^^, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a ^^different^^ **:wp-prop-finesse: Finesse**{.wp} weapon, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
 ---

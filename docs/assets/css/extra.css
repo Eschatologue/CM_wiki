@@ -136,26 +136,30 @@
 .md-typeset dl {
   font-size: calc(var(--gbl-font-size) * 0.9);
   display: grid;
-  grid-template-columns: calc(var(--gbl-font-size) * 8 * 0.875) auto;
+  grid-template-columns: calc(var(--gbl-font-size) * 8) auto;
   gap: 0.6rem 0.4rem !important;
   align-items: center;
 }
 .md-typeset dl dt {
   text-align: right;
+  border-right: 0.2rem solid var(--md-code-bg-color);
+  padding-right: 0.3rem;
 }
 .md-typeset dl dd {
-  border-left: 0.2rem solid var(--md-code-bg-color);
   border-radius: 0.2rem;
-  padding-left: 0.4rem;
   margin: 0em !important;
 }
 .md-typeset dl dd p {
-  margin-top: 0.1875em !important;
-  margin-bottom: 0.1875em !important;
+  margin-top: 0.1875em;
+  margin-bottom: 0.1875em;
 }
 
-.md-typeset .remove-dd-border dd, .md-typeset .dl-bootstrap dl dd {
-  border-left: none;
+.md-typeset .remove-dd-border dd {
+  border: none;
+}
+
+.md-typeset .remove-dt-border dt, .md-typeset .dl-bootstrap dl dt {
+  border: none;
 }
 
 .md-typeset .dl-dt-center dl dt {
@@ -163,10 +167,11 @@
 }
 
 .md-typeset .dl-bootstrap dl {
+  grid-template-columns: calc(var(--gbl-font-size) * 8 * 1.5) auto;
   align-items: start;
 }
 .md-typeset .dl-bootstrap dl dt {
-  text-align: start;
+  text-align: right;
 }
 
 /*------------------------------------------------------- 
