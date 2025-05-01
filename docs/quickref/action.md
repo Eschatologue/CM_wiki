@@ -9,11 +9,11 @@ search:
 
 ### Actions
 
-<div class="dl-center" markdown>
+<div class="dl-dt-center" markdown>
 
 !!! action ""
 
-    <div class="dl-center" markdown>
+    <div class="dl-dt-center" markdown>
 
     :material-sword-cross:{.x3l}
 
@@ -55,7 +55,7 @@ search:
 
 !!! action ""
 
-    <div class="dl-center" markdown>
+    <div class="dl-dt-center" markdown>
 
     :material-translate-variant:{.x3l}
 
@@ -103,7 +103,7 @@ search:
 
 !!! bonusaction ""
 
-    <div class="dl-center" markdown>
+    <div class="dl-dt-center" markdown>
 
     :material-sword-cross:{ .x3l }
 
@@ -127,11 +127,11 @@ search:
 
 ### Reaction
 
-<div class="dl-center" markdown>
+<div class="dl-dt-center" markdown>
 
 !!! reaction ""
 
-    <div class="dl-center" markdown>
+    <div class="dl-dt-center" markdown>
 
     :material-sword-cross:{ .x3l }
 
@@ -153,7 +153,7 @@ search:
 
 !!! reaction ""
 
-    <div class="dl-center" markdown>
+    <div class="dl-dt-center" markdown>
 
     :fontawesome-solid-hand-sparkles:{ .x3l }
 

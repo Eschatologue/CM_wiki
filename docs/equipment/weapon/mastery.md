@@ -27,17 +27,13 @@ These changes only affect the character who makes them. If a Barbarian replaces 
 
 When selecting weapons for Weapon Mastery, you can instead **assign an additional _eligible_ Mastery property** to a weapon you already chose. A weapon can have **no more than six** mastery properties at a time.
 
-If a weapon has multiple mastery properties, you can **only use one of them per attack**. You must choose which mastery property you're using before making the attack. This is true for Mastery properties which effects occurs upon a hit, an attack, or a miss (e.g. **:wp-mas: Topple**{.wp}, **:wp-mas: Nick**{.wp}, **:wp-mas: Graze**{.wp}). 
+If a weapon has multiple mastery properties, you can **only use one of them per attack**. You must choose which mastery property you're using before making the attack. This is true for Mastery properties which effects occurs upon a **hit** (e.g. **:wp-mas: Topple**{.wp}), an **attack** (e.g. **:wp-mas: Nick**{.wp}), or a **miss** (e.g.**:wp-mas: Graze**{.wp}). 
 
 For example, a Level 1 Barbarian could choose to apply either **:wp-mas: Cleave**{.wp} or **:wp-mas: Graze**{.wp} when attacking with a Greataxe, instead of selecting a second weapon for Weapon Mastery. Likewise, a Level 1 Rogue could choose either **:wp-mas: Nick**{.wp} or **:wp-mas: Slow**{.wp} for a Dagger.  
 
 ## Mastery Properties Description
 
-The Mastery Properties are divided into two groups PHB'24 & Homebrew.
-
-## PHB'24
-
-The following Mastery properties are lined in PHB'24
+The following Mastery Properties are available
 
 ### Cleave {.noborder}
 
@@ -119,13 +115,7 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 
 ---
 
-## Homebrew
-
-The following Mastery properties are homebrew.
-
----
-
-### Agile {.noborder}
+### Agile :material-glass-mug-variant:{title="Homebrew"} {.noborder}
 
 _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-light: Light**{.wp} or **:wp-prop-versatile: Versatile**{.wp}_
 
@@ -135,7 +125,7 @@ Before or after making an attack with this weapon, you can move up to 5 feet wit
 
 ---
 
-### Brace {.noborder}
+### Brace :material-glass-mug-variant:{title="Homebrew"} {.noborder}
 
 _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-heavy: Heavy**{.wp} or **:wp-prop-two-handed: Two-Handed**{.wp}_
 
@@ -145,7 +135,7 @@ On your turn, you can spend an amount of movement equal to half your **:rsc-spd:
 
 ---
 
-### Expose {.noborder}
+### Expose :material-glass-mug-variant:{title="Homebrew"} {.noborder}
 
 _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp}, **:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-versatile: Versatile**{.wp} or deals **:dmg-bldg: Bludgeoning**{.dmg-bps} damage_
 
@@ -155,7 +145,7 @@ If you hit a creature with this weapon and deal damage to the creature, the next
 
 ---
 
-### Flex {.noborder}
+### Flex :material-glass-mug-variant:{title="Homebrew"} {.noborder}
 
 _**Prerequisites:** Melee Weapon; **:wp-prop-versatile: Versatile**{.wp}_
 
@@ -165,7 +155,7 @@ When you hit a melee attack using this weapon, you deal its **:wp-prop-versatile
 
 ---
 
-### Flurry {.noborder}
+### Flurry :material-glass-mug-variant:{title="Homebrew"} {.noborder}
 
 _**Prerequisites:** Melee Weapon; **:wp-prop-light: Light**{.wp}_
 
@@ -175,7 +165,7 @@ If your attack roll with this weapon misses a creature, you can immediately make
 
 ---
 
-### Parry {.noborder}
+### Parry :material-glass-mug-variant:{title="Homebrew"} {.noborder}
 
 _**Prerequisites:** Melee Weapon; **:wp-prop-finesse: Finesse**{.wp} or **:wp-prop-versatile: Versatile**{.wp}_
 
@@ -185,7 +175,7 @@ While wielding this weapon, when a creature makes a Melee attack roll against yo
 
 ---
 
-### Speedload {.noborder}
+### Speedload :material-glass-mug-variant:{title="Homebrew"} {.noborder}
 
 _**Prerequisites:** Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp} or **:wp-prop-loading: Loading**{.wp}_
 

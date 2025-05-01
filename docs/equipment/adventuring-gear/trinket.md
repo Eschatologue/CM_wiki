@@ -10,6 +10,8 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 
 ##### Trinket
 
+<div class="grid" markdown>
+
 | d100 | Trinket |
 |:-:|:--|
 | 01 | A mummified goblin hand |
@@ -62,6 +64,9 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 48 | A glass orb filled with water, in which swims a clockwork goldfish |
 | 49 | A silver spoon with an M engraved on the handle |
 | 50 | A whistle made from gold-coloured wood |
+
+| d100 | Trinket |
+|:-:|:--|
 | 51 | A dead scarab beetle the size of your hand |
 | 52 | Two toy soldiers, one missing a head |
 | 53 | A small box filled with different-sized buttons |
@@ -112,3 +117,5 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 98 | A glass jar containing lard with a label that reads, “Griffon Grease” |
 | 99 | A wooden box with a ceramic bottom that holds a living worm with a head on each end of its body |
 | 00 | A metal urn containing the ashes of a hero |
+
+</div>

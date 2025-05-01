@@ -30,6 +30,8 @@ Sorcerers are rare. Some family lines produce exactly one Sorcerer in every gene
 
 You have the following Core Traits
 
+<!-- <div class="dl-bootstrap" markdown> -->
+
 **Primary Ability** 
 :   :abl-cha: Charisma  
 
@@ -54,6 +56,8 @@ You have the following Core Traits
 :   Choose **A** or **B**:  
     **(A)** Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer's Pack, and 280 SP; or  
     **(B)** 500 SP
+
+<!-- </div> -->
 
 ## Becoming a Sorcerer...
 

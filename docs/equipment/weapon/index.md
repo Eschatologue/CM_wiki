@@ -37,7 +37,7 @@ Main article: [Firearms](weapon-firearm.md)
 
 Many weapons have special properties related to their use, as shown in the Weapons table.
 
-<div class="dl-center" markdown>
+<div class="dl-dt-center" markdown>
 
 ---
 
@@ -89,7 +89,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :   ### Light { .noborder }
 
-    When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with a **:wp-prop-light: Light**{.wp} weapon, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a *different Light weapon*, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
+    When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with a **:wp-prop-light: Light**{.wp} weapon, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a ^^different^^ **:wp-prop-light: Light**{.wp} weapon, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
 ---
 

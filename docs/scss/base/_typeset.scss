@@ -167,21 +167,21 @@
     Additional Styles
 --------------------------------------------------------*/
 
+@mixin hr-style($style: dashed, $width: 3px, $color: var(--md-default-wht--0125), $margin: 8px) {
+    border-bottom: #{convert.px2em($width)} #{$style} #{$color};
+    margin: #{convert.px2em($margin)} 0;
+}
+
 .md-typeset hr {
-    border-bottom: #{convert.px2em(3px)} dashed var(--md-default-wht--0125); // default
-    margin: #{convert.px2em(8px)} 0;
+    @include hr-style(dashed); // Default
 }
 
 .md-typeset hr.hr-solid {
-    border-bottom-style: solid;
-}
-
-.md-typeset hr.hr-dashed {
-    border-bottom-style: dashed;
+    @include hr-style(solid); // Solid
 }
 
 .md-typeset hr.hr-dotted {
-    border-bottom-style: dotted;
+    @include hr-style(dotted); // Dotted
 }
 
 /*-------------------------------------------------------
@@ -211,19 +211,21 @@
     }
 }
 
-.md-typeset .dl-center {
-    dl {
-        dt {
-            text-align: center;
-        }
+.md-typeset .remove-dd-border dd {
+    border-left: none;
+}
+
+.md-typeset .dl-dt-center dl {
+    dt {
+        text-align: center;
     }
 }
 
-// Keep for Deprecation
-.md-typeset .grid {
-    dl {
-        dt {
-            text-align: center;
-        }
+// Bootstrap Description List style
+.md-typeset .dl-bootstrap dl {
+    @extend .remove-dd-border;
+    align-items: start;
+    dt {
+        text-align: start;
     }
 }

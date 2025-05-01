@@ -1,7 +1,7 @@
-@use "../base/typeset";
-@use "../base/table";
-@use "../utility/convert";
-@use "../palette/accent";
+@use '../base/typeset';
+@use '../base/table';
+@use '../utility/convert';
+@use '../palette/accent';
 
 /*-------------------------------------------------------
     Base Styles
@@ -11,12 +11,21 @@
     font-family: var(--heading-font);
 }
 
-.jetbrains {
+@mixin jetbrains($word-spacing: convert.px2rem(-2px), $letter-spacing: null) {
     @extend .jetbrains-icon;
     font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
     font-family: var(--jetbrains);
     font-weight: 600 !important;
-    word-spacing: convert.px2rem(-2px);
+    word-spacing: $word-spacing;
+    
+    // Apply letter-spacing only if passed in (if not null)
+    @if $letter-spacing != null {
+        letter-spacing: $letter-spacing !important;
+    }
+}
+
+.jetbrains {
+    @include jetbrains(); // Default values
 }
 
 .jetbrains-icon {
@@ -24,7 +33,6 @@
         font-size: calc(var(--gbl-font-size) * 0.95);
         margin-right: convert.px2rem(-2.5px);
     }
-
 }
 
 .f-lg {
@@ -36,18 +44,26 @@
 }
 
 /*-------------------------------------------------------
-    Utility Classes
+    Heading Modification
 -------------------------------------------------------*/
 
-.hide {
-    position: absolute;
-    left: -999px;
+@for $i from 1 through 6 {
+    // Remove bottom border for headings with .noborder
+    h#{$i}.noborder {
+        border-bottom: none !important;
+        margin: 0 0 convert.px2rem(-10px) 0 !important;
+    }
+
+    // Hide heading visually for table of contents with .hide
+    h#{$i}.hide {
+        position: absolute;
+        left: -999px;
+    }
 }
 
-.noborder {
-    border-bottom: none !important;
-    margin: 0 0 convert.px2rem(-10px) 0 !important;
-}
+/*-------------------------------------------------------
+    Utility Classes
+-------------------------------------------------------*/
 
 .align-center {
     text-align: center !important;
@@ -55,14 +71,6 @@
 
 .align-right {
     text-align: right !important;
-}
-
-.vert-middle {
-    vertical-align: middle !important;
-}
-
-.dt-centre dl dt {
-    text-align: center;
 }
 
 /*-------------------------------------------------------
@@ -140,8 +148,9 @@
 .d20 {
     @extend .em, .nowrap;
     letter-spacing: convert.px2em(-0.4px) !important;
+    font-weight: 500 !important;
+    
 }
-
 
 // Resources, such as Actions, spell slots, etc.
 .rsc {
@@ -184,7 +193,7 @@
     position: relative;
 
     &::after {
-        content: " —"; // This is cleaner
+        content: ' —'; // This is cleaner
         color: var(--md-default-fg-color--light) !important;
     }
 }
@@ -193,7 +202,6 @@
     text-indent: calc((var(--gbl-font-size) * 1.25) * (-1));
     padding-left: calc((var(--gbl-font-size) * 1.25) * (2));
 }
-
 
 /*-------------------------------------------------------
     Brackets and Emphasizes
@@ -209,12 +217,12 @@
 
 /// --- Chevrons --- //
 .chevron-right::after {
-    @include mirror("»");
+    @include mirror('»');
     margin-left: convert.px2em(3px);
 }
 
 .chevron-left::before {
-    @include mirror("«");
+    @include mirror('«');
     margin-right: convert.px2em(3px);
 }
 
@@ -226,12 +234,12 @@
 
 // --- Brackets --- //
 .bracket-right::after {
-    @include mirror("]");
+    @include mirror(']');
     margin-left: convert.px2em(0.5px);
 }
 
 .bracket-left::before {
-    @include mirror("[");
+    @include mirror('[');
     margin-right: convert.px2em(-0.5px);
 }
 
@@ -243,12 +251,12 @@
 
 // --- Curlies --- //
 .curl-right::after {
-    @include mirror("}");
+    @include mirror('}');
     margin-left: convert.px2em(1px);
 }
 
 .curl-left::before {
-    @include mirror("{");
+    @include mirror('{');
     margin-right: convert.px2em(1px);
 }
 
@@ -289,20 +297,21 @@ $damage-types: (
 
 @each $type, $color in $damage-types {
     .dmg-#{$type} {
-        @extend .jetbrains;
+        @include jetbrains(convert.px2rem(-3px), convert.px2em(-0.8px));
         color: convert.hex3hsl($color) !important;
         white-space: nowrap;
         margin: 0 convert.px2rem(2.5px) !important;
 
         :is(.emojione, .twemoji, .gemoji) {
-            margin-left: convert.px2rem(-3.5px);
+            margin-left: convert.px2rem(-2.5px);
         }
 
-        margin-right: convert.px2rem(0.8px) !important;;
+        margin-right: convert.px2rem(0.8px) !important;
 
         @media screen and (max-width: 720px) {
             white-space: normal;
         }
     }
 }
+
 

@@ -45,7 +45,7 @@ In terms of timing, a **:rsc-r: Reaction**{ .rsc } occurs immediately after its 
 
 Below is a list of common actions you can take. Each action requires using one of your available resources—**:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc }. To perform a specific action, you must have the appropriate resource available. For example, you cannot take the **Attack**{ .rsc } action (which requires an Action) if you have already used your Action to take the Dash action.
 
-<div class="dl-center" markdown>
+<div class="dl-dt-center" markdown>
 
 :material-sword:{ .x3l }
 
@@ -234,7 +234,7 @@ Below is a list of common reaction you can take. You can only use a **:rsc-r: Re
 
 ---
 
-<div class="dl-center" markdown>
+<div class="dl-dt-center" markdown>
 
 :material-sword-cross:{.x3l}
 

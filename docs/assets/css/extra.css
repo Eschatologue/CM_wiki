@@ -121,15 +121,13 @@
 }
 
 .md-typeset hr.hr-solid {
-  border-bottom-style: solid;
-}
-
-.md-typeset hr.hr-dashed {
-  border-bottom-style: dashed;
+  border-bottom: 0.1875em solid var(--md-default-wht--0125);
+  margin: 0.5em 0;
 }
 
 .md-typeset hr.hr-dotted {
-  border-bottom-style: dotted;
+  border-bottom: 0.1875em dotted var(--md-default-wht--0125);
+  margin: 0.5em 0;
 }
 
 /*-------------------------------------------------------
@@ -156,12 +154,19 @@
   margin-bottom: 0.1875em !important;
 }
 
-.md-typeset .dl-center dl dt {
+.md-typeset .remove-dd-border dd, .md-typeset .dl-bootstrap dl dd {
+  border-left: none;
+}
+
+.md-typeset .dl-dt-center dl dt {
   text-align: center;
 }
 
-.md-typeset .grid dl dt {
-  text-align: center;
+.md-typeset .dl-bootstrap dl {
+  align-items: start;
+}
+.md-typeset .dl-bootstrap dl dt {
+  text-align: start;
 }
 
 /*------------------------------------------------------- 
@@ -219,14 +224,14 @@
   font-family: var(--heading-font);
 }
 
-.jetbrains, .dmg-heal, .dmg-bps, .dmg-force, .dmg-radi, .dmg-necr, .dmg-lgtn, .dmg-psyc, .dmg-thun, .dmg-posn, .dmg-fire, .dmg-cold, .dmg-acid, .calc, .wp, .cond, .rsc {
+.jetbrains, .calc, .wp, .cond, .rsc {
   font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.1rem;
 }
 
-.jetbrains-icon :is(.emojione, .twemoji, .gemoji), .jetbrains :is(.emojione, .twemoji, .gemoji), .dmg-heal :is(.emojione, .twemoji, .gemoji), .dmg-bps :is(.emojione, .twemoji, .gemoji), .dmg-force :is(.emojione, .twemoji, .gemoji), .dmg-radi :is(.emojione, .twemoji, .gemoji), .dmg-necr :is(.emojione, .twemoji, .gemoji), .dmg-lgtn :is(.emojione, .twemoji, .gemoji), .dmg-psyc :is(.emojione, .twemoji, .gemoji), .dmg-thun :is(.emojione, .twemoji, .gemoji), .dmg-posn :is(.emojione, .twemoji, .gemoji), .dmg-fire :is(.emojione, .twemoji, .gemoji), .dmg-cold :is(.emojione, .twemoji, .gemoji), .dmg-acid :is(.emojione, .twemoji, .gemoji), .calc :is(.emojione, .twemoji, .gemoji), .wp :is(.emojione, .twemoji, .gemoji), .cond :is(.emojione, .twemoji, .gemoji), .rsc :is(.emojione, .twemoji, .gemoji) {
+.jetbrains-icon :is(.emojione, .twemoji, .gemoji), .dmg-heal :is(.emojione, .twemoji, .gemoji), .dmg-bps :is(.emojione, .twemoji, .gemoji), .dmg-force :is(.emojione, .twemoji, .gemoji), .dmg-radi :is(.emojione, .twemoji, .gemoji), .dmg-necr :is(.emojione, .twemoji, .gemoji), .dmg-lgtn :is(.emojione, .twemoji, .gemoji), .dmg-psyc :is(.emojione, .twemoji, .gemoji), .dmg-thun :is(.emojione, .twemoji, .gemoji), .dmg-posn :is(.emojione, .twemoji, .gemoji), .dmg-fire :is(.emojione, .twemoji, .gemoji), .dmg-cold :is(.emojione, .twemoji, .gemoji), .dmg-acid :is(.emojione, .twemoji, .gemoji), .jetbrains :is(.emojione, .twemoji, .gemoji), .calc :is(.emojione, .twemoji, .gemoji), .wp :is(.emojione, .twemoji, .gemoji), .cond :is(.emojione, .twemoji, .gemoji), .rsc :is(.emojione, .twemoji, .gemoji) {
   font-size: calc(var(--gbl-font-size) * 0.95);
   margin-right: -0.125rem;
 }
@@ -240,32 +245,77 @@
 }
 
 /*-------------------------------------------------------
-    Utility Classes
+    Heading Modification
 -------------------------------------------------------*/
-.hide {
-  position: absolute;
-  left: -999px;
-}
-
-.noborder {
+h1.noborder {
   border-bottom: none !important;
   margin: 0 0 -0.5rem 0 !important;
 }
 
+h1.hide {
+  position: absolute;
+  left: -999px;
+}
+
+h2.noborder {
+  border-bottom: none !important;
+  margin: 0 0 -0.5rem 0 !important;
+}
+
+h2.hide {
+  position: absolute;
+  left: -999px;
+}
+
+h3.noborder {
+  border-bottom: none !important;
+  margin: 0 0 -0.5rem 0 !important;
+}
+
+h3.hide {
+  position: absolute;
+  left: -999px;
+}
+
+h4.noborder {
+  border-bottom: none !important;
+  margin: 0 0 -0.5rem 0 !important;
+}
+
+h4.hide {
+  position: absolute;
+  left: -999px;
+}
+
+h5.noborder {
+  border-bottom: none !important;
+  margin: 0 0 -0.5rem 0 !important;
+}
+
+h5.hide {
+  position: absolute;
+  left: -999px;
+}
+
+h6.noborder {
+  border-bottom: none !important;
+  margin: 0 0 -0.5rem 0 !important;
+}
+
+h6.hide {
+  position: absolute;
+  left: -999px;
+}
+
+/*-------------------------------------------------------
+    Utility Classes
+-------------------------------------------------------*/
 .align-center {
   text-align: center !important;
 }
 
 .align-right, .author {
   text-align: right !important;
-}
-
-.vert-middle {
-  vertical-align: middle !important;
-}
-
-.dt-centre dl dt {
-  text-align: center;
 }
 
 /*-------------------------------------------------------
@@ -325,6 +375,7 @@ table:not([class]) .smallcap {
 -------------------------------------------------------*/
 .d20 {
   letter-spacing: -0.025em !important;
+  font-weight: 500 !important;
 }
 
 .rsc {
@@ -449,13 +500,18 @@ table:not([class]) .smallcap {
     Damage Type Dynamic Classes
 -------------------------------------------------------*/
 .dmg-acid {
+  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-family: var(--jetbrains);
+  font-weight: 600 !important;
+  word-spacing: -0.15rem;
+  letter-spacing: -0.05em !important;
   color: hsl(77, 98%, 34%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
   margin-right: 0.04rem !important;
 }
 .dmg-acid :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.175rem;
+  margin-left: -0.125rem;
 }
 @media screen and (max-width: 720px) {
   .dmg-acid {
@@ -464,13 +520,18 @@ table:not([class]) .smallcap {
 }
 
 .dmg-cold {
+  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-family: var(--jetbrains);
+  font-weight: 600 !important;
+  word-spacing: -0.15rem;
+  letter-spacing: -0.05em !important;
   color: hsl(199, 91%, 64%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
   margin-right: 0.04rem !important;
 }
 .dmg-cold :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.175rem;
+  margin-left: -0.125rem;
 }
 @media screen and (max-width: 720px) {
   .dmg-cold {
@@ -479,13 +540,18 @@ table:not([class]) .smallcap {
 }
 
 .dmg-fire {
+  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-family: var(--jetbrains);
+  font-weight: 600 !important;
+  word-spacing: -0.15rem;
+  letter-spacing: -0.05em !important;
   color: hsl(28, 75%, 53%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
   margin-right: 0.04rem !important;
 }
 .dmg-fire :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.175rem;
+  margin-left: -0.125rem;
 }
 @media screen and (max-width: 720px) {
   .dmg-fire {
@@ -494,13 +560,18 @@ table:not([class]) .smallcap {
 }
 
 .dmg-posn {
+  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-family: var(--jetbrains);
+  font-weight: 600 !important;
+  word-spacing: -0.15rem;
+  letter-spacing: -0.05em !important;
   color: hsl(102, 100%, 36%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
   margin-right: 0.04rem !important;
 }
 .dmg-posn :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.175rem;
+  margin-left: -0.125rem;
 }
 @media screen and (max-width: 720px) {
   .dmg-posn {
@@ -509,13 +580,18 @@ table:not([class]) .smallcap {
 }
 
 .dmg-thun {
+  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-family: var(--jetbrains);
+  font-weight: 600 !important;
+  word-spacing: -0.15rem;
+  letter-spacing: -0.05em !important;
   color: hsl(262, 43%, 65%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
   margin-right: 0.04rem !important;
 }
 .dmg-thun :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.175rem;
+  margin-left: -0.125rem;
 }
 @media screen and (max-width: 720px) {
   .dmg-thun {
@@ -524,13 +600,18 @@ table:not([class]) .smallcap {
 }
 
 .dmg-psyc {
+  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-family: var(--jetbrains);
+  font-weight: 600 !important;
+  word-spacing: -0.15rem;
+  letter-spacing: -0.05em !important;
   color: hsl(328, 61%, 66%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
   margin-right: 0.04rem !important;
 }
 .dmg-psyc :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.175rem;
+  margin-left: -0.125rem;
 }
 @media screen and (max-width: 720px) {
   .dmg-psyc {
@@ -539,13 +620,18 @@ table:not([class]) .smallcap {
 }
 
 .dmg-lgtn {
+  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-family: var(--jetbrains);
+  font-weight: 600 !important;
+  word-spacing: -0.15rem;
+  letter-spacing: -0.05em !important;
   color: hsl(208, 80%, 55%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
   margin-right: 0.04rem !important;
 }
 .dmg-lgtn :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.175rem;
+  margin-left: -0.125rem;
 }
 @media screen and (max-width: 720px) {
   .dmg-lgtn {
@@ -554,13 +640,18 @@ table:not([class]) .smallcap {
 }
 
 .dmg-necr {
+  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-family: var(--jetbrains);
+  font-weight: 600 !important;
+  word-spacing: -0.15rem;
+  letter-spacing: -0.05em !important;
   color: hsl(129, 47%, 47%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
   margin-right: 0.04rem !important;
 }
 .dmg-necr :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.175rem;
+  margin-left: -0.125rem;
 }
 @media screen and (max-width: 720px) {
   .dmg-necr {
@@ -569,13 +660,18 @@ table:not([class]) .smallcap {
 }
 
 .dmg-radi {
+  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-family: var(--jetbrains);
+  font-weight: 600 !important;
+  word-spacing: -0.15rem;
+  letter-spacing: -0.05em !important;
   color: hsl(45, 100%, 63%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
   margin-right: 0.04rem !important;
 }
 .dmg-radi :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.175rem;
+  margin-left: -0.125rem;
 }
 @media screen and (max-width: 720px) {
   .dmg-radi {
@@ -584,13 +680,18 @@ table:not([class]) .smallcap {
 }
 
 .dmg-force {
+  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-family: var(--jetbrains);
+  font-weight: 600 !important;
+  word-spacing: -0.15rem;
+  letter-spacing: -0.05em !important;
   color: hsl(4, 100%, 71%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
   margin-right: 0.04rem !important;
 }
 .dmg-force :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.175rem;
+  margin-left: -0.125rem;
 }
 @media screen and (max-width: 720px) {
   .dmg-force {
@@ -599,13 +700,18 @@ table:not([class]) .smallcap {
 }
 
 .dmg-bps {
+  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-family: var(--jetbrains);
+  font-weight: 600 !important;
+  word-spacing: -0.15rem;
+  letter-spacing: -0.05em !important;
   color: hsl(214, 4%, 68%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
   margin-right: 0.04rem !important;
 }
 .dmg-bps :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.175rem;
+  margin-left: -0.125rem;
 }
 @media screen and (max-width: 720px) {
   .dmg-bps {
@@ -614,13 +720,18 @@ table:not([class]) .smallcap {
 }
 
 .dmg-heal {
+  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-family: var(--jetbrains);
+  font-weight: 600 !important;
+  word-spacing: -0.15rem;
+  letter-spacing: -0.05em !important;
   color: hsl(180, 51%, 60%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
   margin-right: 0.04rem !important;
 }
 .dmg-heal :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.175rem;
+  margin-left: -0.125rem;
 }
 @media screen and (max-width: 720px) {
   .dmg-heal {

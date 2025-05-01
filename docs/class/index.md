@@ -55,7 +55,7 @@ You gain class features in the Player's Handbook when you reach certain levels i
 
 Barbarian has the following optional class feature.
 
-<div class="dl-center" markdown>
+<div class="dl-dt-center" markdown>
 
 **:class-barbarian:**{.x5l}<br>**BARBARIAN**{.chev-lr}
 
@@ -69,7 +69,7 @@ Barbarian has the following optional class feature.
 
 Ranger has the following optional class feature.
 
-<div class="dl-center" markdown>
+<div class="dl-dt-center" markdown>
 
 **:class-ranger:**{.x5l}<br>**RANGER**{.chev-lr}
 
@@ -83,7 +83,7 @@ Ranger has the following optional class feature.
 
 Paladin has the following optional class feature.
 
-<div class="dl-center" markdown>
+<div class="dl-dt-center" markdown>
 
 **:class-paladin:**{.x5l}<br>**PALADIN**{.chev-lr}
 

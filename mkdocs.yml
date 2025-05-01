@@ -155,7 +155,6 @@ nav:
     - Create Your Character: chr-creation/create-your-character.md
     - Starting at Higher Level: chr-creation/starting-at-higher-level.md
     - Multiclassing: chr-creation/multiclassing.md
-    - Trinket: chr-creation/trinket.md
     - Origin:
       - Background: chr-creation/origin/background.md
         # - Common Background: chr-creation/origin/background/common-background.md
@@ -232,6 +231,7 @@ nav:
           - Spellcasting Focuses: equipment/adventuring-gear/spellcasting-focus.md
           - Items: equipment/adventuring-gear/item.md
           - Homebrew Items: equipment/adventuring-gear/item-hb.md
+      - Trinket: equipment/adventuring-gear/trinket.md
       - Consumeables: 
         - Grenade: equipment/consumeables/grenade.md
         - Potion: equipment/consumeables/potion.md
