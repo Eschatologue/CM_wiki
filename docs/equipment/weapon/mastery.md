@@ -193,4 +193,8 @@ _**Prerequisites:** Melee Weapon; **:wp-prop-finesse: Finesse**{.wp}_
 
 When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with this weapon ^^with one hand^^, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a ^^different^^ **:wp-prop-finesse: Finesse**{.wp} weapon, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
+!!! tips "Off-hand Attacks"
+
+    Certain features, such as the [:option-feat-fighting: Two-Weapon Fighting](../../option/feat/feat-fighting-style/phb24.md#two-weapon-fighting) style, apply to this extra attack as if the weapon had the **:wp-prop-light: Light**{.wp} property, allowing you to add your ability modifier to the damage if the feature normally permits it.
+
 ---
