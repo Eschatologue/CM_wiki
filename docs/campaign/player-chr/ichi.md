@@ -33,3 +33,9 @@ Your ability to conjure spatial anomalies is improved, detailed below.
 
 **Spatial Jump**{.inl} As a **:rsc-b: Bonus Action**{.rsc}, you can bend space arround you and Teleport up to 30 feet to an unoccupied space you can see. You can't do so again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**, unless you spend 1 use of your Fighting Spirit.
 { .indt }
+
+### Level 10: Ablative Intertia
+
+Your presence alone distort the space arround you. 
+
+Area within 10 ft. of you is considered a Dificult Terrain, you can choose whenever a creature is affected by this feature.
