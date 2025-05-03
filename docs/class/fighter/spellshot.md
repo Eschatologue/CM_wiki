@@ -1,5 +1,6 @@
 ---
 title: "Subclass: Spellshot (Fighter)"
+status: adapted
 ---
 
 <p style="display:none">
@@ -52,7 +53,7 @@ Your Arcane Shots are improved further. All of your Arcane Shot damage increases
 
 ## Arcane Shots Options
 
-If an option requires a saving throw, your **Arcane Shot save DC** equals 8 plus your Proficiency Bonus + your Intelligence Modifier.
+If an option requires a saving throw, your **Arcane Shot save DC** equals `8 plus your Proficiency Bonus + your Intelligence Modifier`.
 
 **Banishing Shot**
 :   On hit, target must succeed on a **:d20-save: CHA Save**{.d20} or be banished. While banished in this way, its **:rsc-spd: Speed** is **0**, and it has the **Incapacitated**{.cond} condition. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
@@ -67,12 +68,12 @@ If an option requires a saving throw, your **Arcane Shot save DC** equals 8 plus
 **Bursting Shot**
 :   It detonates after it hits or misses the target. The target and all other creatures within 10 feet of it make a **:d20-save: DEX Save**{.d20}. A creature takes **3d6 :dmg-force: Force**{.dmg-force} damage on a failed save, half as much on a successful one.
 
-    *You imbue the projectile with force energy drawn from the school of evocation.*{.cond}
+    *You imbue the projectile with force energy drawn from the school of evocation.*{.quote}
 
 **Enfeebling Shot**
 :   The target takes an extra **2d6 :dmg-necr: Necrotic**{.dmg-necr} damage and makes a **:d20-save: CON Save**{.d20}. On a failed save, all damage dealt by the target is halved.
 
-    *You weave necromantic magic into your projectile.*{.cond}
+    *You weave necromantic magic into your projectile.*{.quote}
 
 **Grasping Shot**
 :   When this projectile strikes its target, conjuration magic creates grasping, poisonous brambles, which wrap around the target. The target takes an extra **2d6 :dmg-posn: Poison**{.dmg-posn} damage and its Speed is reduced by 10 feet. The first time it moves on its turn without teleporting, it takes **2d6 :dmg-slsh: Slashing**{.dmg-bps} damage. At the end of each of its turns, the target can make a **:d20-save: STR Save**{.d20}. On a success, the effect ends. The brambles last for 1 minute, until you use it again, or if the target manages to escape early.
@@ -85,7 +86,7 @@ If an option requires a saving throw, your **Arcane Shot save DC** equals 8 plus
 **Seeking Shot**
 :   When you use this option, you don’t make an attack roll for the attack. Instead, choose one creature you have seen in the past minute. The arrow flies toward that creature, moving around corners if necessary and ignoring three-quarters cover and half cover. If the target is within the weapon’s range and there is a path large enough for the arrow to travel to the target, the target makes a **:d20-save: DEX Save**{.d20}. On a failed save, the target takes **3d6 :dmg-force: Force**{.dmg-force} damage, and you learn the target’s current location. On a successful save, the target takes half as much damage, and you don’t learn its location.
 
-    *Using divination magic, you grant your projectile the ability to seek out your target, allowing it to curve and twist its path in search of its prey.*{.cond}
+    *Using divination magic, you grant your projectile the ability to seek out your target, allowing it to curve and twist its path in search of its prey.*{.quote}
 
 **Shadow Shot**
 :   The target takes an extra **2d6 :dmg-psyc: Psychic**{.dmg-psyc} damage, and it must succeed on a **:d20-save: WIS Save**{.d20} or have the **Blinded**{.cond} condition until the start of your next turn.
@@ -95,5 +96,9 @@ If an option requires a saving throw, your **Arcane Shot save DC** equals 8 plus
 **Silencing Shot**
 :   The target takes an extra **2d6 :dmg-thun: Thunder**{.dmg-thun} damage and makes a **:d20-save: CON Save**{.d20}. On a failed save, it has the **Silenced**{.cond} condition.
 
+    *You charge abjuration magic into your projectile, severing the target connection to the Weave*
+
 **Transposing Shot**
 :   The target takes an extra **1d6 :dmg-force: Force**{.dmg-force} damage and makes a **:d20-save: CHA Save**{.d20}. On a failed save, you switch places with it.
+
+    *You imbue conjuration magic into your shot, swapping your position with the target*
