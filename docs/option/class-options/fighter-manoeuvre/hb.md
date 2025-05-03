@@ -20,14 +20,14 @@ To learn a Manoeuvre you must meet any prerequisites it has.
 ### Brace Up {.hide}
 
 ***Brace Up***
-:   _**Prerequisites:** Constitution 11+_ <br>You prepare yourself to take a hit. As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one Superiority Die to gain **(Superiority Dice + CON Modifier) :trt-thp: Temporary Hit Points**, which expires after 1 minute.
+:   _**Prerequisites:** Constitution 11+_ <br>You prepare yourself to take a hit. As a **:rsc-b: Bonus Action**{.rsc}, you can expend one Superiority Die to gain **(Superiority Dice + CON Modifier) :trt-thp: Temporary Hit Points**, which expires after 1 minute.
 
 ---
  
 ### First Aid {.hide}
 
 ***First Aid***
-:   _**Prerequisites:** Wisdom (Medicine) proficiency_ <br>As a **:rsc-a: Utilise**{ .rsc } action, you touch a willing, living creature and expend Superiority Dice (up to your Proficiency Bonus). For every Superiority Die you spent, that creature regains **:dmg-heal: Hit Points** equal to one roll of its Hit Die + its Constitution modifier (minimum of 0).
+:   _**Prerequisites:** Wisdom (Medicine) proficiency_ <br>As a **:rsc-a: Utilise**{.rsc} action, you touch a willing, living creature and expend Superiority Dice (up to your Proficiency Bonus). For every Superiority Die you spent, that creature regains **:dmg-heal: Hit Points** equal to one roll of its Hit Die + its Constitution modifier (minimum of 0).
 
 ---
 

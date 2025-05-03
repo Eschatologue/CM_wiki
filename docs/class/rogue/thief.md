@@ -14,11 +14,11 @@ A mix of burglar, treasure hunter, and explorer, you are the consummate adventur
 
 ### Level 3: Fast Hands
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can do one of the following:
+As a **:rsc-b: Bonus Action**{.rsc}, you can do one of the following:
 
 **Sleight of Hand**{.inl} Make a Dexterity (Sleight of Hand) check to pick a lock or disarm a trap with Thieves' Tools or to pick a pocket.
 
-**Use an Object**{.inl} Take the **:rsc-a: Utilise**{ .rsc } action, or take the **:rsc-a: Magic**{ .rsc } action to use a magic item that requires that action.
+**Use an Object**{.inl} Take the **:rsc-a: Utilise**{.rsc} action, or take the **:rsc-a: Magic**{.rsc} action to use a magic item that requires that action.
 
 ### Level 3: Second-Story Work
 
@@ -32,7 +32,7 @@ You have trained to reach especially hard-to- reach places, granting you these b
 
 You gain the following Cunning Strike option.
 
-**Stealth Attack (Cost: 1d6)**{.inl} If you have the **:rsc-a: Hide**{ .rsc } action's **Invisible**{.cond} condition, this attack doesn't end that condition on you if you end the turn behind Three-Quarters Cover or Total Cover.
+**Stealth Attack (Cost: 1d6)**{.inl} If you have the **:rsc-a: Hide**{.rsc} action's **Invisible**{.cond} condition, this attack doesn't end that condition on you if you end the turn behind Three-Quarters Cover or Total Cover.
  
 ### Level 13: Use Magic Device
 

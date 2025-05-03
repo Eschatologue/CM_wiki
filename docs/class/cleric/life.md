@@ -33,7 +33,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### Level 3: Preserve Life
 
-As a **:rsc-a: Magic**{ .rsc } action, you present your Holy Symbol and expend a use of your **:ui-chdiv-cleric: Channel Divinity**{ .em } to evoke healing energy that can restore a number of Hit Points equal to five times your Cleric level. Choose Bloodied creatures within 30 feet of yourself (which can include you), and divide those Hit Points among them. This feature can restore a creature to no more than half its Hit Point maximum.
+As a **:rsc-a: Magic**{.rsc} action, you present your Holy Symbol and expend a use of your **:ui-chdiv-cleric: Channel Divinity**{ .em } to evoke healing energy that can restore a number of Hit Points equal to five times your Cleric level. Choose Bloodied creatures within 30 feet of yourself (which can include you), and divide those Hit Points among them. This feature can restore a creature to no more than half its Hit Point maximum.
 
 ### Level 6: Blessed Healer
 

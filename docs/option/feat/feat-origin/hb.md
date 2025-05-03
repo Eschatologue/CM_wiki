@@ -34,7 +34,7 @@ You gain Proficiency with Thieves' Tools.
 As part of a **:rest-short: Short Rest**, you can use scavenged or acquired materials to build a temporary set of Thieves' Tools for when you lack access to a permanent one. This temporary set ceases to function after 1 hour.
     
 ###### Slightly Cunning Action  
-Choose one of the following actions: *Dash*, *Disengage*, *Hide* or *Utilise*. You can use the chosen action as a **:rsc-b: Bonus Action**{ .rsc }.
+Choose one of the following actions: *Dash*, *Disengage*, *Hide* or *Utilise*. You can use the chosen action as a **:rsc-b: Bonus Action**{.rsc}.
 
 ---
 
@@ -158,7 +158,7 @@ While you may not be a true Sorcerer, within you dwells a small spark of arcane 
 You learn one Cantrip and two level 1 spells of your choice from the Sorcerer spell list, and you use Charisma as your spellcasting ability for all three Sorcerer spells.
 
 ###### Sorcery Points  
-You gain 2 :class-phb24-sorcerer: **Sorcery Point(s)**, which you can convert to a level 1 spell slot as a **:rsc-b: Bonus Action**{ .rsc }. Should you already have Sorcery Points, these are added to your existing pool. You regain all your Sorcery Points from this feat when you finish a **:rest-long: Long Rest**.
+You gain 2 :class-phb24-sorcerer: **Sorcery Point(s)**, which you can convert to a level 1 spell slot as a **:rsc-b: Bonus Action**{.rsc}. Should you already have Sorcery Points, these are added to your existing pool. You regain all your Sorcery Points from this feat when you finish a **:rest-long: Long Rest**.
 
 ---
 

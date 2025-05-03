@@ -47,7 +47,7 @@ Increase one ability score of your choice by 1, to a maximum of 30.
 You gain **:dmg-res: Resistance** to two of the following damage types of your choice: **:dmg-acid: Acid**{.dmg-acid}, **:dmg-cold: Cold**{.dmg-cold}, **:dmg-fire: Fire**{.dmg-fire}, **:dmg-lgtn: Lightning**{.dmg-lgtn}, **:dmg-posn: Necrotic**{.dmg-necr}, **:dmg-posn: Poison**{.dmg-posn}, **:dmg-psyc: Psychic**{.dmg-psyc}, **:dmg-radi: Radiant**{.dmg-radi}, or **:dmg-thun: Thunder**{.dmg-thun}. Whenever you finish a **:rest-long: Long Rest**, you can change your choices.
 
 ###### Energy Redirection
-When you take damage of one of the types chosen for the Energy Resistances benefit, you can take a **:rsc-r: Reaction**{ .rsc } to direct damage of the same type toward another creature you can see within 60 feet of yourself that isn't behind Total Cover. If you do so, that creature must succeed on a :d20-save: Dexterity saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus) or take damage equal to 2d12 plus your Constitution modifier.
+When you take damage of one of the types chosen for the Energy Resistances benefit, you can take a **:rsc-r: Reaction**{.rsc} to direct damage of the same type toward another creature you can see within 60 feet of yourself that isn't behind Total Cover. If you do so, that creature must succeed on a :d20-save: Dexterity saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus) or take damage equal to 2d12 plus your Constitution modifier.
 
 ---
 
@@ -109,7 +109,7 @@ Increase one ability score of your choice by 1, to a maximum of 30.
 When you would be reduced to 0 Hit Points, you can drop to 1 Hit Point instead and regain a number of Hit Points equal to half your Hit Point maximum. Once you use this benefit, you can't use it again until you finish a **:rest-long: Long Rest**.
 
 ###### Recover Vitality
-You have a pool of ten d10s. As a **:rsc-b: Bonus Action**{ .rsc }, you can expend dice from the pool, roll those dice, and regain a number of Hit Points equal to the roll's total. You regain all the expended dice when you finish a **:rest-long: Long Rest**.
+You have a pool of ten d10s. As a **:rsc-b: Bonus Action**{.rsc}, you can expend dice from the pool, roll those dice, and regain a number of Hit Points equal to the roll's total. You regain all the expended dice when you finish a **:rest-long: Long Rest**.
 
 ---
 
@@ -140,7 +140,7 @@ You gain the following benefits.
 Increase one ability score of your choice by 1, to a maximum of 30.
 
 ###### Escape Artist
-As a **:rsc-b: Bonus Action**{ .rsc }, you can take the Disengage action, which also ends the Grappled condition on you.
+As a **:rsc-b: Bonus Action**{.rsc}, you can take the Disengage action, which also ends the Grappled condition on you.
 
 ###### Quickness
 Your **:rsc-spd: Speed**{ .em } increases by 30 feet.
@@ -157,7 +157,7 @@ You gain the following benefits.
 Increase one ability score of your choice by 1, to a maximum of 30.
 
 ###### Merge with Shadows
-While within Dim Light or Darkness, you can give yourself the Invisible condition as a  **:rsc-b: Bonus Action**{ .rsc }. The condition ends on you immediately after you take an action, a **:rsc-b: Bonus Action**{ .rsc }, or a **:rsc-r: Reaction**{ .rsc }.
+While within Dim Light or Darkness, you can give yourself the Invisible condition as a  **:rsc-b: Bonus Action**{.rsc}. The condition ends on you immediately after you take an action, a **:rsc-b: Bonus Action**{.rsc}, or a **:rsc-r: Reaction**{.rsc}.
 
 ###### Shadowy Form
 While within Dim Light or Darkness, you have Resistance to all damage except Psychic and Radiant.

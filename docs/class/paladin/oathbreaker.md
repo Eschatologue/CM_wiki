@@ -34,7 +34,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 3: Corrupting Will
 
-Your blasphemous will can corrupt and conquer the souls of others. As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a use of your **:ui-chdiv-pal: Channel Divinity** to force a creature you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, the target has the Charmed condition for 1 minute. For the duration, you can take a **:rsc-b: Bonus Action**{ .rsc } to issue one of the following commands to an affected creature.
+Your blasphemous will can corrupt and conquer the souls of others. As a **:rsc-b: Bonus Action**{.rsc}, you can expend a use of your **:ui-chdiv-pal: Channel Divinity** to force a creature you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, the target has the Charmed condition for 1 minute. For the duration, you can take a **:rsc-b: Bonus Action**{.rsc} to issue one of the following commands to an affected creature.
 
 **Enforce**{.inl} You can issue a one word command to the creature as if by the [:spell-lv1: Command] spell.
 
@@ -52,7 +52,7 @@ Unholy magic courses through you. You have **:dmg-res: Resistance**{ .em } to :d
 
 ### Level 20: Dread Lord
 
-Your connection to the unholy grants you a shroud of gloom. As a **:rsc-b: Bonus Action**{ .rsc }, you can surround yourself in gloom in a 30-foot Emanation. This Emanation lasts for 10 minutes. Bright light in this area becomes dim light. Whenever a creature hits another creature with a weapon attack while it is within this Emanation, you can choose to have that creature deal half damage. Once you use this feature, you cannot use it again until you finish a **:rest-long: Long Rest**, or you expend a level 5 spell slot to use it again.
+Your connection to the unholy grants you a shroud of gloom. As a **:rsc-b: Bonus Action**{.rsc}, you can surround yourself in gloom in a 30-foot Emanation. This Emanation lasts for 10 minutes. Bright light in this area becomes dim light. Whenever a creature hits another creature with a weapon attack while it is within this Emanation, you can choose to have that creature deal half damage. Once you use this feature, you cannot use it again until you finish a **:rest-long: Long Rest**, or you expend a level 5 spell slot to use it again.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

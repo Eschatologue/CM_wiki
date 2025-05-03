@@ -37,7 +37,7 @@ In addition, whenever you cast that spell, you can choose one of the following a
 
 ### Level 6: Misty Escape
 
-You can cast [:spell-lv2: Misty Step] as a **:rsc-r: Reaction**{ .rsc } in response to taking damage.
+You can cast [:spell-lv2: Misty Step] as a **:rsc-r: Reaction**{.rsc} in response to taking damage.
 
 In addition, the following effects are now among your Steps of the Fey options.
 
@@ -49,9 +49,9 @@ In addition, the following effects are now among your Steps of the Fey options.
 
 Your patron teaches you how to guard your mind and body. You are immune to the Charmed condition.
 
-In addition, immediately after a creature you can see hits you with an attack roll, you can use your **:rsc-r: Reaction**{ .rsc } to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take.
+In addition, immediately after a creature you can see hits you with an attack roll, you can use your **:rsc-r: Reaction**{.rsc} to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take.
 
-Once you use this **:rsc-r: Reaction**{ .rsc }, you can't use it again until you finish a **:rest-long: Long Rest** unless you expend a spell slot when you use it again.
+Once you use this **:rsc-r: Reaction**{.rsc}, you can't use it again until you finish a **:rest-long: Long Rest** unless you expend a spell slot when you use it again.
 
 ### Level 14: Bewitching Magic
 

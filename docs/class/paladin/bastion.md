@@ -23,12 +23,12 @@ These paladins share the following tenets:
 
 ### Level 3: Guardian's Mark
 
-As **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to choose a point or a creature within 60 feet, designating its surrounding as a zone of protection, choose one of the following within 60 feet:
+As **:rsc-b: Bonus Action**{.rsc}, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to choose a point or a creature within 60 feet, designating its surrounding as a zone of protection, choose one of the following within 60 feet:
 
 - A fixed point on the ground, or
 - A creature (including yourself), which causes the zone to move with them.
 
-This protective zone lasts for 1 minute. While active, each time a creature within 15 feet of the marked point takes **:rsc-a: Action**, **:rsc-b: Bonus Action**{ .rsc }, **:rsc-r: Reaction**, or **moves**, you can make a Ranged weapon attack against them using a Heavy Archer weapon (if within normal range). This attack doesn't require any action and can be made up to a number of times equal to your :abl-cha: Charisma modifier (minimum of 1). You cannot take any :rsc-r: Reactions until the start of your next turn after using this attack. 
+This protective zone lasts for 1 minute. While active, each time a creature within 15 feet of the marked point takes **:rsc-a: Action**, **:rsc-b: Bonus Action**{.rsc}, **:rsc-r: Reaction**, or **moves**, you can make a Ranged weapon attack against them using a Heavy Archer weapon (if within normal range). This attack doesn't require any action and can be made up to a number of times equal to your :abl-cha: Charisma modifier (minimum of 1). You cannot take any :rsc-r: Reactions until the start of your next turn after using this attack. 
 
 This protective zone ends early if you either if you sse up all the allowed attacks, or when you have the **Incapacitated**{ .cond } condition.
 
@@ -75,7 +75,7 @@ You can use this feature a number of time equals to your :abl-cha: Charisma modi
 
 ### Level 20: Hold the Line
 
-You become an unyielding bulwark, turning aside threats and protecting those within your shielded presence. As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
+You become an unyielding bulwark, turning aside threats and protecting those within your shielded presence. As a **:rsc-b: Bonus Action**{.rsc}, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Truesight***. You gain *Truesight* with a range of 120 feet.
 

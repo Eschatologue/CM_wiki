@@ -21,7 +21,7 @@ While wearing your Ravager Armour, you gain the following benefits:
 
 **Barbed**{.inl} You have **:d20-adv: Advantage**{.d20} on saving throws to avoid or end the Grappled condition.
 
-**Spiked Slam**{.inl} When you make an **:rsc-a: Unarmed Strike (Damage)**{ .rsc }, you can slam into the target with your armour, dealing **(1d6 + Strength modifier) :dmg-prcg: Piercing**{.dmg-bps} damage, instead of the normal damage for an **:rsc-a: Unarmed Strike**{ .rsc }.
+**Spiked Slam**{.inl} When you make an **:rsc-a: Unarmed Strike (Damage)**{.rsc}, you can slam into the target with your armour, dealing **(1d6 + Strength modifier) :dmg-prcg: Piercing**{.dmg-bps} damage, instead of the normal damage for an **:rsc-a: Unarmed Strike**{.rsc}.
 
 **Spiky Embrace**{.inl} At the start of each of your turns while you have a creature Grappled, it takes **(Strength modifier) :dmg-prcg: Piercing**{.dmg-bps} damage (minimum 1 damage). When your **:ui-rage: Rage**{ .em } is active, you add your Rage damage bonus to this damage.
 
@@ -31,13 +31,13 @@ Your furious grip becomes extremely tight as you press your spiked armour into y
 
 ### Level 6: Spiked Retribution
 
-When a creature hits you with a melee attack, you can use your **:rsc-r: Reaction**{ .rsc } to make an **:rsc-a: Unarmed Strike**{ .rsc } against it. This **:rsc-a: Unarmed Strike**{ .rsc } can only be used to Grapple.
+When a creature hits you with a melee attack, you can use your **:rsc-r: Reaction**{.rsc} to make an **:rsc-a: Unarmed Strike**{.rsc} against it. This **:rsc-a: Unarmed Strike**{.rsc} can only be used to Grapple.
 
 ### Level 10: Death Roll
 
 While your **:ui-rage: Rage**{ .em } is active and you have one or more creatures Grappled, perform a *Death Roll*. 
 
-**Death Roll**{.inl} As a **:rsc-b: Bonus Action**{ .rsc }, you move yourself to an unoccupied space you can see within 15 feet of you, dragging the Grappled creatures along with you. During this Movement, you violently spin and slam your Grappled target, dealing **1d6 :dmg-prcg: Piercing**{.dmg-bps} damage for each 5 feet you move. The damage increases by `1d6` at level 15 (`2d6`) and at level 20 (`3d6`).
+**Death Roll**{.inl} As a **:rsc-b: Bonus Action**{.rsc}, you move yourself to an unoccupied space you can see within 15 feet of you, dragging the Grappled creatures along with you. During this Movement, you violently spin and slam your Grappled target, dealing **1d6 :dmg-prcg: Piercing**{.dmg-bps} damage for each 5 feet you move. The damage increases by `1d6` at level 15 (`2d6`) and at level 20 (`3d6`).
 
 ### Level 14: Ravager's Might
 

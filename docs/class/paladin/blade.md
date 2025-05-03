@@ -38,7 +38,7 @@ If a Manoeuvre requires a saving throw, the DC equals 8 plus your Strength or De
 
 ### Level 3: Sacred Duel
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to begin a Sacred Duel. Choose one creature that you can see within 30 feet, it must make a a **:d20-save: Wisdom saving throw**{.d20}. On a failed save, it is engaged in a Sacred Duel, designating you and the target as Duelists. On successful save, your use of **:ui-chdiv-pal: Channel Divinity** is not expended.
+As a **:rsc-b: Bonus Action**{.rsc}, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to begin a Sacred Duel. Choose one creature that you can see within 30 feet, it must make a a **:d20-save: Wisdom saving throw**{.d20}. On a failed save, it is engaged in a Sacred Duel, designating you and the target as Duelists. On successful save, your use of **:ui-chdiv-pal: Channel Divinity** is not expended.
 Duelists are under the following effects:
 
 **Resistance**{.inl} Duelists have **:dmg-res: Resistance**{ .em } to all damage from creatures, except for the other Duelist. 
@@ -61,11 +61,11 @@ You possess an unnatural level of awareness.
 
 **Blindsight**{.inl} You have Blindsight equals to your Aura of Protection's range.
 
-**Counterstrike**{.inl} When a creature you can see hits you with a Melee attack, you can make an **:rsc-r: Opportunity Attack**{ .rsc } against it.
+**Counterstrike**{.inl} When a creature you can see hits you with a Melee attack, you can make an **:rsc-r: Opportunity Attack**{.rsc} against it.
 
 ### Level 20: Warrior of Legend
 
-As **:rsc-b: Bonus Action**{ .rsc }, you can enter a battle trance that enhances your combat skills to legendary levels, granting the benefits below for 1 minute, until you end them (no action required). Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As **:rsc-b: Bonus Action**{.rsc}, you can enter a battle trance that enhances your combat skills to legendary levels, granting the benefits below for 1 minute, until you end them (no action required). Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 **Free Manoeuvre**{.inl} Once per turn, when you use a Manoeuvre, you can roll a :die-d6: d6 and use the number rolled instead of expending a Superiority Die.
 

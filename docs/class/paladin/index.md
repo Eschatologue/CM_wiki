@@ -104,7 +104,7 @@ As a Paladin, you gain the following class features when you reach the specified
 
 Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a **:rest-long: Long Rest**. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level.
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool.
+As a **:rsc-b: Bonus Action**{.rsc}, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool.
 
 In addition, you can expend 5 Hit Points from the pool of healing to remove the Poisoned condition from the creature, rather than using those points to restore Hit Points.
 
@@ -163,7 +163,7 @@ You always have the [:spell-lv1: Divine Smite] spell prepared. In addition, you 
 
 _Level 2 Paladin Optional Class Feature, replaces Paladin's Smite_{ .fg-light }
 
-When you damage a creature with a Melee weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } , you can expend a spell slot to cause that attack to deal **bonus damage** to the target. This feature also changes the damage type dealt from _**Radiant Strike**_ feature. This bonus damage is `2d8` for a level 1 spell slot and it increases by `1d8` for each spell slot level above 1, to a maximum of `6d8`.
+When you damage a creature with a Melee weapon attack or an **:rsc-a: Unarmed Strike**{.rsc} , you can expend a spell slot to cause that attack to deal **bonus damage** to the target. This feature also changes the damage type dealt from _**Radiant Strike**_ feature. This bonus damage is `2d8` for a level 1 spell slot and it increases by `1d8` for each spell slot level above 1, to a maximum of `6d8`.
 
 The bonus damage of this feature depends on your alignment, or freely choose from the following table.
 
@@ -187,7 +187,7 @@ If a **:ui-chdiv-pal: Channel Divinity** effect requires a saving throw, the DC 
 
 #### :ui-chdiv-pal: Divine Sense
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
+As a **:rsc-b: Bonus Action**{.rsc}, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
 
 ### Level 3: Paladin Subclass
 
@@ -207,7 +207,7 @@ You gain the [:option-feat-general: Ability Score Improvement](../../option/feat
 
 ### Level 5: Extra Attack
 
-You can attack twice instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
+You can attack twice instead of once whenever you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
 ### Level 5: Faithful Steed
 
@@ -225,7 +225,7 @@ If another Paladin is present, a creature can benefit from only one Aura of Prot
 
 ### Level 9: Abjure Foes
 
-As a **:rsc-a: Magic**{ .rsc } action, you can expend one use of this class's **:ui-chdiv-pal: Channel Divinity** to overwhelm foes with awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. While Frightened in this way, a target can do only one of the following on its turns: move, take an action, or take a  **:rsc-b: Bonus Action**{ .rsc }.
+As a **:rsc-a: Magic**{.rsc} action, you can expend one use of this class's **:ui-chdiv-pal: Channel Divinity** to overwhelm foes with awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. While Frightened in this way, a target can do only one of the following on its turns: move, take an action, or take a  **:rsc-b: Bonus Action**{.rsc}.
 
 ### Level 10: Aura of Courage
 
@@ -233,7 +233,7 @@ You and your allies have Immunity to the Frightened condition while in your Aura
 
 ### Level 11: Radiant Strikes
 
-Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an **:rsc-a: Unarmed Strike**{ .rsc } , the target takes an extra **1d8 :dmg-radi: Radiant**{ .dmg-radi } damage.
+Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an **:rsc-a: Unarmed Strike**{.rsc} , the target takes an extra **1d8 :dmg-radi: Radiant**{ .dmg-radi } damage.
 
 ### Level 14: Restoring Touch
 

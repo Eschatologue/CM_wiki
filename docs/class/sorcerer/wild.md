@@ -26,7 +26,7 @@ If you do cast a Sorcerer spell with a spell slot, you automatically roll on the
 
 ### Level 6: Bend Luck
 
-You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the d20 for a D20 Test, you can use your **:rsc-r: Reaction**{ .rsc } and spend 1 Sorcery Point to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature's roll.
+You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the d20 for a D20 Test, you can use your **:rsc-r: Reaction**{.rsc} and spend 1 Sorcery Point to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature's roll.
  
 ### Level 14: Controlled Chaos
 
@@ -47,12 +47,12 @@ Once you use this feature, you can't do so again until you finish a **:rest-long
 | 09-12 | For the next minute, you regain 5 Hit Points at the start of each of your turns. |
 | 13-16 | Creatures have **:d20-dis: Disadvantage**{.d20} on saving throws against the next spell you cast in the next minute that involves a saving throw. |
 | 17-20 | You are subjected to an effect that lasts for 1 minute unless its description says otherwise. Roll 1d8 to determine the effect: on a 1, you're surrounded by faint, ethereal music only you and creatures within 5 feet of you can hear; on a 2, your size increases by one size category; on a 3, you grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode from your face and vanish; on a 4, you must shout when you speak; on a 5, illusory butterflies flutter in the air within 10 feet of you; on a 6, an eye appears on your forehead, granting you **:d20-adv: Advantage**{.d20} on Wisdom (Perception) checks; on an 7, pink bubbles float out of your mouth whenever you speak; on an 8, your skin turns a vibrant shade of blue for 24 hours or until the effect is ended by a *Remove Curse* spell. |
-| 21-24 | For the next minute, all your spells with a casting time of an action have a casting time of a  **:rsc-b: Bonus Action**{ .rsc }. |
+| 21-24 | For the next minute, all your spells with a casting time of an action have a casting time of a  **:rsc-b: Bonus Action**{.rsc}. |
 | 25-28 | You are transported to the Astral Plane until the end of your next turn. You then return to the space you previously occupied or the nearest unoccupied space if that space is occupied. |
 | 29-32 | The next time you cast a spell that deals damage within the next minute, don't roll the spell's damage dice for the damage. Instead use the highest number possible for each damage die. |
 | 33-36 | You have Resistance to all damage for the next minute. |
 | 37-40 | You turn into a potted plant until the start of your next turn. While you're a plant, you have the Incapacitated condition and have Vulnerability to all damage. If you drop to 0 Hit Points, your pot breaks, and your form reverts. |
-| 41-44 | For the next minute, you can teleport up to 20 feet as a **:rsc-b: Bonus Action**{ .rsc } on each of your turns. |
+| 41-44 | For the next minute, you can teleport up to 20 feet as a **:rsc-b: Bonus Action**{.rsc} on each of your turns. |
 | 45-48 | You and up to three creatures you choose within 30 feet of you have the Invisible condition for 1 minute. This invisibility ends on a creature immediately after it makes an attack roll, deals damage, or casts a spell. |
 | 49-52 | A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to *Magic Missile*. |
 | 53-56 | You can take one extra action on this turn. |

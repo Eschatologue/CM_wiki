@@ -19,7 +19,7 @@ search:
 
     :   #### ATTACK :rsc-a:{ title="requires Action" }
     
-        Perform a Melee or Ranged attack with your weapon or perform **:rsc-a: Unarmed Strike**{ .rsc }.
+        Perform a Melee or Ranged attack with your weapon or perform **:rsc-a: Unarmed Strike**{.rsc}.
 
     :action-dash:{.x3l}
 
@@ -31,7 +31,7 @@ search:
 
     :   #### DISENGAGE :rsc-a:{ title="requires Action" }
     
-        Your Movement doesn't provoke **:rsc-r: Opportunity Attack**{ .rsc } for the rest of the turn.
+        Your Movement doesn't provoke **:rsc-r: Opportunity Attack**{.rsc} for the rest of the turn.
 
     :material-arrow-expand:{.x3l}
 
@@ -115,13 +115,13 @@ search:
 
     :   #### CAST A SPELL :rsc-b:{ title="requires Bonus Action" }
     
-        Cast a spell with a casting time of a **:rsc-b: Bonus Action**{ .rsc }.
+        Cast a spell with a casting time of a **:rsc-b: Bonus Action**{.rsc}.
     
     :simple-sparkfun:{ .x3l }
 
     :   #### USE A FEATURE :rsc-b:{ title="requires Bonus Action" }
     
-        Activate a feature (e.g, Class feature, Species feature) that uses a a **:rsc-b: Bonus Action**{ .rsc }.
+        Activate a feature (e.g, Class feature, Species feature) that uses a a **:rsc-b: Bonus Action**{.rsc}.
 
     </div>
 
@@ -145,9 +145,9 @@ search:
 
     :   #### READIED ACTION :rsc-r:{ title="requires Reaction" }
     
-        _**Trigger:** specified by your **:rsc-a: Ready**{ .rsc } action_
+        _**Trigger:** specified by your **:rsc-a: Ready**{.rsc} action_
 
-        Execute the reaction specified by your **:rsc-a: Ready**{ .rsc } action.
+        Execute the reaction specified by your **:rsc-a: Ready**{.rsc} action.
 
     </div>
 
@@ -161,7 +161,7 @@ search:
     
         _**Trigger:** specified by the spell_
 
-        Cast a spell with a casting time of a **:rsc-r: Reaction**{ .rsc }.
+        Cast a spell with a casting time of a **:rsc-r: Reaction**{.rsc}.
 
     :simple-sparkfun:{ .x3l }
 
@@ -169,7 +169,7 @@ search:
     
         _**Trigger:** specified by the feature_
 
-        Activate a feature (e.g, Class feature, Species feature) that uses a a **:rsc-r: Reaction**{ .rsc }.
+        Activate a feature (e.g, Class feature, Species feature) that uses a a **:rsc-r: Reaction**{.rsc}.
 
     </div>
 

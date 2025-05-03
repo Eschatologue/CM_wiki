@@ -34,7 +34,7 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <hr class="hr-solid">  
 
-When you make an attack with a **:wp-prop-heavy: Heavy**{ .wp } Cold Weapon as part of your **:rsc-a: Attack**{ .rsc } action and the total damage roll from your weapon is 5 or lower, you treat it as 6.
+When you make an attack with a **:wp-prop-heavy: Heavy**{ .wp } Cold Weapon as part of your **:rsc-a: Attack**{.rsc} action and the total damage roll from your weapon is 5 or lower, you treat it as 6.
 
 --- 
 
@@ -76,7 +76,7 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <hr class="hr-solid">
 
-You gain a +1 bonus to damage rolls with Quarterstaves, Spears, War Scythes, and weapons that has the **:wp-prop-heavy: Heavy**{ .wp } and **:wp-prop-reach: Reach**{ .wp } properties. While wielding one of these weapons, creatures provoke an **:rsc-r: Opportunity Attack**{ .rsc } from you when they *enter* or *move* within your reach with that weapon. 
+You gain a +1 bonus to damage rolls with Quarterstaves, Spears, War Scythes, and weapons that has the **:wp-prop-heavy: Heavy**{ .wp } and **:wp-prop-reach: Reach**{ .wp } properties. While wielding one of these weapons, creatures provoke an **:rsc-r: Opportunity Attack**{.rsc} from you when they *enter* or *move* within your reach with that weapon. 
 
 Moreover, Quarterstaves, Spears, and War Scythes gains the **:wp-prop-reach: Reach**{ .wp } property when wielded with two hands.
 
@@ -100,7 +100,7 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <hr class="hr-solid">
 
-When a creature within 15 feet of you makes an attack against a creature that you can see, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:d20-adv: Advantage**{.d20} on its attack roll. You must be carrying a banner, flag, holy symbol, or standard in your hand.
+When a creature within 15 feet of you makes an attack against a creature that you can see, you can take a **:rsc-r: Reaction**{.rsc} to grant it **:d20-adv: Advantage**{.d20} on its attack roll. You must be carrying a banner, flag, holy symbol, or standard in your hand.
 
 ---
 
@@ -122,6 +122,6 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 
 
-While wielding a single weapon with the **:wp-prop-versatile: Versatile**{ .wp } property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can take one of the following actions as a **:rsc-b: Bonus Action**{ .rsc }: **:rsc-a: Unarmed Strike (Grapple)**{ .rsc },**:rsc-a: Unarmed Strike (Shove)**{ .rsc }, or **:rsc-a: Utilise**{ .rsc } action.
+While wielding a single weapon with the **:wp-prop-versatile: Versatile**{ .wp } property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can take one of the following actions as a **:rsc-b: Bonus Action**{.rsc}: **:rsc-a: Unarmed Strike (Grapple)**{.rsc},**:rsc-a: Unarmed Strike (Shove)**{.rsc}, or **:rsc-a: Utilise**{.rsc} action.
 
 ---

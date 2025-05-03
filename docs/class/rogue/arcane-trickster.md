@@ -73,7 +73,7 @@ You can use an Arcane Focus as a Spellcasting Focus for the spells you prepare f
 
 ### Level 3: Mage Hand Legerdemain
 
-When you cast [:spell-lv0: Mage Hand], you can make the spectral hand invisible. You can control the hand as a **:rsc-b: Bonus Action**{ .rsc }, instead of an action, and through it, you can use Thieves' Tools and make Dexterity (Sleight of Hand) checks.
+When you cast [:spell-lv0: Mage Hand], you can make the spectral hand invisible. You can control the hand as a **:rsc-b: Bonus Action**{.rsc}, instead of an action, and through it, you can use Thieves' Tools and make Dexterity (Sleight of Hand) checks.
 
 ### Level 9: Magical Ambush
 
@@ -87,7 +87,7 @@ You gain the ability to distract targets with your Mage Hand. When you use the *
 
 You gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.
 
-Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can take a **:rsc-r: Reaction**{ .rsc } to force the creature to make an Intelligence saving throw. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least level 1 and of a level you can cast (it doesn't need to be a Wizard spell). For the next 8 hours, you have the spell prepared. The creature can't cast it until the 8 hours have passed.
+Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can take a **:rsc-r: Reaction**{.rsc} to force the creature to make an Intelligence saving throw. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least level 1 and of a level you can cast (it doesn't need to be a Wizard spell). For the next 8 hours, you have the spell prepared. The creature can't cast it until the 8 hours have passed.
 
 Once you steal a spell with this feature, you can't use this feature again until you finish a **:rest-long: Long Rest**.
 

@@ -33,7 +33,7 @@ When you reach a Magus level specified in the Traveler Spells table, you thereaf
 
 *You can alter the passage of time to undo any mistakes and missteps you may make.*
 
-Whenever you fail a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to re-roll your d20. You must use this new result.
+Whenever you fail a D20 Test, you can take a **:rsc-r: Reaction**{.rsc} to re-roll your d20. You must use this new result.
 
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once) and regain all expended use when you finish a **:rest-long: Long Rest**. You can also restore all usage by expending a level 1+ spell slot (no action required).
 
@@ -57,13 +57,13 @@ At level 15, you only age 1 year for every 100 years that pass, and at level 20,
 
 You can use [Temporal Shift] whenever a creature that you can see within 30 feet fails a D20 Test. It must use the new result of its d20 roll.
 
-Also, at the beginning of each round of **:d20-inv: Initiative**{.d20 } in combat, so long as you don't have the Incapacitated or Surprised condition, you can use your **:rsc-r: Reaction**{ .rsc } to roll **:d20-inv: Initiative**{.d20 } again, using the new result.
+Also, at the beginning of each round of **:d20-inv: Initiative**{.d20 } in combat, so long as you don't have the Incapacitated or Surprised condition, you can use your **:rsc-r: Reaction**{.rsc} to roll **:d20-inv: Initiative**{.d20 } again, using the new result.
 
 ### Level 15: Conjure Self
 
 *You have become so adept at the manipulation of time that you can conjure versions of yourself from the future to aid you.*
 
-As a **:rsc-a: Magic**{ .rsc } action, expend a level 3+ spell slot to conjure your **Future Self**, which shares your **:d20-inv: Initiative**{.d20 } and acts immediately after you.
+As a **:rsc-a: Magic**{.rsc} action, expend a level 3+ spell slot to conjure your **Future Self**, which shares your **:d20-inv: Initiative**{.d20 } and acts immediately after you.
 
 Your **Future Self** has your Hit Point Maximum, Ability Scores, and all features from your Species, Class, and other sources, including independent uses of [Temporal Shift], but shares your spell slots. It aids you independently to the best of its abilities.
 
@@ -77,7 +77,7 @@ Only one **Future Self** can exist at a time. Summoning a new one ends the previ
 
 *Your use of Chronomancy has caused you to become adrift in the flow of time, seeing and experiencing it radically different from those around you.*
 
-As a **:rsc-a: Magic**{ .rsc } action, you can cast a modified version of the [:spell-lv9: Time Stop] spell where you and your **Future Self** can both act, but you each only get one additional turn.
+As a **:rsc-a: Magic**{.rsc} action, you can cast a modified version of the [:spell-lv9: Time Stop] spell where you and your **Future Self** can both act, but you each only get one additional turn.
 
 Once you use this feature you must finish a **:rest-long: Long Rest** before you can cast this modified version of [:spell-lv9: Time Stop] again. You can also restore your use of it by expending a level 5 spell slot (no action required).
 

@@ -13,7 +13,7 @@ A Grenade can either be Thrown or it can be converted into traps in a form of Pr
 
 ### Throwing Grenade
 
-When you take the **:rsc-a: Attack**{ .rsc } action, you can replace one of your attacks to either throw a grenade at a point up to 60 feet away or use a *Grenade* *Launcher(1)*{ .nowrap } to propel the grenade to a point up to 120 feet away. The grenade explodes at that point, creating a particular effect depending on the grenade's effect. 
+When you take the **:rsc-a: Attack**{.rsc} action, you can replace one of your attacks to either throw a grenade at a point up to 60 feet away or use a *Grenade* *Launcher(1)*{ .nowrap } to propel the grenade to a point up to 120 feet away. The grenade explodes at that point, creating a particular effect depending on the grenade's effect. 
 { .annotate }
 
 1. **Grenade Launcher**
@@ -26,7 +26,7 @@ You can convert your grenades to proximity mines, provided you are proficient wi
 
 **Making the Mines**{.inl} For 1 hour, which can coincides with a **:rest-short: Short Rest**, you can convert a number of Grenades up to your Proficiency Bonus into a proximity mine using the aforementioned tools. 
 
-**Planting the Mines**{.inl} As a **:rsc-a: Utilise**{ .rsc } action, you can plant them in the ground in your space. On the next turn, whenever a creature (includes you) enters a space within 15 feet of the proximity mine for the first time on a turn or ends its turn there, it explodes at that point, creating a particular effect depending on the grenade's effect.
+**Planting the Mines**{.inl} As a **:rsc-a: Utilise**{.rsc} action, you can plant them in the ground in your space. On the next turn, whenever a creature (includes you) enters a space within 15 feet of the proximity mine for the first time on a turn or ends its turn there, it explodes at that point, creating a particular effect depending on the grenade's effect.
 
 It's obvious to observers that you're doing something when you take this Action.
 

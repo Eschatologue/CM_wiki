@@ -36,7 +36,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 3: Peerless Athlete
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to augment your athleticism. For 1 hour, you have **:d20-adv: Advantage**{.d20} on Strength (Athletics) and Dexterity (Acrobatics) checks and the distance of your long and high jumps increases by 10 feet (this extra distance costs Movement as normal).
+As a **:rsc-b: Bonus Action**{.rsc}, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to augment your athleticism. For 1 hour, you have **:d20-adv: Advantage**{.d20} on Strength (Athletics) and Dexterity (Acrobatics) checks and the distance of your long and high jumps increases by 10 feet (this extra distance costs Movement as normal).
 
 ### Level 7: Aura Of Alacrity
 
@@ -44,13 +44,13 @@ Your **:rsc-spd: Speed**{ .em } increases by 10 feet. In addition, whenever an a
 
 ### Level 15: Glorious Defense
 
-You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can take a **:rsc-r: Reaction**{ .rsc } to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one weapon attack against the attacker as part of this **:rsc-r: Reaction**{ .rsc }, provided the attacker is within your weapon's range.
+You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can take a **:rsc-r: Reaction**{.rsc} to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one weapon attack against the attacker as part of this **:rsc-r: Reaction**{.rsc}, provided the attacker is within your weapon's range.
 
 You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 20: Living Legend
 
-You can empower yourself with the legends— whether true or exaggerated—of your great deeds. As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
+You can empower yourself with the legends— whether true or exaggerated—of your great deeds. As a **:rsc-b: Bonus Action**{.rsc}, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 ***Charismatic***. You are blessed with an otherworldly presence, gaining advantage on all Charisma checks.
 

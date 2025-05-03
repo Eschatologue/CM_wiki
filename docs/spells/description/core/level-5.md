@@ -20,7 +20,7 @@ Objects animate at your command. Choose a number of nonmagical objects within ra
 
 Each target animates, sprouts legs, and becomes a Construct that uses the **Animated Object** stat block; this creature is under your control until the spell ends or until it is reduced to 0 Hit Points. Each creature you make with this spell is an ally to you and your allies. In combat, it shares your **:d20-inv: Initiative**{.d20 } count and takes its turn immediately after yours.
 
-Until the spell ends, you can take a **:rsc-b: Bonus Action**{ .rsc } to mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to each one). If you issue no commands, the creature takes the Dodge action and moves only to avoid harm. When the creature drops to 0 Hit Points, it reverts to its object form, and any remaining damage carries over to that form.
+Until the spell ends, you can take a **:rsc-b: Bonus Action**{.rsc} to mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to each one). If you issue no commands, the creature takes the Dodge action and moves only to avoid harm. When the creature drops to 0 Hit Points, it reverts to its object form, and any remaining damage carries over to that form.
 
 ***Using a Higher-Level Spell Slot.*** The creature's Slam damage increases by 1d4 (Medium or smaller), 1d6 (Large), or 1d12 (Huge) for each spell slot level above 5.
 
@@ -86,11 +86,11 @@ You create a Large hand of shimmering magical energy in an unoccupied space that
 
 The hand is an object that has AC 20 and Hit Points equal to your Hit Point maximum. If it drops to 0 Hit Points, the spell ends. The hand doesn't occupy its space.
 
-When you cast the spell and as a **:rsc-b: Bonus Action**{ .rsc } on your later turns, you can move the hand up to 60 feet and then cause one of the following effects:
+When you cast the spell and as a **:rsc-b: Bonus Action**{.rsc} on your later turns, you can move the hand up to 60 feet and then cause one of the following effects:
 
 - **Clenched Fist.** The hand strikes a target within 5 feet of it. Make a melee spell attack. On a hit, the target takes 5d8 Force damage.
 - **Forceful Hand.** The hand attempts to push a Huge or smaller creature within 5 feet of it. The target must succeed on a Strength saving throw, or the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target, remaining within 5 feet of it.
-- **Grasping Hand.** The hand attempts to grapple a Huge or smaller creature within 5 feet of it. The target must succeed on a Dexterity saving throw, or the target has the Grappled condition, with an escape DC equal to your spell save DC. While the hand grapples the target, you can take a **:rsc-b: Bonus Action**{ .rsc } to cause the hand to crush it, dealing Bludgeoning damage to the target equal to 4d6 plus your spellcasting ability modifier.
+- **Grasping Hand.** The hand attempts to grapple a Huge or smaller creature within 5 feet of it. The target must succeed on a Dexterity saving throw, or the target has the Grappled condition, with an escape DC equal to your spell save DC. While the hand grapples the target, you can take a **:rsc-b: Bonus Action**{.rsc} to cause the hand to crush it, dealing Bludgeoning damage to the target equal to 4d6 plus your spellcasting ability modifier.
 - **Interposing Hand.** The hand grants you Half Cover against attacks and other effects that originate from its space or that pass through it. In addition, its space counts as Difficult Terrain for your enemies.
 
 ***Using a Higher-Level Spell Slot.*** The damage of the Clenched Fist increases by 2d8 and the damage of the Grasping Hand increases by 2d6 for each spell slot level above 5.
@@ -314,7 +314,7 @@ The spell's duration depends on the object's material, as shown in the Materials
 
 Threads of dark power leap from your fingers to pierce up to five Small or Medium corpses you can see within range. Each corpse immediately stands up and becomes undead. You decide whether it is a **zombie** or a **skeleton** (the statistics for **zombies** and **skeletons** are in the Monster Manual), and it gains a bonus to its attack and damage rolls equal to your spellcasting ability modifier.
 
-You can use a **:rsc-b: Bonus Action**{ .rsc } to mentally command the creatures you make with this spell, issuing the same command to all of them. To receive the command, a creature must be within 60 feet of you. You decide what action the creatures will take and where they will move during their next turn, or you can issue a general command, such as to guard a chamber or passageway against your foes. If you issue no commands, the creatures do nothing except defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.
+You can use a **:rsc-b: Bonus Action**{.rsc} to mentally command the creatures you make with this spell, issuing the same command to all of them. To receive the command, a creature must be within 60 feet of you. You decide what action the creatures will take and where they will move during their next turn, or you can issue a general command, such as to guard a chamber or passageway against your foes. If you issue no commands, the creatures do nothing except defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.
 
 The creatures are under your control until the spell ends, after which they become inanimate once more.
 
@@ -336,7 +336,7 @@ The light of dawn shines down on a location you specify within range. Until the 
 
 When the cylinder appears, each creature in it must make a Constitution saving throw, taking 4d10 radiant damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw whenever it ends its turn in the cylinder.
 
-If you're within 60 feet of the cylinder, you can move it up to 60 feet as a **:rsc-b: Bonus Action**{ .rsc } on your turn.
+If you're within 60 feet of the cylinder, you can move it up to 60 feet as a **:rsc-b: Bonus Action**{.rsc} on your turn.
 
 > **Classes:** Cleric, Wizard
 
@@ -366,9 +366,9 @@ Destructive energy ripples outward from you in a 30-foot Emanation. Each creatur
 
 For the duration, Celestials, Elementals, Fey, Fiends, and Undead have **:d20-dis: Disadvantage**{.d20} on attack rolls against you. You can end the spell early by using either of the following special functions.
 
-***Break Enchantment.*** As a **:rsc-a: Magic**{ .rsc } action, you touch a creature that is possessed by or has the Charmed or Frightened condition from one or more creatures of the types above. The target is no longer possessed, Charmed, or Frightened by such creatures.
+***Break Enchantment.*** As a **:rsc-a: Magic**{.rsc} action, you touch a creature that is possessed by or has the Charmed or Frightened condition from one or more creatures of the types above. The target is no longer possessed, Charmed, or Frightened by such creatures.
 
-***Dismissal.*** As a **:rsc-a: Magic**{ .rsc } action, you target one creature you can see within 5 feet of you that has one of the creature types above. The target must succeed on a Charisma saving throw or be sent back to its home plane if it isn't there already. If they aren't on their home plane, Undead are sent to the Shadowfell, and Fey are sent to the Feywild.
+***Dismissal.*** As a **:rsc-a: Magic**{.rsc} action, you target one creature you can see within 5 feet of you that has one of the creature types above. The target must succeed on a Charisma saving throw or be sent back to its home plane if it isn't there already. If they aren't on their home plane, Undead are sent to the Shadowfell, and Fey are sent to the Feywild.
 
 > **Classes:** Cleric, Paladin
 
@@ -386,7 +386,7 @@ One Humanoid you can see within range must succeed on a Wisdom saving throw or h
 
 You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
 
-You can command the target to take a **:rsc-r: Reaction**{ .rsc } but must take your own Reaction to do so.
+You can command the target to take a **:rsc-r: Reaction**{.rsc} but must take your own Reaction to do so.
 
 ***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).
 
@@ -440,7 +440,7 @@ Whenever the spell deals damage to a target, you regain hit points equal to half
 **Components:** V  
 **Duration:** Concentration, up to 1 minute
 
-You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a **:rsc-b: Bonus Action**{ .rsc } to teleport in this way again.
+You teleport up to 60 feet to an unoccupied space you can see. On each of your turns before the spell ends, you can use a **:rsc-b: Bonus Action**{.rsc} to teleport in this way again.
 
 > **Classes:** Sorcerer, Warlock, Wizard
 
@@ -559,7 +559,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 You imbue a weapon you touch with holy power. Until the spell ends, the weapon emits bright light in a 30-foot radius and dim light for an additional 30 feet. In addition, weapon attacks made with it deal an extra 2d8 radiant damage on a hit. If the weapon isn't already a magic weapon, it becomes one for the duration.
 
-As a **:rsc-b: Bonus Action**{ .rsc } on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of the weapon must make a Constitution saving throw. On a failed save, a creature takes 4d8 radiant damage, and it is blinded for 1 minute. On a successful save, a creature takes half as much damage and isn't blinded. At the end of each of its turns, a blinded creature can make a Constitution saving throw, ending the effect on itself on a success.
+As a **:rsc-b: Bonus Action**{.rsc} on your turn, you can dismiss this spell and cause the weapon to emit a burst of radiance. Each creature of your choice that you can see within 30 feet of the weapon must make a Constitution saving throw. On a failed save, a creature takes 4d8 radiant damage, and it is blinded for 1 minute. On a successful save, a creature takes half as much damage and isn't blinded. At the end of each of its turns, a blinded creature can make a Constitution saving throw, ending the effect on itself on a success.
 
 > **Classes:** Cleric, Paladin
 
@@ -699,7 +699,7 @@ A wave of healing energy washes out from a point you can see within range. Choos
 
 You gain the Invisible condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.
 
-As a **:rsc-a: Magic**{ .rsc } action, you can move the illusory double up to twice your **:rsc-spd: Speed**{ .em } and make it gesture, speak, and behave in whatever way you choose. It is intangible and invulnerable.
+As a **:rsc-a: Magic**{.rsc} action, you can move the illusory double up to twice your **:rsc-spd: Speed**{ .em } and make it gesture, speak, and behave in whatever way you choose. It is intangible and invulnerable.
 
 You can see through its eyes and hear through its ears as if you were located where it is.
 
@@ -972,7 +972,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 **Components:** V, S, M (a Quiver worth 1+ GP)  
 **Duration:** Concentration, up to 1 minute
 
-When you cast the spell and as a **:rsc-b: Bonus Action**{ .rsc } until it ends, you can make two attacks with a weapon that fires Arrows or Bolts, such as a Longbow or a Light Crossbow. The spell magically creates the ammunition needed for each attack. Each Arrow or Bolt created by the spell deals damage like a nonmagical piece of ammunition of its kind and disintegrates immediately after it hits or misses.
+When you cast the spell and as a **:rsc-b: Bonus Action**{.rsc} until it ends, you can make two attacks with a weapon that fires Arrows or Bolts, such as a Longbow or a Light Crossbow. The spell magically creates the ammunition needed for each attack. Each Arrow or Bolt created by the spell deals damage like a nonmagical piece of ammunition of its kind and disintegrates immediately after it hits or misses.
 
 > **Classes:** Ranger
 
@@ -1002,7 +1002,7 @@ On a failed save, a target also has muddled thoughts for 1 minute. During that t
 **Components:** V, S  
 **Duration:** Concentration, up to 10 minutes
 
-You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell and as a **:rsc-a: Magic**{ .rsc } action on your later turns before the spell ends, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
+You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell and as a **:rsc-a: Magic**{.rsc} action on your later turns before the spell ends, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
 
 ***Creature.*** You can try to move a Huge or smaller creature. The target must succeed on a Strength saving throw, or you move it up to 30 feet in any direction within the spell's range. Until the end of your next turn, the creature has the Restrained condition, and if you lift it into the air, it is suspended there. It falls at the end of your next turn unless you use this option on it again and it fails the save.
 
@@ -1152,7 +1152,7 @@ You call out to the spirits of nature to rouse them against your enemies. Choose
 
 ***Roots and Vines.*** At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become restrained until the spell ends. A restrained creature can use an action to make a Strength (Athletics) check against your spell save DC, ending the effect on itself on a success.
 
-***Rocks.*** As a **:rsc-b: Bonus Action**{ .rsc } on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes 3d8 nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall prone.
+***Rocks.*** As a **:rsc-b: Bonus Action**{.rsc} on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes 3d8 nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall prone.
 
 > **Classes:** Druid, Ranger
 

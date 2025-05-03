@@ -156,7 +156,7 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 ### Level 2: Wild Shape
 
-The power of nature allows you to assume the form of an animal. As a **:rsc-b: Bonus Action**{ .rsc }, you shape-shift into a Beast form that you have learned for this feature (see “Known Forms” below). You stay in that form for a number of hours equal to half your Druid level or until you use **:material-paw: Wild Shape** again, have the Incapacitated condition, or die. You can also leave the form early as a  **:rsc-b: Bonus Action**{ .rsc }.
+The power of nature allows you to assume the form of an animal. As a **:rsc-b: Bonus Action**{.rsc}, you shape-shift into a Beast form that you have learned for this feature (see “Known Forms” below). You stay in that form for a number of hours equal to half your Druid level or until you use **:material-paw: Wild Shape** again, have the Incapacitated condition, or die. You can also leave the form early as a  **:rsc-b: Bonus Action**{.rsc}.
 
 **Number of Uses**{.inl} You can use **:material-paw: Wild Shape** twice. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
@@ -194,7 +194,7 @@ While in a form, you retain your personality, memories, and ability to speak, an
 
 ### Level 2: Wild Companion
 
-You can summon a nature spirit that assumes an animal form to aid you. As a **:rsc-a: Magic**{ .rsc } action, you can expend a spell slot or a use of **:material-paw: Wild Shape** to cast the [:spell-lv1: ind Familiar] spell without Material components.
+You can summon a nature spirit that assumes an animal form to aid you. As a **:rsc-a: Magic**{.rsc} action, you can expend a spell slot or a use of **:material-paw: Wild Shape** to cast the [:spell-lv1: ind Familiar] spell without Material components.
 
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a **:rest-long: Long Rest**.
 

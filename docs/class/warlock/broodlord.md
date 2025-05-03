@@ -26,7 +26,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 ### Level 3: Gathering Swarm
 
-As an **:rsc-a: Action**{ .rsc }, choose an area you can see within 60 feet, your patron's brood gathers in the area in a 10-foot cube. You can move the swarm up to 30 feet during your turn (no action required). Whenever the Brood Swarm moves within a creature's space you can see and whenever a creature you can see enters the Brood Swarm's space or ends its turn there, you can force that creature to make a Dexterity saving throw. On a failed save, the creature takes 2d10 :dmg-posn: Poison damage or takes only half damage on a successful save. A creature makes this save only once per turn.
+As an **:rsc-a: Action**{.rsc}, choose an area you can see within 60 feet, your patron's brood gathers in the area in a 10-foot cube. You can move the swarm up to 30 feet during your turn (no action required). Whenever the Brood Swarm moves within a creature's space you can see and whenever a creature you can see enters the Brood Swarm's space or ends its turn there, you can force that creature to make a Dexterity saving throw. On a failed save, the creature takes 2d10 :dmg-posn: Poison damage or takes only half damage on a successful save. A creature makes this save only once per turn.
 
 This feature lasts for 1 minute or until you end it early (no action required). you can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
@@ -44,11 +44,11 @@ Whenever you roll **:d20-inv: Initiative**{.d20 } and have no uses of *Gathering
 
 ### Level 14: Brooding Transformation
 
-You are always under the effect of the *Spider Climb* spell. As a **:rsc-b: Bonus Action**{ .rsc }, You can transform parts of your body to become a large horrifying creature that resembles your patron that lasts for 1 minute or until you end it early (No action required). While in this form, you gain the following benefits:
+You are always under the effect of the *Spider Climb* spell. As a **:rsc-b: Bonus Action**{.rsc}, You can transform parts of your body to become a large horrifying creature that resembles your patron that lasts for 1 minute or until you end it early (No action required). While in this form, you gain the following benefits:
 
 **Monstrous Form**{.inl} You gain a bonus +2 to your AC and your size increases by one category. Your Strength and Dexterity score is equal to your Charisma score. You are also considered to be a Monstrosity for the purpose of gameplay mechanics and magical effects.
 
-**Natural Weapon**{.inl} You have natural weapons such as talons or stingers. As a Magic Action, You make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 :dmg-posn: Poison damage. After using this action, you can attack again with your Natural Weapon as a **:rsc-b: Bonus Action**{ .rsc } this turn.
+**Natural Weapon**{.inl} You have natural weapons such as talons or stingers. As a Magic Action, You make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 :dmg-posn: Poison damage. After using this action, you can attack again with your Natural Weapon as a **:rsc-b: Bonus Action**{.rsc} this turn.
 
 **Writhing Tide**{.inl} When you transform or use the *Protect the Hive* feature, you can gain **:trt-thp: Temporary Hit Points** equal to your Warlock level. 
 

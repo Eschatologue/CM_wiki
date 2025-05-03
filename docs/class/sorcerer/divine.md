@@ -46,13 +46,13 @@ Whenever you cast a spell that restores Hit Points to a creature, you can modify
 
 ### Level 14: Otherworldly Wings
 
-You can take a **:rsc-b: Bonus Action**{ .rsc } to manifest a pair of spectral wings from your back. While the wings are present, you have a Fly Speed equal to your Speed. The wings last until you have the Incapacitated condition, you die, or you dismiss them as a  **:rsc-b: Bonus Action**{ .rsc }.
+You can take a **:rsc-b: Bonus Action**{.rsc} to manifest a pair of spectral wings from your back. While the wings are present, you have a Fly Speed equal to your Speed. The wings last until you have the Incapacitated condition, you die, or you dismiss them as a  **:rsc-b: Bonus Action**{.rsc}.
 
 The wings have an appearance of your choice, and may take on an appearance fitting to the source of your divine power: eagle wings for good aligned sources, bat wings for evil and dragonfly wings for neutral.
 
 ### Level 18: Unearthly Recovery
 
-You gain the ability to overcome grievous injuries. As a **:rsc-b: Bonus Action**{ .rsc } when you are Bloodied, you can regain a number of Hit Points equal to half your Hit Point Maximum.
+You gain the ability to overcome grievous injuries. As a **:rsc-b: Bonus Action**{.rsc} when you are Bloodied, you can regain a number of Hit Points equal to half your Hit Point Maximum.
 
 Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**, unless you spend 6 Sorcery Points to restore its use (no action required).
 

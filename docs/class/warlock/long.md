@@ -43,7 +43,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 ### Level 3: Dragon’s Exhalation
 
-As a **:rsc-a: Magic** action, you can unleash a blast of elemental energy in a **15-foot :aoe-cone: Cone** or a **5 by 30-foot :aoe-line: Line** (choose the shape each time), originating from you. Creature in that area makes a **:d20-save: DEX Save**{ .rsc }, taking damage equals to `1d8 plus your Charisma modifier` on a failed save. Damage dealt by this action is always the [Draconic Spark] damage. 
+As a **:rsc-a: Magic** action, you can unleash a blast of elemental energy in a **15-foot :aoe-cone: Cone** or a **5 by 30-foot :aoe-line: Line** (choose the shape each time), originating from you. Creature in that area makes a **:d20-save: DEX Save**{.rsc}, taking damage equals to `1d8 plus your Charisma modifier` on a failed save. Damage dealt by this action is always the [Draconic Spark] damage. 
 
 You can make **two** Dragon’s Exhalation as part of the same action when you reach **level 6**, **three** Dragon’s Exhalation at **level 10**, and finally **four** Dragon’s Exhalation at **level 14**.
 
@@ -69,7 +69,7 @@ Whenever you make a Dragon’s Exhalation, you can expend one of your Pact Magic
 
 ### Level 14: Soaring Winds 
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can manifest (or dismiss) the elements to carry you aloft. This takes the form of spectral wings, swirling winds, flowing water, or another expression of your patron’s power might be. While manifested, you gain a **Fly Speed** equal to your **:rsc-spd: Speed**{ .em }.  
+As a **:rsc-b: Bonus Action**{.rsc}, you can manifest (or dismiss) the elements to carry you aloft. This takes the form of spectral wings, swirling winds, flowing water, or another expression of your patron’s power might be. While manifested, you gain a **Fly Speed** equal to your **:rsc-spd: Speed**{ .em }.  
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

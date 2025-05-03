@@ -107,18 +107,18 @@ As a Monk, you gain the following class features when you reach the specified Mo
 | 20 | +6 | Body and Mind | 1d12 | 20 | +30 ft. |
 
 ### Level 1: Martial Arts
-Your practice of martial arts gives you mastery of combat styles that use your **:rsc-a: Unarmed Strike**{ .rsc } and **Monk weapons**, which are the following:
+Your practice of martial arts gives you mastery of combat styles that use your **:rsc-a: Unarmed Strike**{.rsc} and **Monk weapons**, which are the following:
 
 - Simple Melee weapons
 - Martial Melee weapons that have the **:wp-prop-light: Light** property
 
 You gain the following benefits while you are unarmed or wielding only **Monk weapons** and you aren't wearing armour or wielding a Shield.
 
-**Bonus Unarmed Strike**{.inl} You can make an **:rsc-a: Unarmed Strike**{ .rsc } as a **:rsc-b: Bonus Action**{ .rsc }.
+**Bonus Unarmed Strike**{.inl} You can make an **:rsc-a: Unarmed Strike**{.rsc} as a **:rsc-b: Bonus Action**{.rsc}.
 
-**Martial Arts Die**{.inl} You can roll 1d6 in place of the normal damage of your **:rsc-a: Unarmed Strike**{ .rsc } or **Monk weapons**. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
+**Martial Arts Die**{.inl} You can roll 1d6 in place of the normal damage of your **:rsc-a: Unarmed Strike**{.rsc} or **Monk weapons**. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
 
-**Dexterous Attacks**{.inl} You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your **:rsc-a: Unarmed Strike**{ .rsc } and **Monk weapons**. In addition, when you use the Grapple or Shove option of your **:rsc-a: Unarmed Strike**{ .rsc } , you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
+**Dexterous Attacks**{.inl} You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your **:rsc-a: Unarmed Strike**{.rsc} and **Monk weapons**. In addition, when you use the Grapple or Shove option of your **:rsc-a: Unarmed Strike**{.rsc} , you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
 
 ### Level 1: Unarmoured Defense
 
@@ -136,15 +136,15 @@ Some features that use **:class-phb24-monk: Focus Point(s)** require your target
 
 #### Flurry of Blows 
 
-You can expend **1 :class-phb24-monk: Focus Point(s)** to make two **:rsc-a: Unarmed Strike**{ .rsc } as a **:rsc-b: Bonus Action**{ .rsc }.
+You can expend **1 :class-phb24-monk: Focus Point(s)** to make two **:rsc-a: Unarmed Strike**{.rsc} as a **:rsc-b: Bonus Action**{.rsc}.
 
 #### Patient Defense 
 
-You can take the **:rsc-a: Disengage**{ .rsc } action as a **:rsc-b: Bonus Action**{ .rsc }. Alternatively, you can expend **1 :class-phb24-monk: Focus Point(s)** to take both the **:rsc-a: Disengage**{ .rsc } and the **:rsc-a: Dodge**{ .rsc } actions as a **:rsc-b: Bonus Action**{ .rsc }.
+You can take the **:rsc-a: Disengage**{.rsc} action as a **:rsc-b: Bonus Action**{.rsc}. Alternatively, you can expend **1 :class-phb24-monk: Focus Point(s)** to take both the **:rsc-a: Disengage**{.rsc} and the **:rsc-a: Dodge**{.rsc} actions as a **:rsc-b: Bonus Action**{.rsc}.
 
 #### Step of the Wind 
 
-You can take the **:rsc-a: Dash**{ .rsc } action as a **:rsc-b: Bonus Action**{ .rsc }. Alternatively, you can expend **1 :class-phb24-monk: Focus Point(s)** to take both the Disengage and Dash actions as a **:rsc-b: Bonus Action**{ .rsc }, and your jump distance is doubled for the turn.
+You can take the **:rsc-a: Dash**{.rsc} action as a **:rsc-b: Bonus Action**{.rsc}. Alternatively, you can expend **1 :class-phb24-monk: Focus Point(s)** to take both the Disengage and Dash actions as a **:rsc-b: Bonus Action**{.rsc}, and your jump distance is doubled for the turn.
 
 ### Level 2: Unarmoured Movement
 
@@ -158,7 +158,7 @@ Once you use this feature, you can't use it again until you finish a **:rest-lon
 
 ### Level 3: Deflect Attacks
 
-When an attack roll hits you and its damage includes **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, or **:dmg-slsh: Slashing**{ .dmg-bps } damage, you can take a **:rsc-r: Reaction**{ .rsc } to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.
+When an attack roll hits you and its damage includes **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, or **:dmg-slsh: Slashing**{ .dmg-bps } damage, you can take a **:rsc-r: Reaction**{.rsc} to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.
 
 If you reduce the damage to 0, you can expend **1 :class-phb24-monk: Focus Point(s)** to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind Total Cover if the attack was a ranged attack. That creature must succeed on a **:d20-save: DEX Save**{.d20} or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
 
@@ -172,19 +172,19 @@ You gain the [:option-feat-general: Ability Score Improvement](../../option/feat
 
 ### Level 4: Slow Fall
 
-You can take a **:rsc-r: Reaction**{ .rsc } when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
+You can take a **:rsc-r: Reaction**{.rsc} when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
 
 ### Level 5: Extra Attack
 
-You can attack twice instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
+You can attack twice instead of once whenever you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
 ### Level 5: Stunning Strike
 
-Once per turn when you hit a creature with a Monk weapon or an **:rsc-a: Unarmed Strike**{ .rsc }, you can expend **1 :class-phb24-monk: Focus Point(s)** to attempt a stunning strike. The target must make a **:d20-save: Constitution saving throw**{.d20}. On a failed save, the target has the **Stunned**{ .cond } condition until the start of your next turn. On a successful save, the target's **:rsc-spd: Speed**{ .em } is halved until the start of your next turn, and the next attack roll made against the target before then has **:d20-adv: Advantage**{.d20}.
+Once per turn when you hit a creature with a Monk weapon or an **:rsc-a: Unarmed Strike**{.rsc}, you can expend **1 :class-phb24-monk: Focus Point(s)** to attempt a stunning strike. The target must make a **:d20-save: Constitution saving throw**{.d20}. On a failed save, the target has the **Stunned**{ .cond } condition until the start of your next turn. On a successful save, the target's **:rsc-spd: Speed**{ .em } is halved until the start of your next turn, and the next attack roll made against the target before then has **:d20-adv: Advantage**{.d20}.
 
 ### Level 6: Empowered Strikes
 
-Whenever you deal damage with your **:rsc-a: Unarmed Strike**{ .rsc }, it can deal your choice of **:dmg-force: Force**{ .dmg-force } damage or its normal damage type.
+Whenever you deal damage with your **:rsc-a: Unarmed Strike**{.rsc}, it can deal your choice of **:dmg-force: Force**{ .dmg-force } damage or its normal damage type.
 
 ### Level 7: Evasion
 
@@ -200,7 +200,7 @@ While you aren't wearing armour or wielding a Shield, you gain the ability to mo
 
 Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following benefits.
 
-**Flurry of Blows**{.inl} You can expend **1 :class-phb24-monk: Focus Point(s)** to use [Flurry of Blows](#flurry-of-blows) and make three **:rsc-a: Unarmed Strike**{ .rsc } with it instead of two.
+**Flurry of Blows**{.inl} You can expend **1 :class-phb24-monk: Focus Point(s)** to use [Flurry of Blows](#flurry-of-blows) and make three **:rsc-a: Unarmed Strike**{.rsc} with it instead of two.
 
 **Patient Defense**{.inl} When you expend a **:class-phb24-monk: Focus Point(s)** to use [Patient Defense](#patient-defense), you gain a number of **:trt-thp: Temporary Hit Points** equal to two rolls of your Martial Arts die.
 

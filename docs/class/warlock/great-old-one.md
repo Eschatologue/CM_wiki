@@ -14,7 +14,7 @@ When you choose this subclass, you might bind yourself to an ineffable being fro
 
 ### Level 3: Awakened Mind
 
-You can form a telepathic connection between your mind and the mind of another. As a **:rsc-b: Bonus Action**{ .rsc }, choose one creature you can see within 30 feet of yourself and create a telepathic bond. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.
+You can form a telepathic connection between your mind and the mind of another. As a **:rsc-b: Bonus Action**{.rsc}, choose one creature you can see within 30 feet of yourself and create a telepathic bond. You and the chosen creature can speak telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must speak mentally in a language the other knows.
 
 The telepathic connection lasts for a number of minutes equal to your Warlock level. It ends early if you have the Incapacitated condition or die or if you use this feature to form a connection with a different creature.
 

@@ -160,7 +160,7 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - You have **:d20-adv: Advantage**{.d20} on attack made using Strength and **:d20-dis: Disadvantage**{.d20} on attack made using Dexterity.
 - On each of your turn, you must make an attack to any creature that is within your reach.
-- All creatures, including your ally can provoke opportunity attack from you, and you must use your **:rsc-r: Reaction**{ .rsc } when available to make an attack.
+- All creatures, including your ally can provoke opportunity attack from you, and you must use your **:rsc-r: Reaction**{.rsc} when available to make an attack.
 
 ### Fearful
 
@@ -186,13 +186,13 @@ Immediately after you receive this condition, you roll a d10 and gain an afflict
 
 - You begins babbling and is incapable of normal speech. Spells that has the Verbal (V) component can't be cast.
 - You have **:d20-dis: Disadvantage**{.d20} on Intelligence and Wisdom :d20-save: **Saving Throws**.
-- You can't take **:rsc-r: Reaction**{ .rsc } and must roll a :die-d10:d10 at the start of each of your turns to determine a behavior for that turn.
+- You can't take **:rsc-r: Reaction**{.rsc} and must roll a :die-d10:d10 at the start of each of your turns to determine a behavior for that turn.
     
     | :die-d10:**d10** | **BEHAVIOUR** |
     | :-: | --- |
-    | 1 | You uses all your Movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. You cant take an **:rsc-a: Action**{ .rsc } this turn. |
+    | 1 | You uses all your Movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. You cant take an **:rsc-a: Action**{.rsc} this turn. |
     | 2-6 | You don't move or take actions this turn. |
-    | 7-8 | You uses your **:rsc-a: Action**{ .rsc } to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, you does nothing this turn. |
+    | 7-8 | You uses your **:rsc-a: Action**{.rsc} to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, you does nothing this turn. |
     | 9-10 | You can act and move normally. |
 
 ### Massochistic

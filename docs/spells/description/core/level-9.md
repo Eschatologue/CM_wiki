@@ -22,7 +22,7 @@ A target's astral form resembles its body in almost every way, replicating its g
 
 A target's astral form can travel through the Astral Plane. The moment an astral form leaves that plane, the target's body and possessions travel along the silver cord, causing the target to re-enter its body on the new plane.
 
-Any damage or other effects that apply to an astral form have no effect on the target's body and vice versa. If a target's body or astral form drops to 0 Hit Points, the spell ends for that target. The spell ends for all the targets if you take a **:rsc-a: Magic**{ .rsc } action to dismiss it.
+Any damage or other effects that apply to an astral form have no effect on the target's body and vice versa. If a target's body or astral form drops to 0 Hit Points, the spell ends for that target. The spell ends for all the targets if you take a **:rsc-a: Magic**{.rsc} action to dismiss it.
 
 When the spell ends for a target who isn't dead, the target reappears in its body and exits the state of suspended animation.
 
@@ -40,7 +40,7 @@ When the spell ends for a target who isn't dead, the target reappears in its bod
 
 You create a blade-shaped planar rift about 3 feet long in an unoccupied space you can see within range. The blade lasts for the duration. When you cast this spell, you can make up to two melee spell attacks with the blade, each one against a creature, loose object, or structure within 5 feet of the blade. On a hit, the target takes 4d12 force damage. This attack scores a critical hit if the number on the d20 is 18 or higher. On a critical hit, the blade deals an extra 8d12 force damage (for a total of 12d12 force damage).
 
-As a **:rsc-b: Bonus Action**{ .rsc } on your turn, you can move the blade up to 30 feet to an unoccupied space you can see and then make up to two melee spell attacks with it again.
+As a **:rsc-b: Bonus Action**{.rsc} on your turn, you can move the blade up to 30 feet to an unoccupied space you can see and then make up to two melee spell attacks with it again.
 
 The blade can harmlessly pass through any barrier, including a *wall of force*.
 
@@ -255,7 +255,7 @@ A stunned target can make an Intelligence saving throw at the end of each of its
 **Components:** V, S, M (a jade circlet worth 1,500+ GP)   
 **Duration:** Concentration, up to 1 hour
 
-You shape-shift into another creature for the duration or until you take a **:rsc-a: Magic**{ .rsc } action to shape-shift into a different eligible form. The new form must be of a creature that has a Challenge Rating no higher than your level or Challenge Rating. You must have seen the sort of creature before, and it can't be a Construct or an Undead.
+You shape-shift into another creature for the duration or until you take a **:rsc-a: Magic**{.rsc} action to shape-shift into a different eligible form. The new form must be of a creature that has a Challenge Rating no higher than your level or Challenge Rating. You must have seen the sort of creature before, and it can't be a Construct or an Undead.
 
 When you shape-shift, you gain a number of **:trt-thp: Temporary Hit Points** equal to the Hit Points of the form. The spell ends early if you have no **:trt-thp: Temporary Hit Points** left.
 

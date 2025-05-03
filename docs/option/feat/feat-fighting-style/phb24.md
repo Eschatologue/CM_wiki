@@ -62,7 +62,7 @@ When you roll damage for an attack you make with a Melee Weapon that you are hol
 
 <hr class="hr-solid">
 
-When a creature you can see hits another creature within 5 feet of you with an attack roll, you can take a **:rsc-r: Reaction**{ .rsc } to reduce the damage dealt to the target by 1d10 + your Proficiency Bonus (to a minimum of 0 damage). You must be wielding a Shield or a Simple or Martial weapon to take this **:rsc-r: Reaction**{ .rsc }.
+When a creature you can see hits another creature within 5 feet of you with an attack roll, you can take a **:rsc-r: Reaction**{.rsc} to reduce the damage dealt to the target by 1d10 + your Proficiency Bonus (to a minimum of 0 damage). You must be wielding a Shield or a Simple or Martial weapon to take this **:rsc-r: Reaction**{.rsc}.
 
 ---
 
@@ -72,7 +72,7 @@ When a creature you can see hits another creature within 5 feet of you with an a
 
 <hr class="hr-solid">
 
-When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to interpose your Shield if you're holding one. You impose **:d20-dis: Disadvantage**{.d20} on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
+When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a **:rsc-r: Reaction**{.rsc} to interpose your Shield if you're holding one. You impose **:d20-dis: Disadvantage**{.d20} on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
 
 ---
 
@@ -102,6 +102,6 @@ When you make the extra attack of the **:wp-prop-light: Light**{ .wp } weapon pr
 
 <hr class="hr-solid">
 
-When you do damage with **:rsc-a: Unarmed Strike**{ .rsc } , it deals **1d6 + STR Modifier :dmg-bldg: Bludgeoning**{ .dmg-bps } damage on a hit. If you have two free hands, the :die-d6: d6 damage die becomes a :die-d8: d8.
+When you do damage with **:rsc-a: Unarmed Strike**{.rsc} , it deals **1d6 + STR Modifier :dmg-bldg: Bludgeoning**{ .dmg-bps } damage on a hit. If you have two free hands, the :die-d6: d6 damage die becomes a :die-d8: d8.
 
 At the start of each of your turns, you can deal **1d4 :dmg-bldg: Bludgeoning**{ .dmg-bps } damage to one creature that receive the Grappled condition from you.

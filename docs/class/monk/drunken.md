@@ -23,7 +23,7 @@ Your martial arts technique mixes combat training with the precision of a dancer
 
 **Homebrewed**{.inl} You gain a set of Brewer's Supplies and you have proficiency with it. You also have proficiency with the Performance skill.
 
-**Twist and Turn**{.inl} Whenever you use [Flurry of Blows], you gain the benefit of the **:rsc-a: Disengage**{ .rsc } action, and your **:rsc-spd: Speed**{ .em } increases by 10 feet until the start of your next turn.
+**Twist and Turn**{.inl} Whenever you use [Flurry of Blows], you gain the benefit of the **:rsc-a: Disengage**{.rsc} action, and your **:rsc-spd: Speed**{ .em } increases by 10 feet until the start of your next turn.
 
 ### Level 6: Tipsy Sway
 

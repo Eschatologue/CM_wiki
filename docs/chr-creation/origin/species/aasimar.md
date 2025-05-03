@@ -24,7 +24,7 @@ You have Darkvision with a range of 60 feet.
 
 ### Healing Hands
 
-As a **:rsc-a: Magic**{ .rsc } action, you touch a creature and roll a number of :die-d4: d4s equal to your Proficiency Bonus. The creature regains a number of Hit Points to the total rolled. Once you use this trait, you can't use it again until you finish a **:rest-long: Long Rest**.
+As a **:rsc-a: Magic**{.rsc} action, you touch a creature and roll a number of :die-d4: d4s equal to your Proficiency Bonus. The creature regains a number of Hit Points to the total rolled. Once you use this trait, you can't use it again until you finish a **:rest-long: Long Rest**.
 
 ### Light Bearer
 
@@ -32,7 +32,7 @@ You know the [:spell-lv0: Light] cantrip. Charisma is your spellcasting ability 
 
 ### Celestial Revelation
 
-When you reach character level 3, you can transform as a **:rsc-b: Bonus Action**{ .rsc } using one of the options below (choose the option each time you transform). That transformation lasts for 1 minute or until you end it (no action required). Once you transform, you can't do so again until you finish a **:rest-long: Long Rest**.
+When you reach character level 3, you can transform as a **:rsc-b: Bonus Action**{.rsc} using one of the options below (choose the option each time you transform). That transformation lasts for 1 minute or until you end it (no action required). Once you transform, you can't do so again until you finish a **:rest-long: Long Rest**.
 
 Once on each of your turns before that transformation ends, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your Proficiency Bonus, and the extra damage's type is either **:dmg-necr: Necrotic**{ .dmg-necr } for **Necrotic Shroud** or **:dmg-radi: Radiant**{ .dmg-radi } for **Heavenly Wings** and **Inner Radiance**.
 

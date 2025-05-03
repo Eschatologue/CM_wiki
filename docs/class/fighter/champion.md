@@ -16,7 +16,7 @@ A Champion focuses on the development of martial prowess in a relentless pursuit
 
 ### Level 3: Improved Critical
 
-The number you need to roll for a Critical Hit is reduced by 1 for attack rolls with weapons or **:rsc-a: Unarmed Strike**{ .rsc }. This effect can stack.
+The number you need to roll for a Critical Hit is reduced by 1 for attack rolls with weapons or **:rsc-a: Unarmed Strike**{.rsc}. This effect can stack.
  
 ### Level 3: Remarkable Athlete
 
@@ -34,7 +34,7 @@ The thrill of battle drives you toward victory. During combat, you can give your
 
 ### Level 15: Superior Critical
 
-The number you need to roll for a Critical Hit is reduced by 1 for attack rolls with weapons or **:rsc-a: Unarmed Strike**{ .rsc }. This effect can stack.
+The number you need to roll for a Critical Hit is reduced by 1 for attack rolls with weapons or **:rsc-a: Unarmed Strike**{.rsc}. This effect can stack.
 
 ### Level 18: Survivor
 

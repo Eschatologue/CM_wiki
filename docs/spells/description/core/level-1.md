@@ -305,7 +305,7 @@ You speak a one-word command to a creature you can see within range. The target 
 - **Drop.** The target drops whatever it is holding and then ends its turn.
 - **Flee.** The target spends its turn moving away from you by the fastest available means.
 - **Grovel.** The target has the Prone condition and then ends its turn.
-- **Halt.** On its turn, the target doesn't move and takes no action or  **:rsc-b: Bonus Action**{ .rsc }.
+- **Halt.** On its turn, the target doesn't move and takes no action or  **:rsc-b: Bonus Action**{.rsc}.
 
 ***Using a Higher-Level Spell Slot.*** You can affect one additional creature for each spell slot level above 1.
 
@@ -402,7 +402,7 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 **Components:** V, S  
 **Duration:** Concentration, up to 10 minutes
 
-For the duration, you sense the presence of magical effects within 30 feet of yourself. If you sense such effects, you can take the **:rsc-a: Magic**{ .rsc } action to see a faint aura around any visible creature or object in the area that bears the magic, and if an effect was created by a spell, you learn the spell's *school of magic*.
+For the duration, you sense the presence of magical effects within 30 feet of yourself. If you sense such effects, you can take the **:rsc-a: Magic**{.rsc} action to see a faint aura around any visible creature or object in the area that bears the magic, and if an effect was created by a spell, you learn the spell's *school of magic*.
 
 The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
 
@@ -548,7 +548,7 @@ Each creature (other than you) in the area when you cast the spell must succeed 
 **Components:** V, S  
 **Duration:** Concentration, up to 10 minutes
 
-You take the Dash action, and until the spell ends, you can take that action again as a  **:rsc-b: Bonus Action**{ .rsc }.
+You take the Dash action, and until the spell ends, you can take that action again as a  **:rsc-b: Bonus Action**{.rsc}.
 
 > **Classes:** Artificer, Sorcerer, Warlock, Wizard
 
@@ -610,13 +610,13 @@ Choose up to five falling creatures within range. A falling creature's rate of d
 
 You gain the service of a familiar, a spirit that takes an animal form you choose: **Bat**, **Cat**, **Frog**, **Hawk**, **Lizard**, **Octopus**, **Owl**, **Rat**, **Raven**, **Spider**, **Weasel**, or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
 
-***Telepathic Connection.*** While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a **:rsc-b: Bonus Action**{ .rsc }, you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
+***Telepathic Connection.*** While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as a **:rsc-b: Bonus Action**{.rsc}, you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
 
-Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 100 feet of you, and it must take a **:rsc-r: Reaction**{ .rsc } to deliver the touch when you cast the spell.
+Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 100 feet of you, and it must take a **:rsc-r: Reaction**{.rsc} to deliver the touch when you cast the spell.
 
 ***Combat.*** The familiar is an ally to you and your allies. It rolls its own **:d20-inv: Initiative**{.d20 } and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
 
-***Disappearance of the Familiar.*** When the familiar drops to 0 Hit Points, it disappears. It reappears after you cast this spell again. As a **:rsc-a: Magic**{ .rsc } action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a **:rsc-a: Magic**{ .rsc } action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 30 feet of you. Whenever the familiar drops to 0 Hit Points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
+***Disappearance of the Familiar.*** When the familiar drops to 0 Hit Points, it disappears. It reappears after you cast this spell again. As a **:rsc-a: Magic**{.rsc} action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a **:rsc-a: Magic**{.rsc} action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 30 feet of you. Whenever the familiar drops to 0 Hit Points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
 
 ***One Familiar Only.*** You can't have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
 
@@ -648,7 +648,7 @@ You create a 20-foot-radius Sphere of fog centered on a point within range. The 
 **Components:** V, S, M (a sprig of mistletoe)  
 **Duration:** 24 hours
 
-Ten berries appear in your hand and are infused with magic for the duration. A creature can take a **:rsc-b: Bonus Action**{ .rsc } to eat one berry. Eating a berry restores 1 Hit Point, and the berry provides enough nourishment to sustain a creature for one day.
+Ten berries appear in your hand and are infused with magic for the duration. A creature can take a **:rsc-b: Bonus Action**{.rsc} to eat one berry. Eating a berry restores 1 Hit Point, and the berry provides enough nourishment to sustain a creature for one day.
 
 Uneaten berries disappear when the spell ends.
 
@@ -762,7 +762,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has **:d20-dis: Disadvantage**{.d20} on ability checks made with the chosen ability.
 
-If the target drops to 0 Hit Points before this spell ends, you can take a **:rsc-b: Bonus Action**{ .rsc } on a later turn to curse a new creature.
+If the target drops to 0 Hit Points before this spell ends, you can take a **:rsc-b: Bonus Action**{.rsc} on a later turn to curse a new creature.
 
 ***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
 
@@ -780,7 +780,7 @@ If the target drops to 0 Hit Points before this spell ends, you can take a **:rs
 
 You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have **:d20-adv: Advantage**{.d20} on any Wisdom (Perception or Survival) check you make to find it.
 
-If the target drops to 0 Hit Points before this spell ends, you can take a **:rsc-b: Bonus Action**{ .rsc } to move the mark to a new creature you can see within range.
+If the target drops to 0 Hit Points before this spell ends, you can take a **:rsc-b: Bonus Action**{.rsc} to move the mark to a new creature you can see within range.
 
 ***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
 
@@ -1030,7 +1030,7 @@ A shimmering field surrounds a creature of your choice within range, granting it
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot Cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.
 
-As a **:rsc-a: Magic**{ .rsc } action, you can cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
+As a **:rsc-a: Magic**{.rsc} action, you can cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
 
 Physical interaction with the image reveals it to be an illusion, since things can pass through it. A creature that takes a Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
@@ -1188,7 +1188,7 @@ In addition, unsecured objects that are entirely within the Cube are pushed 10 f
 
 This spell creates an Invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 Hit Point, and a Strength of 2, and it can't attack. If it drops to 0 Hit Points, the spell ends.
 
-Once on each of your turns as a **:rsc-b: Bonus Action**{ .rsc }, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring drinks. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.
+Once on each of your turns as a **:rsc-b: Bonus Action**{.rsc}, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring drinks. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.
 
 If you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.
 
@@ -1206,7 +1206,7 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 A beam of crackling energy lances toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against it. On a hit, the target takes 2d12 Lightning damage.
 
-On each of your subsequent turns, you can take a **:rsc-b: Bonus Action**{ .rsc } to deal 1d12 Lightning damage to the target automatically, even if the first attack missed.
+On each of your subsequent turns, you can take a **:rsc-b: Bonus Action**{.rsc} to deal 1d12 Lightning damage to the target automatically, even if the first attack missed.
 
 The spell ends if the target is ever outside the spell's range or if it has Total Cover from you.
 

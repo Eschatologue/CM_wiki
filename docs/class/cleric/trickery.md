@@ -19,13 +19,13 @@ Religious orders that operate in secret, especially those that seek to undermine
 
 ### Level 3: Blessing of the Trickster
 
-As a **:rsc-a: Magic**{ .rsc } action, you can choose yourself or a willing creature within 30 feet of yourself to gain **:d20-adv: Advantage**{.d20} on Dexterity (Stealth) checks. This blessing lasts until you finish a **:rest-long: Long Rest** or until you use this feature again.
+As a **:rsc-a: Magic**{.rsc} action, you can choose yourself or a willing creature within 30 feet of yourself to gain **:d20-adv: Advantage**{.d20} on Dexterity (Stealth) checks. This blessing lasts until you finish a **:rest-long: Long Rest** or until you use this feature again.
 
 ### Level 3: Invoke Duplicity
 
 You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to create an illusory duplicate of yourself.
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-cleric: Channel Divinity**{ .em } to teleport up to 30 feet to an unoccupied space you can see, and you create a perfect visual illusion of yourself in the space you left. The illusion lasts for 1 minute, but it ends early if you have the Incapacitated condition or dismiss it as a  **:rsc-b: Bonus Action**{ .rsc }.
+As a **:rsc-b: Bonus Action**{.rsc}, you can expend one use of your **:ui-chdiv-cleric: Channel Divinity**{ .em } to teleport up to 30 feet to an unoccupied space you can see, and you create a perfect visual illusion of yourself in the space you left. The illusion lasts for 1 minute, but it ends early if you have the Incapacitated condition or dismiss it as a  **:rsc-b: Bonus Action**{.rsc}.
 
 While the illusion persists, you gain the following benefits:
 
@@ -33,7 +33,7 @@ While the illusion persists, you gain the following benefits:
 
 **Distract**{.inl} When both you and your illusion are within 5 feet of a creature that can see the illusion, you have **:d20-adv: Advantage**{.d20} on attack rolls against that creature, given how distracting the illusion is to the target.
 
-**Move**{.inl} As a **:rsc-b: Bonus Action**{ .rsc }, you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself, and you can then teleport, swapping places with the illusion.
+**Move**{.inl} As a **:rsc-b: Bonus Action**{.rsc}, you can move the illusion up to 30 feet to an unoccupied space you can see that is within 120 feet of yourself, and you can then teleport, swapping places with the illusion.
 
 ### Level 3: Trickery Domain Spells
 
@@ -50,7 +50,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ### Level 6: Trickster's Transposition
 
-Whenever you take the **:rsc-b: Bonus Action**{ .rsc } to create or move the illusion of your Invoke Duplicity, you can teleport, swapping places with the illusion.
+Whenever you take the **:rsc-b: Bonus Action**{.rsc} to create or move the illusion of your Invoke Duplicity, you can teleport, swapping places with the illusion.
 
 ### Level 17: Improved Duplicity
 

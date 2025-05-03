@@ -18,7 +18,7 @@ search:
 
 Choose a pile of bones or a corpse of a Medium or Small Humanoid within range. The target becomes an Undead creature: a **Skeleton** if you chose bones or a **Zombie** if you chose a corpse.
 
-On each of your turns, you can take a **:rsc-b: Bonus Action**{ .rsc } to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move on its next turn, or you can issue a general command, such as to guard a chamber or corridor. If you issue no commands, the creature takes the Dodge action and moves only to avoid harm. Once given an order, the creature continues to follow it until its task is complete.
+On each of your turns, you can take a **:rsc-b: Bonus Action**{.rsc} to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move on its next turn, or you can issue a general command, such as to guard a chamber or corridor. If you issue no commands, the creature takes the Dodge action and moves only to avoid harm. Once given an order, the creature continues to follow it until its task is complete.
 
 The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell rather than animating a new creature.
 
@@ -153,7 +153,7 @@ A storm cloud appears at a point within range that you can see above yourself. I
 
 When you cast the spell, choose a point you can see under the cloud. A lightning bolt shoots from the cloud to that point. Each creature within 5 feet of that point makes a Dexterity saving throw, taking 3d10 Lightning damage on a failed save or half as much damage on a successful one.
 
-Until the spell ends, you can take a **:rsc-a: Magic**{ .rsc } action to call down lightning in that way again, targeting the same point or a different one.
+Until the spell ends, you can take a **:rsc-a: Magic**{.rsc} action to call down lightning in that way again, targeting the same point or a different one.
 
 If you're outdoors in a storm when you cast this spell, the spell gives you control over that storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.
 
@@ -189,7 +189,7 @@ You make a calming gesture, and up to three willing creatures of your choice tha
 
 You create an Invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The intangible, invulnerable sensor remains in place for the duration.
 
-When you cast the spell, choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As a **:rsc-b: Bonus Action**{ .rsc }, you can switch between seeing and hearing.
+When you cast the spell, choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As a **:rsc-b: Bonus Action**{.rsc}, you can switch between seeing and hearing.
 
 A creature that sees the sensor (such as a creature benefiting from *See Invisibility* or Truesight) sees a luminous orb about the size of your fist.
 
@@ -449,7 +449,7 @@ You touch a willing creature. For the duration, the target gains a Fly Speed of 
 **Components:** V, S, M (a bit of gauze)  
 **Duration:** Concentration, up to 1 hour
 
-A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a **:rsc-a: Magic**{ .rsc } action to end the spell on itself.
+A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a **:rsc-a: Magic**{.rsc} action to end the spell on itself.
 
 While in this form, the target's only method of movement is a Fly Speed of 10 feet, and it can hover. The target can enter and occupy the space of another creature. The target has Resistance to Bludgeoning, Piercing, and Slashing damage; it has Immunity to the Prone condition; and it has **:d20-adv: Advantage**{.d20} on Strength, Dexterity, and Constitution saving throws. The target can pass through narrow openings, but it treats liquids as though they were solid surfaces.
 
@@ -661,7 +661,7 @@ Each time you cast this spell, you can cause its magic to operate in the reverse
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot Cube. The image appears at a spot that you can see within range and lasts for the duration. It seems real, including sounds, smells, and temperature appropriate to the thing depicted, but it can't deal damage or cause conditions.
 
-If you are within range of the illusion, you can take a **:rsc-a: Magic**{ .rsc } action to cause the image to move to any other spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
+If you are within range of the illusion, you can take a **:rsc-a: Magic**{.rsc} action to cause the image to move to any other spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking. Similarly, you can cause the illusion to make different sounds at different times, even making it carry on a conversation, for example.
 
 Physical interaction with the image reveals it to be an illusion, for things can pass through it. A creature that takes a Study action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature.
 
@@ -713,7 +713,7 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 **Components:** V, S, M (niter, sulfur, and pine tar formed into a bead)  
 **Duration:** Concentration, up to 10 minutes
 
-You create six tiny meteors in your space. They float in the air and orbit you for the spell's duration. When you cast the spell—and as a **:rsc-b: Bonus Action**{ .rsc } on each of your turns thereafter—you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 120 feet of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 5 feet of the point where the meteor explodes must make a Dexterity saving throw. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
+You create six tiny meteors in your space. They float in the air and orbit you for the spell's duration. When you cast the spell—and as a **:rsc-b: Bonus Action**{.rsc} on each of your turns thereafter—you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 120 feet of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 5 feet of the point where the meteor explodes must make a Dexterity saving throw. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
 
 ***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the number of meteors created increases by two for each slot level above 3rd.
 
@@ -855,7 +855,7 @@ Ground in the Cylinder is Difficult Terrain. When a creature enters the Cylinder
 
 You alter time around up to six creatures of your choice in a 40-foot Cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.
 
-An affected target's Speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can't take Reactions. On its turns, it can take either an action or a **:rsc-b: Bonus Action**{ .rsc }, not both, and it can make only one attack if it takes the **:rsc-a: Attack**{ .rsc } action. If it casts a spell with a Somatic component, there is a 25 percent chance the spell fails as a result of the target making the spell's gestures too slowly.
+An affected target's Speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can't take Reactions. On its turns, it can take either an action or a **:rsc-b: Bonus Action**{.rsc}, not both, and it can make only one attack if it takes the **:rsc-a: Attack**{.rsc} action. If it casts a spell with a Somatic component, there is a 25 percent chance the spell fails as a result of the target making the spell's gestures too slowly.
 
 An affected target repeats the save at the end of each of its turns, ending the spell on itself on a success.
 
@@ -945,7 +945,7 @@ In addition, any creature of your choice that you can see that starts its turn w
 
 You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by *Gust of Wind*) disperses it.
 
-Each creature that starts its turn in the Sphere must succeed on a Constitution saving throw or have the Poisoned condition until the end of the current turn. While Poisoned in this way, the creature can't take an action or a  **:rsc-b: Bonus Action**{ .rsc }.
+Each creature that starts its turn in the Sphere must succeed on a Constitution saving throw or have the Poisoned condition until the end of the current turn. While Poisoned in this way, the creature can't take an action or a  **:rsc-b: Bonus Action**{.rsc}.
 
 > **Classes:** Bard, Sorcerer, Wizard
 
@@ -1073,7 +1073,7 @@ You conjure up a wave of water that crashes down on an area within range. The ar
 
 You touch one Tiny, nonmagical object that isn't attached to another object or a surface and isn't being carried by another creature. The target animates and sprouts little arms and legs, becoming a creature under your control until the spell ends or the creature drops to 0 hit points. See the **stat block** for its statistics.
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can mentally command the creature if it is within 120 feet of you. (If you control multiple creatures with this spell, you can command any or all of them at the same time, issuing the same command to each one.) You decide what action the creature will take and where it will move during its next turn, or you can issue a simple, general command, such as to fetch a key, stand watch, or stack some books. If you issue no commands, the servant does nothing other than defend itself against hostile creatures. Once given an order, the servant continues to follow that order until its task is complete.
+As a **:rsc-b: Bonus Action**{.rsc}, you can mentally command the creature if it is within 120 feet of you. (If you control multiple creatures with this spell, you can command any or all of them at the same time, issuing the same command to each one.) You decide what action the creature will take and where it will move during its next turn, or you can issue a simple, general command, such as to fetch a key, stand watch, or stack some books. If you issue no commands, the servant does nothing other than defend itself against hostile creatures. Once given an order, the servant continues to follow that order until its task is complete.
 
 When the creature drops to 0 hit points, it reverts to its original form, and any remaining damage carries over to that form.
 
@@ -1107,7 +1107,7 @@ This spell grants the creature you touch the ability to understand any spoken or
 
 The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against one creature within reach. On a hit, the target takes 3d6 Necrotic damage, and you regain Hit Points equal to half the amount of Necrotic damage dealt.
 
-Until the spell ends, you can make the attack again on each of your turns as a **:rsc-a: Magic**{ .rsc } action, targeting the same creature or a different one.
+Until the spell ends, you can make the attack again on each of your turns as a **:rsc-a: Magic**{.rsc} action, targeting the same creature or a different one.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 3.
 
@@ -1169,7 +1169,7 @@ This spell grants up to ten willing creatures of your choice within range the ab
 
 This spell grants the ability to move across any liquid surface—such as water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures of your choice within range gain this ability for the duration.
 
-An affected target must take a **:rsc-b: Bonus Action**{ .rsc } to pass from the liquid's surface into the liquid itself and vice versa, but if the target falls into the liquid, the target passes through the surface into the liquid below.
+An affected target must take a **:rsc-b: Bonus Action**{.rsc} to pass from the liquid's surface into the liquid itself and vice versa, but if the target falls into the liquid, the target passes through the surface into the liquid below.
 
 > **Classes:** Artificer, Cleric, Druid, Ranger, Sorcerer
 

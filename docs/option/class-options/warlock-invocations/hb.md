@@ -43,7 +43,7 @@ This timekeeping device disappears if you conjure another device with this featu
 
 ### Pact of the Instrument
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can conjure a *Pact Instrument* in your hand—a musical instrument of your choice with which you bond—or create a bond with a musical instrument you touch. Until the bond ends, it grants you the following benefits:
+As a **:rsc-b: Bonus Action**{.rsc}, you can conjure a *Pact Instrument* in your hand—a musical instrument of your choice with which you bond—or create a bond with a musical instrument you touch. Until the bond ends, it grants you the following benefits:
 
 **Bonus Damage**{.inl} When you use it to cast a Warlock spell with a Verbal component, or a spell that deals :dmg-thun: Thunder damage, you gain a bonus to one of the spell's damage rolls equal to 1d8.
 
@@ -51,7 +51,7 @@ As a **:rsc-b: Bonus Action**{ .rsc }, you can conjure a *Pact Instrument* in yo
 
 **Spellcasting Focus**{.inl} You can use the musical instrument as a Spellcasting Focus.
 
-Your bond with the musical instrument ends if you use this feature's **:rsc-b: Bonus Action**{ .rsc } again, if the musical instrument is more than 5 feet away from you for 1 minute or more, or if you die. A conjured musical instrument disappears when the bond ends.
+Your bond with the musical instrument ends if you use this feature's **:rsc-b: Bonus Action**{.rsc} again, if the musical instrument is more than 5 feet away from you for 1 minute or more, or if you die. A conjured musical instrument disappears when the bond ends.
 
 ---
 
@@ -61,7 +61,7 @@ You can conjure a *Pact Wok*; a venerable cooking implement in your hand at the 
 
 **Artisan Tools**{.inl} It counts as Cooking Utensil, and it uses your spellcasting modifier for ability checks made with it.
 
-**Eldritch Rations**{.inl} When you finish a **:rest-long: Long Rest**, you can prepare a number of Eldritch Rations up to your spellcasting modifier as shown in the Eldritch Rations table in any combination. A creature can take a **:rsc-b: Bonus Action**{ .rsc } to consume one of these rations to gain the associated benefit. 
+**Eldritch Rations**{.inl} When you finish a **:rest-long: Long Rest**, you can prepare a number of Eldritch Rations up to your spellcasting modifier as shown in the Eldritch Rations table in any combination. A creature can take a **:rsc-b: Bonus Action**{.rsc} to consume one of these rations to gain the associated benefit. 
 
 **Spellcasting Focus**{.inl} You can use the Cooking Utensil as a Spellcasting Focus.
 
@@ -175,7 +175,7 @@ A new page appears in your Book of Shadows, detailing forbidden prayers that mim
 
 _**Prerequisite:** Level 5+ Warlock, a Warlock Cantrip That Deals Damage_
 
-Choose one of your known Warlock cantrips that deals damage. When that cantrip deals damage, you can take a **:rsc-b: Bonus Action**{ .rsc } to cast [:spell-lv3: Fireball] using a Pact Magic spell slot. The spell must be centered on the creature you damaged by the cantrip.
+Choose one of your known Warlock cantrips that deals damage. When that cantrip deals damage, you can take a **:rsc-b: Bonus Action**{.rsc} to cast [:spell-lv3: Fireball] using a Pact Magic spell slot. The spell must be centered on the creature you damaged by the cantrip.
 
 **Repeatable**{.inl} You can gain this invocation more than once. Each time you do so, choose a different eligible cantrip.
 
@@ -209,7 +209,7 @@ Your very being is suffused with eldritch magic. You no longer need to eat, brea
 
 _**Prerequisite:** Level 7+ Warlock, [Pact of the Chalice]_
 
-A creature of your choice can take a **:rsc-b: Bonus Action**{ .rsc } to drink from your Pact Chalice, gaining the effects of [:spell-lv4: Death Ward] spell. Once used, you must finish a **:rest-long: Long Rest** to use this feature again.
+A creature of your choice can take a **:rsc-b: Bonus Action**{.rsc} to drink from your Pact Chalice, gaining the effects of [:spell-lv4: Death Ward] spell. Once used, you must finish a **:rest-long: Long Rest** to use this feature again.
 
 ---
 
@@ -253,7 +253,7 @@ Your bond with your Pact Weapon improves further.
 
 _**Prerequisite:** Level 15+ Warlock, [Pact of the Hourglass]_
 
-When you finish your turn, you can take a **:rsc-r: Reaction**{ .rsc } to undo everything that happened on your turn. You return to the space you began that turn in and you regain all resources you expended. You can then immediately repeat your turn.
+When you finish your turn, you can take a **:rsc-r: Reaction**{.rsc} to undo everything that happened on your turn. You return to the space you began that turn in and you regain all resources you expended. You can then immediately repeat your turn.
 
 Once you use this feature you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
 

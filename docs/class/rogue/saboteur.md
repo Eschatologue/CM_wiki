@@ -33,7 +33,7 @@ You learn to craft two additional explosives of your choice when you reach level
 
 #### Using Explosives 
 
-A creature can take the **:rsc-a: Attack**{ .rsc } action to replace one of its attack to throw one of your Saboteur Explosives at a point it can see within 60 feet of it. It explodes on impact, generating the effects in its description centered on the point of impact.
+A creature can take the **:rsc-a: Attack**{.rsc} action to replace one of its attack to throw one of your Saboteur Explosives at a point it can see within 60 feet of it. It explodes on impact, generating the effects in its description centered on the point of impact.
 
 #### Explosive Save DC
 
@@ -63,13 +63,13 @@ Creatures that has the ^^Surprised^^ condition have **:d20-dis: Disadvantage**{.
 
 ### Level 17: Hair Trigger
 
-You have learned to detonate your Explosives from afar. When you craft an Explosive, you can create a rudimentary remote to trigger the Explosive from afar. As a **:rsc-a: Utilise**{ .rsc } action, you can trigger the Explosive as long as you are within 100 feet.
+You have learned to detonate your Explosives from afar. When you craft an Explosive, you can create a rudimentary remote to trigger the Explosive from afar. As a **:rsc-a: Utilise**{.rsc} action, you can trigger the Explosive as long as you are within 100 feet.
 
 ---
 
 ### Saboteur Explosives
 
-The following Explosives are available for a Saboteur rogue to learn. As an **:rsc-a: Action**{ .rsc }, you can craft an explosive, using the amount of Cordite Charges detailed in the description. Any explosives become inert at the end of your next Long Rest.
+The following Explosives are available for a Saboteur rogue to learn. As an **:rsc-a: Action**{.rsc}, you can craft an explosive, using the amount of Cordite Charges detailed in the description. Any explosives become inert at the end of your next Long Rest.
 
 ??? info "Not Grenades"
 
@@ -101,7 +101,7 @@ _**Thunderwave** <br>*Level 3+ Rogue*_
     **Cost:** **2 :material-bomb: :material-bomb: Cordite Charge(s)**{ .calc }
 
 _**Sticky Web** <br>*Level 5+ Rogue*_
-:   On impact, sticky white coating covers a **20-foot :aoe-square: Square**. Any creature that starts its turn in the square, or enters the area during its turn must succeed on a **:d20-save: DEX Save**{.d20} or have the **Restrained**{ .cond } condition. Affected creature can take an **:rsc-a: Action**{ .rsc } to STR or DEX Save, ending the effect on success. This coating dissolves after 1 minute. If it takes any **:dmg-fire: Fire**{ .dmg-fire } damage, it instantly disolves.
+:   On impact, sticky white coating covers a **20-foot :aoe-square: Square**. Any creature that starts its turn in the square, or enters the area during its turn must succeed on a **:d20-save: DEX Save**{.d20} or have the **Restrained**{ .cond } condition. Affected creature can take an **:rsc-a: Action**{.rsc} to STR or DEX Save, ending the effect on success. This coating dissolves after 1 minute. If it takes any **:dmg-fire: Fire**{ .dmg-fire } damage, it instantly disolves.
 
     **Cost:** **2 :material-bomb: :material-bomb: Cordite Charge(s)**{ .calc }
 
@@ -118,7 +118,7 @@ _**Demon Core** <br>*Level 9+ Rogue*_
 _**Noxius Gas** <br>*Level 9+ Rogue*_
 :   On impact, a cloud of putrid yellow gas spreads outward in a **20-foot-radius :aoe-sphere: Sphere**. The cloud is Heavily Obscured. The cloud lingers in the air for 1 minute or until a strong wind (such as the one created by [:spell-lv2: Gust of Wind]) disperses it.
 
-    Each creature that starts its turn in the Sphere must succeed on a **:d20-save: CON Save**{.d20} or have the **Poisoned**{ .cond } condition until the end of the current turn. While **Poisoned**{ .cond } in this way, the creature can't take action or **:rsc-b: Bonus Action**{ .rsc }.
+    Each creature that starts its turn in the Sphere must succeed on a **:d20-save: CON Save**{.d20} or have the **Poisoned**{ .cond } condition until the end of the current turn. While **Poisoned**{ .cond } in this way, the creature can't take action or **:rsc-b: Bonus Action**{.rsc}.
 
     **Cost:** **3 :material-bomb: :material-bomb: :material-bomb: Cordite Charge(s)**{ .calc }
 

@@ -25,9 +25,9 @@ Your bond with the natural world gives you the following benefits:
 
 ### Level 3: Lashing Vines
 
-You know the *Thorn Whip* Cantrip and the range increases to 60 feet. When you hit a target with this cantrip, you can take a **:rsc-b: Bonus Action**{ .rsc } to make one weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } against the target with Advantage.
+You know the *Thorn Whip* Cantrip and the range increases to 60 feet. When you hit a target with this cantrip, you can take a **:rsc-b: Bonus Action**{.rsc} to make one weapon attack or **:rsc-a: Unarmed Strike**{.rsc} against the target with Advantage.
 
-Your reach with your Melee weapon and **:rsc-a: Unarmed Strike**{ .rsc } increases by 5 feet when you reach Ranger level 7.
+Your reach with your Melee weapon and **:rsc-a: Unarmed Strike**{.rsc} increases by 5 feet when you reach Ranger level 7.
 
 ### Level 3: Grove Keeper Spells
 
@@ -53,11 +53,11 @@ You gian the following benefits:
 
 ### Level 11: Rooted Defense
 
-When you or a creature you can see within 30 feet is hit by an attack, you can use your **:rsc-r: Reaction**{ .rsc } to cover that creature in hard barks & thorns. The target gains **:trt-thp: Temporary Hit Points** equal to half your Ranger level, and the triggering damage is allocated to the Temporary Hit Point instead.
+When you or a creature you can see within 30 feet is hit by an attack, you can use your **:rsc-r: Reaction**{.rsc} to cover that creature in hard barks & thorns. The target gains **:trt-thp: Temporary Hit Points** equal to half your Ranger level, and the triggering damage is allocated to the Temporary Hit Point instead.
 
 ### Level 15: Consecrated Grounds
 
-As a **:rsc-b: Bonus Action**{ .rsc }, You beckon the Avatar of Nature to aid you in combat. A large spectral Avatar appears and hovers for 1 minute in an unoccupied space that you can see within range. The avatar occupies that space and is invulnerable. It appears in the form of a **Great Stag**, An **Elder Treant** or A **Fey Dragon** (You can also choose it to be a different creature that is appropriate).
+As a **:rsc-b: Bonus Action**{.rsc}, You beckon the Avatar of Nature to aid you in combat. A large spectral Avatar appears and hovers for 1 minute in an unoccupied space that you can see within range. The avatar occupies that space and is invulnerable. It appears in the form of a **Great Stag**, An **Elder Treant** or A **Fey Dragon** (You can also choose it to be a different creature that is appropriate).
 
 Once during your turn, You can command it to move up to 30 feet (No action required). An aura radiates from the avatar in a 20-foot emanation for the duration and has the following features:
 

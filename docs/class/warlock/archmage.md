@@ -49,7 +49,7 @@ Whenever you gain a Warlock level after 3, add **two** spells from Warlock or Wi
 
 ### Level 6: Arcane Reconstitution
 
-When you take damage from a spell, you can use your **:rsc-r: Reaction**{ .rsc } to regain one expended Pact Magic spell slot.
+When you take damage from a spell, you can use your **:rsc-r: Reaction**{.rsc} to regain one expended Pact Magic spell slot.
 
 Once you use this feature, you can’t use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 

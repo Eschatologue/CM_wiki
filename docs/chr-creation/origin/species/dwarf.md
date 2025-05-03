@@ -26,7 +26,7 @@ You have **:dmg-res: Resistance**{ .em } to **:dmg-posn: Poison**{ .dmg-posn } d
 
 ### Stonecunning 
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked. You can use this **:rsc-b: Bonus Action**{ .rsc } a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+As a **:rsc-b: Bonus Action**{.rsc}, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked. You can use this **:rsc-b: Bonus Action**{.rsc} a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Stocky
 

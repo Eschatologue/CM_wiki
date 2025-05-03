@@ -157,13 +157,13 @@ If a Channel Divinity effect requires a saving throw, the DC equals the Spell Sa
 
 #### :ui-chdiv-cleric: Divine Spark
 
-As a **:rsc-a: Magic**{ .rsc } action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at them. Roll 1d8 and add your Wisdom modifier. You either restore Hit Points to the creature equal to that total or force the creature to make a **:d20-save: Constitution saving throw**. On a failed save, the creature takes **:dmg-necr: Necrotic**{ .dmg-necr } or **:dmg-radi: Radiant**{ .dmg-radi } (your choice) damage equal to that total. On a successful save, the creature takes half as much damage (round down).
+As a **:rsc-a: Magic**{.rsc} action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at them. Roll 1d8 and add your Wisdom modifier. You either restore Hit Points to the creature equal to that total or force the creature to make a **:d20-save: Constitution saving throw**. On a failed save, the creature takes **:dmg-necr: Necrotic**{ .dmg-necr } or **:dmg-radi: Radiant**{ .dmg-radi } (your choice) damage equal to that total. On a successful save, the creature takes half as much damage (round down).
  
 You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
 
 #### :ui-chdiv-cleric: Turn Undead
 
-As a **:rsc-a: Magic**{ .rsc } action, you present your Holy Symbol and speak a prayer censuring Undead creatures. Each Undead within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it has the Frightened and Incapacitated conditions for 1 minute. This effect ends early on the creature if it takes any damage, you have the Incapacitated condition, or you die.
+As a **:rsc-a: Magic**{.rsc} action, you present your Holy Symbol and speak a prayer censuring Undead creatures. Each Undead within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it has the Frightened and Incapacitated conditions for 1 minute. This effect ends early on the creature if it takes any damage, you have the Incapacitated condition, or you die.
 
 ### Level 3: Cleric Subclass
 
@@ -193,7 +193,7 @@ In the past, you have reached the divine source of your power through prayer. No
 
 ### Level 10: Divine Intervention
 
-You can call on your deity or pantheon to intervene on your behalf. As a **:rsc-a: Magic**{ .rsc } action, choose any Cleric spell of level 5 or lower that doesn't require a **:rsc-r: Reaction**{ .rsc } to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a **:rest-long: Long Rest**.
+You can call on your deity or pantheon to intervene on your behalf. As a **:rsc-a: Magic**{.rsc} action, choose any Cleric spell of level 5 or lower that doesn't require a **:rsc-r: Reaction**{.rsc} to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a **:rest-long: Long Rest**.
 
 ### Level 14: Improved Blessed Strikes
 

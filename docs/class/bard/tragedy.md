@@ -19,7 +19,7 @@ Not all grand stories conclude in triumphant victory. Many tales end with death 
 
 *You learn to harness the beauty in failure, finding inspiration in even the direst twists of fate.* 
 
-Whenever you or an ally within 30 feet of you rolls a 1 on the d20 for D20 Test, you can use your **:rsc-r: Reaction**{ .rsc } to soliloquize and regain one expended use of your Bardic Inspiration feature.
+Whenever you or an ally within 30 feet of you rolls a 1 on the d20 for D20 Test, you can use your **:rsc-r: Reaction**{.rsc} to soliloquize and regain one expended use of your Bardic Inspiration feature.
 
 ### Level 3: Sorrowful Fate
 
@@ -35,7 +35,7 @@ Once you use this feature, you can't use it again until you finish a **:rest-sho
 
 *You learn to weave a magical narrative that draws out the fatal arrogance of your foes.*
 
-When a creature scores a Critical Hit against you or an ally within 60 feet of you that you can see, you can use your **:rsc-r: Reaction**{ .rsc } and expend one use of your Bardic Inspiration to target the attacking creature and evoke the story of their downfall. For 1 minute or until the target suffers a Critical Hit, the number needed to roll with weapon attacks or Unarmed strike for a Critical Hit against the target is reduced by 2 (reduced by 3 at Bard Level 14).
+When a creature scores a Critical Hit against you or an ally within 60 feet of you that you can see, you can use your **:rsc-r: Reaction**{.rsc} and expend one use of your Bardic Inspiration to target the attacking creature and evoke the story of their downfall. For 1 minute or until the target suffers a Critical Hit, the number needed to roll with weapon attacks or Unarmed strike for a Critical Hit against the target is reduced by 2 (reduced by 3 at Bard Level 14).
 
 ### Level 6: Impending Misfortune
 
@@ -55,7 +55,7 @@ As an :rsc-a: Action, you can touch a willing creature and empower it with tragi
 
 **Extra Damage**{.inl} When the creature hits a target with an attack roll, that target takes an extra 1d10 radiant damage.
 
-**Critical Hit Vulnerability**{.inl} The number needed to roll for a Critical Hit against the creature using weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } is reduced by 2.
+**Critical Hit Vulnerability**{.inl} The number needed to roll for a Critical Hit against the creature using weapon attack or **:rsc-a: Unarmed Strike**{.rsc} is reduced by 2.
 
 When this effect ends, the creature immediately drops to 0 hit points and has the Unconcious condition. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**.
 

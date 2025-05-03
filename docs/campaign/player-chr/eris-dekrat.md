@@ -20,7 +20,7 @@ Eris Dekrat
 
 *Magic flows through all living beings. While others harness it for spells, you've learned to channel it ~~to lock in~~ into razor-sharp focus.*
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 1 minute:
+As a **:rsc-b: Bonus Action**{.rsc}, you gain the following benefits for 1 minute:
 
 - You have **:d20-adv: Advantage**{.d20} on **:d20-save: WIS/INT/CHA Save**{.d20} against spells and other magical effect.
 - You can't have **:d20-dis: Disadvatage**{.d20} on Dexterity-based weapon attacks.
@@ -34,9 +34,9 @@ You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 *With a simple raise of your eyebrow, you possess the uncanny ability to disrupt and foil a spellcaster's magic.*
 
-When a creature you can see cast a spell or attempt to Teleport while within 60 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to force the target to make a **:d20-save: CON Save**{.d20} against your Cunning Strike DC. On a failed save, it takes **(Sneak Attack) :dmg-force: Force**{ .dmg-force } damage and its spell or Teleport fails. On a successful save, the target only takes half damage.
+When a creature you can see cast a spell or attempt to Teleport while within 60 feet of you, you can take a **:rsc-r: Reaction**{.rsc} to force the target to make a **:d20-save: CON Save**{.d20} against your Cunning Strike DC. On a failed save, it takes **(Sneak Attack) :dmg-force: Force**{ .dmg-force } damage and its spell or Teleport fails. On a successful save, the target only takes half damage.
 
-You can use this **:rsc-r: Reaction**{ .rsc } a number of times up to your Proficiency Bonus. You regain all expended uses when you finish a **:rest-long: Long Rest**.
+You can use this **:rsc-r: Reaction**{.rsc} a number of times up to your Proficiency Bonus. You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 5: Dekrat's Special:material-trademark:
 

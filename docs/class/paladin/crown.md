@@ -40,13 +40,13 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 3: Champion Challenge
 
-When you take the **:rsc-a: Attack**{ .rsc } action, you can expend one use of your **:ui-chdiv-pal: Channel Divinity**  to issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a **:d20-save: Wisdom saving throw**. On a failed save, a creature can't willingly move more than 30 feet away from you, and has **:d20-dis: Disadvantage**{.d20} on attack rolls against creatures other than you. 
+When you take the **:rsc-a: Attack**{.rsc} action, you can expend one use of your **:ui-chdiv-pal: Channel Divinity**  to issue a challenge that compels other creatures to do battle with you. Each creature of your choice that you can see within 30 feet of you must make a **:d20-save: Wisdom saving throw**. On a failed save, a creature can't willingly move more than 30 feet away from you, and has **:d20-dis: Disadvantage**{.d20} on attack rolls against creatures other than you. 
 
 This effect ends on the creature after 1 minute, and ends early if you have the **Incapacitated**{ .cond } condition, die, or if the creature is more than 30 feet away from you.
 
 ### Level 3: Turn the Tide
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to bolster injured creatures. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1).
+As a **:rsc-b: Bonus Action**{.rsc}, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to bolster injured creatures. Each creature of your choice that can hear you within 30 feet of you regains hit points equal to 1d6 + your Charisma modifier (minimum of 1).
 
 ### Level 7: Aura of Allegiance
 
@@ -60,7 +60,7 @@ You have **:dmg-imm: Immunity** to the **Paralyzed**{ .cond } and **Stunned**{ .
 
 ### Level 20: Exalted Champion
 
-Your presence on the field of battle is an inspiration to those dedicated to your cause. As a **:rsc-b: Bonus Action**{ .rsc }, you can gain the following benefits for 10 minutes:
+Your presence on the field of battle is an inspiration to those dedicated to your cause. As a **:rsc-b: Bonus Action**{.rsc}, you can gain the following benefits for 10 minutes:
 
 **Damage Resistance**{.inl} You have **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps } and **:dmg-slsh: Slashing**{ .dmg-bps } damage.
 

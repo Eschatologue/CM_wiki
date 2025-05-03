@@ -22,7 +22,7 @@ Your **:ui-rage: Rage**{ .em } taps into the lifeforce of the World Tree. You ga
 
 ### Level 6: Branches of the Tree
 
-Whenever a creature you can see starts its turn within 30 feet of you while your **:ui-rage: Rage**{ .em } is active, you can take a **:rsc-r: Reaction**{ .rsc } to summon spectral branches of the World Tree around it. The target must succeed on a **:d20-save: Strength saving throw**{.d20} (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. After the target teleports, you can reduce its Speed to 0 until the end of the current turn.
+Whenever a creature you can see starts its turn within 30 feet of you while your **:ui-rage: Rage**{ .em } is active, you can take a **:rsc-r: Reaction**{.rsc} to summon spectral branches of the World Tree around it. The target must succeed on a **:d20-save: Strength saving throw**{.d20} (DC equal to 8 plus your Proficiency Bonus plus your Strength modifier) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. After the target teleports, you can reduce its Speed to 0 until the end of the current turn.
 
 ### Level 10: Battering Roots
 
@@ -30,7 +30,7 @@ Tendrils of the World Tree extend from your Melee weapons. During your turn, whi
 
 ### Level 14: Travel Along the Tree
 
-You can briefly travel along the World Tree. When you activate your **:ui-rage: Rage**{ .em } and as a **:rsc-b: Bonus Action**{ .rsc } while it's active, you can teleport up to 60 feet to an unoccupied space you can see. 
+You can briefly travel along the World Tree. When you activate your **:ui-rage: Rage**{ .em } and as a **:rsc-b: Bonus Action**{.rsc} while it's active, you can teleport up to 60 feet to an unoccupied space you can see. 
 
 In addition, once per **:ui-rage: Rage**{ .em }, you can increase the range of that teleport to 150 feet, When you do so, you can also bring up to six willing creatures who are within 10 feet of you. Each creature teleports to an unoccupied space of your choice within 10 feet of your destination space.
 

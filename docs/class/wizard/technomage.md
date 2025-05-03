@@ -37,7 +37,7 @@ You craft a mechanical drone, a construct powered by your ingenuity and skill. T
 
 The drone is friendly to you and your companions. It vanishes if it is destroyed or when you die.
 
-**The Drone in Combat**{.inl} The drone acts during your turn. It can move and use its **:rsc-r: Reaction**{ .rsc } independently, but the only action it takes is the **:rsc-a: Dodge**{ .rsc } action unless you take a **:rsc-b: Bonus Action**{ .rsc } to command it to take an action from its stat block or another action. If you have the **Incapacitated**{ .cond } condition, the drone acts on its own and its't limited to the **:rsc-a: Dodge**{ .rsc } action.
+**The Drone in Combat**{.inl} The drone acts during your turn. It can move and use its **:rsc-r: Reaction**{.rsc} independently, but the only action it takes is the **:rsc-a: Dodge**{.rsc} action unless you take a **:rsc-b: Bonus Action**{.rsc} to command it to take an action from its stat block or another action. If you have the **Incapacitated**{ .cond } condition, the drone acts on its own and its't limited to the **:rsc-a: Dodge**{.rsc} action.
 
 **Restoring or Replacing the Drone**{.inl} If the drone has been destroyed within the last hour, you can use an action to repair it, expending a level 1+ spell slot. The drone returns to life with all its **:trt-hp: Hit Points** restored after 1 minute.
 
@@ -69,9 +69,9 @@ You can use any of the following options, expending one use of this feature per 
 
 *Your technological mastery allows you to enhance your control systems, enabling more complex operations with your drones.*
 
-**Extra Drone**{.inl} At the end of a **:rest-long: Long Rest**, you can construct and control an additional drone. Both drones act on your turn, sharing the same **:d20-inv: Initiative**{.d20 } count and following the same rules as your original drone. You can use the same **:rsc-b: Bonus Action**{ .rsc } to control both drones.
+**Extra Drone**{.inl} At the end of a **:rest-long: Long Rest**, you can construct and control an additional drone. Both drones act on your turn, sharing the same **:d20-inv: Initiative**{.d20 } count and following the same rules as your original drone. You can use the same **:rsc-b: Bonus Action**{.rsc} to control both drones.
 
-**Intercept Attack**{.inl} When you are hit by an attack roll, you can use your **:rsc-r: Reaction**{ .rsc } to command a drone within 60 feet of you to intercept it. The drone immediately moves to an unoccupied space within 10 feet of you, and the attack is redirected to target the drone instead. You avoid all damage and effects associated with the attack.
+**Intercept Attack**{.inl} When you are hit by an attack roll, you can use your **:rsc-r: Reaction**{.rsc} to command a drone within 60 feet of you to intercept it. The drone immediately moves to an unoccupied space within 10 feet of you, and the attack is redirected to target the drone instead. You avoid all damage and effects associated with the attack.
 
 **Emulate Concentration**{.inl} When you cast a Wizard spell that requires concentration on your turn using the ***Spellcasting Module*** subfeature, you can make the drone concentrate on it instead of you. Though the drone has **:d20-dis: Disadvantage**{.d20} on the save it makes to maintain concentration and the spell duration is halved.
 
@@ -115,7 +115,7 @@ You can use any of the following options, expending one use of this feature per 
 
     **Remote Controlled**{.inl} Add your Proficiency Bonus to any ability check or saving throw the drone makes. 
 
-    #### Actions (Requires Your **:rsc-b: Bonus Action**{ .rsc })
+    #### Actions (Requires Your **:rsc-b: Bonus Action**{.rsc})
 
     **Piercing Shot**{.inl} *Ranged Weapon Attack:* Bonus equals your spell attack modifier, range 60 ft., one target you can see. *Hit:* 1d6 plus Int. mod :dmg-prcg: Piercing damage.  
 

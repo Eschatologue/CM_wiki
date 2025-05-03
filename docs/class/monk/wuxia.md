@@ -19,9 +19,9 @@ Your special martial arts training leads you to master the use more weapons. You
 
 You also gain additional benefits using your Monk Weapons:
 
-**Masterful Aim**{.inl} When you take the **:rsc-a: Attack**{ .rsc } action with a Monk Weapon, you can expend **:class-phb24-monk: Focus Points** to increase your accuracy. After you roll the attack, but before you know whether it hits or misses, you can spend any number of **:class-phb24-monk: Focus Points** to gain a +2 bonus to the roll for each point spent.
+**Masterful Aim**{.inl} When you take the **:rsc-a: Attack**{.rsc} action with a Monk Weapon, you can expend **:class-phb24-monk: Focus Points** to increase your accuracy. After you roll the attack, but before you know whether it hits or misses, you can spend any number of **:class-phb24-monk: Focus Points** to gain a +2 bonus to the roll for each point spent.
 
-**Masterful Parry**{.inl} While you are wielding a Melee Monk Weapon and a creature you can see hits you with a melee attack, you can take a **:rsc-r: Reaction**{ .rsc } to add your Wisdom modifier (minimum of +1) to your Armour Class against that attack. If the Attack misses, you can spend **1 :class-phb24-monk: Focus Point(s)** to make a Melee attack against the creature that attacks you.
+**Masterful Parry**{.inl} While you are wielding a Melee Monk Weapon and a creature you can see hits you with a melee attack, you can take a **:rsc-r: Reaction**{.rsc} to add your Wisdom modifier (minimum of +1) to your Armour Class against that attack. If the Attack misses, you can spend **1 :class-phb24-monk: Focus Point(s)** to make a Melee attack against the creature that attacks you.
 
 ### Level 3: Wuxia's Artistry 
 
@@ -35,11 +35,11 @@ Your focus empowers your Monk Weapons, granting you the following benefits.
 
 **Magic Monk Weapons**{.inl} When you attack with a Monk Weapon, you can choose to deal the weapon's damage type or **:dmg-force: Force**{ .dmg-force } damage.
 
-**Rapid Strikes**{.inl} Immediately after you take the **:rsc-a: Attack**{ .rsc } action and attack with a Monk Weapon, you can use a **:rsc-b: Bonus Action**{ .rsc } to make one additional attack with the same weapon.
+**Rapid Strikes**{.inl} Immediately after you take the **:rsc-a: Attack**{.rsc} action and attack with a Monk Weapon, you can use a **:rsc-b: Bonus Action**{.rsc} to make one additional attack with the same weapon.
 
 ### Level 11: Soul of the Blade
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can touch one of your Monk Weapons and infuse it with **1 - 3 :class-phb24-monk: Focus Point(s)** to reduce the number you need to roll for critical hit an amount equal to the number of **:class-phb24-monk: Focus Point(s)** expended. For example, if you infused a normal weapon with **3 :class-phb24-monk: Focus Point(s)**, its attacks would score a Critical Hit on a roll of 17-20 on the d20.
+As a **:rsc-b: Bonus Action**{.rsc}, you can touch one of your Monk Weapons and infuse it with **1 - 3 :class-phb24-monk: Focus Point(s)** to reduce the number you need to roll for critical hit an amount equal to the number of **:class-phb24-monk: Focus Point(s)** expended. For example, if you infused a normal weapon with **3 :class-phb24-monk: Focus Point(s)**, its attacks would score a Critical Hit on a roll of 17-20 on the d20.
 
 This bonus is only usable by you and it lasts for 1 minute. It ends early if you use this feature into another Monk Weapon.
 

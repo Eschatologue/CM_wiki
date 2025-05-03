@@ -11,7 +11,7 @@ _**Prerequisite:** Level 2+, **Item:** A suit of Armour (requires attunement)_
 This armour has 6 charges. The wearer can expend the armour's charges in the following ways:
 
 - When the wearer makes a Strength check or a Strength saving throw, it can expend 1 charge to add a bonus to the roll equal to its Intelligence modifier.
-- The creature can take a **:rsc-r: Reaction**{ .rsc } to expend 1 charge to end the Prone condition.
+- The creature can take a **:rsc-r: Reaction**{.rsc} to expend 1 charge to end the Prone condition.
 
 The armour regains 1d6 expended charges daily at dawn.
 
@@ -57,7 +57,7 @@ You determine the homunculus's appearance. Some artificers prefer mechanical-loo
 
 The homunculus is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the Homunculus Servant stat block, which uses your proficiency bonus (PB) in several places.
 
-In combat, the homunculus shares your Initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a **:rsc-b: Bonus Action**{ .rsc } on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the homunculus can take any action of its choice, not just Dodge.
+In combat, the homunculus shares your Initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a **:rsc-b: Bonus Action**{.rsc} on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the homunculus can take any action of its choice, not just Dodge.
 
 The homunculus regains 2d6 hit points if the [:spell-lv0: Mending](../../../spells/description/core/cantrip.md#mending) spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
 
@@ -210,7 +210,7 @@ This magic weapon grants a +1 bonus to attack and damage rolls made with it, and
 
 _**Prerequisite:** Level 6+, **Item:** A pair of Boots (requires attunement)_
 
-While wearing these boots, a creature can teleport up to 15 feet as a **:rsc-b: Bonus Action**{ .rsc } to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.
+While wearing these boots, a creature can teleport up to 15 feet as a **:rsc-b: Bonus Action**{.rsc} to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.
 
 ---
 
@@ -219,7 +219,7 @@ While wearing these boots, a creature can teleport up to 15 feet as a **:rsc-b: 
 _**Prerequisite:** Level 6+, **Item:** Weapon (requires attunement)_  
 _**Charge:** 4 (:material-reload: **Recharge:** 1d4/Day)_
 
-This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a **:rsc-b: Bonus Action**{ .rsc } to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a  **:rsc-b: Bonus Action**{ .rsc }.
+This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a **:rsc-b: Bonus Action**{.rsc} to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a  **:rsc-b: Bonus Action**{.rsc}.
 
 The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be blinded until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains 1d4 expended charges daily at dawn.
 

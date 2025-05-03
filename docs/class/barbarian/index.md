@@ -101,7 +101,7 @@ As a Barbarian, you gain the following class features when you reach the specifi
 
 ### Level 1: Rage
 
-You can imbue yourself with a primal power called **:ui-rage: Rage**{ .em }, a force that grants you extraordinary might and resilience. You can enter it as a **:rsc-b: Bonus Action**{ .rsc } if you aren't wearing Heavy armour.
+You can imbue yourself with a primal power called **:ui-rage: Rage**{ .em }, a force that grants you extraordinary might and resilience. You can enter it as a **:rsc-b: Bonus Action**{.rsc} if you aren't wearing Heavy armour.
 
 You can enter your **:ui-rage: Rage**{ .em } the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
@@ -129,7 +129,7 @@ The **:ui-rage: Rage**{ .em } lasts until the end of your next turn, and it ends
 
 - Make an attack roll against an enemy.
 - Force an enemy to make a saving throw.
-- Take a **:rsc-b: Bonus Action**{ .rsc } to extend your **:ui-rage: Rage**{ .em }.
+- Take a **:rsc-b: Bonus Action**{.rsc} to extend your **:ui-rage: Rage**{ .em }.
 
 Each time the **:ui-rage: Rage**{ .em } is extended, it lasts until the end of your next turn. You can maintain a **:ui-rage: Rage**{ .em } for up to 10 minutes.
 
@@ -187,7 +187,7 @@ You gain the [:option-feat-general: Ability Score Improvement](../../option/feat
 
 ### Level 5: Extra Attack
 
-You can attack twice instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
+You can attack twice instead of once whenever you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
 ### Level 5: Fast Movement
 
@@ -199,13 +199,13 @@ Your instincts are so honed that you have **:d20-adv: Advantage**{.d20} on **:d2
 
 ### Level 7: Instinctive Pounce
 
-As part of the **:rsc-b: Bonus Action**{ .rsc } you take to enter your **:ui-rage: Rage**{ .em }, you can move up to half your **:rsc-spd: Speed**{ .em }.
+As part of the **:rsc-b: Bonus Action**{.rsc} you take to enter your **:ui-rage: Rage**{ .em }, you can move up to half your **:rsc-spd: Speed**{ .em }.
 
 ### Level 9: Brutal Strike
 
 If you use Reckless Attack, you can forgo any **:d20-adv: Advantage**{.d20} on one :abl-str: Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have **:d20-dis: Disadvantage**{.d20}. 
 
-If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or **:rsc-a: Unarmed Strike**{ .rsc } , and you can cause one Brutal Strike effect of your choice. You have the following effect options.
+If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or **:rsc-a: Unarmed Strike**{.rsc} , and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
 **Forceful Blow**{.inl} The target is pushed 15 feet straight away from you. You can then move up to half your **:rsc-spd: Speed**{ .em } straight toward the target without provoking Opportunity Attacks.
 
@@ -221,7 +221,7 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
 
-**Staggering Blow**{.inl} The target has **:d20-dis: Disadvantage**{.d20} on the next saving throw it makes, and it can't make **:rsc-r: Opportunity Attacks**{ .rsc } until the start of your next turn.
+**Staggering Blow**{.inl} The target has **:d20-dis: Disadvantage**{.d20} on the next saving throw it makes, and it can't make **:rsc-r: Opportunity Attacks**{.rsc} until the start of your next turn.
 
 **Sundering Blow**{.inl} Before the start of your next turn, the next attack roll made by another creature against the target gains a +5 bonus to the roll. An attack roll can gain only one Sundering Blow bonus.
 

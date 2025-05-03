@@ -40,7 +40,7 @@ If you lose the map, you can perform a 1-hour ceremony to magically create a rep
 
 ### Level 3: Starry Form
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can expend a use of your **:material-paw: Wild Shape** feature to take on a starry form, rather than shape shifting.
+As a **:rsc-b: Bonus Action**{.rsc}, you can expend a use of your **:material-paw: Wild Shape** feature to take on a starry form, rather than shape shifting.
 
 While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart.  
 This form sheds Bright Light in a 10-foot radius and Dim Light for an additional **10 feet**. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), have the **Incapacitated**{.cond} condition, or use this feature again.
@@ -51,7 +51,7 @@ Whenever you assume your starry form, choose which of the following constellatio
 
 :   A constellation of an archer appears on you. You gain the following benefits.
 
-    **Luminous Arrow**{.inl} When you activate this form, and as a **:rsc-b: Bonus Action**{ .rsc } on your subsequent turns while it lasts, you can make a Ranged Spell Attack, hurling a Luminous Arrow that targets one creature within **60 feet** of you. On a hit, the attack deals **(1d8 + Wisdom modifier) :dmg-radi: Radiant**{ .dmg-radi } damage.
+    **Luminous Arrow**{.inl} When you activate this form, and as a **:rsc-b: Bonus Action**{.rsc} on your subsequent turns while it lasts, you can make a Ranged Spell Attack, hurling a Luminous Arrow that targets one creature within **60 feet** of you. On a hit, the attack deals **(1d8 + Wisdom modifier) :dmg-radi: Radiant**{ .dmg-radi } damage.
 
 **Chalice**
 
@@ -69,15 +69,15 @@ Whenever you assume your starry form, choose which of the following constellatio
 
 *You learn to use your star map to divine the will of the cosmos.* 
 
-Whenever you finish a **:rest-long: Long Rest**, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next Long Rest, you gain access to a special **:rsc-r: Reaction**{ .rsc } based on whether you rolled an even or an odd number on the die:
+Whenever you finish a **:rest-long: Long Rest**, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next Long Rest, you gain access to a special **:rsc-r: Reaction**{.rsc} based on whether you rolled an even or an odd number on the die:
 
 **:rsc-r: Weal (even)**
-:   Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and add the number rolled to the total.
+:   Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{.rsc} to roll 1d6 and add the number rolled to the total.
 
 **:rsc-r: Woe (odd)**
-:   Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{ .rsc } to roll 1d6 and subtract the number rolled from the total.
+:   Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a **:rsc-r: Reaction**{.rsc} to roll 1d6 and subtract the number rolled from the total.
 
-You can use use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+You can use use this **:rsc-r: Reaction**{.rsc} a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 10: Twinkling Constellations
 
@@ -85,7 +85,7 @@ You are more closely attuned to the cosmic forces, giving you the following bene
 
 **Starry Form Improvements**{.inl} The constellations of your Starry Form improves.
 
-- _**Archer.**_ You can make two Ranged spell attack instead of one as part of the same **:rsc-b: Bonus Action**{ .rsc } when making your Archer Form's attack.
+- _**Archer.**_ You can make two Ranged spell attack instead of one as part of the same **:rsc-b: Bonus Action**{.rsc} when making your Archer Form's attack.
 - _**Chalice.**_ Each creature of your choice within 30 feet gain **:trt-hp: Hit Points** instead of only one creature.
 - _**Dragon.**_ You have a Fly Speed of 20 feet and can hover.
 
@@ -99,7 +99,7 @@ While in your Starry Form, you become partially incorporeal, giving you **:dmg-r
 
 *Your connection to the cosmos lets you summon radiant starlight.*
 
-As a **:rsc-a: Magic**{ .rsc } action, you conjure a burst of light in a **30-foot :aoe-sphere: Sphere** centered on a point within **120 feet** of you. You can Teleport each willing creature in the area to an unoccupied space within 30 feet of its current location.
+As a **:rsc-a: Magic**{.rsc} action, you conjure a burst of light in a **30-foot :aoe-sphere: Sphere** centered on a point within **120 feet** of you. You can Teleport each willing creature in the area to an unoccupied space within 30 feet of its current location.
 
 Any creature remaining in the Sphere must make a **:d20-save: CON Save** against your **Spell Save DC**. On a failed save, the creature takes **4d12 :dmg-radi: Radiant**{.dmg-radi} damage and has the **Blinded**{ .cond } condition until the end of your next turn. On a successful save, the creature only takes half damage.
 

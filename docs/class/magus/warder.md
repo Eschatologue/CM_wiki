@@ -33,9 +33,9 @@ When you reach a Magus level specified in the Warder Spells table, you thereafte
 
 You gain training in Heavy armour. Also, at the end of a **:rest-long: Long Rest**, you can touch a willing creature, forging a mystical bond that designates it as your Ward until your next Long Rest.
 
-When your Ward is targeted by an attack or forced to make a saving throw and you are within 10 feet of it, you can use a **:rsc-r: Reaction**{ .rsc } to instantly switch places and become the target of the triggering attack or effect. You must be able to see your Ward to use this **:rsc-r: Reaction**{ .rsc }.
+When your Ward is targeted by an attack or forced to make a saving throw and you are within 10 feet of it, you can use a **:rsc-r: Reaction**{.rsc} to instantly switch places and become the target of the triggering attack or effect. You must be able to see your Ward to use this **:rsc-r: Reaction**{.rsc}.
 
-At certain Magus levels, the range of this **:rsc-r: Reaction**{ .rsc } increases: at level 7 (30 feet), at level 15 (60 feet), and finally at level 20 the range is limited only by your line of sight.
+At certain Magus levels, the range of this **:rsc-r: Reaction**{.rsc} increases: at level 7 (30 feet), at level 15 (60 feet), and finally at level 20 the range is limited only by your line of sight.
 
 ### Level 7: Arcane Aegis
 

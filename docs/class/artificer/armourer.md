@@ -34,7 +34,7 @@ Your tinkering with Arcane Armour ensures you always have certain spells ready. 
 
 ### Level 3: Arcane Armour
 
-Your metallurgical pursuits have led to you making armour a conduit for your magic. As a **:rsc-a: Magic**{ .rsc } action, you can turn a suit of armour you are wearing into Arcane Armour, provided you have Smith's Tools in hand. The armour continues to be Arcane Armour until you don another suit of armour or you die.
+Your metallurgical pursuits have led to you making armour a conduit for your magic. As a **:rsc-a: Magic**{.rsc} action, you can turn a suit of armour you are wearing into Arcane Armour, provided you have Smith's Tools in hand. The armour continues to be Arcane Armour until you don another suit of armour or you die.
 
 You gain the following benefits while wearing this armour:
 
@@ -42,9 +42,9 @@ You gain the following benefits while wearing this armour:
 
 **Spellcasting Focus**{.inl}You can use the Arcane Armour as a spellcasting focus for your Artificer spells.
 
-**Second Skin**{.inl} The armour attaches to you and can't be removed against your will. It also expands to cover your entire body. You can retract or deploy the helmet as a **:rsc-b: Bonus Action**{ .rsc }. The armour replaces any missing limbs, functioning identically to a limb it replaces.
+**Second Skin**{.inl} The armour attaches to you and can't be removed against your will. It also expands to cover your entire body. You can retract or deploy the helmet as a **:rsc-b: Bonus Action**{.rsc}. The armour replaces any missing limbs, functioning identically to a limb it replaces.
 
-**Quick Don/Doff**{.inl} You can doff or don the armour as a **:rsc-a: Utilise**{ .rsc } action.
+**Quick Don/Doff**{.inl} You can doff or don the armour as a **:rsc-a: Utilise**{.rsc} action.
 
 ### Level 3: Armour Model
 
@@ -65,7 +65,7 @@ You design your armour to be in the front line of conflict. It has the following
 
 **Distracting Pulse**{.inl} When you hit a creature with a melee attack, it has **:d20-dis: Disadvantage**{.d20} on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
 
-**Defensive Field**{.inl} While you are Bloodied, you can take a **:rsc-b: Bonus Action**{ .rsc } to gain **:trt-thp: Temporary Hit Points** equal to your Artificer level. You lose these **:trt-thp: Temporary Hit Points** if you doff the armour.
+**Defensive Field**{.inl} While you are Bloodied, you can take a **:rsc-b: Bonus Action**{.rsc} to gain **:trt-thp: Temporary Hit Points** equal to your Artificer level. You lose these **:trt-thp: Temporary Hit Points** if you doff the armour.
 
 #### Infiltrator
 
@@ -83,7 +83,7 @@ You customize your armour for subtle undertakings. It has the following features
 
 ### Level 5: Extra Attack
 
-You can attack twice, instead of once, whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
+You can attack twice, instead of once, whenever you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
 In addition, you can cast one of your Artificer cantrip that has the casting time of an action in place of those attack.
 
@@ -101,9 +101,9 @@ Your Arcane Armour gains additional benefits based on its model, as shown below.
 
 #### Guardian
 
-When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your **:rsc-r: Reaction**{ .rsc } to magically force it to make a **:d20-save: Strength saving throw**{.d20} against your Spell Save DC. On a failed save, you pull the creature up to **25 feet** directly to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.
+When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your **:rsc-r: Reaction**{.rsc} to magically force it to make a **:d20-save: Strength saving throw**{.d20} against your Spell Save DC. On a failed save, you pull the creature up to **25 feet** directly to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.
 
-You can use this **:rsc-r: Reaction**{ .rsc } a number of times equal to your Intelligence modifier, and you regain all expended uses of it when you finish a **:rest-long: Long Rest**.
+You can use this **:rsc-r: Reaction**{.rsc} a number of times equal to your Intelligence modifier, and you regain all expended uses of it when you finish a **:rest-long: Long Rest**.
 
 #### Infiltrator
 

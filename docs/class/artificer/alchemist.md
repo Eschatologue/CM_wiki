@@ -35,9 +35,9 @@ You have learned to produce magical potions called Experimental Elixirs, which s
 
 **Random Elixirs**{.inl} Whenever you finish a **:rest-short: Short** or **:rest-long: Long Rest**, you can magically produce an Elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir's effect, which is triggered when someone drinks the elixir. The number of Elixirs you can make in this way increases to two at level 10, rolling for each elixir separately, and containing each in its own flask.  
 
-**Controlled Elixirs**{.inl} As a **:rsc-a: Magic**{ .rsc } action, you can produce one Elixir in a flask you touch. Instead of rolling, you choose the desired effect from the Experimental Elixir table. You can do this once per **:rest-short: Short Rest**.  
+**Controlled Elixirs**{.inl} As a **:rsc-a: Magic**{.rsc} action, you can produce one Elixir in a flask you touch. Instead of rolling, you choose the desired effect from the Experimental Elixir table. You can do this once per **:rest-short: Short Rest**.  
 
-**Drinking and Administering Elixirs**{.inl} As a **:rsc-b: Bonus Action**{ .rsc }, a creature can drink the elixir or administer it to an Incapacitated creature.
+**Drinking and Administering Elixirs**{.inl} As a **:rsc-b: Bonus Action**{.rsc}, a creature can drink the elixir or administer it to an Incapacitated creature.
 
 **Alchemical Limitations**{.inl} Creating an Experimental Elixir requires you to have alchemist's supplies on your person, and any Elixir you create with this feature lasts until it is drunk or until the end of your next **:rest-short: Short** or **:rest-long: Long Rest**.
 

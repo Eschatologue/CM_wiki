@@ -63,23 +63,23 @@ If a spell is on a class's spell list, the class's name appears in parentheses a
 
 ## Casting Time
 
-Most spells require the **:rsc-a: Magic**{ .rsc } action to cast, but some spells require a **:rsc-b: Bonus Action**{ .rsc }, a **:rsc-r: Reaction**{ .rsc }, or 1 minute or more. A spell's Casting Time entry specifies which of those is required.
+Most spells require the **:rsc-a: Magic**{.rsc} action to cast, but some spells require a **:rsc-b: Bonus Action**{.rsc}, a **:rsc-r: Reaction**{.rsc}, or 1 minute or more. A spell's Casting Time entry specifies which of those is required.
 
 ### One Spell with a Spell Slot per Turn
 
 <!-- --8<-- [start:one-spell-per-turn] -->
 
-On a turn, you can expend only one spell slot to cast a spell. This rule means you can't, for example, cast a spell with a spell slot using the **:rsc-a: Magic**{ .rsc } action and another one using a **:rsc-b: Bonus Action**{ .rsc } on the same turn.
+On a turn, you can expend only one spell slot to cast a spell. This rule means you can't, for example, cast a spell with a spell slot using the **:rsc-a: Magic**{.rsc} action and another one using a **:rsc-b: Bonus Action**{.rsc} on the same turn.
 
 <!-- --8<-- [end:one-spell-per-turn] -->
 
-### Reaction and **:rsc-b: Bonus Action**{ .rsc } Triggers
+### Reaction and **:rsc-b: Bonus Action**{.rsc} Triggers
 
-A spell that has a casting time of a **:rsc-r: Reaction**{ .rsc } is cast in response to a trigger that is defined in the spell's Casting Time entry. Some spells that have a casting time of a **:rsc-b: Bonus Action**{ .rsc } are also cast in response to a trigger defined in the spell.
+A spell that has a casting time of a **:rsc-r: Reaction**{.rsc} is cast in response to a trigger that is defined in the spell's Casting Time entry. Some spells that have a casting time of a **:rsc-b: Bonus Action**{.rsc} are also cast in response to a trigger defined in the spell.
 
 ### Longer Casting Times
 
-Certain spells—including a spell cast as a Ritual—require more time to cast: minutes or even hours. While you cast a spell with a casting time of 1 minute or more, you must take the **:rsc-a: Magic**{ .rsc } action on each of your turns, and you must maintain Concentration (see the rules glossary) while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot. To cast the spell again, you must start over.
+Certain spells—including a spell cast as a Ritual—require more time to cast: minutes or even hours. While you cast a spell with a casting time of 1 minute or more, you must take the **:rsc-a: Magic**{.rsc} action on each of your turns, and you must maintain Concentration (see the rules glossary) while you do so. If your Concentration is broken, the spell fails, but you don't expend a spell slot. To cast the spell again, you must start over.
 
 ## Area of Effects
 

@@ -39,7 +39,7 @@ You have Resistance to that damage type, and when you cast a spell that deals da
 
 ### Level 14: Dragon Wings
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a Fly Speed of 60 feet.
+As a **:rsc-b: Bonus Action**{.rsc}, you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a Fly Speed of 60 feet.
 
 Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest** unless you spend 3 Sorcery Points (no action required) to restore your use of it.
 

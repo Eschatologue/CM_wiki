@@ -57,7 +57,7 @@ The number of additional **:class-phb24-artificer: Infusion** your Arcane Armame
 
 ### Level 5: Extra Attack
 
-You can attack twice, instead of once, whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
+You can attack twice, instead of once, whenever you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
 ### Level 5: Weapon Mastery
 
@@ -75,12 +75,12 @@ Moreover, whenever you hit with an Arcane Armament attack you can deal a bonus *
 
 *You have become a master Forgewright and extend the power of your Arcane Armament to others.*
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can flood a number of weapons equal to your Intelligence modifier (minimum of 1) within 30 feet, one of which can be your Arcane Armament, with raw power. For 1 minute, these weapons deal a bonus **1d8 :dmg-force: Force**{ .dmg-force } damage on hit.
+As a **:rsc-b: Bonus Action**{.rsc}, you can flood a number of weapons equal to your Intelligence modifier (minimum of 1) within 30 feet, one of which can be your Arcane Armament, with raw power. For 1 minute, these weapons deal a bonus **1d8 :dmg-force: Force**{ .dmg-force } damage on hit.
 
 Once you use this feature you must finish a **:rest-long: Long Rest** before you can use it again. If you have no uses left, you can expend a level 3+ spell slot to use it again.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 --8<-- "includes/snippets/item-mastery.md"
 
-:material-book-edit: Written by *Eschatologue*
-{ .quote }
+:material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
+{.author}

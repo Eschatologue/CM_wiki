@@ -23,21 +23,21 @@ You can speak, read, and write Thieves' Cant. Additionally, you have **:d20-adv:
 
 Your body itself has become a weapon, while you aren't wearing Medium or Heavy armour, you gain the following benefits:
 
-**Ruffian's Fist**{.inl} You can roll `1d6` in place of the normal damage of your **:rsc-a: Unarmed Strike**{ .rsc }. This die changes at certain Barbarian level; `1d8` at level 6, `1d10` at level 10, and finally `1d12` at level 12.
+**Ruffian's Fist**{.inl} You can roll `1d6` in place of the normal damage of your **:rsc-a: Unarmed Strike**{.rsc}. This die changes at certain Barbarian level; `1d8` at level 6, `1d10` at level 10, and finally `1d12` at level 12.
 
-**Bonus Unarmed Strike**{.inl} You can make an **:rsc-a: Unarmed Strike**{ .rsc } as a **:rsc-b: Bonus Action**{ .rsc }.
+**Bonus Unarmed Strike**{.inl} You can make an **:rsc-a: Unarmed Strike**{.rsc} as a **:rsc-b: Bonus Action**{.rsc}.
 
 **Climbing Speed**{.inl} You gain a Climbing Speed equal to your **:rsc-spd: Speed**{ .em }.
 
-**Quick Jab**{.inl} When you activate your **:ui-rage: Rage**{ .em }, you can make one **:rsc-a: Unarmed Strike**{ .rsc } as part of the same **:rsc-b: Bonus Action**{ .rsc }.
+**Quick Jab**{.inl} When you activate your **:ui-rage: Rage**{ .em }, you can make one **:rsc-a: Unarmed Strike**{.rsc} as part of the same **:rsc-b: Bonus Action**{.rsc}.
 
 ### Level 6: Forceful Rend
 
-Your fists becomes devastating to whoever at the receiving end. The following options are added to your **:rsc-a: Unarmed Strike**{ .rsc }:
+Your fists becomes devastating to whoever at the receiving end. The following options are added to your **:rsc-a: Unarmed Strike**{.rsc}:
 
-**Concussion**{.inl} You can force a creature you hit with **:rsc-a: Unarmed Strike (Damage)**{ .rsc } to make a **:d20-save: DEX Save**{.d20}. On fail, the target must subtract the result of your Unarmed Strike die from its next D20 Test until the start of your next turn.
+**Concussion**{.inl} You can force a creature you hit with **:rsc-a: Unarmed Strike (Damage)**{.rsc} to make a **:d20-save: DEX Save**{.d20}. On fail, the target must subtract the result of your Unarmed Strike die from its next D20 Test until the start of your next turn.
 
-**Hurl**{.inl} As a **:rsc-b: Bonus Action**{ .rsc }, you can end a **Grapple** to throw the creature to a point you can see within 20 feet. If the creature lands in an unoccupied space, it has the **Prone**{ .cond } condition. If it collides with another creature, that creature must succeed on a **:d20-save: DEX Save**{.d20} or take **(Unarmed Strike) :dmg-bldg: Bludgeoning**{.dmg-bps} damage.
+**Hurl**{.inl} As a **:rsc-b: Bonus Action**{.rsc}, you can end a **Grapple** to throw the creature to a point you can see within 20 feet. If the creature lands in an unoccupied space, it has the **Prone**{ .cond } condition. If it collides with another creature, that creature must succeed on a **:d20-save: DEX Save**{.d20} or take **(Unarmed Strike) :dmg-bldg: Bludgeoning**{.dmg-bps} damage.
 
 ### Level 10: Backbreaker
 

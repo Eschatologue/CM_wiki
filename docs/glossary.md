@@ -163,7 +163,7 @@ A creature is Bloodied while it has half its Hit Points or fewer remaining.
 
 ## Bonus Action
 
-A **:rsc-b: Bonus Action**{ .rsc } is a special action that you can take on the same turn that you take an action. You can't take more than one **:rsc-b: Bonus Action**{ .rsc } on a turn, and you have a **:rsc-b: Bonus Action**{ .rsc } to take only if a rule explicitly says so.
+A **:rsc-b: Bonus Action**{.rsc} is a special action that you can take on the same turn that you take an action. You can't take more than one **:rsc-b: Bonus Action**{.rsc} on a turn, and you have a **:rsc-b: Bonus Action**{.rsc} to take only if a rule explicitly says so.
 
 ---
 
@@ -377,7 +377,7 @@ An :d20-check: **Ability Check** is a D20 Test that represents using one of the 
 
 ### Attack Roll
 
-An :d20-attack: **Attack Roll** is a D20 Test that represents making an attack with a weapon, an **:rsc-a: Unarmed Strike**{ .rsc } (Damage), or a spell.
+An :d20-attack: **Attack Roll** is a D20 Test that represents making an attack with a weapon, an **:rsc-a: Unarmed Strike**{.rsc} (Damage), or a spell.
 
 ### Saving Throw
 
@@ -838,7 +838,7 @@ If you have proficiency with something, you can add your Proficiency Bonus to an
 
 ## Reaction
 
-A Reaction is a special action taken in response to a trigger defined in the Reaction's description. You can take a **:rsc-r: Reaction**{ .rsc } on another creature's turn, and if you take it on your turn, you can do so even if you also take an action, a **:rsc-b: Bonus Action**{ .rsc }, or both. Once you take a **:rsc-r: Reaction**{ .rsc }, you can't take another one until the start of your next turn. The Opportunity Attack is a **:rsc-r: Reaction**{ .rsc } available to all creatures.
+A Reaction is a special action taken in response to a trigger defined in the Reaction's description. You can take a **:rsc-r: Reaction**{.rsc} on another creature's turn, and if you take it on your turn, you can do so even if you also take an action, a **:rsc-b: Bonus Action**{.rsc}, or both. Once you take a **:rsc-r: Reaction**{.rsc}, you can't take another one until the start of your next turn. The Opportunity Attack is a **:rsc-r: Reaction**{.rsc} available to all creatures.
 
 ---
 
@@ -1059,7 +1059,7 @@ A stat block contains the game slatistics of a monster. Each stat block includes
 
 **Actions**{.inl} The monster can take these actions in addition to those detailed in this glossary.
 
-**Bonus Actions**{.inl} If the monster has **:rsc-b: Bonus Action**{ .rsc } options, they are listed in this section.
+**Bonus Actions**{.inl} If the monster has **:rsc-b: Bonus Action**{.rsc} options, they are listed in this section.
 
 **Reactions**{.inl} If the monster can take special Reactions, those are listed in this section.
 

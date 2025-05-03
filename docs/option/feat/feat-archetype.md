@@ -18,7 +18,7 @@ Increase your Strength, Dexterity, Constitution, or Wisdom score by 1, to a maxi
 
 ###### Channel Divinity: :ui-chdiv-cleric: Divine Siege
 
-As a **:rsc-b: Bonus Ation**{.rsc}, you present your Holy Symbol and expend a use of your **:ui-chdiv-cleric: Channel Divinity**{ .em }. For 1 minute, you can attack *twice* instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
+As a **:rsc-b: Bonus Ation**{.rsc}, you present your Holy Symbol and expend a use of your **:ui-chdiv-cleric: Channel Divinity**{ .em }. For 1 minute, you can attack *twice* instead of once whenever you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
 ---
 

@@ -50,7 +50,7 @@ You have learned to channel your magic through a deck of cards.
 **Hidden Ace**
 :   When you finish a **:rest-long: Long Rest**, you can choose two spell from your class's spell list and imbue those spell into cards. The chosen spell must have a casting time of an action, and it must be a level for which you have :rsc-spell-slot: Spell Slots. The card remains imbued with this spell for 8 hours. 
     
-While the card is imbued with the spell, you can use a **:rsc-b: Bonus Action**{ .rsc } to flourish the card and cast the spell within. The card then immediately loses its magic.
+While the card is imbued with the spell, you can use a **:rsc-b: Bonus Action**{.rsc} to flourish the card and cast the spell within. The card then immediately loses its magic.
 
 
 ---
@@ -65,7 +65,7 @@ You've developed the ability to instantly recall an unprepared spell in moments 
 :   You increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
     
 **Switch Spells**
-:   As a **:rsc-a: Magic**{ .rsc } action, you can instantly learn or prepare a spell from your available class spell list (or spellbook, if your class prepare spells from one) that you did not know or have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: **Spell Slots**. You then lose the knowledge or preparation of a different spell of your choice of equal or higher spell level. 
+:   As a **:rsc-a: Magic**{.rsc} action, you can instantly learn or prepare a spell from your available class spell list (or spellbook, if your class prepare spells from one) that you did not know or have prepared. This spell choice must be of a level for which you have :rsc-spell-slot: **Spell Slots**. You then lose the knowledge or preparation of a different spell of your choice of equal or higher spell level. 
     
     Once you use this ability, you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
 
@@ -84,7 +84,7 @@ You gain the following benefits.
 :   You sacrifice accurary to land more powerful hits. Before you make a melee attack with a **:wp-prop-heavy: Heavy**{.wp} weapon with no **:d20-dis: Disadvantage**{.d20}, you can choose to impose **:d20-dis: Disadvantage**{.d20} on the attack roll. If the attack hits, it deals extra damage equals to two times your Strength modifier.
 
 **Hew**
-:   Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a **:rsc-b: Bonus Action**{ .rsc }.
+:   Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a **:rsc-b: Bonus Action**{.rsc}.
 
 **Alternate Version**{.inl} You can't take this feat if you already has [:option-feat-general: Great Weapon Master](phb24.md#great-weapon-master) feat
 
@@ -114,9 +114,9 @@ You always seem to have helpful advice for any situation. You gain the benefits 
 :   You increase your Intelligence or Wisdom score by 1, up to a maximum of 20.
 
 **Swift Help**
-:   You can take the **:rsc-a: Help**{ .rsc } action as a **:rsc-b: Bonus Action**{ .rsc }.
+:   You can take the **:rsc-a: Help**{.rsc} action as a **:rsc-b: Bonus Action**{.rsc}.
 
-    If you use a **:rsc-a: Help**{ .rsc } action to give **:d20-adv: Advantage**{.d20} on an ability check with a skill or tool you are proficient in, the target can treat a result of 7 or lower on the d20 as an 8.
+    If you use a **:rsc-a: Help**{.rsc} action to give **:d20-adv: Advantage**{.d20} on an ability check with a skill or tool you are proficient in, the target can treat a result of 7 or lower on the d20 as an 8.
 
 ---
 
@@ -275,7 +275,7 @@ You gain the following benefits:
 :   Increase your Dexterity by 1, to a maximum of 20.
 
 **Return Fire**
-:   When a creature you can see hits or misses you with a ranged attack, you can take a **:rsc-r: Reaction**{ .rsc } and make one ranged weapon attack against that creature with ranged or thrown weapon that has the **:wp-prop-light: Light**{.wp} property.
+:   When a creature you can see hits or misses you with a ranged attack, you can take a **:rsc-r: Reaction**{.rsc} and make one ranged weapon attack against that creature with ranged or thrown weapon that has the **:wp-prop-light: Light**{.wp} property.
 
 </div>
 

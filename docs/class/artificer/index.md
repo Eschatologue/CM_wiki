@@ -211,7 +211,7 @@ Your proficiency bonus is now doubled for any ability check you make that uses y
 
 ### Level 7: Flash of Genius
 
-You've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your **:rsc-r: Reaction**{ .rsc } to add your Intelligence modifier to the roll.
+You've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your **:rsc-r: Reaction**{.rsc} to add your Intelligence modifier to the roll.
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
@@ -227,7 +227,7 @@ You've achieved a profound understanding of how to use and make magic items:
 
 You can now store a spell in an object. Whenever you finish a **:rest-long: Long Rest**, you can touch one Simple or Martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a level 1 or 2 spell from the [Artificer spell list] that requires an :rsc-a: Action to cast (you needn't have it prepared).
 
-While holding the object, a creature can take an **:rsc-a: Magic**{ .rsc } action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires Concentration, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your :abl-int: Intelligence modifier (minimum of 1) or until you use this feature again to store a spell in an object.
+While holding the object, a creature can take an **:rsc-a: Magic**{.rsc} action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires Concentration, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your :abl-int: Intelligence modifier (minimum of 1) or until you use this feature again to store a spell in an object.
 
 ### Level 14: Magic Item Savant
 
@@ -253,7 +253,7 @@ You have developed a mystical connection to your magic items, which you can draw
 
 **Armoured Soul**{.inl} You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
 
-**Infusion Contingency**{.inl} If you're reduced to 0 Hit Points but not killed out-right, you can use your **:rsc-r: Reaction**{ .rsc } to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
+**Infusion Contingency**{.inl} If you're reduced to 0 Hit Points but not killed out-right, you can use your **:rsc-r: Reaction**{.rsc} to end one of your Infusions, causing you to drop to 1 hit point instead of 0, and you instantly regain 30 Hit Points.
 
 --8<-- "includes/snippets/skills.md"
 --8<-- "includes/snippets/spells2/lv0.md"

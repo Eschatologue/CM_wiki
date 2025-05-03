@@ -49,24 +49,24 @@ If a combatant is suprised by combat starting, that combatant has **:d20-dis: Di
 During your turn, you can do the following on any order:
 
 - Move up to your **:rsc-spd: Speed**{ .em }
-- Take one **:rsc-a: Action**{ .rsc }
-- Take one **:rsc-b: Bonus Action**{ .rsc } (If you have a feature that uses it)
+- Take one **:rsc-a: Action**{.rsc}
+- Take one **:rsc-b: Bonus Action**{.rsc} (If you have a feature that uses it)
 
 #### Communicating
 
 You can communicate however you are able-through bried uttarances and gestures-as you take your turn. Doing so uses neither your action nor your move.
 
-Extended communications, such as detailes explanation of something or an attempt to persuade a foe, requires an action. The **:rsc-a: Influence**{ .rsc } action is the main way you try to influence a monster.
+Extended communications, such as detailes explanation of something or an attempt to persuade a foe, requires an action. The **:rsc-a: Influence**{.rsc} action is the main way you try to influence a monster.
 
 #### Interacting with Things
 
 You can interact with one object or feature of the environment for free during either your move as you stride toward a foe.
 
-If you want to interact with a second object, you need to take the **:rsc-a: Utilise**{ .rsc } action. Some magic items and other special object always requires an action to use, as stted in their descriptions.
+If you want to interact with a second object, you need to take the **:rsc-a: Utilise**{.rsc} action. Some magic items and other special object always requires an action to use, as stted in their descriptions.
 
 #### Doing Nothing
 
-You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do, consider taking the defensive **:rsc-a: Dodge**{ .rsc } action or the **:rsc-a: Ready**{ .rsc } action to delay acting.
+You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do, consider taking the defensive **:rsc-a: Dodge**{.rsc} action or the **:rsc-a: Ready**{.rsc} action to delay acting.
 
 ### Ending Combat
 
@@ -144,7 +144,7 @@ You can't willingly end a move in a space occupied by another creature. If you s
 
 ## Making an Attack
 
-When you take the **:rsc-a: Attack**{ .rsc } action, you make an attack. Some other actions, Bonus Actions, and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:
+When you take the **:rsc-a: Attack**{.rsc} action, you make an attack. Some other actions, Bonus Actions, and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:
 
 1. **Choose a Target.** Pick a target within your attack's range: a creature, an object, or a location.
 2. **Determine Modifiers.** The DM determines whether the target has Cover (see the next section) and whether you have **:d20-adv: Advantage**{.d20} or **:d20-dis: Disadvantage**{.d20} against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
@@ -188,7 +188,7 @@ Aiming a ranged attack is more difficult when a foe is next to you. When you mak
 
 ## Melee Attacks
 
-A melee attack allows you to attack a target within your reach. A melee attack typically uses a handheld weapon or an **:rsc-a: Unarmed Strike**{ .rsc }. Many monsters make melee attacks with claws, teeth, or other body parts. A few spells also involve melee attacks.
+A melee attack allows you to attack a target within your reach. A melee attack typically uses a handheld weapon or an **:rsc-a: Unarmed Strike**{.rsc}. Many monsters make melee attacks with claws, teeth, or other body parts. A few spells also involve melee attacks.
 
 ### Reach
 
@@ -200,7 +200,7 @@ Combatants watch for enemies to drop their guard. If you move heedlessly past yo
 
 **Avoiding Opportunity Attack**{.inl} You can avoid provoking an Opportunity Attack by taking the Disengage action. You also don't provoke an Opportunity Attack when you Teleport or when you are moved without using your Movement, action, Bonus Action, or Reaction. For example, you don't provoke an Opportunity Attack if an explosion hurls you out of a foe's reach or if you fall past an enemy.
 
-**Making an Opportunity Attack**{.inl} You can make an Opportunity Attack when a creature that you can see leaves your reach. To make the attack, take a **:rsc-r: Reaction**{ .rsc } to make one melee attack with a weapon or an **:rsc-a: Unarmed Strike**{ .rsc } against that creature. The attack occurs right before it leaves your reach.
+**Making an Opportunity Attack**{.inl} You can make an Opportunity Attack when a creature that you can see leaves your reach. To make the attack, take a **:rsc-r: Reaction**{.rsc} to make one melee attack with a weapon or an **:rsc-a: Unarmed Strike**{.rsc} against that creature. The attack occurs right before it leaves your reach.
 
 ### Mounted Combat
 

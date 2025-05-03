@@ -89,7 +89,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :   ### Light { .noborder }
 
-    When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with a **:wp-prop-light: Light**{.wp} weapon, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a ^^different^^ **:wp-prop-light: Light**{.wp} weapon, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
+    When you take the **:rsc-a: Attack**{.rsc} action on your turn and attack with a **:wp-prop-light: Light**{.wp} weapon, you can make one extra attack as a **:rsc-b: Bonus Action**{.rsc} later on the same turn. That extra attack must be made with a ^^different^^ **:wp-prop-light: Light**{.wp} weapon, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
 ---
 
@@ -97,7 +97,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :   ### Loading { .noborder }
 
-    Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an **:rsc-a: Action**{ .rsc }, **:rsc-b: Bonus Action**{ .rsc }, or **:rsc-r: Reaction**{ .rsc } to fire it, regardless of the number of attacks you can normally make.
+    Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an **:rsc-a: Action**{.rsc}, **:rsc-b: Bonus Action**{.rsc}, or **:rsc-r: Reaction**{.rsc} to fire it, regardless of the number of attacks you can normally make.
 
 ---
 
@@ -123,7 +123,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :   ### Reload { .noborder }
 
-    This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a **:rsc-b: Bonus Action**{ .rsc }; otherwise, reloading it takes an **:rsc-a: Action**{ .rsc }. Some weapons require an **:rsc-a: Action**{ .rsc } or longer to reload, even if you have Proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
+    This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a **:rsc-b: Bonus Action**{.rsc}; otherwise, reloading it takes an **:rsc-a: Action**{.rsc}. Some weapons require an **:rsc-a: Action**{.rsc} or longer to reload, even if you have Proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
 
 ---
 

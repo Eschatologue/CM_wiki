@@ -27,7 +27,7 @@ In most societies, the Oathless are met with distrust or outright hostility. In 
 
 *You fight without honour or respect.*
 
-When you take damage from a source you can see, you can use your **:ui-chdiv-pal: Channel Divinity**  to take a **:rsc-r: Reaction**{ .rsc } to give yourself the **Invisible**{ .cond } condition, and move up to your **:rsc-spd: Speed**. You have the Invisible condition until the start of your next turn, or until you attack or force a creature to make a saving throw. 
+When you take damage from a source you can see, you can use your **:ui-chdiv-pal: Channel Divinity**  to take a **:rsc-r: Reaction**{.rsc} to give yourself the **Invisible**{ .cond } condition, and move up to your **:rsc-spd: Speed**. You have the Invisible condition until the start of your next turn, or until you attack or force a creature to make a saving throw. 
 
 ### Level 3: Oathless Spells
 
@@ -65,9 +65,9 @@ When you force a creature within your *Aura of Protection* to make a saving thro
 
 *You use self-serving power to become a grey shade of the righteous Paladin you could have been.*
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 1 minute. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a **:rsc-b: Bonus Action**{.rsc}, you gain the following benefits for 1 minute. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
-**Cunning Escape**{.inl} You can take the Dash or Hide action as a  **:rsc-b: Bonus Action**{ .rsc }.
+**Cunning Escape**{.inl} You can take the Dash or Hide action as a  **:rsc-b: Bonus Action**{.rsc}.
 
 **Invisible**{.inl} You have the Invisible condition.
 

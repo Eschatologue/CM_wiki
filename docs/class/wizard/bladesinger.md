@@ -16,7 +16,7 @@ Bladesingers master a tradition of wizardry that incorporates swordplay and danc
 
 ### Level 3: Bladesong
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you invoke an elven magic called the *Bladesong*, provided you aren’t wearing Armour or using a Shield.
+As a **:rsc-b: Bonus Action**{.rsc}, you invoke an elven magic called the *Bladesong*, provided you aren’t wearing Armour or using a Shield.
 
 The *Bladesong* lasts for 1 minute and ends early if you have the **Incapacitated**{ .cond } condition, if you don armor or a Shield, or if you use two hands to make an attack with a weapon. You can dismiss the *Bladesong* at any time (no action required). 
 
@@ -36,17 +36,17 @@ You also gain proficiency in one of the following skills of your choice: Acrobat
 
 ### Level 6: Extra Attack
 
-You can attack twice instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
+You can attack twice instead of once whenever you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
 In addition, you can cast one of Wizard cantrips that has a casting time of an action in place of one of those attacks.
 
 ### Level 10: Song of Defence
 
-When you take damage while your *Bladesong* is active, you can take a **:rsc-r: Reaction**{ .rsc } to expend one spell slot and reduce the damage taken by an amount equal to five times the spell slot’s level. 
+When you take damage while your *Bladesong* is active, you can take a **:rsc-r: Reaction**{.rsc} to expend one spell slot and reduce the damage taken by an amount equal to five times the spell slot’s level. 
 
 ### Level 14: Song of Victory
 
-After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a **:rsc-b: Bonus Action**{ .rsc }.
+After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a **:rsc-b: Bonus Action**{.rsc}.
 
 --8<-- "includes/snippets/skills.md"
 

@@ -103,7 +103,7 @@ Whenever you gain a Fighter level, you can replace the feat you chose with a dif
 
 ### Level 1: Second Wind
 
-You have a limited well of physical and mental stamina that you can draw on. As a **:rsc-b: Bonus Action**{ .rsc }, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.
+You have a limited well of physical and mental stamina that you can draw on. As a **:rsc-b: Bonus Action**{.rsc}, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.
 
 You can use this feature twice. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
@@ -123,7 +123,7 @@ When you reach certain Fighter levels, you gain the ability to use the mastery p
 
 ### Level 2: Action Surge
 
-You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the **:rsc-a: Magic**{ .rsc } action.
+You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the **:rsc-a: Magic**{.rsc} action.
 
 Once you use this feature, you can't do so again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**. Starting at level 17, you can use it twice before a rest but only once on a turn.
 
@@ -141,11 +141,11 @@ You gain the [:option-feat-general: Ability Score Improvement](../../option/feat
 
 ### Level 5: Extra Attack
 
-You can attack twice instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
+You can attack twice instead of once whenever you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
 ### Level 5: Tactical Shift
 
-Whenever you activate your Second Wind with a **:rsc-b: Bonus Action**{ .rsc }, you can move up to half your **:rsc-spd: Speed**{ .em } without provoking Opportunity Attacks.
+Whenever you activate your Second Wind with a **:rsc-b: Bonus Action**{.rsc}, you can move up to half your **:rsc-spd: Speed**{ .em } without provoking Opportunity Attacks.
 
 ### Level 9: Indomitable
 
@@ -159,7 +159,7 @@ When you attack with a weapon whose mastery property you can use, you can replac
 
 ### Level 11: Two Extra Attacks
 
-You can attack three times instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
+You can attack three times instead of once whenever you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
 ### Level 13: Studied Attacks
 
@@ -171,7 +171,7 @@ You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat 
 
 ### Level 20: Three Extra Attacks
 
-You can attack four times instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
+You can attack four times instead of once whenever you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
 --8<-- "includes/snippets/item-mastery.md"
 --8<-- "includes/snippets/skills.md"

@@ -106,7 +106,7 @@ As a Bard, you gain the following class features when you reach the specified Ba
 
 You can supernaturally inspire others through words, music, or dance. This inspiration is represented by your Bardic Inspiration die, which is a d6.
 
-**Using Bardic Inspiration**{.inl} As a **:rsc-b: Bonus Action**{ .rsc }, you can inspire another creature within 60 feet of yourself who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
+**Using Bardic Inspiration**{.inl} As a **:rsc-b: Bonus Action**{.rsc}, you can inspire another creature within 60 feet of yourself who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
 
 Once within the next hour when the creature fails a D20 Test, the creature can roll the Bardic Inspiration die and add the number rolled to the d20, potentially turning the failure into a success. A Bardic Inspiration die is expended when it's rolled.
 { .indent }
@@ -193,7 +193,7 @@ In addition, you can expend a spell slot (no action required) to regain one expe
 
 ### Level 7: Countercharm
 
-You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the Charmed or Frightened condition, you can take a **:rsc-r: Reaction**{ .rsc } to cause the save to be rerolled, and the new roll has Advantage.
+You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the Charmed or Frightened condition, you can take a **:rsc-r: Reaction**{.rsc} to cause the save to be rerolled, and the new roll has Advantage.
 
 ### Level 10: Magical Secrets
 

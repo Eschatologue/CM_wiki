@@ -90,7 +90,7 @@ Choose one of the following damage types: **:dmg-force: Force**{.dmg-force}, **:
 
 _**Prerequisite:** Level 3+ Ranger_
 
-You learn some rougish techniques. Choose one of the following Actions, you can use a **:rsc-b: Bonus Action**{ .rsc } to take it: **:rsc-a: Dash**{.rsc}, **:rsc-a: Disengage**{.rsc}, or **:rsc-a: Hide**{.rsc}.
+You learn some rougish techniques. Choose one of the following Actions, you can use a **:rsc-b: Bonus Action**{.rsc} to take it: **:rsc-a: Dash**{.rsc}, **:rsc-a: Disengage**{.rsc}, or **:rsc-a: Hide**{.rsc}.
 
 **Repeatable**{.inl} You can choose this Aptitude again, choosing a different action each time.
 
@@ -126,7 +126,7 @@ During a **:rest-short: Short Rest**, you can recover spell slots of a combined 
 
 _**Prerequisite:** Level 3+ Ranger_
 
-When you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } you can cast [:spell-lv1: Hunter's Mark] at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
+When you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{.rsc} you can cast [:spell-lv1: Hunter's Mark] at the target as part of the attack, applying its damage bonus and other benefits (if any) to the damage roll.
 
 ---
 
@@ -134,7 +134,7 @@ When you hit a creature with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc
 
 _**Prerequisite:** Level 6+ Ranger, [Slayer I](#slayer-i)_
 
-When you roll **:d20-inv: Initiative**{.d20}, you can take a **:rsc-r: Reaction**{ .rsc } to cast [:spell-lv1: Hunter's Mark].
+When you roll **:d20-inv: Initiative**{.d20}, you can take a **:rsc-r: Reaction**{.rsc} to cast [:spell-lv1: Hunter's Mark].
 
 ---
 
@@ -142,7 +142,7 @@ When you roll **:d20-inv: Initiative**{.d20}, you can take a **:rsc-r: Reaction*
 
 _**Prerequisite:** Level 14+ Ranger, [Slayer II](#slayer-ii-ambush-tactics)_
 
-Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can force the target must succeed a **:d20-save: CON Save**{.d20}, or it has the **Blinded**{ .cond } and **Silenced**{ .cond } condition.
+Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{.rsc} , you can force the target must succeed a **:d20-save: CON Save**{.d20}, or it has the **Blinded**{ .cond } and **Silenced**{ .cond } condition.
 
 ---
 
@@ -206,7 +206,7 @@ _**Prerequisite:** Level 12+ Ranger, [Primal Focus](#primal-focus)_
 
 You gain the following benefits:
 
-**Improved Critical**{.inl} When you attack the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc }, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
+**Improved Critical**{.inl} When you attack the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{.rsc}, the number you need to roll to for a Critical Hit is reduced by 1. This effect can stack.
 
 **Weakness Exploit**{.inl} Each time you score a Critical Hit against a creature, the number you need roll for another Critical Hit against that creature is reduced by 1. This effect can stack for 2 instances.
 
@@ -216,7 +216,7 @@ You gain the following benefits:
 
 _**Prerequisite:** Level 15+ Ranger, [Primal Focus II](#primal-focus-ii-feral-eyes)_
 
-When you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can choose to end the spell and make the attack score a Critical Hit.
+When you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{.rsc} , you can choose to end the spell and make the attack score a Critical Hit.
 
 ---
 
@@ -270,7 +270,7 @@ You can cast [:spell-lv1: Ensnaring Strike] without expending a spell slot.
 
 _**Prerequisite:** Level 19+ Ranger_
 
-Whenever you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{ .rsc } , you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
+Whenever you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{.rsc} , you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
 
 ---
 

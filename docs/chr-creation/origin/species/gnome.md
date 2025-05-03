@@ -34,8 +34,8 @@ You know the [:spell-lv0: Minor Illusion] cantrip. You also always have the [:sp
 
 You know the [:spell-lv0: Mending] and [:spell-lv0: Prestidigitation] cantrips. 
 
-Additionally, you can spend 10 minutes using [:spell-lv0: Prestidigitation] to create a tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. The device mimics one [:spell-lv0: Prestidigitation] effect, which activates when you or another creature uses a **:rsc-b: Bonus Action**{ .rsc } to touch it. If the effect has options (e.g. igniting or extinguishing a fire), you choose which option when you create the device.
+Additionally, you can spend 10 minutes using [:spell-lv0: Prestidigitation] to create a tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. The device mimics one [:spell-lv0: Prestidigitation] effect, which activates when you or another creature uses a **:rsc-b: Bonus Action**{.rsc} to touch it. If the effect has options (e.g. igniting or extinguishing a fire), you choose which option when you create the device.
 
-You can have up to three devices at a time. Each device lasts 8 hours or until you dismantle it using **:rsc-a: Utilise**{ .rsc } action.
+You can have up to three devices at a time. Each device lasts 8 hours or until you dismantle it using **:rsc-a: Utilise**{.rsc} action.
 
 --8<-- "includes\snippets\spells3\lv0-5.md"

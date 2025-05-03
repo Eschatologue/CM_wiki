@@ -23,7 +23,7 @@ You gain proficiency with Martial weapon and training with Shields.
 
 Elemental earth fortifies your body. Your Hit Point maximum increases by 3 and increases by 1 whenever you gain another Sorcerer level.
 
-Moreover, as **:rsc-a: Magic**{ .rsc } action, you can gain a base AC of 10 plus your Constitution and Charisma modifier if you aren't wearing armour, and your skin assumes a stony appearance. This effect ends if you end it (no action required), you have the Unconcious condition, or you don armour other than a Shield.
+Moreover, as **:rsc-a: Magic**{.rsc} action, you can gain a base AC of 10 plus your Constitution and Charisma modifier if you aren't wearing armour, and your skin assumes a stony appearance. This effect ends if you end it (no action required), you have the Unconcious condition, or you don armour other than a Shield.
 
 ### Level 3: Metal Magic
 
@@ -40,7 +40,7 @@ When you reach a Sorcerer level specified in the Metal Magic Spells table, you t
 
 ### Level 6: Extra Attack
 
-You can attack twice, instead of once, whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
+You can attack twice, instead of once, whenever you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
 In addition, you can cast one of your Sorcerer cantrip that has the casting time of an action in place of those attack.
 
@@ -48,9 +48,9 @@ In addition, you can cast one of your Sorcerer cantrip that has the casting time
 
 *Your command of earth magic grows stronger, allowing you to harness it for your allies' protection.*
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can touch a willing creature (including yourself) and and expend Sorcery Points to grant it 1d6 **:trt-thp: Temporary Hit Points** per Sorcery Point.
+As a **:rsc-b: Bonus Action**{.rsc}, you can touch a willing creature (including yourself) and and expend Sorcery Points to grant it 1d6 **:trt-thp: Temporary Hit Points** per Sorcery Point.
 
-When a creature with these **:trt-thp: Temporary Hit Points** within 60 feet of you that you can see is hit by a melee attack, you can use your **:rsc-r: Reaction**{ .rsc } to teleport within 5 feet of the attacker and make a Melee attack or **:rsc-a: Unarmed Strike**{ .rsc } against it.
+When a creature with these **:trt-thp: Temporary Hit Points** within 60 feet of you that you can see is hit by a melee attack, you can use your **:rsc-r: Reaction**{.rsc} to teleport within 5 feet of the attacker and make a Melee attack or **:rsc-a: Unarmed Strike**{.rsc} against it.
 
 ### Level 14: Mountain's Heart
 

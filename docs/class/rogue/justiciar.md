@@ -21,11 +21,11 @@ You can use **:ui-chdiv-cleric: Channel Divinity** *once*. You regain one expend
 
 #### :ui-chdiv-cleric: Divine Sense
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
+As a **:rsc-b: Bonus Action**{.rsc}, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [:spell-lv5: Hallow] spell.
 
 #### :ui-chdiv-cleric: Shroud of Faith
 
-As an **:rsc-b: Bonus Action**{ .rsc }, you grip your holy symbol and invoke the protection of your god. You have the **Invisible**{ .cond } condition for 1 minute. This effect ends early if you attack or cast a spell.
+As an **:rsc-b: Bonus Action**{.rsc}, you grip your holy symbol and invoke the protection of your god. You have the **Invisible**{ .cond } condition for 1 minute. This effect ends early if you attack or cast a spell.
 
 ### Level 3: Spellcasting
 

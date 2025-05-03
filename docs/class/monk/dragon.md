@@ -15,13 +15,13 @@ The fundamental teaching of this tradition holds that by emulating dragons, a mo
 
 ### Level 3: Draconic Disciple
 
-You can channel draconic power to magnify your presence and imbue your **:rsc-a: Unarmed Strike**{ .rsc } with the essence of a dragon's breath. 
+You can channel draconic power to magnify your presence and imbue your **:rsc-a: Unarmed Strike**{.rsc} with the essence of a dragon's breath. 
 
 You gain the following benefits:
 
-**Draconic Presence**{.inl} If you fail an Intimidation or Persuasion check, you can use your **:rsc-r: Reaction**{ .rsc } to reroll the check and add a roll of your Martial Arts die to the result, as you tap into the mighty presence of dragons. Once this feature turns a failure into a success, you can't use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
+**Draconic Presence**{.inl} If you fail an Intimidation or Persuasion check, you can use your **:rsc-r: Reaction**{.rsc} to reroll the check and add a roll of your Martial Arts die to the result, as you tap into the mighty presence of dragons. Once this feature turns a failure into a success, you can't use it again until you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
-**Draconic Strike**{.inl} When you make an attack with a Monk weapon or an **:rsc-a: Unarmed Strike**{ .rsc } , you can change the damage type to **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn }, or **:dmg-posn: Poison**{ .dmg-posn }.
+**Draconic Strike**{.inl} When you make an attack with a Monk weapon or an **:rsc-a: Unarmed Strike**{.rsc} , you can change the damage type to **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn }, or **:dmg-posn: Poison**{ .dmg-posn }.
 
 **Tongue of Dragons**{.inl} You learn to speak, read, and write Draconic or one other language of your choice.
 
@@ -29,7 +29,7 @@ You gain the following benefits:
 
 *You can channel destructive waves of energy, like those created by the dragons.*
 
-When you make a melee attack or **:rsc-a: Unarmed Strike**{ .rsc }, you can replace one of the attacks with an exhalation of draconic energy in either a **20 ft. :aoe-cone: Cone** or a **30 ft. by 5 ft. :aoe-line: Line** (your choice). Choose a damage type: **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn }, or **:dmg-posn: Poison**{ .dmg-posn }. Each creature in that area must make a Dexterity save against your Focus save DC, taking damage of the chosen type equal to two rolls of your Martial Arts plus your Wisdom modifier die on a failed save, or half as much damage on a successful one. At level 11, the damage of this feature increases to three rolls of your Martial Arts die.
+When you make a melee attack or **:rsc-a: Unarmed Strike**{.rsc}, you can replace one of the attacks with an exhalation of draconic energy in either a **20 ft. :aoe-cone: Cone** or a **30 ft. by 5 ft. :aoe-line: Line** (your choice). Choose a damage type: **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn }, or **:dmg-posn: Poison**{ .dmg-posn }. Each creature in that area must make a Dexterity save against your Focus save DC, taking damage of the chosen type equal to two rolls of your Martial Arts plus your Wisdom modifier die on a failed save, or half as much damage on a successful one. At level 11, the damage of this feature increases to three rolls of your Martial Arts die.
 
 You can use this feature a number of times equal to your Wisdom modifier, and you regain all expended uses when you finish a **:rest-long: Long Rest**. Alternatively, you can spend **2 :class-phb24-monk: Focus Point(s)** to regain one use this feature (no action required).
 
@@ -41,9 +41,9 @@ When you use your Step of the Wind, you can unfurl spectral draconic wings from 
 
 *The power of your draconic spirit now radiates from you, warding your allies or inspiring fear in your enemies.* 
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can create an Emanation of draconic power that radiates 10 feet from you for 1 minute. For the duration, you gain one of the following effects of your choice:
+As a **:rsc-b: Bonus Action**{.rsc}, you can create an Emanation of draconic power that radiates 10 feet from you for 1 minute. For the duration, you gain one of the following effects of your choice:
 
-**Frightful Presence**{.inl} When you create the Emanation and as a **:rsc-b: Bonus Action**{ .rsc } on subsequent turns, you can choose a creature within the Emanation. The target must succeed on a Wisdom save against your Focus save DC or have the Frightened condition for 1 minute. The target can repeat its saving throw at the end of each of its turns, ending the effect on itself on a successful save.
+**Frightful Presence**{.inl} When you create the Emanation and as a **:rsc-b: Bonus Action**{.rsc} on subsequent turns, you can choose a creature within the Emanation. The target must succeed on a Wisdom save against your Focus save DC or have the Frightened condition for 1 minute. The target can repeat its saving throw at the end of each of its turns, ending the effect on itself on a successful save.
 
 **Resistance**{.inl} Choose a damage type when you activate the Emanation: **:dmg-acid: Acid**{ .dmg-acid }, **:dmg-cold: Cold**{ .dmg-cold }, **:dmg-fire: Fire**{ .dmg-fire }, **:dmg-lgtn: Lightning**{ .dmg-lgtn }, or **:dmg-posn: Poison**{ .dmg-posn }. You and your allies within the Emanation have **:dmg-res: Resistance**{ .em } to that damage type.
 

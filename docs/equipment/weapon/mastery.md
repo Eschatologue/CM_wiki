@@ -61,7 +61,7 @@ _**Prerequisites:** Melee Weapon; **:wp-prop-light: Light**{.wp}_
 
 <hr class="hr-solid">
 
-When you make the [extra attack](index.md#light) of the **:wp-prop-light: Light**{.wp} property, you can make it as part of the **:rsc-a: Attack**{ .rsc } action instead of as a **:rsc-b: Bonus Action**{ .rsc }. You can make this extra attack only once per turn.
+When you make the [extra attack](index.md#light) of the **:wp-prop-light: Light**{.wp} property, you can make it as part of the **:rsc-a: Attack**{.rsc} action instead of as a **:rsc-b: Bonus Action**{.rsc}. You can make this extra attack only once per turn.
 
 ---
 
@@ -121,7 +121,7 @@ _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-light: Light**{.wp} or **
 
 <hr class="hr-solid">
 
-Before or after making an attack with this weapon, you can move up to 5 feet without provoking **:rsc-r: Opportunity Attack**{ .rsc }. You can't move in his way if your **:rsc-spd: Speed** is 0.
+Before or after making an attack with this weapon, you can move up to 5 feet without provoking **:rsc-r: Opportunity Attack**{.rsc}. You can't move in his way if your **:rsc-spd: Speed** is 0.
 
 ---
 
@@ -191,7 +191,7 @@ _**Prerequisites:** Melee Weapon; **:wp-prop-finesse: Finesse**{.wp}_
 
 <hr class="hr-solid">
 
-When you take the **:rsc-a: Attack**{ .rsc } action on your turn and attack with this weapon ^^with one hand^^, you can make one extra attack as a **:rsc-b: Bonus Action**{ .rsc } later on the same turn. That extra attack must be made with a ^^different^^ **:wp-prop-finesse: Finesse**{.wp} weapon, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
+When you take the **:rsc-a: Attack**{.rsc} action on your turn and attack with this weapon ^^with one hand^^, you can make one extra attack as a **:rsc-b: Bonus Action**{.rsc} later on the same turn. That extra attack must be made with a ^^different^^ **:wp-prop-finesse: Finesse**{.wp} weapon, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
 
 !!! tips "Off-hand Attacks"
 

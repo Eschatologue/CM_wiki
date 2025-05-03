@@ -69,7 +69,7 @@ _**Flaming Sparks**_ <br>**:dmg-fire: Fire**{ .dmg-fire .back }
     *Sparks of fuel ignites on impact, sending embers flying.*{ .quote }  
 
 _**Shock Drive**_ <br>**:dmg-lgtn: Lightning**{ .dmg-lgtn .back } 
-:   On a hit, the target can't take **:rsc-r: Reactions**{ .rsc } until the start of your next turn.
+:   On a hit, the target can't take **:rsc-r: Reactions**{.rsc} until the start of your next turn.
 
     *A jolt of electricity courses through your victim.*{ .quote }  
 
@@ -80,7 +80,7 @@ _**Sonic Boom**_ <br>**:dmg-thun: Thunder**{ .dmg-thun .back }
 
 ### Level 10: Rapid Transformation
 
-When you take damage, you can take a **:rsc-r: Reaction**{ .rsc } to use your **:material-paw: Wild Shape** and transform into your Beast form. The damage you take is applied to the **:trt-thp: Temporary Hit Points** granted by your **:material-paw: Wild Shape**.
+When you take damage, you can take a **:rsc-r: Reaction**{.rsc} to use your **:material-paw: Wild Shape** and transform into your Beast form. The damage you take is applied to the **:trt-thp: Temporary Hit Points** granted by your **:material-paw: Wild Shape**.
 
 ### Level 10: Bestial Augmentations
 
@@ -92,7 +92,7 @@ When you use **:material-paw: Wild Shape**, you can enhance your beast form with
     *Your beast form is reinforced with overlapping metal plates and riveted joints.*{ .quote }
 
 **Integrated Launcher**
-:   You can use a **:rsc-b: Bonus Action**{ .rsc } to make a Ranged spell attack against a creature you can see within 60 feet. On a hit, the target takes **2d6 + Wisdom modifier :dmg-force: Force**{ .dmg-force } damage.
+:   You can use a **:rsc-b: Bonus Action**{.rsc} to make a Ranged spell attack against a creature you can see within 60 feet. On a hit, the target takes **2d6 + Wisdom modifier :dmg-force: Force**{ .dmg-force } damage.
 
     *Your beast form is outfitted with ranged capability*{ .quote }
 
@@ -102,7 +102,7 @@ When you use **:material-paw: Wild Shape**, you can enhance your beast form with
     *Your beast form is reinforced with crushing power, its strikes capable of shattering steel and bone alike.*{ .quote }
 
 **Overclocked Actuators**
-:   Your **:rsc-spd: Speed** is increased by 10 feet and you can take the **:rsc-a: Dash**{ .rsc } action as a **:rsc-b: Bonus Action**{ .rsc }.
+:   Your **:rsc-spd: Speed** is increased by 10 feet and you can take the **:rsc-a: Dash**{.rsc} action as a **:rsc-b: Bonus Action**{.rsc}.
 
     *Your beast form is enhanced with reinforced joints and hydraulic motion-assist mechanisms.*{ .quote }
 

@@ -35,7 +35,7 @@ The time you must spend to copy any spell of a level equal to half your Proficie
 
 *Your skill with basic magic is second to none, allowing you to spontaneously cast low-level spells that you haven't prepared.* 
 
-As a **:rsc-a: Magic**{ .rsc } action, you can cast any spell that is :spell-lv2: level 2 or lower from your spellbook, even if you don't have the spell prepared, expending the appropriate spell slot. The spell must have a casting time of action.
+As a **:rsc-a: Magic**{.rsc} action, you can cast any spell that is :spell-lv2: level 2 or lower from your spellbook, even if you don't have the spell prepared, expending the appropriate spell slot. The spell must have a casting time of action.
 
 You can cast a spell in this way a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
@@ -45,7 +45,7 @@ As you gain levels in this class, you can cast more powerful spells with this fe
 
 *Learning your magic out in the wild instead of the controlled environment of a formal school has made you hardier than most wizards.*
 
-When you fail a Constitution saving throw to maintain concentration on a spell, you can use a **:rsc-r: Reaction**{ .rsc } to grant yourself a bonus to the result equal to your Intelligence modifier (minimum of +1), potentially turning failure into a success.
+When you fail a Constitution saving throw to maintain concentration on a spell, you can use a **:rsc-r: Reaction**{.rsc} to grant yourself a bonus to the result equal to your Intelligence modifier (minimum of +1), potentially turning failure into a success.
 
 ### Level 14: Arcane Conservation
 

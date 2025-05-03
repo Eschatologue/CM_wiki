@@ -32,11 +32,11 @@ Nonmagical plants in the area that aren't creatures, such as trees and shrubs, w
 **Components:** V, S   
 **Duration:** Concentration, up to 24 hours
 
-Choose any number of willing creatures that you can see within range. Each target shape-shifts into a Large or smaller Beast of your choice that has a Challenge Rating of 4 or lower. You can choose a different form for each target. On later turns, you can take a **:rsc-a: Magic**{ .rsc } action to transform the targets again.
+Choose any number of willing creatures that you can see within range. Each target shape-shifts into a Large or smaller Beast of your choice that has a Challenge Rating of 4 or lower. You can choose a different form for each target. On later turns, you can take a **:rsc-a: Magic**{.rsc} action to transform the targets again.
 
 A target's game statistics are replaced by the chosen Beast's statistics, but the target retains its creature type; Hit Points; Hit Point Dice; alignment; ability to communicate; and Intelligence, Wisdom, and Charisma scores. The target's actions are limited by the Beast form's anatomy, and it can't cast spells. The target's equipment melds into the new form, and the target can't use any of that equipment while in that form.
 
-The target gains a number of **:trt-thp: Temporary Hit Points** equal to the Beast form's Hit Points. The transformation lasts for the duration for each target, until the target has no Temporary Hit Points, or until the target leaves the form as a  **:rsc-b: Bonus Action**{ .rsc }.
+The target gains a number of **:trt-thp: Temporary Hit Points** equal to the Beast form's Hit Points. The transformation lasts for the duration for each target, until the target has no Temporary Hit Points, or until the target leaves the form as a  **:rsc-b: Bonus Action**{.rsc}.
 
 > **Classes:** Druid
 
@@ -50,7 +50,7 @@ The target gains a number of **:trt-thp: Temporary Hit Points** equal to the Bea
 **Components:** V, S, M (iron filings)   
 **Duration:** Concentration, up to 1 hour
 
-An aura of antimagic surrounds you in 10-foot Emanation. No one can cast spells, take **:rsc-a: Magic**{ .rsc } actions, or create other magical effects inside the aura, and those things can't target or otherwise affect anything inside it. Magical properties of magic items don't work inside the aura or on anything inside it.
+An aura of antimagic surrounds you in 10-foot Emanation. No one can cast spells, take **:rsc-a: Magic**{.rsc} actions, or create other magical effects inside the aura, and those things can't target or otherwise affect anything inside it. Magical properties of magic items don't work inside the aura or on anything inside it.
 
 Areas of effect created by spells or other magic can't extend into the aura, and no one can teleport into or out of it or use planar travel there. Portals close temporarily while in the aura.
 
@@ -91,7 +91,7 @@ As you cast the spell, choose whether it creates antipathy or sympathy, and targ
 
 You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.
 
-On a failed save, the target takes 10d12 Psychic damage and can't cast spells or take the **:rsc-a: Magic**{ .rsc } action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the *Greater Restoration*, *Heal*, or *Wish* spell.
+On a failed save, the target takes 10d12 Psychic damage and can't cast spells or take the **:rsc-a: Magic**{.rsc} action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the *Greater Restoration*, *Heal*, or *Wish* spell.
 
 On a successful save, the target takes half as much damage only.
 
@@ -191,7 +191,7 @@ One creature you can see within range must succeed on a Wisdom saving throw or h
 
 You have a telepathic link with the Charmed target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
 
-You can command the target to take a **:rsc-r: Reaction**{ .rsc } but must take your own Reaction to do so.
+You can command the target to take a **:rsc-r: Reaction**{.rsc} but must take your own Reaction to do so.
 
 ***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a level 9 spell slot (up to 8 hours).
 
@@ -263,7 +263,7 @@ By gathering threads of shadow material from the Shadowfell, you create a Huge s
 
 When the illusion appears, any of your enemies that can see it must succeed on a Wisdom saving throw or become frightened of it for 1 minute. If a frightened creature ends its turn in a location where it doesn't have line of sight to the illusion, it can repeat the saving throw, ending the effect on itself on a success.
 
-As a **:rsc-b: Bonus Action**{ .rsc } on your turn, you can move the illusion up to 60 feet. At any point during its movement, you can cause it to exhale a blast of energy in a 60-foot cone originating from its space. When you create the dragon, choose a damage type: acid, cold, fire, lightning, necrotic, or poison. Each creature in the cone must make an Intelligence saving throw, taking 7d6 damage of the chosen damage type on a failed save, or half as much damage on a successful one.
+As a **:rsc-b: Bonus Action**{.rsc} on your turn, you can move the illusion up to 60 feet. At any point during its movement, you can cause it to exhale a blast of energy in a 60-foot cone originating from its space. When you create the dragon, choose a damage type: acid, cold, fire, lightning, necrotic, or poison. Each creature in the cone must make an Intelligence saving throw, taking 7d6 damage of the chosen damage type on a failed save, or half as much damage on a successful one.
 
 The illusion is tangible because of the shadow stuff used to create it, but attacks miss it automatically, it succeeds on all saving throws, and it is immune to all damage and conditions. A creature that uses an action to examine the dragon can determine that it is an illusion by succeeding on an Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through it and has advantage on saving throws against its breath.
 

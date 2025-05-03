@@ -32,9 +32,9 @@ You magically summon a primal beast, which draws strength from your bond with na
 
 The beast is Firendly to you and your allies and obeys your commands. It vanishes when you die.
 
-**The Beast in Combat**{.inl} In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes its the Dodge action unless you take a **:rsc-b: Bonus Action**{ .rsc } to combat it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the **:rsc-a: Attack**{ .rsc } action to command the beast to take the Beast's Strike action. If you have the Incapacitated condition, the beast acts on its own and isn't limited to the Dodge action.
+**The Beast in Combat**{.inl} In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes its the Dodge action unless you take a **:rsc-b: Bonus Action**{.rsc} to combat it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the **:rsc-a: Attack**{.rsc} action to command the beast to take the Beast's Strike action. If you have the Incapacitated condition, the beast acts on its own and isn't limited to the Dodge action.
 
-**Restoring or Replacing the Beast**{.inl} If the beast has died within the last hour, you can take a **:rsc-a: Magic**{ .rsc } action to touch it and expend a spell slot. The beast reutrns to life after 1 minute with all its Hit Points restored.
+**Restoring or Replacing the Beast**{.inl} If the beast has died within the last hour, you can take a **:rsc-a: Magic**{.rsc} action to touch it and expend a spell slot. The beast reutrns to life after 1 minute with all its Hit Points restored.
 
 Whenever you finish a **:rest-long: Long Rest**, you can summon a different primal beast, which appears in an unccoupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast form from this feature, the old one vanishes when the new one appears.
 
@@ -44,13 +44,13 @@ Whenever you finish a **:rest-long: Long Rest**, you can summon a different prim
 
 ### Level 7: Exceptional Training
 
-When you use your **:rsc-b: Bonus Action**{ .rsc } to command your Primal Companion beast to take an action, you can also command it to take the Dash, Disengage, Dodge, or Help action as a  **:rsc-b: Bonus Action**{ .rsc }.
+When you use your **:rsc-b: Bonus Action**{.rsc} to command your Primal Companion beast to take an action, you can also command it to take the Dash, Disengage, Dodge, or Help action as a  **:rsc-b: Bonus Action**{.rsc}.
 
 In addition, whenever the beast hits with an attack and deals damage, it can deal your choice of Force damage or its normal damage type.
 
 ### Level 11: Bestial Fury
 
-When you command your Primal Companion beast to take the **:rsc-a: Attack**{ .rsc } action, the beast can use it twice.
+When you command your Primal Companion beast to take the **:rsc-a: Attack**{.rsc} action, the beast can use it twice.
 
 In addition, the first time each turn it hits a creature under the effect of your [:spell-lv1: Hunter's Mark] spell, the beast deals extra Force damage equal to the bonus damage of that spell.
 

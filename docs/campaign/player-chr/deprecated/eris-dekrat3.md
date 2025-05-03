@@ -33,7 +33,7 @@ Once per turn when you hit an attack that adds your **:class-phb24-rogue: Sneak 
 
 To be channeled this way, the spell must met the following requirements:
 
-- The Dekrat's spell must have a casting time of an **:rsc-a: Action**{ .rsc }.
+- The Dekrat's spell must have a casting time of an **:rsc-a: Action**{.rsc}.
 - The Dekrat's spell must require only a single spell *attack roll* or force its target to make a *saving throw*.
 
 The spell takes effect immediately in addition of the normal effects and damage from your weapon attack, under the rules below:
@@ -110,7 +110,7 @@ You brandish your weapon when you cast spells; weapons that are listed in **Weap
 
 ### Level 3: Spellbreaker's Mark
 
-When you roll for **:d20-inv: Initiative**{.d20 } or as **:rsc-b: Bonus Action**{ .rsc } on your subsequent turn, you can place a **Spellbreaker's Mark** on a creature you can see. This Mark lasts until you use this feature on another creature or the target dies. 
+When you roll for **:d20-inv: Initiative**{.d20 } or as **:rsc-b: Bonus Action**{.rsc} on your subsequent turn, you can place a **Spellbreaker's Mark** on a creature you can see. This Mark lasts until you use this feature on another creature or the target dies. 
 
 You the following benefits against your Mark:
 
@@ -128,10 +128,10 @@ You can use this feature a number of times equals to your Proficiency Bonus. You
 
 When a creature you can see cast a spell or attempt to Teleport while within 60 feet of you, you can do one of the following options:
 
-**Mark Target**{.inl} You can take a **:rsc-r: Reaction**{ .rsc } to use [Spellbreaker's Mark](#level-3-spellbreakers-mark), targeting the creature, or move already existing mark to the creature that triggered this reaction.
+**Mark Target**{.inl} You can take a **:rsc-r: Reaction**{.rsc} to use [Spellbreaker's Mark](#level-3-spellbreakers-mark), targeting the creature, or move already existing mark to the creature that triggered this reaction.
 { .indt }
 
-**Thwart Magic**{.inl} You can take a **:rsc-r: Reaction**{ .rsc } to force the target to make a **:d20-save: CON Save** against your Spell Save DC. On a failed save, it takes **(Sneak Attack) :dmg-force: Force**{ .dmg-force } damage and its spell or Teleport fails. On a successful save, the target only takes half damage.
+**Thwart Magic**{.inl} You can take a **:rsc-r: Reaction**{.rsc} to force the target to make a **:d20-save: CON Save** against your Spell Save DC. On a failed save, it takes **(Sneak Attack) :dmg-force: Force**{ .dmg-force } damage and its spell or Teleport fails. On a successful save, the target only takes half damage.
 { .indt }
 
 --8<-- "includes/snippets/skills.md"

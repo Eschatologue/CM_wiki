@@ -32,7 +32,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
  
 ### Level 3: Vow Of Enmity
 
-When you take the **:rsc-a: Attack**{ .rsc } action, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to utter a vow of enmity against a creature you can see within 30 feet of yourself. You gain **:d20-adv: Advantage**{.d20} on attack rolls against the creature for 1 minute.
+When you take the **:rsc-a: Attack**{.rsc} action, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to utter a vow of enmity against a creature you can see within 30 feet of yourself. You gain **:d20-adv: Advantage**{.d20} on attack rolls against the creature for 1 minute.
 
 If the creature drops to 0 Hit Points before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
 
@@ -42,11 +42,11 @@ Your supernatural focus helps you close off a foe's retreat. When you hit a crea
 
 ### Level 15: Soul Of Vengeance
 
-Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to make a melee attack against that creature if it's within range.
+Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack, you can use your **:rsc-r: Reaction**{.rsc} to make a melee attack against that creature if it's within range.
 
 ### Level 20: Avenging Angel
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a **:rsc-b: Bonus Action**{.rsc}, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 **Flight**{.inl} You sprout spectral wings on your back. You have a Fly Speed equal to your **:rsc-spd: Speed**{ .em } and can Hover.
 

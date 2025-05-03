@@ -15,7 +15,7 @@ Monks of the Way of the Sun Soul learn to channel their own life energy into sea
 
 ### Level 3: Radiant Sun Bolt
 
-Whenever you make an **:rsc-a: Unarmed Strike (Damage)**{ .rsc }, you can make a ranged attack roll as you shoot a bolt of radiant energy from your fists, instead of the normal strike. When you do, the strike deals **:dmg-radi: Radiant**{ .dmg-radi } damage instead of the normal damage type, and the attack has a Range of (30/60). Being within 5 feet of an enemy does not impose **:d20-dis: Disadvantage**{.d20} on this attack.
+Whenever you make an **:rsc-a: Unarmed Strike (Damage)**{.rsc}, you can make a ranged attack roll as you shoot a bolt of radiant energy from your fists, instead of the normal strike. When you do, the strike deals **:dmg-radi: Radiant**{ .dmg-radi } damage instead of the normal damage type, and the attack has a Range of (30/60). Being within 5 feet of an enemy does not impose **:d20-dis: Disadvantage**{.d20} on this attack.
 
 ### Level 6: Blinding Light
 
@@ -23,7 +23,7 @@ When you use your [Patient Defense](index.md#patient-defense) feature, you can e
 
 ### Level 11: Searing Radiance
 
-You have gained the ability to create tremendous blasts of radiant energy, flowing directly from your essence. As a **:rsc-a: Magic**{ .rsc } action, you can produce the effects of the [:spell-lv3: Fireball] or [:spell-lv3: Lightning Bolt] spells without components or expending a spell slot, with the following alterations:
+You have gained the ability to create tremendous blasts of radiant energy, flowing directly from your essence. As a **:rsc-a: Magic**{.rsc} action, you can produce the effects of the [:spell-lv3: Fireball] or [:spell-lv3: Lightning Bolt] spells without components or expending a spell slot, with the following alterations:
 
 **Radiant Damage**{.inl} The effects deal **:dmg-radi: Radiant**{ .dmg-radi } damage, instead of the usual damage type.
 
@@ -35,7 +35,7 @@ The spells use your Focus save DC. Once you use this feature, you can't do so ag
 
 ### Level 17: Sun Shield
 
-You become wreathed in a luminous, magical aura. You shed bright light in a 30-foot  :aoe-emn: Emanation and dim light for an additional 30 feet. You can extinguish or restore the light as a  **:rsc-b: Bonus Action**{ .rsc }.
+You become wreathed in a luminous, magical aura. You shed bright light in a 30-foot  :aoe-emn: Emanation and dim light for an additional 30 feet. You can extinguish or restore the light as a  **:rsc-b: Bonus Action**{.rsc}.
 
 When you use your [Deflect Attacks](index.md#level-3-deflect-attacks) feature to reduce the damage of an attack made by a creature within the bright light of this feature, the attacker takes **:dmg-radi: Radiant**{ .dmg-radi } damage equal to one roll of your Martial Arts die + your Wisdom modifier (minimum 1 damage). If you spend **1 :class-phb24-monk: Focus Point(s)**{ .em } to redirect the attack, the target of the redirected attack also takes this damage on a failed save, in addition to the normal damage of Deflect Attacks.
 

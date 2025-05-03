@@ -51,7 +51,7 @@ A Rune can only take effect or *Invoked* if the object its inscribed on is eithe
 :   This Rune emulates the deceptive magic used by some cloud giants. You have **:d20-adv: Advantage**{.d20} on Sleight of Hand checks and Deception checks.
 
     **Invoke**<br>_1 Rune Charge(s)_
-    :   When you or a creature you can see within 30 feet of you is hit by an attack roll, you can take a **:rsc-r: Reaction**{ .rsc } to invoke the Rune and choose a different creature within 30 feet of you, other than the attacker. The chosen creature becomes the target of the attack, using the same roll. This magic can transfer the attack's effects regardless of the attack's range.
+    :   When you or a creature you can see within 30 feet of you is hit by an attack roll, you can take a **:rsc-r: Reaction**{.rsc} to invoke the Rune and choose a different creature within 30 feet of you, other than the attacker. The chosen creature becomes the target of the attack, using the same roll. This magic can transfer the attack's effects regardless of the attack's range.
 
 **Fire Rune**
 :   This Rune's magic channels the masterful craftsmanship of great smiths. You have Expertise in the Artisan's Tools you have proficiency in.
@@ -63,29 +63,29 @@ A Rune can only take effect or *Invoked* if the object its inscribed on is eithe
 :   This Rune's magic evokes the might of those who survive in the wintry wilderness, such as frost giants. You have **:d20-adv: Advantage**{.d20} on Animal Handling checks and Intimidation checks.
     
     **Invoke**<br>_1 Rune Charge(s)_
-    :   You can invoke the Rune as a **:rsc-b: Bonus Action**{ .rsc } to increase your sturdiness. For 10 minutes, you gain a +2 bonus to all ability checks and saving throws that use Strength or Constitution, as well as to the saving throw DC of your **:rsc-a: Unarmed Strike**{ .rsc }.
+    :   You can invoke the Rune as a **:rsc-b: Bonus Action**{.rsc} to increase your sturdiness. For 10 minutes, you gain a +2 bonus to all ability checks and saving throws that use Strength or Constitution, as well as to the saving throw DC of your **:rsc-a: Unarmed Strike**{.rsc}.
 
 **Stone Rune**
 :   This Rune's magic channels the judiciousness associated with stone giants. You have **:d20-adv: Advantage**{.d20} on Insight checks, and you have Darkvision with a range of 120 feet.
     
     **Invoke**<br>_1 Rune Charge(s)_
-    :   When a creature you can see ends its turn within 30 feet of you, you can use your **:rsc-r: Reaction**{ .rsc } to invoke the Rune and force the creature to make a **:d20-save: WIS Save**{.d20}. Unless the save succeeds, the creature has the **Charmed**{ .cond } condition for 1 minute. While Charmed in this way, the creature has a speed of 0 and has the **Incapacitated**{ .cond } condition, descending into a dreamy stupor. The creature repeats the saving throw at the end of each of its turns, ending the effect on a success.
+    :   When a creature you can see ends its turn within 30 feet of you, you can use your **:rsc-r: Reaction**{.rsc} to invoke the Rune and force the creature to make a **:d20-save: WIS Save**{.d20}. Unless the save succeeds, the creature has the **Charmed**{ .cond } condition for 1 minute. While Charmed in this way, the creature has a speed of 0 and has the **Incapacitated**{ .cond } condition, descending into a dreamy stupor. The creature repeats the saving throw at the end of each of its turns, ending the effect on a success.
 
 **Hill Rune** <br>_Level 7+_
 :    This Rune's magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this Rune, you have **:d20-adv: Advantage**{.d20} on saves against having the **Poisoned**{ .cond } condition, and you have **:dmg-res: Resistance** against **:dmg-posn: Poison**{ .dmg-posn } damage.
 
     **Invoke**<br>_1 Rune Charge(s)_
-    :   You can invoke the Rune as a **:rsc-b: Bonus Action**{ .rsc }, gaining **:dmg-res: Resistance** to **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, and **:dmg-slsh: Slashing**{ .dmg-bps } damage for 1 minute.
+    :   You can invoke the Rune as a **:rsc-b: Bonus Action**{.rsc}, gaining **:dmg-res: Resistance** to **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, and **:dmg-slsh: Slashing**{ .dmg-bps } damage for 1 minute.
 
 **Storm Rune** <br>_Level 7+_
 :   Using this rune, you can glimpse the future like a storm giant seer. You have **:d20-adv: Advantage**{.d20} on Arcana checks, and you can't be Surprised as long as you don't have the Incapacitated condition.
 
     **Invoke**<br>_1 Rune Charge(s)_
-    :   You can invoke the Rune as a **:rsc-b: Bonus Action**{ .rsc } to enter a prophetic state for 1 minute or until you have the **Incapacitated**{ .cond } condition. Until the state ends, when you or another creature you can see within 60 feet of you makes a D20 Test, you can use your **:rsc-r: Reaction**{ .rsc } to cause the roll to have **:d20-adv: Advantage**{.d20} or **:d20-dis: Disdvantage**{.d20}.
+    :   You can invoke the Rune as a **:rsc-b: Bonus Action**{.rsc} to enter a prophetic state for 1 minute or until you have the **Incapacitated**{ .cond } condition. Until the state ends, when you or another creature you can see within 60 feet of you makes a D20 Test, you can use your **:rsc-r: Reaction**{.rsc} to cause the roll to have **:d20-adv: Advantage**{.d20} or **:d20-dis: Disdvantage**{.d20}.
 
 ### Level 3: Jötunn’s Might
 
-You have learned how to imbue yourself with the might of giants. As a **:rsc-b: Bonus Action**{ .rsc }, you magically gain the following benefits for 1 minute:
+You have learned how to imbue yourself with the might of giants. As a **:rsc-b: Bonus Action**{.rsc}, you magically gain the following benefits for 1 minute:
 
 **Titan’s Form**{.inl} If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.
 
@@ -97,7 +97,7 @@ You can use this once per **:rest-long: Long Rest**. When you have no uses of th
 
 ### Level 7: Runeshield
 
-By invoking the protective sigils of the jötnar, you can shield your allies from harm. When a creature you can see within 30 feet of you is hit by an attack, you can use your **:rsc-r: Reaction**{ .rsc } to expend **1 Rune Charge(s)** to add your Constitution modifier (minimum of +1) to the creature's AC against that attack.
+By invoking the protective sigils of the jötnar, you can shield your allies from harm. When a creature you can see within 30 feet of you is hit by an attack, you can use your **:rsc-r: Reaction**{.rsc} to expend **1 Rune Charge(s)** to add your Constitution modifier (minimum of +1) to the creature's AC against that attack.
 
 ### Level 10: Unyielding Fortitude
 

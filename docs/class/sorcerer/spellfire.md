@@ -14,7 +14,7 @@ Your sorcerous power are drawn from an innate connection with the Weave, the ver
 
 ### Level 3: Spellfire Burst
 
-When you spend at least **1 :class-phb24-sorcerer: Sorcery Point(s)** as part of the **:rsc-a: Magic**{ .rsc } action or a **:rsc-b: Bonus Action**{ .rsc } on your turn, you can unleash **one** of the following magical effects of your choice. You can do so only once per turn.
+When you spend at least **1 :class-phb24-sorcerer: Sorcery Point(s)** as part of the **:rsc-a: Magic**{.rsc} action or a **:rsc-b: Bonus Action**{.rsc} on your turn, you can unleash **one** of the following magical effects of your choice. You can do so only once per turn.
 
 **Bolstering Flames**{.inl} You or one creature you can see within 30 feet of yourself gains **:trt-thp: Temporary Hit Points** equal to `1d4 plus your Charisma modifier`. 
 { .indt }
@@ -45,7 +45,7 @@ Your *Spellfire Burst* improves. You add your Sorcerer level to the **:trt-thp: 
 
 ### Level 18: Crown of Spellfire
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you gain the following benefits for 1 minute. Once you use this **:rsc-b: Bonus Action**{ .rsc }, you can’t use it again until you finish a Long Rest unless you spend **7 :class-phb24-sorcerer: Sorcery Point(s)** (no action required) to restore your use of it. 
+As a **:rsc-b: Bonus Action**{.rsc}, you gain the following benefits for 1 minute. Once you use this **:rsc-b: Bonus Action**{.rsc}, you can’t use it again until you finish a Long Rest unless you spend **7 :class-phb24-sorcerer: Sorcery Point(s)** (no action required) to restore your use of it. 
  
 **Burning Life Force**{.inl} Once per turn when you are hit by an attack roll, you can expend a number of Hit Dice, up to a maximum equal to your Charisma modifier (minimum of one). Roll the expended dice and reduce the amount of damage from that attack equal to the total rolled plus your Sorcerer level. 
 

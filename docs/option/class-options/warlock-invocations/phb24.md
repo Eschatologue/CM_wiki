@@ -22,21 +22,21 @@ You have **:d20-adv: Advantage**{.d20} on Constitution saving throws that you ma
 
 ### Pact of the Blade
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can conjure a Pact Weapon in your hand—a **:prof-wp-simple: Simple** or **:prof-wp-martial: Martial** ^^Melee^^ weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
+As a **:rsc-b: Bonus Action**{.rsc}, you can conjure a Pact Weapon in your hand—a **:prof-wp-simple: Simple** or **:prof-wp-martial: Martial** ^^Melee^^ weapon of your choice with which you bond—or create a bond with a magic weapon you touch; you can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. Until the bond ends, you have proficiency with the weapon, and you can use it as a Spellcasting Focus.
 
 Whenever you attack with the bonded weapon, you can use your Spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal **:dmg-necr: Necrotic**{ .dmg-necr }, **:dmg-psyc: Psychic**{ .dmg-psyc }, or **:dmg-radi: Radiant**{ .dmg-radi } damage or its normal damage type.
 
-Your bond with the weapon ends if you use this feature's **:rsc-b: Bonus Action**{ .rsc } again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
+Your bond with the weapon ends if you use this feature's **:rsc-b: Bonus Action**{.rsc} again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
 
 ---
 
 ### Pact of the Chain
 
-You learn the [:spell-lv1: Find Familiar] spell and can cast it as a **:rsc-a: Magic**{ .rsc } action without expending a spell slot.
+You learn the [:spell-lv1: Find Familiar] spell and can cast it as a **:rsc-a: Magic**{.rsc} action without expending a spell slot.
 
 When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: **Imp**, **Pseudodragon**, **Quasit**, **Skeleton**, **Slaad Tadpole**, **Sphinx of Wonder**, **Sprite**, or **Venomous Snake** (see appendix B for the familiar's stat block).
 
-Additionally, when you take the **:rsc-a: Attack**{ .rsc } action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
+Additionally, when you take the **:rsc-a: Attack**{.rsc} action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
 
 ---
 
@@ -150,7 +150,7 @@ Once per turn when you hit a creature with your Pact Weapon, you can expend a Pa
 
 _**Prerequisite:** Level 5+ Warlock_
 
-You can use a **:rsc-b: Bonus Action**{ .rsc } to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a **:rsc-b: Bonus Action**{ .rsc } on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
+You can use a **:rsc-b: Bonus Action**{.rsc} to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a **:rsc-b: Bonus Action**{.rsc} on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
 
 While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature's space if the two of you are within 60 feet of each other.
 
@@ -174,13 +174,13 @@ When you cast [:spell-lv1: Find Familiar], you infuse the summoned familiar with
 
 **Aerial or Aquatic**{.inl} The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
 
-**Quick Attack**{.inl} As a **:rsc-b: Bonus Action**{ .rsc }, you can command the familiar to take the **:rsc-a: Attack**{ .rsc } action.
+**Quick Attack**{.inl} As a **:rsc-b: Bonus Action**{.rsc}, you can command the familiar to take the **:rsc-a: Attack**{.rsc} action.
 
 **Necrotic or Radiant Damage**{.inl} Whenever the familiar deals :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, or :dmg-slsh: Slashing damage, you can make it deal :dmg-necr: Necrotic or :dmg-radi: Radiant damage instead.
 
 **Your Save DC**{.inl} If the familiar forces a creature to make a saving throw, it uses your spell save DC.
 
-**Resistance**{.inl} When the familiar takes damage, you can take a **:rsc-r: Reaction**{ .rsc } to grant it **:dmg-res: Resistance**{ .em } against that damage.
+**Resistance**{.inl} When the familiar takes damage, you can take a **:rsc-r: Reaction**{.rsc} to grant it **:dmg-res: Resistance**{ .em } against that damage.
 
 ---
 
@@ -204,7 +204,7 @@ While you're in an area of Dim Light or Darkness, you can cast [:spell-lv2: Invi
 
 _**Prerequisite:** Level 5+ Warlock, [Pact of the Blade](#pact-of-the-blade)_
 
-You gain the Extra Attack feature for your Pact Weapon only. With that feature, you can attack twice with the weapon instead of once when you take the **:rsc-a: Attack**{ .rsc } action on your turn.
+You gain the Extra Attack feature for your Pact Weapon only. With that feature, you can attack twice with the weapon instead of once when you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
 ---
 
@@ -220,11 +220,11 @@ You can cast [:spell-lv3: Speak with Dead] without expending a spell slot.
 
 _**Prerequisite:** Level 9+ Warlock, [Pact of the Tome](#pact-of-the-tome)_
 
-A new page appears in your Book of Shadows when you conjure it. With your permission, a creature can take a **:rsc-a: Magic**{ .rsc } action to write its name on that page, which can contain a number of names equal to your Spellcasting modifier (minimum of one name).
+A new page appears in your Book of Shadows when you conjure it. With your permission, a creature can take a **:rsc-a: Magic**{.rsc} action to write its name on that page, which can contain a number of names equal to your Spellcasting modifier (minimum of one name).
 
 When any creature whose name is on the page is reduced to 0 Hit Points but not killed outright, the creature magically drops to 1 Hit Point instead. Once this magic is triggered, no creature can benefit from it until you finish a **:rest-long: Long Rest**.
 
-As a **:rsc-a: Magic**{ .rsc } action, you can erase a name on the page by touching it.
+As a **:rsc-a: Magic**{.rsc} action, you can erase a name on the page by touching it.
 
 ---
 

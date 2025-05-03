@@ -135,7 +135,7 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 ### Level 2: Cunning Action
 
-Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a **:rsc-b: Bonus Action**{ .rsc }: **:rsc-a: Dash**{.rsc}, **:rsc-a: Disengage**{.rsc}, or **:rsc-a: Hide**{.rsc}.
+Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a **:rsc-b: Bonus Action**{.rsc}: **:rsc-a: Dash**{.rsc}, **:rsc-a: Disengage**{.rsc}, or **:rsc-a: Hide**{.rsc}.
 
 ### Level 3: Rogue Subclass
 
@@ -143,7 +143,7 @@ You gain a Rogue subclass of your choice. A subclass is a specialization that gr
 
 ### Level 3: Steady Aim
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you give yourself **:d20-adv: Advantage**{.d20} on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your **:rsc-spd: Speed**{ .em } is 0 until the end of the current turn.
+As a **:rsc-b: Bonus Action**{.rsc}, you give yourself **:d20-adv: Advantage**{.d20} on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your **:rsc-spd: Speed**{ .em } is 0 until the end of the current turn.
 
 ### Level 4: Ability Score Improvement
 
@@ -166,7 +166,7 @@ If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your De
 
 ### Level 5: Uncanny Dodge
 
-When an attacker that you can see hits you with an attack roll, you can take a **:rsc-r: Reaction**{ .rsc } to halve the attack's damage against you (round down).
+When an attacker that you can see hits you with an attack roll, you can take a **:rsc-r: Reaction**{.rsc} to halve the attack's damage against you (round down).
 
 ### Level 7: Evasion
 
@@ -185,7 +185,7 @@ You can use up to two Cunning Strike effects when you deal Sneak Attack damage, 
 You've practiced new ways to use your Sneak Attack deviously. The following effects are now among your Cunning Strike options.
 
 **Daze** <br>_Cost: `2d6`_
-:   The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a **:rsc-b: Bonus Action**{ .rsc }.
+:   The target must succeed on a Constitution saving throw, or on its next turn, it can do only one of the following: move or take an action or a **:rsc-b: Bonus Action**{.rsc}.
 
 **Knock Out** <br>_Cost: `6d6`_
 :   The target must succeed on a Constitution saving throw, or it has the **Unconscious**{ .cond } condition for 1 minute or until it takes any damage. The Unconscious target repeats the save at the end of each of its turns, ending the effect on itself on a success.

@@ -20,13 +20,13 @@ While you aren't wearing armour or wielding a Shield, you gain the following ben
 
 **Unarmoured Defense**{.inl} Your base Armour Class equals 10 + your Dexterity modifier + your Charisma modifier.
 
-**Agile Strikes**{.inl} When you expend a use of your Bardic Inspiration as part of an action, a **:rsc-b: Bonus Action**{ .rsc }, or a **:rsc-r: Reaction**{ .rsc }, you can make one **:rsc-a: Unarmed Strike**{ .rsc } as part of that action, Bonus Action, or Reaction.
+**Agile Strikes**{.inl} When you expend a use of your Bardic Inspiration as part of an action, a **:rsc-b: Bonus Action**{.rsc}, or a **:rsc-r: Reaction**{.rsc}, you can make one **:rsc-a: Unarmed Strike**{.rsc} as part of that action, Bonus Action, or Reaction.
  
-**Bardic Damage**{.inl} You can use Dexterity instead of Strength for the attack rolls of your **:rsc-a: Unarmed Strike**{ .rsc }. When you deal damage with an **:rsc-a: Unarmed Strike**{ .rsc } , you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier. This roll doesn't expend the die.
+**Bardic Damage**{.inl} You can use Dexterity instead of Strength for the attack rolls of your **:rsc-a: Unarmed Strike**{.rsc}. When you deal damage with an **:rsc-a: Unarmed Strike**{.rsc} , you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier. This roll doesn't expend the die.
 
 ### Level 6: Inspiring Movement
 
-When an enemy you can see ends its turn within 5 feet of you, you can use your **:rsc-r: Reaction**{ .rsc } and expend one use of your Bardic Inspiration to move up to half your Speed. Then one ally of your choice within 30 feet of you can also move up to half their Speed using their Reaction.
+When an enemy you can see ends its turn within 5 feet of you, you can use your **:rsc-r: Reaction**{.rsc} and expend one use of your Bardic Inspiration to move up to half your Speed. Then one ally of your choice within 30 feet of you can also move up to half their Speed using their Reaction.
 
 None of this feature's Movement provokes Opportunity Attacks.
 

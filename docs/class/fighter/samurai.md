@@ -21,7 +21,7 @@ You gain a set of Calligrapher's Tools and you have proficiency in it and two of
 
 Your intensive training in battle grants you unparalleled focus. You gain the ability to use one of the following effects described below. Each time you use a Fighting Spirit, you choose which effect from among those you have from this subclass.
 
-You can use Fighting Spirit a number of time equals to `1 plus your Wisdom modifier`. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. Each time you use a Fighting Spirit you also gain **(2x WIS mod) :trt-thp: Temporary Hit Points**{.jetbrains} (minimum of 1).
+You can use Fighting Spirit a number of time equals to `1 plus your Wisdom modifier`. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. Each time you use a Fighting Spirit you also gain **(2x WIS mod) :trt-thp: Temporary Hit Points**{.calc} (minimum of 1).
 
 **Fighting Spirit: Precision**
 :   When you make an attack, you can grant yourself **:d20-adv: Advantage**{.d20} on all your attacks until the start of your next turn.  
@@ -39,7 +39,7 @@ Your discipline and attention to detail allow you to excel in social situations.
 
 ### Level 10: Tactical Strike
 
-When you use your [Tactical Shift](index.md#level-5-tactical-shift), you can make one weapon attack or an **:rsc-a: Unarmed Strike**{ .rsc } as part of the **:rsc-b: Bonus Action**{ .rsc }.
+When you use your [Tactical Shift](index.md#level-5-tactical-shift), you can make one weapon attack or an **:rsc-a: Unarmed Strike**{.rsc} as part of the **:rsc-b: Bonus Action**{.rsc}.
 
 ### Level 15: Unbroken Edge
 
@@ -53,7 +53,7 @@ Your training has reached extraordinary heights, allowing you to combine speed a
 
 *Your fighting spirit can delay the grasp of death.*
 
-If you're reduced to **0 Hit Points**, you can use your **:rsc-r: Reaction**{ .rsc } to avoid falling **Unconscious**{ .cond } and take an extra turn immediately. During this extra turn, while you still have 0 Hit Points, taking damage causes Death Save failures as usual (Three Death Save failures will still kill you). At the end of the extra turn, if you're still at 0 Hit Points, you fall **Unconscious**{ .cond }.  
+If you're reduced to **0 Hit Points**, you can use your **:rsc-r: Reaction**{.rsc} to avoid falling **Unconscious**{ .cond } and take an extra turn immediately. During this extra turn, while you still have 0 Hit Points, taking damage causes Death Save failures as usual (Three Death Save failures will still kill you). At the end of the extra turn, if you're still at 0 Hit Points, you fall **Unconscious**{ .cond }.  
 
 You can use this feature **once per Long Rest**.
 

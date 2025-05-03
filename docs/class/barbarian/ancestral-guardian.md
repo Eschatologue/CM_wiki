@@ -27,7 +27,7 @@ While your **:ui-rage: Rage**{ .em } is active, the first creature you hit with 
 The guardian spirits that aid you can provide supernatural protection to those you defend.
 { .quote }
 
-While your **:ui-rage: Rage**{ .em } is active and another creature you can see within 30 feet of you takes damage, you can use your **:rsc-r: Reaction**{ .rsc } to reduce that damage by 2d6. The damage reduction increases by an extra 1d6 at level 10 (3d6) and level 14 (4d6).
+While your **:ui-rage: Rage**{ .em } is active and another creature you can see within 30 feet of you takes damage, you can use your **:rsc-r: Reaction**{.rsc} to reduce that damage by 2d6. The damage reduction increases by an extra 1d6 at level 10 (3d6) and level 14 (4d6).
 
 ### Level 10: Consult the Spirits
 

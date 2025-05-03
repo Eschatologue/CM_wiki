@@ -34,7 +34,7 @@ You can use your **:ui-chdiv-cleric: Channel Divinity** to wield the power of th
 
 ### Level 3: Wrath of the Storm
 
-You can thunderously rebuke attackers. When a creature within **5 feet** of you that you can see hits you with an attack, you can use your **:rsc-r: Reaction**{ .rsc } to force the creature to make a **:d20-save: DEX save**{.d20}. On a failed save, the creature takes **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } (your choice) damage equal to 1d8 plus your Cleric level, or half as much damage on a successful save. 
+You can thunderously rebuke attackers. When a creature within **5 feet** of you that you can see hits you with an attack, you can use your **:rsc-r: Reaction**{.rsc} to force the creature to make a **:d20-save: DEX save**{.d20}. On a failed save, the creature takes **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } (your choice) damage equal to 1d8 plus your Cleric level, or half as much damage on a successful save. 
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of 1). You regain all expended uses when you finish a **:rest-long: Long Rest**.
 

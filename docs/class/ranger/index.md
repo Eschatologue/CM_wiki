@@ -207,7 +207,7 @@ You gain the [:option-feat-general: Ability Score Improvement](../../option/feat
 
 ### Level 5: Extra Attack {data-toc-label="Extra Attack"}
 
-You can attack twice instead of once whenever you take the **:rsc-a: Attack**{ .rsc } action on your turn.
+You can attack twice instead of once whenever you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
 ## Level 6 {.hide}
 
@@ -227,7 +227,7 @@ Choose two of your skill proficiencies with which you lack Expertise. You gain E
 
 Primal forces now help fuel you on your journeys, granting you the following benefits.
 
-**Temporary Hit Points**{.inl} As a **:rsc-a: Magic**{ .rsc } action, you can give yourself a number of **:trt-thp: Temporary Hit Points** equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+**Temporary Hit Points**{.inl} As a **:rsc-a: Magic**{.rsc} action, you can give yourself a number of **:trt-thp: Temporary Hit Points** equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 **Decrease Exhaustion**{.inl} Whenever you finish a **:rest-short: Short Rest**, your Exhaustion level, if any, decreases by 1.
 
@@ -241,7 +241,7 @@ The damage die of your [:spell-lv1: Hunter's Mark] improves to d8 when it is cas
 
 ### Level 14: Nature's Veil {data-toc-label="Nature's Veil"}
 
-You invoke spirits of nature to magically hide yourself. As a **:rsc-b: Bonus Action**{ .rsc }, you can give yourself the **Invisible**{ .cond } condition until the end of your next turn.
+You invoke spirits of nature to magically hide yourself. As a **:rsc-b: Bonus Action**{.rsc}, you can give yourself the **Invisible**{ .cond } condition until the end of your next turn.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
@@ -249,7 +249,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Level 17: Precise Hunter {data-toc-label="Precise Hunter"}
 
-You have **:d20-adv: Advantage**{ .rsc } on attack rolls against the creature currently marked by your [:spell-lv1: Hunter's Mark].
+You have **:d20-adv: Advantage**{.rsc} on attack rolls against the creature currently marked by your [:spell-lv1: Hunter's Mark].
 
 ## Level 18 {.hide}
 

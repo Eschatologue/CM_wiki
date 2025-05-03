@@ -35,7 +35,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ### Level 3: Sacred Weapon
 
-When you take the **:rsc-a: Attack**{ .rsc } action, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to imbue one Melee weapon that you are holding with positive energy. For 10 minutes or until you use this feature again, you add your Charisma modifier to attack rolls you make with that weapon (minimum bonus of +1), and each time you hit with it, you cause it to deal its normal damage type or Radiant damage.
+When you take the **:rsc-a: Attack**{.rsc} action, you can expend one use of your **:ui-chdiv-pal: Channel Divinity** to imbue one Melee weapon that you are holding with positive energy. For 10 minutes or until you use this feature again, you add your Charisma modifier to attack rolls you make with that weapon (minimum bonus of +1), and each time you hit with it, you cause it to deal its normal damage type or Radiant damage.
 
 The weapon also emits Bright Light in a 20-foot radius and Dim Light 20 feet beyond that.
 
@@ -51,7 +51,7 @@ Your magical smite now radiates protective energy. Whenever you cast Divine Smit
 
 ### Level 20: Holy Nimbus
 
-As a **:rsc-b: Bonus Action**{ .rsc }, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a **:rsc-b: Bonus Action**{.rsc}, you can imbue your Aura of Protection with holy power, granting the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 **Holy Ward**{.inl} You have **:d20-adv: Advantage**{.d20} on any saving throw you are forced to make by a Fiend or an Undead.
 

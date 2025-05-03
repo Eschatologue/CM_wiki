@@ -24,15 +24,15 @@ Through rigorous training, you have learned to draw on the power of the Shadowfe
 
 ### Level 6: Shadow Step
 
-While entirely within Dim Light or Darkness, you can use a **:rsc-b: Bonus Action**{ .rsc } to teleport up to 60 feet to an unoccupied space you can see that is also in Dim Light or Darkness. You then have **:d20-adv Advantage:**{.d20} on the next melee attack you make before the end of the turn.
+While entirely within Dim Light or Darkness, you can use a **:rsc-b: Bonus Action**{.rsc} to teleport up to 60 feet to an unoccupied space you can see that is also in Dim Light or Darkness. You then have **:d20-adv Advantage:**{.d20} on the next melee attack you make before the end of the turn.
 
 ### Level 11: Improved Shadow Step
 
-You can draw on your connection to shadow to empower your teleportation. When you use your Shadow Step, you can spend **1 :class-phb24-monk: Focus Point(s)** to remove the requirement that you must start and end in Dim Light or Darkness for that use of the feature. As part of this Bonus Action, you can make an **:rsc-a: Unarmed Strike**{ .rsc } immediately after the teleportation.
+You can draw on your connection to shadow to empower your teleportation. When you use your Shadow Step, you can spend **1 :class-phb24-monk: Focus Point(s)** to remove the requirement that you must start and end in Dim Light or Darkness for that use of the feature. As part of this Bonus Action, you can make an **:rsc-a: Unarmed Strike**{.rsc} immediately after the teleportation.
 
 ### Level 17: Cloak Of Shadows
 
-As a **:rsc-a: Magic**{ .rsc } action while entirely within Dim Light or Darkness, you can spend 3 **:class-phb24-monk: Focus Point(s)** to shroud yourself with magical darkness for 1 minute, until you have the Incapacitated condition, or until you end your turn in Bright Light. While shrouded in darkness, you gain the following benefits:
+As a **:rsc-a: Magic**{.rsc} action while entirely within Dim Light or Darkness, you can spend 3 **:class-phb24-monk: Focus Point(s)** to shroud yourself with magical darkness for 1 minute, until you have the Incapacitated condition, or until you end your turn in Bright Light. While shrouded in darkness, you gain the following benefits:
 
 **Invisibility**{.inl} You have the Invisible condition.
 

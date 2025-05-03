@@ -21,7 +21,7 @@ You create linked teleportation portals. Choose two Large, unoccupied spaces on 
 
 The portals are two-dimensional glowing rings filled with mist that blocks sight. They hover inches from the ground and are perpendicular to it.
 
-A portal is open on only one side (you choose which). Anything entering the open side of a portal exits from the open side of the other portal as if the two were adjacent to each other. As a **:rsc-b: Bonus Action**{ .rsc }, you can change the facing of the open sides.
+A portal is open on only one side (you choose which). Anything entering the open side of a portal exits from the open side of the other portal as if the two were adjacent to each other. As a **:rsc-b: Bonus Action**{.rsc}, you can change the facing of the open sides.
 
 > **Classes:** Sorcerer, Warlock, Wizard
 
@@ -107,7 +107,7 @@ Negative energy ripples out in a 60-foot-radius Sphere from a point you choose w
 
 You conjure a Medium spirit from the Feywild in an unoccupied space you can see within range. The spirit lasts for the duration, and it looks like a Fey creature of your choice. When the spirit appears, you can make one melee spell attack against a creature within 5 feet of it. On a hit, the target takes Psychic damage equal to 3d12 plus your spellcasting ability modifier, and the target has the Frightened condition until the start of your next turn, with both you and the spirit as the source of the fear.
 
-As a **:rsc-b: Bonus Action**{ .rsc } on your later turns, you can teleport the spirit to an unoccupied space you can see within 30 feet of the space it left and make the attack against a creature within 5 feet of it.
+As a **:rsc-b: Bonus Action**{.rsc} on your later turns, you can teleport the spirit to an unoccupied space you can see within 30 feet of the space it left and make the attack against a creature within 5 feet of it.
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 2d12 for each spell slot level above 6.
 
@@ -161,7 +161,7 @@ You can have only one homunculus at a time. If you cast this spell while your ho
 
 You can cast this spell only at night. Choose up to three corpses of Medium or Small Humanoids within range. Each one becomes a **Ghoul** under your control (see the *Monster Manual* for its stat block).
 
-As a **:rsc-b: Bonus Action**{ .rsc } on each of your turns, you can mentally command any creature you animated with this spell if the creature is within 120 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to them). You decide what action the creature will take and where it will move on its next turn, or you can issue a general command, such as to guard a particular place. If you issue no commands, the creature takes the Dodge action and moves only to avoid harm. Once given an order, the creature continues to follow the order until its task is complete.
+As a **:rsc-b: Bonus Action**{.rsc} on each of your turns, you can mentally command any creature you animated with this spell if the creature is within 120 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to them). You decide what action the creature will take and where it will move on its next turn, or you can issue a general command, such as to guard a particular place. If you issue no commands, the creature takes the Dodge action and moves only to avoid harm. Once given an order, the creature continues to follow the order until its task is complete.
 
 The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell rather than animating new ones.
 
@@ -201,7 +201,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 You touch the sapphire used in the casting and an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an Invisible mark on that object and invisibly inscribes the object's name on the sapphire. Each time you cast this spell, you must use a different sapphire.
 
-Thereafter, you can take a **:rsc-a: Magic**{ .rsc } action to speak the object's name and crush the sapphire. The object instantly appears in your hand regardless of physical or planar distances, and the spell ends.
+Thereafter, you can take a **:rsc-a: Magic**{.rsc} action to speak the object's name and crush the sapphire. The object instantly appears in your hand regardless of physical or planar distances, and the spell ends.
 
 If another creature is holding or carrying the object, crushing the sapphire doesn't transport it, but instead you learn who that creature is and where that creature is currently located.
 
@@ -251,7 +251,7 @@ To a creature immune to this effect, the winds are a fragrant, gentle breeze, an
 
 For the duration, your eyes become an inky void. One creature of your choice within 60 feet of you that you can see must succeed on a Wisdom saving throw or be affected by one of the following effects of your choice for the duration.
 
-On each of your turns until the spell ends, you can take a **:rsc-a: Magic**{ .rsc } action to target another creature but can't target a creature again if it has succeeded on a save against this casting of the spell.
+On each of your turns until the spell ends, you can take a **:rsc-a: Magic**{.rsc} action to target another creature but can't target a creature again if it has succeeded on a save against this casting of the spell.
 
 ***Asleep.*** The target has the Unconscious condition. It wakes up if it takes any damage or if another creature takes an action to shake it awake.
 
@@ -293,7 +293,7 @@ You create a field of silvery light that surrounds a creature of your choice wit
 - **Damage Resistance.** The creature has resistance to acid, cold, fire, lightning, and poison damage.
 - **Evasion.** If the creature is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the creature instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-As a **:rsc-b: Bonus Action**{ .rsc } on subsequent turns, you can move the field to another creature within 60 feet of the field.
+As a **:rsc-b: Bonus Action**{.rsc} on subsequent turns, you can move the field to another creature within 60 feet of the field.
 
 > **Classes:** Sorcerer, Wizard
 
@@ -522,7 +522,7 @@ Once you possess a creature's body, you control it. Your Hit Points, Hit Point D
 
 Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move and it is Incapacitated.
 
-While possessing a body, you can take a **:rsc-a: Magic**{ .rsc } action to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you make a Charisma saving throw against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.
+While possessing a body, you can take a **:rsc-a: Magic**{.rsc} action to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you make a Charisma saving throw against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.
 
 If the container is destroyed or the spell ends, your soul returns to your body. If your body is more than 100 feet away from you or if your body is dead, you die. If another creature's soul is in the container when it is destroyed, the creature's soul returns to its body if the body is alive and within 100 feet. Otherwise, that creature dies.
 
@@ -702,11 +702,11 @@ The air quivers around up to five creatures of your choice that you can see with
 
 This spell snatches the soul of a humanoid as it dies and traps it inside the tiny cage you use for the material component. A stolen soul remains inside the cage until the spell ends or until you destroy the cage, which ends the spell. While you have a soul inside the cage, you can exploit it in any of the ways described below. You can use a trapped soul up to six times. Once you exploit a soul for the sixth time, it is released, and the spell ends. While a soul is trapped, the dead humanoid it came from can't be revived.
 
-***Steal Life.*** You can use a **:rsc-b: Bonus Action**{ .rsc } to drain vigor from the soul and regain 2d8 hit points.
+***Steal Life.*** You can use a **:rsc-b: Bonus Action**{.rsc} to drain vigor from the soul and regain 2d8 hit points.
 
 ***Query Soul.*** You ask the soul a question (no action required) and receive a brief telepathic answer, which you can understand regardless of the language used. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.
 
-***Borrow Experience.*** You can use a **:rsc-b: Bonus Action**{ .rsc } to bolster yourself with the soul's life experience, making your next attack roll, ability check, or saving throw with advantage. If you don't use this benefit before the start of your next turn, it is lost.
+***Borrow Experience.*** You can use a **:rsc-b: Bonus Action**{.rsc} to bolster yourself with the soul's life experience, making your next attack roll, ability check, or saving throw with advantage. If you don't use this benefit before the start of your next turn, it is lost.
 
 ***Eyes of the Dead.*** You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were concentrating on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
@@ -744,7 +744,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 You launch a sunbeam in a 5-foot-wide, 60-foot-long Line. Each creature in the Line makes a Constitution saving throw. On a failed save, a creature takes 6d8 Radiant damage and has the Blinded condition until the start of your next turn. On a successful save, it takes half as much damage only.
 
-Until the spell ends, you can take a **:rsc-a: Magic**{ .rsc } action to create a new Line of radiance.
+Until the spell ends, you can take a **:rsc-a: Magic**{.rsc} action to create a new Line of radiance.
 
 For the duration, a mote of brilliant radiance shines above you. It sheds Bright Light in a 30-foot radius and Dim Light for an additional 30 feet. This light is sunlight.
 
@@ -762,7 +762,7 @@ For the duration, a mote of brilliant radiance shines above you. It sheds Bright
 
 You conjure a claw-footed cauldron filled with bubbling liquid. The cauldron appears in an unoccupied space on the ground within 5 feet of you and lasts for the duration. The cauldron can't be moved and disappears when the spell ends, along with the bubbling liquid inside it.
 
-The liquid in the cauldron duplicates the properties of a Common or an Uncommon potion of your choice (such as a *Potion of Healing*). As a **:rsc-b: Bonus Action**{ .rsc }, you or an ally can reach into the cauldron and withdraw one potion of that kind. The potion is contained in a vial that disappears when the potion is consumed. The cauldron can produce a number of these potions equal to your spellcasting ability modifier (minimum 1). When the last of these potions is withdrawn from the cauldron, the cauldron disappears, and the spell ends.
+The liquid in the cauldron duplicates the properties of a Common or an Uncommon potion of your choice (such as a *Potion of Healing*). As a **:rsc-b: Bonus Action**{.rsc}, you or an ally can reach into the cauldron and withdraw one potion of that kind. The potion is contained in a vial that disappears when the potion is consumed. The cauldron can produce a number of these potions equal to your spellcasting ability modifier (minimum 1). When the last of these potions is withdrawn from the cauldron, the cauldron disappears, and the spell ends.
 
 Potions obtained from the cauldron that aren't consumed disappear when you cast this spell again.
 
@@ -785,7 +785,7 @@ Uttering an incantation, you draw on the magic of the Lower Planes or Upper Plan
 - Spectral wings appear on your back, giving you a flying speed of 40 feet.
 - You have a +2 bonus to AC.
 - All your weapon attacks are magical, and when you make a weapon attack, you can use your spellcasting ability modifier, instead of Strength or Dexterity, for the attack and damage rolls.
-- You can attack twice, instead of once, when you take the **:rsc-a: Attack**{ .rsc } action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that lets you attack more than once when you take the **:rsc-a: Attack**{ .rsc } action on your turn.
+- You can attack twice, instead of once, when you take the **:rsc-a: Attack**{.rsc} action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that lets you attack more than once when you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
 ---
 
@@ -804,7 +804,7 @@ You endow yourself with endurance and martial prowess fueled by magic. Until the
 - When you hit a target with a weapon attack, that target takes an extra 2d12 force damage.
 - You have proficiency with all armour, shields, simple weapons, and martial weapons.
 - You have proficiency in Strength and Constitution saving throws.
-- You can attack twice, instead of once, when you take the **:rsc-a: Attack**{ .rsc } action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
+- You can attack twice, instead of once, when you take the **:rsc-a: Attack**{.rsc} action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
 
 Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion.
 
@@ -890,7 +890,7 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 **Components:** V, S, M (a candle)   
 **Duration:** 8 hours
 
-You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a Fly Speed of 300 feet and can hover; it has Immunity to the Prone condition; and it has Resistance to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the Dash action or a **:rsc-a: Magic**{ .rsc } action to begin reverting to its normal form. Reverting takes 1 minute, during which the target has the Stunned condition. Until the spell ends, the target can revert to cloud form, which also requires a **:rsc-a: Magic**{ .rsc } action followed by a 1-minute transformation.
+You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a Fly Speed of 300 feet and can hover; it has Immunity to the Prone condition; and it has Resistance to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the Dash action or a **:rsc-a: Magic**{.rsc} action to begin reverting to its normal form. Reverting takes 1 minute, during which the target has the Stunned condition. Until the spell ends, the target can revert to cloud form, which also requires a **:rsc-a: Magic**{.rsc} action followed by a 1-minute transformation.
 
 If a target is in cloud form and flying when the effect ends, the target descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, it falls the remaining distance.
 

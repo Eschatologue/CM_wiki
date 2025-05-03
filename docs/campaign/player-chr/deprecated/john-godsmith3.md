@@ -46,11 +46,11 @@ You regain one of your expended ^^Maledict Dice^^ when you finish a **:rest-shor
 
 #### Maledict Die Powers
 
-**Cauterising Flame**{.inl} As a **:rsc-a: Magic**{ .rsc } action, you can roll a number of Maledict Die up to your Rage Damage Bonus and regain a number of **:trt-hp: Hit Points** equal to the result.
+**Cauterising Flame**{.inl} As a **:rsc-a: Magic**{.rsc} action, you can roll a number of Maledict Die up to your Rage Damage Bonus and regain a number of **:trt-hp: Hit Points** equal to the result.
 
 **Smite of Origin**{.inl} After you hit a target with a Strength-based attack, you can roll a number of Maledict Die up to your Rage Damage bonus, and deal extra **:dmg-fire: Fire**{ .dmg-fire } damage to the target equal to the number rolled.
 
-**Flames of Creation**{.inl} When you take the **:rsc-a: Attack**{ .rsc } action, you can replace one of your attack to roll a number of Maledict Die up to your Rage Damage Bonus and cause a burst of flame in a **15-foot :aoe-cone: Cone** originating from you. Each affected creature must succeed a **:d20-save: Dexterity saving throw**{.d20}, or take **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled. Flammable objects in the area that aren't being worn or carried starts **Burning**(1).
+**Flames of Creation**{.inl} When you take the **:rsc-a: Attack**{.rsc} action, you can replace one of your attack to roll a number of Maledict Die up to your Rage Damage Bonus and cause a burst of flame in a **15-foot :aoe-cone: Cone** originating from you. Each affected creature must succeed a **:d20-save: Dexterity saving throw**{.d20}, or take **:dmg-fire: Fire**{ .dmg-fire } damage equal to the total rolled. Flammable objects in the area that aren't being worn or carried starts **Burning**(1).
 { .annotate }
 
 1. !!! glossary "Burning" 

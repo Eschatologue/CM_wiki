@@ -15,13 +15,13 @@ Known for their ruthless dedication to achieving their goals. This fraternity of
 
 ### Level 3: Baleful Mark
 
-As a **:rsc-b: Bonus Action**{ .rsc } on your turn, you can place a **Baleful Mark** on a creature you can see. This Mark lasts until you use this feature on another creature, the target dies, or it is removed by an equally powerful spell.
+As a **:rsc-b: Bonus Action**{.rsc} on your turn, you can place a **Baleful Mark** on a creature you can see. This Mark lasts until you use this feature on another creature, the target dies, or it is removed by an equally powerful spell.
 
 This Mark is only visible to you, and while it is active, you gain the benefits listed below:
 
 **Mage Breaker**{.inl} Whenever you damage your Mark, it has **:d20-dis: Disadvantage**{.d20} on its subsequent saving throw to maintain Concentration
 
-**Mage Slayer**{.inl} If your Mark attempts to cast a spell while it is within your reach, it provokes **:rsc-r: Opportunity Attack**{ .rsc } from you.
+**Mage Slayer**{.inl} If your Mark attempts to cast a spell while it is within your reach, it provokes **:rsc-r: Opportunity Attack**{.rsc} from you.
 
 **Spellcaster Type**{.inl} You learn its spellcasting ability and the level of the highest level spell it can cast, if any.
 
@@ -49,7 +49,7 @@ Whenever your Mark forces you to make a saving throw to resist a spell or anothe
 
 ### Level 7: Crippling Mark
 
-Whenever you see your Mark make a D20 Test and you are within 30 feet, you can use your **:rsc-r: Reaction**{ .rsc } to end your [Baleful Mark] and impose **:d20-dis: Disadvantage**{.d20} on its roll.
+Whenever you see your Mark make a D20 Test and you are within 30 feet, you can use your **:rsc-r: Reaction**{.rsc} to end your [Baleful Mark] and impose **:d20-dis: Disadvantage**{.d20} on its roll.
 
 
 However, when you end your [Baleful Mark] in this way, you cannot Mark that creature again until you finish a **:rest-long: Long Rest**.

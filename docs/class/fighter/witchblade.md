@@ -70,7 +70,7 @@ You can use an Arcane Focus as a Spellcasting Focus for the spells you prepare f
 
 ### Level 3: Sanguine Offering
 
-Once per turn, when you hit a creature with an attack roll using weapon or an **:rsc-a: Unarmed Strike**{ .rsc }, you can expend one of your Fighter Hit Dice as part of the attack to deal an additional **1d10 :dmg-necr: Necrotic**{.dmg-necr} damage to the target, in addition to the normal damage of your weapon.
+Once per turn, when you hit a creature with an attack roll using weapon or an **:rsc-a: Unarmed Strike**{.rsc}, you can expend one of your Fighter Hit Dice as part of the attack to deal an additional **1d10 :dmg-necr: Necrotic**{.dmg-necr} damage to the target, in addition to the normal damage of your weapon.
 
 ### Level 7: Otherworldly Step
 
@@ -88,7 +88,7 @@ You can restore your own vitality by inflicting pain on others. When you use [Sa
 
 ### Level 18: Siphon Vitality
 
-When a creature dies within 30 feet of you, you can take a **:rsc-r: Reaction**{ .rsc } to regain one expended Pact Magic spell slot, or 1d4 of your expended Hit Dice.
+When a creature dies within 30 feet of you, you can take a **:rsc-r: Reaction**{.rsc} to regain one expended Pact Magic spell slot, or 1d4 of your expended Hit Dice.
 
 Once you use this feature you must finish a **:rest-short: Short** or **:rest-long: Long Rest** before you can use it again.
 
