@@ -158,7 +158,7 @@
   border: none;
 }
 
-.md-typeset .remove-dt-border dt, .md-typeset .dl-bootstrap dl dt {
+.md-typeset .remove-dt-border dt, .md-typeset .dl-bootstrap dl dt, .md-typeset .dl-dt-center dl dt {
   border: none;
 }
 
@@ -516,12 +516,7 @@ table:not([class]) .smallcap {
   margin-right: 0.04rem !important;
 }
 .dmg-acid :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.125rem;
-}
-@media screen and (max-width: 720px) {
-  .dmg-acid {
-    white-space: normal;
-  }
+  margin-left: -0.125em;
 }
 
 .dmg-cold {
@@ -536,12 +531,7 @@ table:not([class]) .smallcap {
   margin-right: 0.04rem !important;
 }
 .dmg-cold :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.125rem;
-}
-@media screen and (max-width: 720px) {
-  .dmg-cold {
-    white-space: normal;
-  }
+  margin-left: -0.125em;
 }
 
 .dmg-fire {
@@ -556,12 +546,7 @@ table:not([class]) .smallcap {
   margin-right: 0.04rem !important;
 }
 .dmg-fire :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.125rem;
-}
-@media screen and (max-width: 720px) {
-  .dmg-fire {
-    white-space: normal;
-  }
+  margin-left: -0.125em;
 }
 
 .dmg-posn {
@@ -576,12 +561,7 @@ table:not([class]) .smallcap {
   margin-right: 0.04rem !important;
 }
 .dmg-posn :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.125rem;
-}
-@media screen and (max-width: 720px) {
-  .dmg-posn {
-    white-space: normal;
-  }
+  margin-left: -0.125em;
 }
 
 .dmg-thun {
@@ -596,12 +576,7 @@ table:not([class]) .smallcap {
   margin-right: 0.04rem !important;
 }
 .dmg-thun :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.125rem;
-}
-@media screen and (max-width: 720px) {
-  .dmg-thun {
-    white-space: normal;
-  }
+  margin-left: -0.125em;
 }
 
 .dmg-psyc {
@@ -616,12 +591,7 @@ table:not([class]) .smallcap {
   margin-right: 0.04rem !important;
 }
 .dmg-psyc :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.125rem;
-}
-@media screen and (max-width: 720px) {
-  .dmg-psyc {
-    white-space: normal;
-  }
+  margin-left: -0.125em;
 }
 
 .dmg-lgtn {
@@ -636,12 +606,7 @@ table:not([class]) .smallcap {
   margin-right: 0.04rem !important;
 }
 .dmg-lgtn :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.125rem;
-}
-@media screen and (max-width: 720px) {
-  .dmg-lgtn {
-    white-space: normal;
-  }
+  margin-left: -0.125em;
 }
 
 .dmg-necr {
@@ -656,12 +621,7 @@ table:not([class]) .smallcap {
   margin-right: 0.04rem !important;
 }
 .dmg-necr :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.125rem;
-}
-@media screen and (max-width: 720px) {
-  .dmg-necr {
-    white-space: normal;
-  }
+  margin-left: -0.125em;
 }
 
 .dmg-radi {
@@ -676,12 +636,7 @@ table:not([class]) .smallcap {
   margin-right: 0.04rem !important;
 }
 .dmg-radi :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.125rem;
-}
-@media screen and (max-width: 720px) {
-  .dmg-radi {
-    white-space: normal;
-  }
+  margin-left: -0.125em;
 }
 
 .dmg-force {
@@ -696,12 +651,7 @@ table:not([class]) .smallcap {
   margin-right: 0.04rem !important;
 }
 .dmg-force :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.125rem;
-}
-@media screen and (max-width: 720px) {
-  .dmg-force {
-    white-space: normal;
-  }
+  margin-left: -0.125em;
 }
 
 .dmg-bps {
@@ -716,12 +666,7 @@ table:not([class]) .smallcap {
   margin-right: 0.04rem !important;
 }
 .dmg-bps :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.125rem;
-}
-@media screen and (max-width: 720px) {
-  .dmg-bps {
-    white-space: normal;
-  }
+  margin-left: -0.125em;
 }
 
 .dmg-heal {
@@ -736,12 +681,7 @@ table:not([class]) .smallcap {
   margin-right: 0.04rem !important;
 }
 .dmg-heal :is(.emojione, .twemoji, .gemoji) {
-  margin-left: -0.125rem;
-}
-@media screen and (max-width: 720px) {
-  .dmg-heal {
-    white-space: normal;
-  }
+  margin-left: -0.125em;
 }
 
 /*------------------------------------------------------- 
@@ -1074,10 +1014,6 @@ table:not([class]) .smallcap {
 }
 .md-typeset .admonition .admonition-title abbr {
   border-bottom: none !important;
-}
-.md-typeset .admonition hr {
-  border-bottom: 0.1875em solid rgba(255, 255, 255, 0.15);
-  padding: 0 !important;
 }
 .md-typeset .admonition .grid {
   grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));

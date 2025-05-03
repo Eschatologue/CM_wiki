@@ -303,14 +303,10 @@ $damage-types: (
         margin: 0 convert.px2rem(2.5px) !important;
 
         :is(.emojione, .twemoji, .gemoji) {
-            margin-left: convert.px2rem(-2.5px);
+            margin-left: convert.px2em(-2px);
         }
 
         margin-right: convert.px2rem(0.8px) !important;
-
-        @media screen and (max-width: 720px) {
-            white-space: normal;
-        }
     }
 }
 

@@ -18,7 +18,7 @@ icon: material/fast-forward
 
 !!! dice ""
 
-    <div class="grid" markdown>
+    <div class="dl-dt-center" markdown>
 
     **:d20-attack:{ .x2l }**<br>**ATTACK ROLL**{ .xl } 
     :   Made to *hit* a target and is contested by the target's **Armour Class (AC).** 
@@ -62,7 +62,7 @@ icon: material/fast-forward
 
 !!! glossary ""
 
-    <div class="grid" markdown>
+    <div class="dl-dt-center" markdown>
 
     **:material-shield:{ .x2l }**<br>**ARMOUR CLASS**{ .xl } 
     :   **Light Armour:** `Armour's AC + DEX modifier`   

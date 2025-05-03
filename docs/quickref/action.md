@@ -9,7 +9,7 @@ search:
 
 ### Actions
 
-<div class="dl-dt-center" markdown>
+<div class="grid" markdown>
 
 !!! action ""
 

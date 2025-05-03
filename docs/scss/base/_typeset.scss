@@ -222,6 +222,7 @@
 }
 
 .md-typeset .dl-dt-center dl {
+    @extend .remove-dt-border;
     dt {
         text-align: center;
     }

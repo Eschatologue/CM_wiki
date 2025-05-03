@@ -96,9 +96,9 @@ If an option requires a saving throw, your **Arcane Shot save DC** equals `8 plu
 **Silencing Shot**
 :   The target takes an extra **2d6 :dmg-thun: Thunder**{.dmg-thun} damage and makes a **:d20-save: CON Save**{.d20}. On a failed save, it has the **Silenced**{.cond} condition.
 
-    *You charge abjuration magic into your projectile, severing the target connection to the Weave*
+    *You charge abjuration magic into your projectile, severing the target connection to the Weave*{.quote}
 
 **Transposing Shot**
 :   The target takes an extra **1d6 :dmg-force: Force**{.dmg-force} damage and makes a **:d20-save: CHA Save**{.d20}. On a failed save, you switch places with it.
 
-    *You imbue conjuration magic into your shot, swapping your position with the target*
+    *You imbue conjuration magic into your shot, swapping your position with the target*{.quote}

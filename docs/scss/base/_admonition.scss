@@ -30,11 +30,6 @@
 
         }
 
-        hr {
-            border-bottom: #{convert.px2em(3px)} solid rgba(255, 255, 255, 0.15);
-            padding: 0 !important;
-        }
-
         .grid {
             grid-template-columns: repeat(auto-fit, minmax(#{convert.px2rem(320px)}, 1fr));
         }
