@@ -18,7 +18,7 @@ Also, check with your DM about what equipment is available for you to buy with y
 | Starting Level | Equipment and Money | Magic Items |
 |:-:|---|---|
 | 2-4 | Normal starting equipment | 1 Common |
-| 5-10 | 5000 SP plus 1d10 × 250 SP plus normal starting equipment | 1 Common, 1 Uncommon |
-| 11-16 | 50,000 SP plus 1d10 × 2500 SP plus normal starting equipment | 2 Common, 3 Uncommon, 1 Rare |
-| 17-20 | 200,000 SP plus 1d10 × 2500 SP plus normal starting equipment | 2 Common, 4 Uncommon, 3 Rare, 1 Very Rare |
+| 5-10 | 5,000 SP plus 1d10 × 250 SP plus normal starting equipment | 1 Common, 1 Uncommon |
+| 11-16 | 50,000 SP plus 1d10 × 2,500 SP plus normal starting equipment | 2 Common, 3 Uncommon, 1 Rare |
+| 17-20 | 200,000 SP plus 1d10 × 2,500 SP plus normal starting equipment | 2 Common, 4 Uncommon, 3 Rare, 1 Very Rare |
 
