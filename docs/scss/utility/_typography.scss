@@ -32,6 +32,7 @@
     :is(.emojione, .twemoji, .gemoji) {
         font-size: calc(var(--gbl-font-size) * 0.95);
         margin-right: convert.px2rem(-2.5px);
+        vertical-align: text-top !important;
     }
 }
 

@@ -239,6 +239,7 @@
 .jetbrains-icon :is(.emojione, .twemoji, .gemoji), .dmg-heal :is(.emojione, .twemoji, .gemoji), .dmg-bps :is(.emojione, .twemoji, .gemoji), .dmg-force :is(.emojione, .twemoji, .gemoji), .dmg-radi :is(.emojione, .twemoji, .gemoji), .dmg-necr :is(.emojione, .twemoji, .gemoji), .dmg-lgtn :is(.emojione, .twemoji, .gemoji), .dmg-psyc :is(.emojione, .twemoji, .gemoji), .dmg-thun :is(.emojione, .twemoji, .gemoji), .dmg-posn :is(.emojione, .twemoji, .gemoji), .dmg-fire :is(.emojione, .twemoji, .gemoji), .dmg-cold :is(.emojione, .twemoji, .gemoji), .dmg-acid :is(.emojione, .twemoji, .gemoji), .jetbrains :is(.emojione, .twemoji, .gemoji), .calc :is(.emojione, .twemoji, .gemoji), .wp :is(.emojione, .twemoji, .gemoji), .cond :is(.emojione, .twemoji, .gemoji), .rsc :is(.emojione, .twemoji, .gemoji) {
   font-size: calc(var(--gbl-font-size) * 0.95);
   margin-right: -0.125rem;
+  vertical-align: text-top !important;
 }
 
 .f-lg {
