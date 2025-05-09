@@ -27,7 +27,7 @@ Choose **two** weapon properties from the list below. When you wield a weapon th
 You can change your selected properties whenever you complete a **:rest-short: Long Rest**.
 
 **Ammunition**
-:   When you wield a weapon with the **:wp-prop-ammunition: Ammunition**{.wp} property, its Normal and Long ranges are doubled.
+:   When you wield a weapon with the **:wp-prop-ammunition: Ammunition**{.wp} property, its Normal and Long ranges are doubled. 
 
 **Burst-Fire**
 :   When you make a **:rsc-a: Burst Fire Attack**{.rsc}, you can change the area of effect to one of the following:
@@ -36,7 +36,7 @@ You can change your selected properties whenever you complete a **:rest-short: L
     - A **:aoe-line: Line** with a width of **5 ft.** and length equal to half the weapon's normal range.
 
 **Heavy**
-:   When you miss with an attack using a weapon that has the **:wp-prop-heavy: Heavy**{.wp} property, the target still takes damage equal to the ability modifier used for the attack (usually Strength). This includes any magical bonus to attack and damage rolls (e.g., +1, +2, +3). This damage is of the weapon's normal type.
+:   When have **:d20-adv: Advantage**{.d20} on a Melee attack roll and would hit with both d20s, your Strength modifier is added twice, intead of once, to the damage roll.
 
 **Finesse**
 :   When you hit a creature with a weapon that has the **:wp-prop-finesse: Finesse**{.wp} property, that creature can't make **:rsc-r: Opportunity Attacks**{.rsc} against you for the rest of your turn.
@@ -48,7 +48,7 @@ You can change your selected properties whenever you complete a **:rest-short: L
 :   While wielding a weapon with the **:wp-prop-reach: Reach**{.wp} property, the area within the weapon's reach around you is considered Difficult Terrain for creatures you choose.
 
 **Loading**
-:   You ignore the **:wp-prop-loading: Loading**{.wp} property of weapons you wield.
+:   You ignore the **:wp-prop-loading: Loading**{.wp} property of weapons you wield. Moreover, as a **:rsc-b: Bonus Action**{.rsc} you can steady your aim and give your self **:d20-adv: Advantage**{.d20} on attacks with **:wp-prop-loading: Loading**{.wp} until the start of your next turn.
 
 **Thrown**
 :   The Normal and Long ranges of weapons with the **:wp-prop-thrown: Thrown**{.wp} property are doubled. Moreover, a Ranged attack with these weapon ignores Half Cover and Three-Quarters Cover.
