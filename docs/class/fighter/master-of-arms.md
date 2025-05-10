@@ -22,45 +22,62 @@ You gain proficiency with two set of Artisan's tools of your choice from the fol
 
 Your deep understanding of weapon construction and usage grants you unique advantages when wielding them.
 
-Choose **two** weapon properties from the list below. When you wield a weapon that has a chosen property, it gains the corresponding benefit. You choose one additional property at levels 7 (3 total), 15 (4 total), and 18 (5 total).
+Choose **one** weapon property from the list below. When you wield a weapon that has a chosen property, it gains the corresponding benefit. You choose one additional property at levels 7 (2 total), 15 (3 total), and 18 (4 total). The weapon property gain an additional effect when you reach level 15.
 
-You can change your selected properties whenever you complete a **:rest-short: Long Rest**.
+You can change your selected properties whenever you finish a **:rest-short: Short Rest**.
 
 **Ammunition**
-:   When you wield a weapon with the **:wp-prop-ammunition: Ammunition**{.wp} property, its Normal and Long ranges are doubled. 
+:   When you wield a weapon with the **:wp-prop-ammunition: Ammunition**{.wp} property, its Normal and Long ranges are doubled.
+
+    **Level 15**{.inl} Once per turn, when you miss an attack roll with **:wp-prop-ammunition: Ammunition**{.wp} weapon, so long the result of the d20 is not 10 or lower, you can attack a different creature within 30 feet of your initial target as the ammunition bounces to it.
 
 **Burst-Fire**
-:   When you make a **:rsc-a: Burst Fire Attack**{.rsc}, you can change the area of effect to one of the following:
+:   When you make a **:rsc-a: Burst-Fire Attack**{.rsc}, you can change the area of effect to one of the following:
 
     - **30-foot :aoe-cone: Cone**, originating from you.
     - A **:aoe-line: Line** with a width of **5 ft.** and length equal to half the weapon's normal range.
 
+    **Level 15**{.inl} When you take the **:rsc-a: Attack**{.rsc} action, you can replace one of those attack with a **:rsc-a: Burst-Fire Attack**{.rsc}.
+
 **Heavy**
-:   When have **:d20-adv: Advantage**{.d20} on a Melee attack roll and would hit with both d20s, your Strength modifier is added twice, intead of once, to the damage roll.
+:   When you have **:d20-adv: Advantage**{.d20} on a Melee attack roll with a **:wp-prop-heavy: Heavy**{.wp} weapon and would hit with both d20s, your ability modifier used in the attack is added twice to the damage roll.
+
+    **Level 15**{.inl} When you roll maximum damage on the weapon's damage roll or score a Critical Hit, you can give the target the effect of the [:spell-lv4: Confusion](../../spells/description/core/level-4.md#confusion) spell until the start of your next turn.
 
 **Finesse**
-:   When you hit a creature with a weapon that has the **:wp-prop-finesse: Finesse**{.wp} property, that creature can't make **:rsc-r: Opportunity Attacks**{.rsc} against you for the rest of your turn.
+:   When you hit a creature with a **:wp-prop-finesse: Finesse**{.wp} weapon, that creature attack roll against you have **:d20-dis: Disadvantage**{.d20} for the rest of your turn.
+
+    **Level 15**{.inl} While wielding a **:wp-prop-finesse: Finesse**{.wp} weapon, immediately after a creature within your reach makes an Attack Roll, you can make an **:rsc-r: Opportunity Attacks**{.rsc} against that creature.
 
 **Light**
 :   When you take the **:rsc-a: Dash**{.rsc}, **:rsc-a: Dodge**{.rsc}, or **:rsc-a: Disengage**{.rsc} action, you can make one attack with a weapon that has the **:wp-prop-light: Light**{.wp} property as part of that action.
 
+    **Level 15**{.inl} When you attack with a **:wp-prop-light: Light**{.wp} weapon, you can make one extra attack as a **:rsc-b: Bonus Action**{.rsc} later on the same turn. That extra attack must be made with a ^^same^^ weapon, and you don't add your ability modifier to the extra attack's damage, unless that modifier is negative.
+
 **Reach**
-:   While wielding a weapon with the **:wp-prop-reach: Reach**{.wp} property, the area within the weapon's reach around you is considered Difficult Terrain for creatures you choose.
+:   While wielding a **:wp-prop-reach: Reach**{.wp} weapon, the area within the weapon's reach around you is considered Difficult Terrain for creatures you choose.
+
+    **Level 15**{.inl} While wielding a **:wp-prop-reach: Reach**{.wp} weapon, attack rolls that isn't against you has **:d20-dis: Disadvantage**{.d20}.
 
 **Loading**
 :   You ignore the **:wp-prop-loading: Loading**{.wp} property of weapons you wield. Moreover, as a **:rsc-b: Bonus Action**{.rsc} you can steady your aim and give your self **:d20-adv: Advantage**{.d20} on attacks with **:wp-prop-loading: Loading**{.wp} until the start of your next turn.
 
-**Thrown**
-:   The Normal and Long ranges of weapons with the **:wp-prop-thrown: Thrown**{.wp} property are doubled. Moreover, a Ranged attack with these weapon ignores Half Cover and Three-Quarters Cover.
+    **Level 15**{.inl} The number you need to roll for a Critical Hit is reduced by 1 for attack rolls with **:wp-prop-loading: Loading**{.wp} weapons. This effect can stack.
 
-**Two-Handed**
-:   While wielding a weapon with the **:wp-prop-two-handed: Two-Handed**{.wp} property, you can take a **:rsc-b: Bonus Action**{.rsc} to increase its reach by 5 feet until the end of your turn.
+**Thrown**
+:   The Normal and Long ranges of **:wp-prop-thrown: Thrown**{.wp} weapons for you are doubled and you don't have **:d20-dis: Disadvantage**{.d20} on Ranged attacks with **:wp-prop-thrown: Thrown**{.wp} weapons while within 5 feet from a hostile creature.
+
+    **Level 15**{.inl} When you attack with a **:wp-prop-thrown: Thrown**{.wp} weapon, you can make one extra Ranged attack using a *:wp-prop-thrown: Thrown**{.wp} as a **:rsc-b: Bonus Action**{.rsc} later on the same turn.
 
 **Versatile**
-:   When you are hit by an attack you can see while wielding a weapon with the **:wp-prop-versatile: Versatile**{.wp} property, you can use your **:rsc-r: Reaction**{.rsc} to reduce the incoming damage by an amount equal to the weapon's damage die (e.g., 1d8 or 1d10 if used two-handed).
+:   When you are hit by an attack you can see while wielding a **:wp-prop-versatile: Versatile**{.wp} weapon, you can use your **:rsc-r: Reaction**{.rsc} to reduce the incoming damage by an amount equal to the weapon's damage die (e.g., 1d8 or 1d10 if used two-handed).
+
+    **Level 15**{.inl} Once per turn, you can give yourself **:d20-adv: Advantage**{.d20} on attacks with **:wp-prop-versatile: Versatile**{.wp} weapon that are using two hands.
 
 **No Weapon Properties**
-:   While wielding a weapon that has no properties (e.g., Mace, Morningstar), the number you need to roll to score a Critical Hit is reduced by 1. This effect stacks with other sources of critical hit range reduction.
+:   The number you need to roll for a Critical Hit is reduced by 1 for attack rolls with weapons that has no properties (e.g., Mace, Morningstar). This effect can stack.
+
+    **Level 15**{.inl} The number you need to roll for a Critical Hit is reduced again by 1 for attack rolls with weapons that has no properties (e.g., Mace, Morningstar). This effect can stack.
 
 ### Level 7: Signature Weapon
 
