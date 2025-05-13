@@ -4,8 +4,7 @@ icon: material/door-open
 
 !!! example "Experimental"
 
-    You just stumbled into an **Experimental** mechanic! This game material made by me, and is heavily inspired by Darkest Dungeon 1 and Darkest Dungeon 2. For now, only for use by the DM and will occur within a number of encounters to make combat more exiting.
-
+    You just stumbled into an **Experimental** mechanic!
 # Resolve
 
 > *“If death doesn't take you, something else will.”
