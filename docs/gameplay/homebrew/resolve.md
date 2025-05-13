@@ -6,47 +6,51 @@ icon: material/door-open
 
     You just stumbled into an **Experimental** mechanic! This game material made by me, and is heavily inspired by Darkest Dungeon 1 and Darkest Dungeon 2. For now, only for use by the DM and will occur within a number of encounters to make combat more exiting.
 
-# Resolve
+## Resolve
 
-*“If death won’t get you, the madness will.” — Common saying in Antares*
+> *“If death doesn’t take you, something else will.”
 
-The wilderness of Antares may seem calm, but beneath its stillness lie horrors that tear at both flesh and mind. **Resolve** represents a creature’s ability to endure trauma — not just physical, but mental. This optional mechanic introduces a layer of psychological pressure to high-stakes encounters. It is typically applied to enemies, but the DM may choose to use it for players as well.
+**Resolve** is a measure of how a creature reacts when pushed beyond its limits — mentally, physically, or emotionally. When a creature endures overwhelming trauma, it must roll on the **Resolve Result Table**, representing a sudden mental fracture, instinctual response, or psychosomatic effect.
 
-## Resolve Save
+## When to Roll
 
-A **Resolve Save** is triggered when a creature undergoes extreme physical or mental trauma. These saves represent moments when instinct or willpower might override pain — or when the mind begins to fracture under pressure.
+A creature must immediately roll on the **Resolve Result Table** whenever it:
 
-### When to Make a Resolve Save
+**Receive Massive Damage**
 
-**Massive Damage**
+:   Takes damage from a single source equal to or greater than **half its hit point maximum**
 
-:   When a creature takes damage from a single source equal to or greater than **half its hit point maximum**, it must succeed on a **:abl-int::d20-save: Intelligence**{.nowrap}, **:abl-wis::d20-save: Wisdom**{.nowrap}, or **:abl-cha::d20-save: Charisma**{.nowrap} saving throw (the creature chooses which).
+*or,*
 
-    On a success, nothing happens and the fight continues.
+**Reduced to 0 HP**
 
-    On a failure, see [Failing a Resolve Save](#failing-resolve-save).
+:   The creature is reduced to **0 hit points**
 
-**Reduced to 0 Hit Points**
+> **Special Case**: If a creature takes massive damage **and** is reduced to 0 hit points at the same time, it rolls **only once**.
 
-:   When a creature is reduced to **0 hit points**, it may choose to make a **Resolve Save** in a desperate attempt to stay conscious.
-  
-    On a success, the creature immediately gains **:trt-hp: Temporary Hit Points** equal to **10% of its maximum hit points** (rounded down). It must then **immediately roll on the Resolve Result Table**.
+## Resolve Result Table
 
-    These temporary hit points last for **1 minute** or until depleted.
-
-> **Special Case**: If a creature takes **Massive Damage that also reduces it to 0 hit points**, only the **higher DC** is used.
-
-**Resolve Save DC = 10** or **half the damage taken** (rounded down), whichever is higher (maximum 25)
-
-## Failing Resolve Save
-
-On a **failed Resolve Save**, the creature must roll on the **Resolve Result Table**.
-The table contains a variety of effects — most negative, some severe, and a rare few beneficial. These results reflect how the creature’s mind or body responds under catastrophic stress: panic, hallucinations, trauma, instinctual rage, or clarity in the face of death.
-
-##### Resolve Result
-
-| d12 | Name | Effect |
-|:-:|---|---|
-| 1 | Fatal | The creature drops to 0 Hit Points. |
-| 2 | Fatal | The creature drops to 0 Hit Points but is stable |
+| Roll | Name | Description |
+|:-|---|---|
+| 01-06 | - | The creature drops to 0 hit points |
+| 07-12 | - | The creature drops to 0 hit points but is stable. |
+| 13-25 | - | Nothing Happens |
+| 26-60 | - | The creature drops to one-tenth (10%) to its Hit Points maximum |
+| -=-=- | -=- | -=-=-=-=- |
+| 61-63 | Fearful | Gain the **Frightened**{.cond} condition | 
+| 64-66 | Lethargic | :rsc-spd: Speed is Halved | 
+| 67-69 | Masochistic | -2 to AC and CON Save |
+| 70-72 | Irrational | Disadvantage to INT Checks and Save |
+| 73-75 | Paranoid | Can't be targetted by spells or effect that affect willing creature |
+| 76-78 | Hopeless | -1d6 from all attack and damage rolls |
+| 79-81 | Selfish | Disadvantage to CHA Checks and Save |
+| 82-84 | Anxious | Vulnerability to Psychic damage |
+| 85-87 | Abusive | +1d8 to damage rolls but -1d8 from attack rolls |
+| 88-90 | Mania | Disadvantage to attack rolls |
+| -=-=- | -=- | -=-=-=-=- |
+| 91-92 | Stalwart | +2 AC |
+| 93-94 | Courageous | 
+| 95-96 | Focused |
+| 97-98 | Powerful | 
+| 99-100 | Vigorous | +10 feet of Speed and regain a number of Hit Points equals to half its Hit Point Maximum |
 
