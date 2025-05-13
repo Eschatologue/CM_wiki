@@ -14,11 +14,11 @@ icon: material/door-open
 
 ## When to Roll
 
-A creature must immediately roll on the **Resolve Result Table** whenever it:
+A creature roll on the **Resolve Result Table** under the following condition:
 
 **Receive Massive Damage**
 
-:   Takes damage from a single source equal to or greater than **half its hit point maximum**, *or,*
+:   When a Creature takes damage from a single source equal to or greater than **half its hit point maximum**, it must succeed an **Intelligence, Wisdom, or Charisma saving throw** (the creature's choice) or it must roll on the **Resolve Result Table**. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
 
 **Reduced to 0 Hit Points**
 
