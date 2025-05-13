@@ -6,10 +6,6 @@ icon: material/door-open
 
     You just stumbled into an **Experimental** mechanic! This game material made by me, and is heavily inspired by Darkest Dungeon 1 and Darkest Dungeon 2. For now, only for use by the DM and will occur within a number of encounters to make combat more exiting.
 
-Got it — you want this to be punchier, clearer, and easier to digest at a glance. Here’s a revised version styled more like *official modules or rulebooks*, with bolded triggers, concise bullet points, and clear sectioning for player readability.
-
----
-
 # Resolve
 
 *“If death won’t get you, the madness will.” — Common saying in Antares*
