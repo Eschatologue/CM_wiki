@@ -12,10 +12,6 @@ icon: material/door-open
 
 The wilderness of Antares may seem calm, but beneath its stillness lie horrors that tear at both flesh and mind. **Resolve** represents a creature’s ability to endure trauma — not just physical, but mental. This optional mechanic introduces a layer of psychological pressure to high-stakes encounters. It is typically applied to enemies, but the DM may choose to use it for players as well.
 
-Thanks for the context — you're on the right track, and this mechanic is shaping up to be both thematic and mechanically tense. Since you want it to remain clear and skimmable, and you've just updated the **0 HP clause**, here's a cleaned-up and structured version with the new temp HP rule, better flow, and professional formatting.
-
----
-
 ## Resolve Save
 
 A **Resolve Save** is triggered when a creature undergoes extreme physical or mental trauma. These saves represent moments when instinct or willpower might override pain — or when the mind begins to fracture under pressure.
@@ -24,11 +20,11 @@ A **Resolve Save** is triggered when a creature undergoes extreme physical or me
 
 **Massive Damage**
 
-:   When a creature takes damage from a single source equal to or greater than **half its hit point maximum**, it must succeed on a :abl-int::d20-save: Intelligence, :abl-wis: Wisdom, or :abl-cha: Charisma saving throw (the creature chooses which).
+:   When a creature takes damage from a single source equal to or greater than **half its hit point maximum**, it must succeed on a **:abl-int::d20-save: Intelligence**{.nowrap}, **:abl-wis::d20-save: Wisdom**{.nowrap}, or **:abl-cha::d20-save: Charisma**{.nowrap} saving throw (the creature chooses which).
 
-  On a success, nothing happens and the fight continues.
+    On a success, nothing happens and the fight continues.
 
-  On a failure, see [Failing a Resolve Save](#failing-resolve-save).
+    On a failure, see [Failing a Resolve Save](#failing-resolve-save).
 
 **Reduced to 0 Hit Points**
 
