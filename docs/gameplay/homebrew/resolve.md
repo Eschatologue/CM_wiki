@@ -20,26 +20,34 @@ A creature must immediately roll on the **Resolve Result Table** whenever it:
 
 :   Takes damage from a single source equal to or greater than **half its hit point maximum**, *or,*
 
-**Reduced to 0 HP**
+**Reduced to 0 Hit Points**
 
-:   The creature is reduced to **0 hit points**
+:   When a creature is reduced to **0 Hit points**, it may choose to roll on the **Resolve Result table** instead of falling Unconscious and making death saving throws.
 
-> **Special Case**: If a creature takes massive damage **and** is reduced to 0 hit points at the same time, it rolls **only once**.
+    If it does so, it immediately gains 1 Hit Point and the creature roll in the **Resolve Result table** as normal.
+
+**Special Case**{.inl} If a creature takes massive damage **and** is reduced to 0 hit points at the same time, it rolls **only once**.
 
 ## Resolve Result
 
-When a creature triggers a **Resolve check** (such as from suffering massive damage or being reduced to 0 hit points), roll a d100 and consult the table below. These results represent the creature's physical and mental response to overwhelming trauma - from collapse, fear, and madness to moments of clarity or raw survival instinct.
+When a creature is required to roll on the **Resolve Result Table**, it gains a random effect that reflects its physical or mental response to extreme trauma. Most outcomes are negative or debilitating, though some are beneficial — rare moments of clarity, adrenaline, or grim resolve.
 
 Resolve result persist until the creature finishes a **:rest-long: Long Rest**.
+
+**Duplicate Results**{.inl} If a creature rolls a result it already has, it must instead take the result **directly above or below** the rolled entry (player’s choice).
+
+**Resolve Effects as Conditions**{.inl} Effects gained from the Resolve Result Table are treated as Conditions for the purpose of spells, abilities, and other game mechanics that references conditions with the exception of **Collapses**, **Moment of Denial**, and **Barely Standing**
 
 ##### Resolve Result
 
 | d100 | Result | Effect |
-|---|---|---|
+|:-:|---|---|
+| | **Instantaneous**{.chev-lr} | |
 | 01-06 | **Collapse** | The creature drops to 0 hit points. |
 | 07-12 | **Collapse (Stable)** | The creature drops to 0 hit points but is stable (no death saves required). |
 | 13-25 | **Moment of Denial** | Nothing happens. The creature powers through - for now. |
-| 26-60 | **Barely Standing** | The creature's current Hit Points are reduced to 10% of its Hit Point Maximum (rounded down). |
+| 26-60 | **Barely Standing** | The creature's current Hit Points becomes to 10% of its Hit Point Maximum (rounded down). |
+| | **Meltdown**{.chev-lr} | |
 | 61-63 | **Fearful** | The creature gains the **Frightened**{.cond} condition. |
 | 64-66 | **Lethargic** | The creature's **:rsc-spd: Speed** is **halved**. |
 | 67-69 | **Masochistic** | The creature suffers `-2` to **AC** and -2 on **:d20-save: CON Save**{.d20}. |
@@ -50,10 +58,11 @@ Resolve result persist until the creature finishes a **:rest-long: Long Rest**.
 | 82-84 | **Anxious** | The creature gains **:dmg-vul: Vulnerability** to **:dmg-psyc: Psychic**{.dmg-psyc} damage. |
 | 85-87 | **Abusive** | The creature adds `+1d8` to **damage rolls**, but `-1d8` to **attack rolls**. |
 | 88-90 | **Mania** | The creature has **:d20-dis: Disadvantage**{.d20} on attack rolls. |
+| | **Resolute**{.chev-lr} | |
 | 91-92 | **Stalwart** | The creature gains `+2` to **AC**. |
 | 93-94 | **Courageous** | The creature has **advantage** on CHA checks & save, and is **:dmg-imm: Immune** to the **Frightened**{.cond} condition. |
 | 95-96 | **Focused** | The creature gains `+2` on **attack rolls**. |
 | 97-98 | **Powerful** | The creature gains `+2` to **damage rolls**. |
-| 99-100 | **Vigorous** | The creature's **:rsc-spd: Speed** increases by **+10 feet** and it **regains Hit Points equal to half its Hit Point Maximum**. |
+| 99-00 | **Vigorous** | The creature's **:rsc-spd: Speed** increases by **+10 feet** and it **regains Hit Points equal to half its Hit Point Maximum**. |
 
 
