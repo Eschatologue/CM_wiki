@@ -1,10 +1,7 @@
 ---
-icon: material/door-open
+title: "Resolve"
+icon: octicons/issue-draft-24
 ---
-
-!!! example "Experimental"
-
-    You just stumbled into an **Experimental** mechanic!
 
 # Resolve
 
@@ -28,7 +25,7 @@ A creature roll on the **Resolve Result Table** under the following condition:
 
 ## Resolve Result
 
-When a creature is required to roll a :die-d10::die-d10: D100 on the **Resolve Result Table**, it gains a random effect that reflects its physical or mental response to extreme trauma. Most outcomes are negative or debilitating, though some are beneficial — rare moments of clarity, adrenaline, or grim resolve.
+When a creature is required to roll a d100 on the **Resolve Result Table**, it gains a random effect that reflects its physical or mental response to extreme trauma. Most outcomes are negative or debilitating, though some are beneficial — rare moments of clarity, adrenaline, or grim resolve.
 
 Resolve result persist until the creature finishes a **:rest-long: Long Rest** or until the [:spell-lv2: Calm Emotions](../../spells/description/core/level-2.md#calm-emotions) spell is cast on it.
 
@@ -38,9 +35,9 @@ Resolve result persist until the creature finishes a **:rest-long: Long Rest** o
 
 ##### Resolve Result
 
-| d100 | d# | Name | Effect |
+| d100 | == | Name | Effect |
 |:-:|:-:|---|---|
-| | **D4** |**Instantaneous**{.chev-lr} | |
+| == | **D4** |**Instantaneous**{.chev-lr} | |
 | 01-06 | 1 | **Collapse** | The creature drops to 0 hit points. |
 | 07-12 | 2 | **Collapse (Stable)** | The creature drops to 0 hit points but is stable (no death saves required). |
 | 13-28 | 3 | **Moment of Denial** | Nothing happens. The creature powers through - for now. |
