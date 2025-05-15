@@ -42,23 +42,23 @@ Resolve result persist until the creature finishes a **:rest-long: Long Rest** o
 | == | **Instantaneous**{.chev-lr} | |
 | 01-06 | **Collapse** | The creature drops to 0 hit points. |
 | 07-12 | **Collapse (Stable)** | The creature drops to 0 hit points but is stable (no death saves required). |
-| 13-35 | **Moment of Denial** | Nothing happens. The creature powers through - for now. |
-| 36-49 | **Barely Standing** | The creature's current Hit Points becomes to 10% of its Hit Point Maximum (rounded down). |
+| 13-28 | **Moment of Denial** | Nothing happens. The creature powers through - for now. |
+| 29-44 | **Barely Standing** | The creature's current Hit Points becomes to 10% of its Hit Point Maximum (rounded down). |
 | == | **Meltdown**{.chev-lr} | |
-| 50-53 | **Fearful** | The creature gains the **Frightened**{.cond} condition. |
-| 54-57 | **Lethargic** | The creature gain 1 level of **Exhaustion**{.cond}. |
-| 58-61 | **Masochistic** | The creature suffers `-2` to **AC** & has **:d20-dis: Disadvantage**{.d20} on CON checks & save |
-| 62-64 | **Irrational** | The creature has **:d20-dis: Disadvantage**{.d20} on INT checks & save. |
-| 65-70 | **Paranoid** | The creature **can't be targeted by spells or effects** that require it to be a **willing target**. |
-| 71-73 | **Hopeless** | The creature has **:d20-dis: Disadvantage**{.d20} on STR checks & save. |
-| 74-77 | **Selfish** | The creature has **:d20-dis: Disadvantage**{.d20} on CHA checks & save. |
-| 78-81 | **Anxious** | The creature has **:d20-dis: Disadvantage**{.d20} on WIS checks & save. |
-| 82-85 | **Abusive** | The creature adds `+1d8` to **damage rolls**, but `-1d8` to **attack rolls**. |
-| 86-89 | **Mania** | The creature has **:d20-dis: Disadvantage**{.d20} on attack rolls. |
+| 45-48 | **Fearful** | The creature gains the **Frightened**{.cond} condition. |
+| 49-52 | **Lethargic** | The creature gain 1 level of **Exhaustion**{.cond}. |
+| 53-56 | **Masochistic** | The creature suffers `-2` to **AC** & has **:d20-dis: Disadvantage**{.d20} on CON checks & save |
+| 57-60 | **Irrational** | The creature has **:d20-dis: Disadvantage**{.d20} on INT checks & save. |
+| 61-64 | **Paranoid** | The creature **can't be targeted by spells or effects** that require it to be a **willing target**. |
+| 65-68 | **Hopeless** | The creature has **:d20-dis: Disadvantage**{.d20} on STR checks & save. |
+| 69-72 | **Selfish** | The creature has **:d20-dis: Disadvantage**{.d20} on CHA checks & save. |
+| 73-76 | **Anxious** | The creature has **:d20-dis: Disadvantage**{.d20} on WIS checks & save. |
+| 77-80 | **Abusive** | The creature adds `+1d8` to **damage rolls**, but `-1d8` to **attack rolls**. |
+| 81-84 | **Mania** | The creature has **:d20-dis: Disadvantage**{.d20} on attack rolls. |
 | == | **Resolute**{.chev-lr} | |
-| 90-91 | **Stalwart** | The creature gains `+2` to **AC** & has **:d20-adv: Advantage**{.d20} on Death Saving Throw. |
-| 92-93 | **Courageous** | The creature's **:rsc-spd: Speed** increases by half of its base Speed & has **:d20-adv: Advantage**{.d20} on CHA checks & save. |
-| 94-95 | **Focused** | The creature adds `+1d8` to its **attack rolls** & has **:d20-adv: Advantage**{.d20} on WIS checks & save. |
-| 96-97 | **Powerful** | The creature adds `+1d8` to its **damage rolls** & has **:d20-adv: Advantage**{.d20} on STR checks & save. |
-| 98-99 | **Vigorous** | The creature **regains Hit Points equal to half its Hit Point Maximum** & has **:d20-adv: Advantage**{.d20} on CON Save. |
+| 85-87 | **Stalwart** | The creature gains `+2` to **AC** & has **:d20-adv: Advantage**{.d20} on Death Saving Throw. |
+| 88-90 | **Courageous** | The creature's **:rsc-spd: Speed** increases by half of its base Speed & has **:d20-adv: Advantage**{.d20} on CHA checks & save. <br>*"A moment of valour shines brightest agaisnt a backdrop of despair"*{.quote} |
+| 91-93 | **Focused** | The creature adds `+1d8` to its **attack rolls** & has **:d20-adv: Advantage**{.d20} on WIS checks & save. |
+| 94-96 | **Powerful** | The creature adds `+1d8` to its **damage rolls** & has **:d20-adv: Advantage**{.d20} on STR checks & save. |
+| 97-99 | **Vigorous** | The creature **regains Hit Points equal to half its Hit Point Maximum** & has **:d20-adv: Advantage**{.d20} on CON Save. |
 | 00 | **Indomitable** | The creature choose two Resolute effect of its choice. |
