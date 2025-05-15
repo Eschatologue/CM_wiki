@@ -38,28 +38,28 @@ Resolve result persist until the creature finishes a **:rest-long: Long Rest** o
 
 ##### Resolve Result
 
-| d100 | Affliction | Effect |
-|:-:|---|---|
-| == | **Instantaneous**{.chev-lr} | |
-| 01-06 | **Collapse** | The creature drops to 0 hit points. |
-| 07-12 | **Collapse (Stable)** | The creature drops to 0 hit points but is stable (no death saves required). |
-| 13-28 | **Moment of Denial** | Nothing happens. The creature powers through - for now. |
-| 29-44 | **Barely Standing** | The creature's current Hit Points becomes to 10% of its Hit Point Maximum (rounded down). |
-| == | **Meltdown**{.chev-lr} | |
-| 45-48 | **Fearful** | The creature gains the **Frightened**{.cond} condition. |
-| 49-52 | **Lethargic** | The creature gain 1 level of **Exhaustion**{.cond}. |
-| 53-56 | **Masochistic** | The creature suffers `-2` to **AC** & has **:d20-dis: Disadvantage**{.d20} on CON checks & save |
-| 57-60 | **Irrational** | The creature has **:d20-dis: Disadvantage**{.d20} on INT checks & save. |
-| 61-64 | **Paranoid** | The creature **can't be targeted by spells or effects** that require it to be a **willing target**. |
-| 65-68 | **Hopeless** | The creature has **:d20-dis: Disadvantage**{.d20} on STR checks & save. |
-| 69-72 | **Selfish** | The creature has **:d20-dis: Disadvantage**{.d20} on CHA checks & save. |
-| 73-76 | **Anxious** | The creature has **:d20-dis: Disadvantage**{.d20} on WIS checks & save. |
-| 77-80 | **Abusive** | The creature adds `+1d8` to **damage rolls**, but `-1d8` to **attack rolls**. |
-| 81-84 | **Mania** | The creature has **:d20-dis: Disadvantage**{.d20} on attack rolls. |
-| == | **Resolute**{.chev-lr} | |
-| 85-87 | **Stalwart** | The creature gains `+2` to **AC** & has **:d20-adv: Advantage**{.d20} on Death Saving Throw.<br>*"Many fall in the face of chaos; But not this one, not today"*{.quote} |
-| 88-90 | **Courageous** | The creature's **:rsc-spd: Speed** increases by half of its base Speed & has **:d20-adv: Advantage**{.d20} on CHA checks & save.<br>*"A moment of valour shines brightest agaisnt a backdrop of despair"*{.quote} |
-| 91-93 | **Focused** | The creature adds `+1d8` to its **attack rolls** & has **:d20-adv: Advantage**{.d20} on WIS checks & save.<br>*"A moment of clarity in the eye of the storm"*{.quote} |
-| 94-96 | **Powerful** | The creature adds `+1d8` to its **damage rolls** & has **:d20-adv: Advantage**{.d20} on STR checks & save.<br>*"Anger is power - unleash it!"*{.quote} |
-| 97-99 | **Vigorous** | The creature **regains Hit Points equal to half its Hit Point Maximum** & has **:d20-adv: Advantage**{.d20} on CON Save.<br>*"Adversity can foster hope and resilience"*{.quote} |
-| 00 | **Indomitable** | The creature choose two Resolute effect of its choice.<br>*Even the abyss recoils from such resolve!*{.quote} |
+| d100 | d# | Name | Effect |
+|:-:|:-:|---|---|
+| | d4 |**Instantaneous**{.chev-lr} | |
+| 01-06 | 1 | **Collapse** | The creature drops to 0 hit points. |
+| 07-12 | 2 | **Collapse (Stable)** | The creature drops to 0 hit points but is stable (no death saves required). |
+| 13-28 | 3 | **Moment of Denial** | Nothing happens. The creature powers through - for now. |
+| 29-44 | 4 | **Barely Standing** | The creature's current Hit Points becomes to 10% of its Hit Point Maximum (rounded down). |
+| == | d10 | **Meltdown**{.chev-lr} | |
+| 45-48 | 1 | **Fearful** | The creature gains the **Frightened**{.cond} condition. |
+| 49-52 | 2 | **Lethargic** | The creature gain 1 level of **Exhaustion**{.cond}. |
+| 53-56 | 3 | **Masochistic** | The creature suffers `-2` to **AC** & has **:d20-dis: Disadvantage**{.d20} on CON checks & save |
+| 57-60 | 4 | **Irrational** | The creature has **:d20-dis: Disadvantage**{.d20} on INT checks & save. |
+| 61-64 | 5 | **Paranoid** | The creature **can't be targeted by spells or effects** that require it to be a **willing target**. |
+| 65-68 | 6 | **Hopeless** | The creature has **:d20-dis: Disadvantage**{.d20} on STR checks & save. |
+| 69-72 | 7 | **Selfish** | The creature has **:d20-dis: Disadvantage**{.d20} on CHA checks & save. |
+| 73-76 | 8 | **Anxious** | The creature has **:d20-dis: Disadvantage**{.d20} on WIS checks & save. |
+| 77-80 | 9 | **Abusive** | The creature adds `+1d8` to **damage rolls**, but `-1d8` to **attack rolls**. |
+| 81-84 | 10 | **Mania** | The creature has **:d20-dis: Disadvantage**{.d20} on attack rolls. |
+| == | d6 | **Resolute**{.chev-lr} | |
+| 85-87 | 1 | **Stalwart** | The creature gains `+2` to **AC** & has **:d20-adv: Advantage**{.d20} on Death Saving Throw.<br>*"Many fall in the face of chaos; But not this one, not today"*{.quote} |
+| 88-90 | 2 | **Courageous** | The creature's **:rsc-spd: Speed** increases by half of its base Speed & has **:d20-adv: Advantage**{.d20} on CHA checks & save.<br>*"A moment of valour shines brightest agaisnt a backdrop of despair"*{.quote} |
+| 91-93 | 3 | **Focused** | The creature adds `+1d8` to its **attack rolls** & has **:d20-adv: Advantage**{.d20} on WIS checks & save.<br>*"A moment of clarity in the eye of the storm"*{.quote} |
+| 94-96 | 4 | **Powerful** | The creature adds `+1d8` to its **damage rolls** & has **:d20-adv: Advantage**{.d20} on STR checks & save.<br>*"Anger is power - unleash it!"*{.quote} |
+| 97-99 | 5 | **Vigorous** | The creature **regains Hit Points equal to half its Hit Point Maximum** & has **:d20-adv: Advantage**{.d20} on CON Save.<br>*"Adversity can foster hope and resilience"*{.quote} |
+| 00 | 6 | **Indomitable** | The creature choose two Resolute effect of its choice.<br>*"Even the abyss recoils from such resolve."*{.quote} |
