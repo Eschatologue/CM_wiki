@@ -5,9 +5,10 @@ icon: material/door-open
 !!! example "Experimental"
 
     You just stumbled into an **Experimental** mechanic!
+
 # Resolve
 
-> *“If death doesn't take you, something else will.”
+> "If death doesn't take you, something else will.”
 
 **Resolve** is a measure of how a creature reacts when pushed beyond its limits - mentally, physically, or emotionally. When a creature endures overwhelming trauma, it must roll on the **Resolve Result Table**, representing a sudden mental fracture, instinctual response, or psychosomatic effect.
 
@@ -56,9 +57,9 @@ Resolve result persist until the creature finishes a **:rest-long: Long Rest** o
 | 77-80 | **Abusive** | The creature adds `+1d8` to **damage rolls**, but `-1d8` to **attack rolls**. |
 | 81-84 | **Mania** | The creature has **:d20-dis: Disadvantage**{.d20} on attack rolls. |
 | == | **Resolute**{.chev-lr} | |
-| 85-87 | **Stalwart** | The creature gains `+2` to **AC** & has **:d20-adv: Advantage**{.d20} on Death Saving Throw. |
-| 88-90 | **Courageous** | The creature's **:rsc-spd: Speed** increases by half of its base Speed & has **:d20-adv: Advantage**{.d20} on CHA checks & save. <br>*"A moment of valour shines brightest agaisnt a backdrop of despair"*{.quote} |
-| 91-93 | **Focused** | The creature adds `+1d8` to its **attack rolls** & has **:d20-adv: Advantage**{.d20} on WIS checks & save. |
-| 94-96 | **Powerful** | The creature adds `+1d8` to its **damage rolls** & has **:d20-adv: Advantage**{.d20} on STR checks & save. |
-| 97-99 | **Vigorous** | The creature **regains Hit Points equal to half its Hit Point Maximum** & has **:d20-adv: Advantage**{.d20} on CON Save. |
-| 00 | **Indomitable** | The creature choose two Resolute effect of its choice. |
+| 85-87 | **Stalwart** | The creature gains `+2` to **AC** & has **:d20-adv: Advantage**{.d20} on Death Saving Throw.<br>*"Many fall in the face of chaos; But not this one, not today"*{.quote} |
+| 88-90 | **Courageous** | The creature's **:rsc-spd: Speed** increases by half of its base Speed & has **:d20-adv: Advantage**{.d20} on CHA checks & save.<br>*"A moment of valour shines brightest agaisnt a backdrop of despair"*{.quote} |
+| 91-93 | **Focused** | The creature adds `+1d8` to its **attack rolls** & has **:d20-adv: Advantage**{.d20} on WIS checks & save.<br>*"A moment of clarity in the eye of the storm"*{.quote} |
+| 94-96 | **Powerful** | The creature adds `+1d8` to its **damage rolls** & has **:d20-adv: Advantage**{.d20} on STR checks & save.<br>*"Anger is power - unleash it!"*{.quote} |
+| 97-99 | **Vigorous** | The creature **regains Hit Points equal to half its Hit Point Maximum** & has **:d20-adv: Advantage**{.d20} on CON Save.<br>*"Adversity can foster hope and resilience"*{.quote} |
+| 00 | **Indomitable** | The creature choose two Resolute effect of its choice.<br>*Even the abyss recoils from such resolve!*{.quote} |
