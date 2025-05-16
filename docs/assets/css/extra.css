@@ -167,11 +167,11 @@
 }
 
 .md-typeset .dl-bootstrap dl {
-  grid-template-columns: calc(var(--gbl-font-size) * 8 * 1.5) auto;
+  grid-template-columns: calc(var(--gbl-font-size) * 8 * 1) auto;
   align-items: start;
 }
 .md-typeset .dl-bootstrap dl dt {
-  text-align: right;
+  text-align: start;
 }
 
 /*------------------------------------------------------- 
@@ -509,7 +509,7 @@ table:not([class]) .smallcap {
   font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
-  word-spacing: -0.15rem;
+  word-spacing: -0.075rem;
   letter-spacing: -0.05em !important;
   color: hsl(77, 98%, 34%) !important;
   white-space: nowrap;
@@ -524,7 +524,7 @@ table:not([class]) .smallcap {
   font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
-  word-spacing: -0.15rem;
+  word-spacing: -0.075rem;
   letter-spacing: -0.05em !important;
   color: hsl(199, 91%, 64%) !important;
   white-space: nowrap;
@@ -539,7 +539,7 @@ table:not([class]) .smallcap {
   font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
-  word-spacing: -0.15rem;
+  word-spacing: -0.075rem;
   letter-spacing: -0.05em !important;
   color: hsl(28, 75%, 53%) !important;
   white-space: nowrap;
@@ -554,7 +554,7 @@ table:not([class]) .smallcap {
   font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
-  word-spacing: -0.15rem;
+  word-spacing: -0.075rem;
   letter-spacing: -0.05em !important;
   color: hsl(102, 100%, 36%) !important;
   white-space: nowrap;
@@ -569,7 +569,7 @@ table:not([class]) .smallcap {
   font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
-  word-spacing: -0.15rem;
+  word-spacing: -0.075rem;
   letter-spacing: -0.05em !important;
   color: hsl(262, 43%, 65%) !important;
   white-space: nowrap;
@@ -584,7 +584,7 @@ table:not([class]) .smallcap {
   font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
-  word-spacing: -0.15rem;
+  word-spacing: -0.075rem;
   letter-spacing: -0.05em !important;
   color: hsl(328, 61%, 66%) !important;
   white-space: nowrap;
@@ -599,7 +599,7 @@ table:not([class]) .smallcap {
   font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
-  word-spacing: -0.15rem;
+  word-spacing: -0.075rem;
   letter-spacing: -0.05em !important;
   color: hsl(208, 80%, 55%) !important;
   white-space: nowrap;
@@ -614,7 +614,7 @@ table:not([class]) .smallcap {
   font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
-  word-spacing: -0.15rem;
+  word-spacing: -0.075rem;
   letter-spacing: -0.05em !important;
   color: hsl(129, 47%, 47%) !important;
   white-space: nowrap;
@@ -629,7 +629,7 @@ table:not([class]) .smallcap {
   font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
-  word-spacing: -0.15rem;
+  word-spacing: -0.075rem;
   letter-spacing: -0.05em !important;
   color: hsl(45, 100%, 63%) !important;
   white-space: nowrap;
@@ -644,7 +644,7 @@ table:not([class]) .smallcap {
   font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
-  word-spacing: -0.15rem;
+  word-spacing: -0.075rem;
   letter-spacing: -0.05em !important;
   color: hsl(4, 100%, 71%) !important;
   white-space: nowrap;
@@ -659,7 +659,7 @@ table:not([class]) .smallcap {
   font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
-  word-spacing: -0.15rem;
+  word-spacing: -0.075rem;
   letter-spacing: -0.05em !important;
   color: hsl(214, 4%, 68%) !important;
   white-space: nowrap;
@@ -674,7 +674,7 @@ table:not([class]) .smallcap {
   font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
-  word-spacing: -0.15rem;
+  word-spacing: -0.075rem;
   letter-spacing: -0.05em !important;
   color: hsl(180, 51%, 60%) !important;
   white-space: nowrap;
@@ -1005,13 +1005,20 @@ table:not([class]) .smallcap {
   border-left-width: 0.2rem;
   box-shadow: var(--md-shadow-z3);
 }
+.md-typeset .admonition .admonition-title::before {
+  width: px2rem(18px) !important;
+  height: px2rem(18px) !important;
+}
+.md-typeset .admonition-title,
+.md-typeset summary {
+  background-color: hsl(214, 14%, 10%) !important;
+}
 .md-typeset .admonition {
   border-color: var(--md-admonition-icon-color--note);
   transition: box-shadow 250ms;
 }
 .md-typeset .admonition .admonition-title {
   color: var(--md-gbl-text-color-strong);
-  background-color: hsl(214, 14%, 10%);
 }
 .md-typeset .admonition .admonition-title abbr {
   border-bottom: none !important;
@@ -1023,71 +1030,162 @@ table:not([class]) .smallcap {
 .md-typeset details.homebrew {
   border-color: hsl(40, 100%, 57%);
 }
-.md-typeset .admonition.homebrew > .admonition-title::before,
-.md-typeset .admonition.homebrew > summary::before {
+.md-typeset .admonition.homebrew > .admonition-title::before {
   background-color: hsl(40, 100%, 57%);
   -webkit-mask-image: var(--md-icon--homebrew);
   mask-image: var(--md-icon--homebrew);
+}
+.md-typeset details.homebrew > summary::before {
+  content: "";
+  display: inline-block;
+  width: 0.9rem;
+  height: 0.9rem;
+  background-color: hsl(40, 100%, 57%);
+  -webkit-mask-image: var(--md-icon--homebrew);
+  mask-image: var(--md-icon--homebrew);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  margin-inline-end: 0.5em;
 }
 .md-typeset .admonition.glossary,
 .md-typeset details.glossary {
   border-color: hsl(174, 42%, 51%);
 }
-.md-typeset .admonition.glossary > .admonition-title::before,
-.md-typeset .admonition.glossary > summary::before {
+.md-typeset .admonition.glossary > .admonition-title::before {
   background-color: hsl(174, 42%, 51%);
   -webkit-mask-image: var(--md-icon--glossary);
   mask-image: var(--md-icon--glossary);
+}
+.md-typeset details.glossary > summary::before {
+  content: "";
+  display: inline-block;
+  width: 0.9rem;
+  height: 0.9rem;
+  background-color: hsl(174, 42%, 51%);
+  -webkit-mask-image: var(--md-icon--glossary);
+  mask-image: var(--md-icon--glossary);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  margin-inline-end: 0.5em;
 }
 .md-typeset .admonition.dice,
 .md-typeset details.dice {
   border-color: hsl(354, 42%, 56%);
 }
-.md-typeset .admonition.dice > .admonition-title::before,
-.md-typeset .admonition.dice > summary::before {
+.md-typeset .admonition.dice > .admonition-title::before {
   background-color: hsl(354, 42%, 56%);
   -webkit-mask-image: var(--md-icon--dice);
   mask-image: var(--md-icon--dice);
+}
+.md-typeset details.dice > summary::before {
+  content: "";
+  display: inline-block;
+  width: 0.9rem;
+  height: 0.9rem;
+  background-color: hsl(354, 42%, 56%);
+  -webkit-mask-image: var(--md-icon--dice);
+  mask-image: var(--md-icon--dice);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  margin-inline-end: 0.5em;
 }
 .md-typeset .admonition.action,
 .md-typeset details.action {
   border-color: hsl(172, 100%, 37%);
 }
-.md-typeset .admonition.action > .admonition-title::before,
-.md-typeset .admonition.action > summary::before {
+.md-typeset .admonition.action > .admonition-title::before {
   background-color: hsl(172, 100%, 37%);
   -webkit-mask-image: var(--md-icon--action);
   mask-image: var(--md-icon--action);
+}
+.md-typeset details.action > summary::before {
+  content: "";
+  display: inline-block;
+  width: 0.9rem;
+  height: 0.9rem;
+  background-color: hsl(172, 100%, 37%);
+  -webkit-mask-image: var(--md-icon--action);
+  mask-image: var(--md-icon--action);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  margin-inline-end: 0.5em;
 }
 .md-typeset .admonition.bonusaction,
 .md-typeset details.bonusaction {
   border-color: hsl(40, 100%, 50%);
 }
-.md-typeset .admonition.bonusaction > .admonition-title::before,
-.md-typeset .admonition.bonusaction > summary::before {
+.md-typeset .admonition.bonusaction > .admonition-title::before {
   background-color: hsl(40, 100%, 50%);
   -webkit-mask-image: var(--md-icon--bonusaction);
   mask-image: var(--md-icon--bonusaction);
+}
+.md-typeset details.bonusaction > summary::before {
+  content: "";
+  display: inline-block;
+  width: 0.9rem;
+  height: 0.9rem;
+  background-color: hsl(40, 100%, 50%);
+  -webkit-mask-image: var(--md-icon--bonusaction);
+  mask-image: var(--md-icon--bonusaction);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  margin-inline-end: 0.5em;
 }
 .md-typeset .admonition.reaction,
 .md-typeset details.reaction {
   border-color: hsl(231, 99%, 66%);
 }
-.md-typeset .admonition.reaction > .admonition-title::before,
-.md-typeset .admonition.reaction > summary::before {
+.md-typeset .admonition.reaction > .admonition-title::before {
   background-color: hsl(231, 99%, 66%);
   -webkit-mask-image: var(--md-icon--reaction);
   mask-image: var(--md-icon--reaction);
+}
+.md-typeset details.reaction > summary::before {
+  content: "";
+  display: inline-block;
+  width: 0.9rem;
+  height: 0.9rem;
+  background-color: hsl(231, 99%, 66%);
+  -webkit-mask-image: var(--md-icon--reaction);
+  mask-image: var(--md-icon--reaction);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  margin-inline-end: 0.5em;
 }
 .md-typeset .admonition.move,
 .md-typeset details.move {
   border-color: hsl(50, 100%, 50%);
 }
-.md-typeset .admonition.move > .admonition-title::before,
-.md-typeset .admonition.move > summary::before {
+.md-typeset .admonition.move > .admonition-title::before {
   background-color: hsl(50, 100%, 50%);
   -webkit-mask-image: var(--md-icon--move);
   mask-image: var(--md-icon--move);
+}
+.md-typeset details.move > summary::before {
+  content: "";
+  display: inline-block;
+  width: 0.9rem;
+  height: 0.9rem;
+  background-color: hsl(50, 100%, 50%);
+  -webkit-mask-image: var(--md-icon--move);
+  mask-image: var(--md-icon--move);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  margin-inline-end: 0.5em;
 }
 
 /*------------------------------------------------------- 

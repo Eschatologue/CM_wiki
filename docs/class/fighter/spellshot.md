@@ -11,7 +11,7 @@ Masters of Arcane Precision
 
 > *Masters of Arcane Precision*
 
-Once known as Sylvian Archers, Spellshots are elite combatants who weave magic into their archery with deadly finesse. What began as a secretive elven tradition has since spread across cultures, studied and adapted by those who blend arcane talent with deadly accuracy. Spellshots are feared for their ability to strike with supernatural force and precision—felling foes before they even sense danger
+Once known as Sylvian Archers, Spellshots are elite combatants who weave magic into their marksmenship with deadly finesse. What began as a secretive elven tradition has since spread across cultures, studied and adapted by those who blend arcane talent with otherworldy accuracy. Spellshots are feared for their ability to strike with supernatural force and precision—felling foes before they even sense danger
 
 ### Level 3: Mystic Discipline
 
@@ -102,3 +102,5 @@ If an option requires a saving throw, your **Arcane Shot save DC** equals `8 plu
 :   The target takes an extra **1d6 :dmg-force: Force**{.dmg-force} damage and makes a **:d20-save: CHA Save**{.d20}. On a failed save, you switch places with it.
 
     *You imbue conjuration magic into your shot, swapping your position with the target*{.quote}
+
+--8<-- "includes\snippets\spells3\lv0.md"

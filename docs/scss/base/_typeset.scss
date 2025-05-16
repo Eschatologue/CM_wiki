@@ -231,9 +231,9 @@
 // Bootstrap Description List style
 .md-typeset .dl-bootstrap dl {
     @extend .remove-dt-border;
-    grid-template-columns: #{calc((var(--gbl-font-size) * 8) * 1.5)} auto;
+    grid-template-columns: #{calc((var(--gbl-font-size) * 8) * 1)} auto;
     align-items: start;
     dt {
-        text-align: right;
+        text-align: start;
     }
 }

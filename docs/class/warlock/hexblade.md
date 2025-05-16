@@ -31,7 +31,7 @@ You gain the ability to place a baleful curse on your enemies. As a **:rsc-b: Bo
 
 **Improved Critical**{.inl} The number you need to roll a Critical Hit while attacking the a cursed target is reduced by 1.
 
-**Maim**{ .inl} Once per turn, when you hit the cursed target with an attack, you can deal additional damage equal to half of your Warlock level (rounded down).
+**Maim**{ .inl} When you hit the cursed target with an attack, your Charisma modifier is added twice to the damage roll instead of once.
 
 **Reaper**{.inl} If the cursed target dies, you regain **:trt-hp: Hit Points** equal to your Warlock level.
 

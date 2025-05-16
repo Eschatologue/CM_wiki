@@ -39,7 +39,7 @@ You can store magical energy within yourself to later empower your damaging spel
 
 **Gaining Power Surges**{.inl} Whenever you successfully end a spell with [:spell-lv3: Dispel Magic] or [:spell-lv3: Counterspell], you gain one Power Surge, as you steal magic from the spell you foiled. You also gain one Power Surge when you reduce a creature to 0 Hit Points with a Wizard spell that used a spell slot, but only once per casting. 
 
-**Spell Empowerment**{.inl} Once per turn when you deal damage to a creature or object with a Wizard spell, you can spend one Power Surge to deal extra **:dmg-force: Force**{ .dmg-force } damage to that target. The extra damage equals your Wizard level.
+**Spell Empowerment**{.inl} Once per turn when you deal damage to a creature or object with a Wizard spell, you can spend one Power Surge to deal extra **(Wizard level) :dmg-force: Force**{.dmg-force} damage to that target.
 
 ### Level 10: Durable Magic
 
@@ -47,7 +47,7 @@ The magic you channel helps ward off harm. While you maintain :spell-conc: Conce
 
 ### Level 14: Deflecting Shroud
 
-Your Arcane Deflection becomes infused with deadly magic. When you use your Arcane Deflection feature, you can cause magical energy to arc from you. Up to three creatures of your choice that you can see within 60 feet of you each take :dmg-force: Force damage equal to half your Wizard level (rounded up).
+Your Arcane Deflection becomes infused with deadly magic. When you use your Arcane Deflection feature, you can cause magical energy to arc from you. Up to three creatures of your choice that you can see within 60 feet of you each take **(Wizard level/2) :dmg-force: Force**{.dmg-force} damage.
 
 --8<-- "includes/snippets/spells2/lv3.md"
 

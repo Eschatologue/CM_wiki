@@ -102,16 +102,13 @@ As a Ranger, you gain the following class features when you reach the specified 
 | 19 | +6 | Epic Boon | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 9 |
 | 20 | +6 | Foe Slayer | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 10 |
 
-## Level 1 {.hide}
-
-### Level 1: Favoured Enemy {data-toc-label="Favoured Enemy"}
+### Level 1: Favoured Enemy
 
 You always have the [:spell-lv1: Hunter's Mark] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a **:rest-long: Long Rest**.
 
-The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. When the spell is cast this way, it does not require :spell-conc: Concentration, though it ends early if you have the **Incapacitated**{ .cond } condition.
+The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. Whenever you cast the spell, you can modify it so that it doesn’t require **:spell-conc: Concentration**. If you do so, the spell’s duration becomes 1 minute for that casting, and the spell ends early if you cast it again. 
 
 ### Level 1: Ranger's Aptitude :material-directions-fork:{ title="Optional Class Feature"}
-{data-toc-label="Ranger's Aptitude"}
 
 <!-- --8<-- [start:opt-rng-aptitude] -->
 
@@ -157,13 +154,13 @@ Whenever you finish a **:rest-long: Long Rest**, you can replace one spell on yo
 
 #### Spellcasting Ability
 
-:abl-wis: **Wisdom** is your spellcasting ability for your Ranger spells.
+**:abl-wis: Wisdom** is your spellcasting ability for your Ranger spells.
 
 #### Spellcasting Focus
 
 You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.
 
-### Level 1: Weapon Mastery {data-toc-label="Weapon Mastery"}
+### Level 1: Weapon Mastery
 
 Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.
 
@@ -171,13 +168,11 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 --8<-- "includes/snippets/item-mastery.md"
 
-### Level 1: Expanded Weapon Mastery (Optional) {data-toc-label="Expanded Weapon Mastery"}
+### Level 1: Expanded Weapon Mastery (Optional) 
 
 --8<-- "docs/class/index.md:wp-mas-ex"
 
-## Level 2 {.hide}
-
-### Level 2: Deft Explorer {data-toc-label="Deft Explorer"}
+### Level 2: Deft Explorer
 
 Thanks to your travels, you gain the following benefits.
 
@@ -185,45 +180,32 @@ Thanks to your travels, you gain the following benefits.
 
 **Languages**{.inl} You know two languages of your choice from the language tables in chapter 2.
 
-### Level 2: Fighting Style {data-toc-label="Fighting Style"}
+### Level 2: Fighting Style 
 
 You gain a Fighting Style feat of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
 
 **Druidic Warrior**{.inl} You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). [:spell-lv0: Guidance] and [:spell-lv0: Starry Wisp] are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
 
-## Level 3 {.hide}
-
-### Level 3: Ranger Subclass {data-toc-label="Ranger Subclass"}
+### Level 3: Ranger Subclass 
 
 You gain a Ranger subclass of your choice. The Hunter subclass is detailed after this class's description. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower.
 
-## Level 4 {.hide}
-
-### Level 4: Ability Score Improvement {data-toc-label="Ability Score Improvement"}
+### Level 4: Ability Score Improvement 
 
 You gain the [:option-feat-general: Ability Score Improvement](../../option/feat/feat-general/phb24.md#ability-scores-improvement) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
-## Level 5 {.hide}
-
-### Level 5: Extra Attack {data-toc-label="Extra Attack"}
-
+### Level 5: Extra Attack 
 You can attack twice instead of once whenever you take the **:rsc-a: Attack**{.rsc} action on your turn.
 
-## Level 6 {.hide}
-
-### Level 6: Roving {data-toc-label="Roving"}
+### Level 6: Roving 
 
 Your **:rsc-spd: Speed**{ .em } increases by 10 feet while you aren't wearing Heavy armour. You also have a Climb Speed and a Swim Speed equal to your **:rsc-spd: Speed**{ .em }.
 
-## Level 9 {.hide}
-
-### Level 9: Expertise {data-toc-label="Expertise"}
+### Level 9: Expertise 
 
 Choose two of your skill proficiencies with which you lack Expertise. You gain Expertise in those skills.
 
-## Level 10 {.hide}
-
-### Level 10: Tireless {data-toc-label="Tireless"}
+### Level 10: Tireless 
 
 Primal forces now help fuel you on your journeys, granting you the following benefits.
 
@@ -231,41 +213,29 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 **Decrease Exhaustion**{.inl} Whenever you finish a **:rest-short: Short Rest**, your Exhaustion level, if any, decreases by 1.
 
-## Level 13 {.hide}
-
-### Level 13: Relentless Hunter {data-toc-label="Relentless Hunter"}
+### Level 13: Relentless Hunter 
 
 The damage die of your [:spell-lv1: Hunter's Mark] improves to d8 when it is cast using Favoured Enemy feature.
 
-## Level 14 {.hide}
-
-### Level 14: Nature's Veil {data-toc-label="Nature's Veil"}
+### Level 14: Nature's Veil 
 
 You invoke spirits of nature to magically hide yourself. As a **:rsc-b: Bonus Action**{.rsc}, you can give yourself the **Invisible**{ .cond } condition until the end of your next turn.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
-## Level 17 {.hide}
-
-### Level 17: Precise Hunter {data-toc-label="Precise Hunter"}
+### Level 17: Precise Hunter
 
 You have **:d20-adv: Advantage**{.rsc} on attack rolls against the creature currently marked by your [:spell-lv1: Hunter's Mark].
 
-## Level 18 {.hide}
-
-### Level 18: Feral Senses {data-toc-label="Feral Senses"}
+### Level 18: Feral Senses 
 
 Your connection to the forces of nature grants you Blindsight with a range of 30 feet.
 
-## Level 19 {.hide}
-
-### Level 19: Epic Boon {data-toc-label="Epic Boon"}
+### Level 19: Epic Boon 
 
 You gain an [:option-feat-boon: Epic Boon](../../option/feat/feat-boon.md) feat or another [feat](../../option/feat/index.md) of your choice for which you qualify. Boon of Dimensional Travel is recommended.
 
-## Level 20 {.hide}
-
-### Level 20: Foe Slayer {data-toc-label="Foe Slayer"}
+### Level 20: Foe Slayer
 
 The damage die of your [:spell-lv1: Hunter's Mark] improves even further to d10 when it is cast using Favoured Enemy feature.
 

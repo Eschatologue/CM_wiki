@@ -298,7 +298,7 @@ $damage-types: (
 
 @each $type, $color in $damage-types {
     .dmg-#{$type} {
-        @include jetbrains(convert.px2rem(-3px), convert.px2em(-0.8px));
+        @include jetbrains(convert.px2rem(-1.5px), convert.px2em(-0.8px));
         color: convert.hex3hsl($color) !important;
         white-space: nowrap;
         margin: 0 convert.px2rem(2.5px) !important;

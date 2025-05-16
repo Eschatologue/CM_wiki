@@ -1,5 +1,6 @@
 ---
 title: "Subclass: Master of Arms (Fighter)"
+status: homebrew
 ---
 
 <p style="display:none">
@@ -10,7 +11,7 @@ Unlocks the Potential in Every Weapon
 
 > *Unlocks the Potential in Every Weapon*
 
-While others supplement their martial skills with manoeuvres, tactics, or even magic, the Master of Arms focuses on mastering weapons themselves. With deep knowledge of each weapon's design and function, they draw out hidden strengths from every armament. To them, every blade, bow, or hammer is a perfected tool—never wielded without skill, never used without purpose.
+While others supplement their martial skills with manoeuvres, physical excellence, or even magic, the Master of Arms focuses on mastering weapons themselves. With deep knowledge of each weapon's design and function, they draw out hidden strengths from every armament. To them, every blade, bow, or hammer is a perfected tool—never wielded without skill, never used without purpose.
 
 ### Level 3: Artisan's Touch
 
@@ -123,6 +124,6 @@ Whenever you finish a **:rest-long: Long Rest**, you can replace one Fighting St
 
 Your mastery over weaponry enables strikes of unnatural precision.
 
-When you make an attack roll with a weapon that has a property you selected in Advanced Weapon Properties, you can choose to use your Fighter level in place of the d20. If this number would result in a critical hit, the attack is treated as a critical hit.
+When you make an attack roll with a weapon that has a property you selected in [:material-format-pilcrow: Advanced Weapon Properties](#level-3-advanced-weapon-properties), you can choose to use your Fighter level in place of the d20. If this number would result in a critical hit, the attack is treated as a critical hit.
 
 You can use this feature **twice**, and regain all expended uses when you finish a **:rest-long: Long Rest**.

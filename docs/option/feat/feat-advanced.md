@@ -9,6 +9,8 @@ These feats are in the Advanced Feats category.
 
 ---
 
+<div class="dl-bootstrap" markdown>
+
 ### Ambidexterous
 
 *Advanced Feat (Prerequisites: Level 8+, Strength or Dexterity 15+, [Two-weapon Fighting](./feat-fighting-style/phb24.md#two-weapon-fighting) feat)*
@@ -162,16 +164,9 @@ Through intense focus, training, and dedication, you've harnessed the techniques
 **Rapid Spellcasting**
 :   On a turn, when you expend a spell slot to cast a spell, you can still expend a level 3 spell slot or lower to cast another spell.
 
-??? glossary "One Spell Slot Per Turn"
+!!! warning "One Spell Slot Per Turn"
 
-    In 2024 Player's Handbook, the rule for spellcasting has been altered as follow:
-
-    ---
-
-    ***One Spell with a Spell Slot per Turn***  
     --8<-- "docs/spells/casting-spells.md:one-spell-per-turn"
-
-    ---
 
     This feat lifts that restriction, but the level of spell slot you can expend is still limited to only level 3.
     
@@ -189,7 +184,7 @@ Your spells become especially lethal against unsuspecting foes.
 **Fatal Magic**
 :   When a creature's saving throw result on the d20 is equal or lower than your Proficiency Bonus against one of your spells, the spell's initial damage is doubled. This is treated as a Critical Hit for gameplay purposes.
 
-??? glossary "Interactions"
+!!! glossary "Interactions"
 
     The **Improved Critical** and **Fatal Magic** features do not interact with each other. **Improved Critical** applies only to attack rolls, while **Fatal Magic** applies only to spells that require saving throws. Additionally, any effect that reduces the number needed to roll for a Critical Hit does not apply to **Fatal Magic**.
 
@@ -209,6 +204,8 @@ You learn how to channel divine power given by the divine.
 **Repeatable**{.inl} Pick a different Channel Divinity option from a different Cleric or Paladin domain each time.
 
 ---
+
+</div>
 
 --8<-- "includes/snippets/item-mastery.md"
 --8<-- "includes/snippets/spells2/lv0-5.md"
