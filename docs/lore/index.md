@@ -1,35 +1,34 @@
 ---
-title: Introduction
 search:
   boost: 0.25
 ---
 
-# Introduction
+# Welcome to Crown and Misery
 
-Welcome to the Lore page of **Crown & Misery**. Witness the DM's coffee-induced, self-hatred-fueled writing extravaganza in its full capacity. This page introduces you to what **Crown & Misery** is all about, its overall theme and feel, and the basics of the world. Sit tight, and enjoy what I have cooked.
+*Beneath the shattered moon, across the wilderness expanse, a band of misadvanturers races against death itself. The swarm draws near—Warpborne things that hunger not just for flesh, but also for additions to their ranks.*{.quote}
 
-## Settings
+*Within the walls of Calais-Blason, an archmage slumps in frustration. Weeks of tireless research, and still the latest ward holds for mere hours against the swarm. The city stands—for now. But he must begin again before the next tide arrives.*{.quote}
 
-**Crown & Misery** (shortened to **CM** from now on) doesn't fit neatly into one genre—it draws on multiple themes to create a complex and layered experience. At its core, CM is a **Post-Apocalyptic Science Fantasy**, but each of those elements brings its own nuance and flavour:
+*As the sun sinks below the horizon and night falls once more, weary soldiers finish tending their rifles. They take their posts in silence, wounded yet unwavering—one more night, they pray, until reinforcements arrive.*{.quote}
 
-### Post-Apocalyptic
+*The sensors shriek in garbled static, warning the prospectors of what lies ahead. The air reeks of death. Still, they march onward. Riches, after all, often bear the same stench.*{.quote}
 
-The world has already ended—twice, in fact. But this isn't the Fallout-style post-apocalypse where society has collapsed and everything is a wasteland. Instead, CM's world is built upon the ruins of its previous incarnations. The civilisations of today have used the remnants of the past as the foundation for new growth, rising from the bones of what came before. While some nations may be shadows of their former glory, the overall theme isn't one of regression, but of progress—however flawed or painful that may be.
+The world of Crown and Misery is built upon a broken land. On this hollowed continent, time ticks ever forward as all things inch toward the yawning void. This is no longer an age for heroes, but for battered souls that still choose to fight for the last flickers of hope. Good people commit evil acts. Evils serve the greater good. The world is painted in a hundred shades of grey.
 
-Rather than being stuck in a dystopian mire, the people of Antares are struggling forward, trying to rebuild and reimagine their world even as the echoes of past calamities linger. It's a world scarred by history but not consumed by it. Here, the focus is on the **resilience** of those who survive, on the relentless march toward the future—even if that future is uncertain or dangerous.
+Magic permeates the land—subtle, ever-present—but not all are granted the privilege of touching the Weave. Some are denied by birth, others by circumstance, and a few are barred entirely. Even the lowliest life can muster a spark of spellcraft, yet those cut off from the arcane must seek salvation elsewhere. And that *elsewhere…* may well shape the future of this dying continent.
 
-### Science Fantasy
+It is common knowledge that Antares harbours countless mysteries, its history as deep and unfathomable as the abyss itself—yet no scholar has managed more than a scratch upon its surface. The land is strewn with ancient ruins, derelict temples, and structures beyond comprehension. But as the Warp Storms grow ever more violent, they threaten to erase what little remains of the unknown world. 
 
-Unlike the typical D&D setting, which leans heavily on traditional high fantasy with magic, dragons, and medieval kingdoms, **Crown & Misery** is firmly rooted in **Science Fantasy**. This means the world isn't just shaped by magic and mythical creatures—it's a place where technology and science have advanced in tandem with, and sometimes in opposition to, magical forces.
+So, welcome to **Crown and Misery**—a post-apocalyptic science fantasy veined with noir and steeped in dystopia. Stories here don’t always end well, and no choice comes without cost. From the labyrinthine urban sprawl of the Citadel Cities to the continent-sized graveyard that is the wilderness, hidden threats lurk in every shadow. But so too do opportunities—for those willing to brave the risk, there may yet be something greater waiting beyond the ruins.
 
-In **CM**, ancient spells and arcane forces still exist, but they're now competing with industrial machines, firearms, and crude versions of modern technology. Think of it as a world where wizards might carry revolvers, and factories churn out machines powered by strange, otherworldly energies. It's a blend of old-world magic and new-world invention, where spellbooks sit alongside blueprints, and swordplay coexists with firearms.
+## Things to Know
 
-What makes CM stand apart is this *fusion* of the mystical and the mechanical. Magic hasn't disappeared—it's evolved, and so has the technology that intertwines with it. London, for example, leads the charge in industrialisation, creating a society where machines rival the power of the arcane, and other nations are starting to follow suit.
+What is *Crown & Misery*? Here are the key things to know:
 
-**Please don't confuse this with modern 5e settings**{.inl} While modern 5e worlds might feature steampunk elements or even modern-day conveniences like airships, mobile communication, or magitech, CM is **not** about contemporary or futuristic technology. The technology in this world is crude and experimental, much closer to the **early Industrial Revolution** than anything resembling modern-day or futuristic tech. Guns are restrictive, unreliable tools, and while some nations are embracing machines, magic still holds a firm grip over much of the world.
+1. **Setting**{.inl} While **Forgotten Realms** is your classic *Heroic Fantasy*, **Eberron** is *Post-War Fantasy*, and **Ravenloft** is *Gothic Horror*, the **Crown & Misery** setting is *Post-Apocalyptic Science Fantasy*—a world of radiation-poisoned wastelands, magic-dead zones, scavenged tech, and lingering horrors that refuse to die.
 
-The difference lies in the gritty, **pre-modern** feel of CM's world. You won't find sleek, fully-automated machines or widespread use of magic to power technological marvels. Instead, this is a world in transition, where the clash between old magic and new inventions is messy, imperfect, and filled with uncertainty.
+2. **Warp Storms**{.inl} An umbrella term for the many cataclysmic disasters that define life in Antares—violent tempests, reality-warping anomalies, and dimensional rifts. They are unpredictable, devastating, and often fatal. Some scholars call them the world’s immune response; others believe they are the prelude to its final death.
 
-## Inspirations
+3. **The Eight Nations**{.inl} In ages past, this continent was a patchwork of kingdoms and city-states. Today, only eight nations remain, each ruling over multiple massive fortified urban centres known as *Citadel Cities*. These are the last bastions of civilisation—survivors of centuries of collapse, now locked in cold alliances, trade wars, and silent sieges.
 
-I didn't pull all of this theming from my ass. The creation of this world is a reflection of the various games, particularly those with deep world-building elements. **Crown & Misery** draws heavily on these influences, especially in how it approaches atmosphere and complexity. Games like **Arknights** have helped shape the overall tone, adding layers of grim survival and societal struggle to the setting. Meanwhile, the lore and appendices from **D&D** documents provide the structural system for the campaign. After all, it's still D&D—there's no escaping dragons (Foreshadowing).
+4. **The Industrial Revolution**{.inl} The Warp Storms didn’t just bring ruin—they brought *change*. Entire new sciences and technologies emerged from the wreckage. While some cling to tradition, many have embraced this new age, finding ways to harness the Warp’s chaos. To live in Antares now is to accept that survival means adaptation—even if it comes at great cost.
