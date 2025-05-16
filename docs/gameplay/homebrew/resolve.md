@@ -43,16 +43,16 @@ Resolve result persist until the creature finishes a **:rest-long: Long Rest** o
 | 13-28 | 3 | **Moment of Denial** | Nothing happens. The creature powers through - for now. |
 | 29-44 | 4 | **Barely Standing** | The creature's current Hit Points becomes to 10% of its Hit Point Maximum (rounded down). |
 | == | **D10** | ***Meltdown***{.chev-lr} | |
-| 45-48 | 1 | **Fearful** | The creature gains the **Frightened**{.cond} condition. |
-| 49-52 | 2 | **Lethargic** | The creature gain 1 level of **Exhaustion**{.cond}. |
-| 53-56 | 3 | **Masochistic** | The creature suffers `-2` to **AC** & has **:d20-dis: Disadvantage**{.d20} on CON checks & save |
-| 57-60 | 4 | **Irrational** | The creature has **:d20-dis: Disadvantage**{.d20} on INT checks & save. |
-| 61-64 | 5 | **Paranoid** | The creature **can't be targeted by spells or effects** that require it to be a **willing target**. |
-| 65-68 | 6 | **Hopeless** | The creature has **:d20-dis: Disadvantage**{.d20} on STR checks & save. |
-| 69-72 | 7 | **Selfish** | The creature has **:d20-dis: Disadvantage**{.d20} on CHA checks & save. |
-| 73-76 | 8 | **Anxious** | The creature has **:d20-dis: Disadvantage**{.d20} on WIS checks & save. |
-| 77-80 | 9 | **Abusive** | The creature adds `+1d8` to **damage rolls**, but `-1d8` to **attack rolls**. |
-| 81-84 | 10 | **Mania** | The creature has **:d20-dis: Disadvantage**{.d20} on attack rolls. |
+| 45-48 | 1 | **Fearful** | The creature gains the **Frightened**{.cond} condition.<br>*"Fear and fraility finally claum their due..."*{.quote} |
+| 49-52 | 2 | **Lethargic** | The creature gain 1 level of **Exhaustion**{.cond}.<br>*"The fire dwindles. Even defiance takes effort now"*{.quote} |
+| 53-56 | 3 | **Masochistic** | The creature suffers `-2` to **AC** & has **:d20-dis: Disadvantage**{.d20} on CON checks & save.<br>*"Those, who covet injury, find it in no short supply"*{.quote} |
+| 57-60 | 4 | **Irrational** | The creature has **:d20-dis: Disadvantage**{.d20} on INT checks & save.<br>*"Reeling, gasping, taken over the edge, into Madness!"*{.quote} |
+| 61-64 | 5 | **Paranoid** | The creature **can't be targeted by spells or effects** that require it to be a **willing target**.<br>*"The wall close in, the shadows whisper of conspiracy!"*{.quote} |
+| 65-68 | 6 | **Hopeless** | The creature has **:d20-dis: Disadvantage**{.d20} on STR checks & save.<br>*"There can be no hope in this hell. No hope at all..."*{.quote} |
+| 69-72 | 7 | **Selfish** | The creature has **:d20-dis: Disadvantage**{.d20} on CHA checks & save.<br>*"Self-perservation is paramount, at any cost."*{.quote} |
+| 73-76 | 8 | **Anxious** | The creature has **:d20-dis: Disadvantage**{.d20} on WIS checks & save.<br>*"They hear footsteps that were never there"*{.quote} |
+| 77-80 | 9 | **Abusive** | The creature adds `+1d8` to **damage rolls**, but `-1d8` to **attack rolls**.<br>*"Furstration and fury, more destructive, than a hundred battle"*{.quote} |
+| 81-84 | 10 | **Mania** | The creature has **:d20-dis: Disadvantage**{.d20} on attack rolls.<br>*"Chaos is their crown — and madness their throne"*{.quote} |
 | == | **D6** | ***Resolute***{.chev-lr} | |
 | 85-87 | 1 | **Stalwart** | The creature gains `+2` to **AC** & has **:d20-adv: Advantage**{.d20} on Death Saving Throw.<br>*"Many fall in the face of chaos; But not this one, not today"*{.quote} |
 | 88-90 | 2 | **Courageous** | The creature's **:rsc-spd: Speed** increases by half of its base Speed & has **:d20-adv: Advantage**{.d20} on CHA checks & save.<br>*"A moment of valour shines brightest agaisnt a backdrop of despair"*{.quote} |
