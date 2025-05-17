@@ -13,9 +13,11 @@ These are Rule Glossary, keep in mind some rule glossary has been changed to sui
 
 ---
 
-## Ability Score and Modifier
+## Ability Score and Modifier {.hide}
 
-A creature has six ability scores—Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma—each of which has a corresponding modifier. Add the modifier when you make a D20 Test Test with the corresponding ability or when a rule asks you to do so.
+**Ability Score and Modifier**
+
+:   A creature has six ability scores—Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma—each of which has a corresponding modifier. Add the modifier when you make a D20 Test Test with the corresponding ability or when a rule asks you to do so.
 
 ---
 

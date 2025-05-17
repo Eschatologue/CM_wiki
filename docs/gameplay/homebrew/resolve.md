@@ -37,7 +37,7 @@ Resolve result persist until the creature finishes a **:rest-long: Long Rest** o
 
 | d100 | == | Name | Effect |
 |:-:|:-:|---|---|
-| == | **D4** |***Instantaneous***{.chev-lr} | |
+| == | **D4** | ***Instantaneous***{.chev-lr} | |
 | 01-06 | 1 | **Collapse** | The creature drops to 0 hit points. |
 | 07-12 | 2 | **Collapse (Stable)** | The creature drops to 0 hit points but is stable (no death saves required). |
 | 13-28 | 3 | **Moment of Denial** | Nothing happens. The creature powers through - for now. |
