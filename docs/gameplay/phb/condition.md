@@ -18,7 +18,7 @@ If multiple effects impose the same condition on you, each instance of the condi
 
 The following conditions are defined as follow:
 
-### Blinded
+### :material-eye-off: Blinded
 
 While you have the **Blinded** condition, you experience the following effects.
 
@@ -28,7 +28,7 @@ While you have the **Blinded** condition, you experience the following effects.
 
 ---
 
-### Charmed
+### :material-heart-broken: Charmed
 
 While you have the **Charmed** condition, you experience the following effects.
 
@@ -38,7 +38,7 @@ While you have the **Charmed** condition, you experience the following effects.
 
 ---
 
-### Deafened
+### :material-ear-hearing-off: Deafened
 
 While you have the **Deafened** condition, you experience the following effect.
 
@@ -148,7 +148,7 @@ While you have the **Petrified** condition, you experience the following effects
 
 ---
 
-### Poisoned
+### :material-skull: Poisoned
 
 While you have the **Poisoned** condition, you experience the following effect.
 
@@ -156,7 +156,7 @@ While you have the **Poisoned** condition, you experience the following effect.
 
 ---
 
-### Prone 
+### :fontawesome-solid-person-falling: Prone 
 
 While you have the **Prone** condition, you experience the following effects.
 
@@ -166,7 +166,7 @@ While you have the **Prone** condition, you experience the following effects.
 
 ---
 
-### Restrained 
+### :octicons-link-16: Restrained 
 
 While you have the **Restrained** condition, you experience the following effects.
 
@@ -178,7 +178,7 @@ While you have the **Restrained** condition, you experience the following effect
 
 ---
 
-### Silenced
+### :material-volume-mute: Silenced
 
 While you have the **Silenced** condition, you experience the following effects.
 
@@ -188,7 +188,7 @@ While you have the **Silenced** condition, you experience the following effects.
 
 ---
 
-### Stunned 
+### :material-star-off: Stunned 
 
 While you have the **Stunned** condition, you experience the following effects.
 
@@ -200,7 +200,7 @@ While you have the **Stunned** condition, you experience the following effects.
 
 ---
 
-### Unconscious { .cond }
+### Unconscious
 
 While you have the **Unconscious** condition, you experience the following effects.
 
