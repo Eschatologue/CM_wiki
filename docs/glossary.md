@@ -11,6 +11,8 @@ icon: material/book
 
 These are Rule Glossary, keep in mind some rule glossary has been changed to suit Crown & Misery campaign.
 
+<div class="dt-bootstrap" markdown>
+
 ---
 
 ## Ability Score and Modifier {.hide}
@@ -21,9 +23,11 @@ These are Rule Glossary, keep in mind some rule glossary has been changed to sui
 
 ---
 
-## Advantage
+## Advantage {.hide}
 
-If you have **:d20-adv: Advantage**{.d20} on a D20 Test, roll two d20s, and use the higher roll. A roll can't be affected by more than one **:d20-adv: Advantage**{.d20} , and **:d20-adv: Advantage**{.d20} and **:d20-dis: Disadvantage**{.d20} on the same roll cancel each other.
+**Advantage**
+
+:   If you have **:d20-adv: Advantage**{.d20} on a D20 Test, roll two d20s, and use the higher roll. A roll can't be affected by more than one **:d20-adv: Advantage**{.d20} , and **:d20-adv: Advantage**{.d20} and **:d20-dis: Disadvantage**{.d20} on the same roll cancel each other.
 
 ---
 
@@ -1134,3 +1138,5 @@ A weapon is an object that is in the :prof-wp-simple: Simple or :prof-wp-martial
 ## Weapon Attack
 
 A weapon attack is an attack roll made with a weapon.
+
+</div>
