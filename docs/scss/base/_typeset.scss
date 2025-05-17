@@ -233,6 +233,7 @@
     @extend .remove-dt-border;
     grid-template-columns: #{calc((var(--gbl-font-size) * 8) * 1)} auto;
     align-items: start;
+    padding-bottom: convert.px2rem(6px);
     dt {
         text-align: start;
     }
