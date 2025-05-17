@@ -169,6 +169,7 @@
 .md-typeset .dl-bootstrap dl {
   grid-template-columns: calc(var(--gbl-font-size) * 8 * 1) auto;
   align-items: start;
+  padding-bottom: 0.3rem;
 }
 .md-typeset .dl-bootstrap dl dt {
   text-align: start;
