@@ -11,9 +11,7 @@ icon: material/book
 
 These are Rule Glossary, keep in mind some rule glossary has been changed to suit Crown & Misery campaign.
 
-<div class="dt-bootstrap" markdown>
-
----
+<div class="dl-bootstrap" markdown>
 
 ## Ability Score and Modifier {.hide}
 
@@ -21,25 +19,23 @@ These are Rule Glossary, keep in mind some rule glossary has been changed to sui
 
 :   A creature has six ability scores—Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma—each of which has a corresponding modifier. Add the modifier when you make a D20 Test Test with the corresponding ability or when a rule asks you to do so.
 
----
-
 ## Advantage {.hide}
 
 **Advantage**
 
 :   If you have **:d20-adv: Advantage**{.d20} on a D20 Test, roll two d20s, and use the higher roll. A roll can't be affected by more than one **:d20-adv: Advantage**{.d20} , and **:d20-adv: Advantage**{.d20} and **:d20-dis: Disadvantage**{.d20} on the same roll cancel each other.
 
----
+## Adventure {.hide}
 
-## Adventure
+**Adventure**
 
-An adventure is a series of encounters. A story emerges through playing them.
+:   An adventure is a series of encounters. A story emerges through playing them.
 
----
+## Alignment {.hide}
 
-## Alignment
+**Alignment**
 
-A creature's alignment broadly describes its ethical attitudes and ideals. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward order (lawful, chaotic, or neutral). These factors allow for nine possible combinations, such as Lawful Good and Neutral Evil.
+:   A creature's alignment broadly describes its ethical attitudes and ideals. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward order (lawful, chaotic, or neutral). These factors allow for nine possible combinations, such as Lawful Good and Neutral Evil.
 
 ---
 
