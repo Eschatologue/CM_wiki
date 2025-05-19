@@ -82,7 +82,7 @@ As a Ranger, you gain the following class features when you reach the specified 
 | Level | PB | Class Features | Favoured Enemy | Prepared Spells | I | II | III | IV | V | Aptitudes |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | +2 | Favoured Enemy, Spellcasting, Weapon Mastery | 2 | 2 | 2 | — | — | — | — | 1 |
-| 2 | +2 | Deft Explorer, Fighting Style | 2 | 3 | 2 | — | — | — | — | 2 |
+| 2 | +2 | Deft Explorer, Fighting Style, Improved Mark | 2 | 3 | 2 | — | — | — | — | 2 |
 | 3 | +2 | Ranger Subclass | 2 | 4 | 3 | — | — | — | — | 3 |
 | 4 | +2 | Ability Score Improvement | 2 | 5 | 3 | — | — | — | — | 3 |
 | 5 | +3 | Extra Attack | 3 | 6 | 4 | 3 | — | — | — | 3 |
@@ -104,9 +104,9 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 ### Level 1: Favoured Enemy
 
-You always have the [:spell-lv1: Hunter's Mark] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a **:rest-long: Long Rest**.
+You always have the [:spell-lv1: Hunter's Mark] spell prepared. You can cast it **twice** without expending a spell slot, and you regain all expended uses of this ability when you finish a **:rest-long: Long Rest**.
 
-The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table. Whenever you cast the spell, you can modify it so that it doesn’t require **:spell-conc: Concentration**. If you do so, the spell’s duration becomes 1 minute for that casting, and the spell ends early if you cast it again. 
+The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favoured Enemy column of the Ranger Features table.
 
 ### Level 1: Ranger's Aptitude :material-directions-fork:{ title="Optional Class Feature"}
 
@@ -185,6 +185,14 @@ Thanks to your travels, you gain the following benefits.
 You gain a Fighting Style feat of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
 
 **Druidic Warrior**{.inl} You learn two Druid cantrips of your choice (see the Druid class's section for a list of Druid spells). [:spell-lv0: Guidance] and [:spell-lv0: Starry Wisp] are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+
+### Level 2: Improved Mark :material-directions-fork:{ title="Optional Class Feature"}
+
+<!-- --8<-- [start:opt-imp-mark] -->
+
+Whenever you cast [:spell-lv1: Hunter's Mark] using Favoured Foe feature, you can modify it so that it doesn't require **:spell-conc: Concentration**. If you do so, the spell's duration becomes 1 minute for that casting, and the spell ends early if you cast it again. 
+
+<!-- --8<-- [end:opt-imp-mark] -->
 
 ### Level 3: Ranger Subclass 
 

@@ -107,6 +107,10 @@ Ranger has the following optional class feature.
 
     --8<-- "docs/class/ranger/index.md:opt-rng-aptitude"
 
+:   #### Level 1 – Ranger's Aptitude
+
+    --8<-- "docs/class/ranger/index.md:opt-imp-mark"
+
 </div>
 
 ### Paladin
