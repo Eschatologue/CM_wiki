@@ -430,8 +430,8 @@ nav:
       - Eris Decrat: campaign/player-chr/eris-dekrat.md
       # - Ichimaru Masaki: campaign/player-chr/ichi.md
   - Lore:
+    - lore/index.md
     - Antares: 
-      - lore/index.md
       - Continent: lore/antares/continent.md
       - Nation:
         - Albion: lore/antares/nation/london.md
@@ -442,11 +442,11 @@ nav:
         - Soterrano: lore/antares/nation/soterrano.md
         - Tartessia: lore/antares/nation/tartessia.md
         - Valinor: lore/antares/nation/valinor.md
-      - Race: 
-        - Aasimar: lore/antares/race/aasimar.md
-        - Dwarf: lore/antares/race/dwarf.md
-        - Elf: lore/antares/race/elf.md
-        - Londoner: lore/antares/race/londoner.md
+      # - Race: 
+      #   - Aasimar: lore/antares/race/aasimar.md
+      #   - Dwarf: lore/antares/race/dwarf.md
+      #   - Elf: lore/antares/race/elf.md
+      #   - Londoner: lore/antares/race/londoner.md
     - Event:
       - The Second Maelstorm: lore/event/second-maelstorm.md
       - Fall of Tähdenvalta: 

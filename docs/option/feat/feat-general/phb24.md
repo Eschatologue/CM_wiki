@@ -452,16 +452,13 @@ You gain the following benefits.
 You gain the following benefits.
 
 **Ability Score Increase**
-:   
-Increase your Dexterity or Strength score by 1, to a maximum of 20.
+:   Increase your Dexterity or Strength score by 1, to a maximum of 20.
 
 **Pole Strike**
-:   
-Immediately after you take the **:rsc-a: Attack**{.rsc} action and attack with a Quarterstaff, a Spear, a War Scythe, or a weapon that has the **:wp-prop-heavy: Heavy**{.wp} and **:wp-prop-reach: Reach**{.wp} properties, you can use a **:rsc-b: Bonus Action**{.rsc} to make a melee attack with the opposite end of the weapon, which deals **1d4 :dmg-bldg: Bludgeoning**{ .dmg-bps } damage.
+:   Immediately after you take the **:rsc-a: Attack**{.rsc} action and attack with a Quarterstaff, a Spear, a War Scythe, or a weapon that has the **:wp-prop-heavy: Heavy**{.wp} and **:wp-prop-reach: Reach**{.wp} properties, you can use a **:rsc-b: Bonus Action**{.rsc} to make a melee attack with the opposite end of the weapon, which deals **1d4 :dmg-bldg: Bludgeoning**{ .dmg-bps } damage.
 
 **Reactive Strike**
-:   
-While you are holding a Quarterstaff, a Spear, a War Scythe, or a weapon that has the **:wp-prop-heavy: Heavy**{.wp} and **:wp-prop-reach: Reach**{.wp} properties, you can use a **:rsc-r: Reaction**{.rsc} to make one melee attack against a creature that enters the reach you have with that weapon.
+:   While you are holding a Quarterstaff, a Spear, a War Scythe, or a weapon that has the **:wp-prop-heavy: Heavy**{.wp} and **:wp-prop-reach: Reach**{.wp} properties, you can use a **:rsc-r: Reaction**{.rsc} to make one melee attack against a creature that enters the reach you have with that weapon.
 
 ---
 
@@ -472,8 +469,7 @@ While you are holding a Quarterstaff, a Spear, a War Scythe, or a weapon that ha
 You gain the following benefits.
 
 **Ability Score Increase**
-:   
-Choose one ability in which you lack Saving Throw Proficiency. Increase the chosen Ability Score by 1, to a maximum of 20.
+:   Choose one ability in which you lack Saving Throw Proficiency. Increase the chosen Ability Score by 1, to a maximum of 20.
 
 **Saving Throw Proficiency**
 :   You gain Saving Throw Proficiency with the chosen ability.

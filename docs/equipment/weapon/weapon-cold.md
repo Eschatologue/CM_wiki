@@ -1,5 +1,6 @@
 ---
 icon: wp/sword
+status: homebrew
 ---
 
 # Cold Weapon
