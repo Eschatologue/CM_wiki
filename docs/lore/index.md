@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 0.25
+  boost: 0.15
 ---
 
 # Welcome to Crown and Misery
@@ -13,7 +13,7 @@ search:
 
 *The sensors shriek in garbled static, warning the prospectors of what lies ahead. The air reeks of death. Still, they march onward. Riches, after all, often bear the same stench.*{.quote}
 
-The world of Crown and Misery is built upon a broken land. On this hollowed continent, time ticks ever forward as all things inch toward the yawning void. This is no longer an age for heroes, but for battered souls that still choose to fight for the last flickers of hope. Good people commit evil acts. Evils serve the greater good. The world is painted in a hundred shades of grey.
+The world of Crown and Misery is built upon a broken land. On this hollowed continent, time ticks ever forward as all things inch toward the yawning void. This is no longer an age for heroes, but for the tired souls that still choose to fight for the last flickers of hope. Good people commit evil acts. Evils serve the greater good. The world is painted in a hundred shades of grey.
 
 Magic permeates the land—subtle, ever-present—but not all are granted the privilege of touching the Weave. Some are denied by birth, others by circumstance, and a few are barred entirely. Even the lowliest life can muster a spark of spellcraft, yet those cut off from the arcane must seek salvation elsewhere. And that *elsewhere...* may well shape the future of this dying continent.
 
@@ -21,7 +21,7 @@ It is common knowledge that Antares harbours countless mysteries, its history as
 
 So, welcome to **Crown and Misery**—a post-apocalyptic science fantasy veined with noir and steeped in dystopia. Stories here don't always end well, and no choice comes without cost. From the labyrinthine urban sprawl of the Citadel Cities to the continent-sized graveyard that is the wilderness, hidden threats lurk in every shadow. But so too do opportunities—for those willing to brave the risk, there may yet be something greater waiting beyond the ruins.
 
-## Things to Know
+<!-- ## Things to Know
 
 What is *Crown & Misery*? Here are the key things to know:
 
@@ -31,4 +31,4 @@ What is *Crown & Misery*? Here are the key things to know:
 
 3. **The Eight Nations**{.inl} In ages past, this continent was a patchwork of kingdoms and city-states. Today, only eight nations remain, each ruling over multiple massive fortified urban centres known as *Citadel Cities*. These are the last bastions of civilisation—survivors of centuries of collapse, now locked in cold alliances, trade wars, and silent sieges.
 
-4. **The Industrial Revolution**{.inl} The Warp Storms didn't just bring ruin—they brought *change*. Entire new sciences and technologies emerged from the wreckage. While some cling to tradition, many have embraced this new age, finding ways to harness the Warp's chaos. To live in Antares now is to accept that survival means adaptation—even if it comes at great cost.
+4. **The Industrial Revolution**{.inl} The Warp Storms didn't just bring ruin—they brought *change*. Entire new sciences and technologies emerged from the wreckage. While some cling to tradition, many have embraced this new age, finding ways to harness the Warp's chaos. To live in Antares now is to accept that survival means adaptation—even if it comes at great cost. -->

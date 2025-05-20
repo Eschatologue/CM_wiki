@@ -431,6 +431,7 @@ nav:
       # - Ichimaru Masaki: campaign/player-chr/ichi.md
   - Lore:
     - Antares: 
+      - lore/index.md
       - Continent: lore/antares/continent.md
       - Nation:
         - Albion: lore/antares/nation/london.md
