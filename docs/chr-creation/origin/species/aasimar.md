@@ -32,6 +32,8 @@ As an Aasimar, you have these following traits.
 
 ### Celestial Revelation {.hide}
 
+**Celestial Revelation**
+
 :   When you reach character level 3, you can transform as a **:rsc-b: Bonus Action**{.rsc} using one of the options below (choose the option each time you transform). That transformation lasts for 1 minute or until you end it (no action required). Once you transform, you can't do so again until you finish a **:rest-long: Long Rest**.
 
     Once on each of your turns before that transformation ends, you can deal extra damage to one target when you deal damage to it with an attack or a spell. The extra damage equals your Proficiency Bonus, and the extra damage's type is either **:dmg-necr: Necrotic**{ .dmg-necr } for **Necrotic Shroud** or **:dmg-radi: Radiant**{ .dmg-radi } for **Heavenly Wings** and **Inner Radiance**.
