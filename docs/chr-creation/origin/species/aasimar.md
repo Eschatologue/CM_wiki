@@ -33,7 +33,7 @@ As an Aasimar, you have these following traits.
     **Heavenly Wings**{.inl} Two spectral wings sprout from your back temporarily. Until the transformation ends, you have a Fly Speed equal to your **:rsc-spd: Speed**{ .em }.
     { .indt }
 
-    **Inner Radiance**{.inl} Searing light temporarily radiates from your eyes and mouth. For the duration, you shed Bright Light in a 10-foot radius and Dim Light for an additional 10 feet, and at the end of each of your turn, each creature within 10 feet of you takes **:dmg-radi: Radiant**{ .dmg-radi } damage equal to your Proficiency Bonus.
+    **Inner Radiance**{.inl} Searing light temporarily radiates from your eyes and mouth. For the duration, you shed Bright Light in a 10-foot radius and Dim Light for an additional 10 feet, and at the end of each of your turn, each creature within 10 feet of you takes **(Proficiency Bonus) :dmg-radi: Radiant**{ .dmg-radi } damage.
     { .indt }
 
     **Necrotic Shroud**{.inl} Your eyes briefly become pools of darkness and flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of tou must succeed on a :d20-save: **Charisma saving throw** (DC 8 + your Charisma modifier + Proficiency Bonus) or have the **Frightened**{ .cond } condition until the end of your next turn.
