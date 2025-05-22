@@ -32,7 +32,8 @@ You have trained to reach especially hard-to- reach places, granting you these b
 
 You gain the following Cunning Strike option.
 
-**Stealth Attack (Cost: 1d6)**{.inl} If you have the **:rsc-a: Hide**{.rsc} action's **Invisible**{.cond} condition, this attack doesn't end that condition on you if you end the turn behind Three-Quarters Cover or Total Cover.
+**Stealth Attack** <br>_Cost: `1d6`_
+:   If you have the **:rsc-a: Hide**{.rsc} action's **Invisible**{.cond} condition, this attack doesn't end that condition on you if you end the turn behind Three-Quarters Cover or Total Cover.
  
 ### Level 13: Use Magic Device
 
@@ -42,7 +43,9 @@ In your treasure hunting, you have learned how to maximize use of magic items, g
 
 **Charges**{.inl} Whenever you use a magic item property that expends charges, roll a d6. On a roll of 6, you use the property without expending the charges.
 
-**Scrolls**{.inl} You can use any Spell Scroll, using Intelligence as your Spellcasting Ability for the spell. If the spell is a cantrip or a 1st-level spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence (Arcana) check with a DC equal to 10 plus the spell's level. On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
+**Scrolls**{.inl} You can use any Spell Scroll, using Intelligence as your spellcasting ability for the spell. If the spell is a cantrip or a level 1 spell, you can cast it reliably. If the scroll contains a higher-level spell, you must first succeed on an Intelligence (Arcana) check (DC 10 plus the spell's level). On a successful check, you cast the spell from the scroll. On a failed check, the scroll disintegrates.
+
+**Magic Items^CM^**{.inl} You ignore all alignment, class, race, and level requirements for the use of magic items, spell scrolls, and potions. If one of these magical items requires a spellcasting ability, you use your Intelligence.
 
 ### Level 17: Thieves' Reflexes
 
