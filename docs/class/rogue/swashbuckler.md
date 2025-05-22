@@ -23,7 +23,8 @@ You have honed your skills in one to one battles with brash confidence.
 
 **Initiative**{.inl} You have **:d20-adv: Advantage**{.d20} on **:d20-inv: Initiative**{.d20 } rolls.
 
-**Dueling**{.inl} You also gain an additional way to use your Sneak Attack; you don't need **:d20-adv: Advantage**{.d20} on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have **:d20-dis: Disadvantage**{.d20} on the attack roll. All the other rules for Sneak Attack still apply to you. 
+**Rackish Sneak Attack**{.inl} You gain an additional way to use your Sneak Attack; you don't need **:d20-adv: Advantage**{.d20} on the attack roll to use your Sneak Attack against a creature if you are within 5 feet of it, no other creatures are within 5 feet of you, and you don't have **:d20-dis: Disadvantage**{.d20} on the attack roll.  
+All the other rules for Sneak Attack still apply to you. 
 
 **Suave Defence**{.inl} While you aren't wearing any armour or wielding a Shield, your base Armour Class equals to 10 plus :abl-dex: Dexterity and :abl-cha: Charisma modifiers.
 
