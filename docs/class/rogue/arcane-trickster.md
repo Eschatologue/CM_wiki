@@ -9,10 +9,8 @@ Enhance Stealth with Arcane Spells
 # Arcane Trickster
 
 > *Enhance Stealth with Arcane Spells*
- 
-As quick with a spell as you are with a lockpick, your illusions and enchantments keep opponents on the back foot.
 
-Some Rogues enhance their fine-honed skills of stealth and agility with Arcane spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters, mischief-makers, or adventurers.
+As quick with a spell as you are with a lockpick, you blend arcane magic with roguish cunning to keep your foes constantly off balance. As an **Arcane Trickster**, you enhance your finely honed stealth and agility with illusions and enchantments, using magical tricks to aid your craft. Whether you're a nimble-fingered pickpocket, a sly burglar, a mischievous prankster, or a bold adventurer, your magic adds a clever twist to every scheme.
 
 ### Level 3: Spellcasting
 

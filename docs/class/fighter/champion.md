@@ -10,9 +10,7 @@ Pursue Physical Excellence in Combat
 
 > *Pursue Physical Excellence in Combat*
 
-You approach the complex problems posed by combat with one distinctly effective solution-you hit those problems, really quite hard.
-
-A Champion focuses on the development of martial prowess in a relentless pursuit of victory. Champions combine rigorous training with physical excellence to deal devastating blows, withstand peril, and garner glory. Whether in athletic contests or bloody battle, Champions strive for the crown of the victor.
+You approach the complex problems posed by combat with one distinctly effective solution — you hit those problems, really quite hard. As a **Champion**, you embody the relentless pursuit of victory through sheer martial prowess, combining rigorous training with physical excellence to deliver devastating blows, endure the heat of battle, and claim glory. Whether in the arena or on the battlefield, you fight not for honour, but for the crown of the victor.
 
 ### Level 3: Improved Critical
 

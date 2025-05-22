@@ -10,9 +10,7 @@ Support Combat Skills with Arcane Magic
 
 > *Support Combat Skills with Arcane Magic*
 
-You are a warrior of spell and sword, weaving incantations that supplement your extensive martial expertise.
-
-Eldritch Knights combine the martial mastery common to all Fighters with a careful study of magic. Their spells both complement and extend their combat skills, providing additional protection to shore up their armour and also allowing them to engage many foes at once with explosive magic.
+You are a warrior of spell and sword, weaving incantations that sharpen your already formidable martial expertise. As an **Eldritch Knight**, you blend the disciplined combat training of a Fighter with a careful study of arcane magic, using spells to fortify your defences and strike multiple foes with explosive force. Where swordplay alone falls short, your magic ensures you are never outmatched.
 
 ### Level 3: Spellcasting
 

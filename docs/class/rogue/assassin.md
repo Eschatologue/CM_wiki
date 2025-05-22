@@ -10,9 +10,7 @@ Practice the Grim Art of Death.
 
 > *Practice the Grim Art of Death*
 
-You prefer to deal sublime punishment to a single foe at a time - not in a duel, mind, because a duel implies chivalry, and you're too busy getting the job done for honour
-
-An Assassin's training focuses on the grim art of death, using stealth, poison, and disguise to eliminate foes with deadly efficiency. While some Rogues who follow this path are hired killers, spies, or bounty hunters, the capabilities of this subclass are equally useful for adventurers facing a variety of monstrous enemies.
+You prefer to deliver sublime punishment to a single target at a time — not in a duel, of course, because a duel implies chivalry, and you're far too busy getting the job done to bother with honour. As an **Assassin**, you are trained in the grim art of death, using stealth, poison, and disguise to eliminate your foes with ruthless precision. Whether you're a hired killer, a spy, a bounty hunter, or simply an adventurer with a practical mindset, your skills are built for swift, efficient execution.
 
 ### Level 3: Assassinate
 

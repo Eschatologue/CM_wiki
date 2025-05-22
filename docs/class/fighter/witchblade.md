@@ -11,7 +11,7 @@ Enhance Martial Prowess with Eldritch Macic
 
 > *Enhance Martial Prowess with Eldritch Magic*
 
-Those who walk the dark path of the Witchblade are driven by an overwhelming desire to destroy the great evils of the world. Those especially dedicated, those willing to give up anything, are often approached by Eldritch Powers, beings of otherworldly might. These benefactors offer power in return for a fraction of the warrior's soul or unquestioning fealty.
+You have forsaken the purity of your soul to hunt the great evils of the world. As a **Witchblade**, you walk a dark path, driven by an unrelenting need to destroy that which others dare not face. Those with unwavering dedication often attract the attention of Eldritch Powers — beings of unfathomable might — who offer forbidden strength in exchange for a fragment of your soul or your absolute loyalty.
 
 ### Level 3: Pact Magic
 

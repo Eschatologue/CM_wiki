@@ -10,9 +10,7 @@ Augment Physical Might with Psionic Power
 
 > *Augment Physical Might with Psionic Power*
 
-Awake to the psionic power within, a Psi Warrior is a fighter who augments their physical might with psi-infused weapon strikes, telekinetic lashes, and barriers of mental force. Many githyanki train to become such warriors, as do some of the most disciplined high elves. In the world of Eberron, many young kalashtar dream of becoming Psi Warriors.
-
-As a Psi Warrior, you might have honed your psionic abilities through solo discipline, unlocked it under the tutelage of a master, or refined it at an academy dedicated to wielding the mind's power as both weapon and shield.
+Awakened to the psionic power within, you are a warrior who channels mental might into every strike. As a **Psi Warrior**, you augment your physical prowess with telekinetic lashes, psi-infused blows, and barriers of pure will. Whether trained by a master, refined through solitary discipline, or forged in an academy of mental warfare, your mind is both weapon and shield — a force as sharp as any blade.
 
 ### Level 3: Psionic Power
 
