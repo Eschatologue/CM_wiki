@@ -168,7 +168,7 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 
 --8<-- "includes/snippets/item-mastery.md"
 
-### Level 1: Expanded Weapon Mastery (Optional) 
+### Level 1: Expanded Weapon Mastery :material-directions-fork:{ title="Optional Class Feature"}(Optional) 
 
 --8<-- "docs/class/index.md:wp-mas-ex"
 

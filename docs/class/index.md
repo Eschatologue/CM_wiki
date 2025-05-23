@@ -67,11 +67,9 @@ Each class is a part of a Class Group-a set of Classes that have certain feature
 
 This new feature expands your base class Weapon Mastery feature. You gain the following option when you use Weapon Mastery.
 
-###### Replace Weapon Mastery
-When selecting weapons for Weapon Mastery, you can also **replace the Mastery property** of any weapon you are using with another eligible property. For example, you could change a Longsword’s **:wp-mas: Sap**{ .wp } property to **:wp-mas: Flex**{ .wp }.  
+**Replace Weapon Mastery**{.inl} When selecting weapons for Weapon Mastery, you can also **replace the Mastery property** of any weapon you are using with another eligible property. For example, you could change a Longsword’s **:wp-mas: Sap**{ .wp } property to **:wp-mas: Flex**{ .wp }.  
 
-###### Multiple Mastery on One Weapon
-When selecting weapons for Weapon Mastery, you can instead **assign an additional _eligible_ Mastery property** to a weapon you already chose. A weapon can have **no more than four** mastery properties at a time. If a weapon has multiple mastery properties, you can **only use one of them per attack**. You must choose which mastery property you're using before making the attack.
+**Multiple Mastery on One Weapon**{.inl} When selecting weapons for Weapon Mastery, you can instead **assign an additional _eligible_ Mastery property** to a weapon you already chose. A weapon can have **no more than four** mastery properties at a time. If a weapon has multiple mastery properties, you can **only use one of them per attack**. You must choose which mastery property you're using before making the attack.
 
 <!-- --8<-- [end:wp-mas-ex] -->
 
@@ -107,7 +105,7 @@ Ranger has the following optional class feature.
 
     --8<-- "docs/class/ranger/index.md:opt-rng-aptitude"
 
-:   #### Level 1 – Ranger's Aptitude
+    #### Level 2 – Improved Mark
 
     --8<-- "docs/class/ranger/index.md:opt-imp-mark"
 

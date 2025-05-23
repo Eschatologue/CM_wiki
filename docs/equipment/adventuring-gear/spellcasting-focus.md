@@ -6,7 +6,7 @@ icon: material/star-three-points
 
 Spellcasting focus is an item that allows certain spellcasters to cast spells without needing to use Material components. These Material components are often small items like herbs, gems, or specific objects that are part of the spell's requirements. Instead of carrying around and managing these materials, a spellcaster can use a focus as a substitute, provided the components don't have a specific cost or it is consumed by the spell.
 
-## Arcane Focus {.noborder}
+### Arcane Focus {.noborder}
 
 Spellcasting Focus, Varies, S.
 
@@ -22,7 +22,7 @@ An Arcane Focus takes a specific form and is bejeweled or carved to channel arca
 | Staff (also a Quarterstaff) | 50 SP |
 | Wand | 100 SP |
 
-## Druidic Focus {.noborder}
+### Druidic Focus {.noborder}
 
 Spellcasting Focus, Varies, S.
 
@@ -36,7 +36,7 @@ A Druidic Focus takes one of the forms in the Druidic Focuses table and is carve
 | Wooden staff (also a Quarterstaff) | 50 SP |
 | Yew wand | 100 SP |
 
-## Holy Symbol {.noborder}
+### Holy Symbol {.noborder}
 
 Spellcasting Focus, Varies, S.
 

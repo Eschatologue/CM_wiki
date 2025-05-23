@@ -10,43 +10,53 @@ These items are unique to the world that Crown & Misery takes place
 
 ---
 
-### Blueprint (Machine)
+### Blueprint (Machine) {.noborder}
 
 _Adventuring gear, 30 sp, S._
+
+<hr class="hr-solid">
 
 A detailed technical drawing of a machine, providing insight into its design and operation. Grants **:d20-adv: Advantage**{.d20} on Intelligence checks related to understanding or replicating machines.
 
 ---
 
-### Scrap Metal (5 pieces)
+### Scrap Metal (5 pieces) {.noborder}
 
 _Adventuring gear, 25 sp, S._
+
+<hr class="hr-solid">
 
 Useful for repairing or constructing small mechanical devices. Can be used in place of raw metal for crafting or repair projects.
 
 ---
 
-### Gas Detector
+### Gas Detector {.noborder}
 
 _Adventuring gear, 250 sp, S._
+
+<hr class="hr-solid">
 
 A compact electronic device designed to detect hazardous gases. It emits a series of beeping noise audible up to 30 feet when harmful gas is detected within 15 feet.
 
 ---
 
-### Goggles
+### Goggles {.noborder}
 
 _Adventuring gear, 20 sp, S._
+
+<hr class="hr-solid">
 
 Protective eyewear designed to shield the eyes from debris, sparks, and bright lights while working with machinery. Grants **:d20-adv: Advantage**{.d20} on saving throws to avoid the Blinded condition.
 
 ---
 
-### Grenade Launcher
+### Grenade Launcher {.noborder}
 
 <!-- --8<-- [start:item-grenade-launcher] -->
 
 _Adventuring gear, Firearms, M._
+
+<hr class="hr-solid">
 
 When you take the Attack action on your turn, you can replace one of your attacks to either throw a [Grenade](../consumeables/grenade.md) at a point up to 60 feet away or use a Grenade Launcher to propel the grenade to a point up to 120 feet away. The grenade explodes at that point, creating the grenade effect.
 
@@ -54,9 +64,11 @@ When you take the Attack action on your turn, you can replace one of your attack
 
 ---
 
-### Radiation Counter
+### Radiation Counter {.noborder}
 
 _Adventuring gear, 500 sp, S._
+
+<hr class="hr-solid">
 
 A compact electronic device, designed to detect harmful radiation and corruption levels. It emits a series of clicking noises that increase in frequency as radiation or corruption levels rise when radiation or corruption is detected within 15 feet.
 

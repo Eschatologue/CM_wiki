@@ -8,8 +8,8 @@ In this D&D, potions come in various types, from basic healing potions to those 
 
 In Crown & Misery, where combat can be exceptionally lethal, rules regarding potion consumption differ slightly from standard PHB'24 rulings, in which you can choose between taking either **:rsc-a: Action**{.rsc} or **:rsc-b: Bonus Action**{.rsc} to consume the potion.
 
-- **:rsc-a: Action:**{.rsc} Grants you the full maximum benefit of the potion. If the potion requires you to roll dice for its effect, you gain the maximum possible roll for those dice instead.
-- **:rsc-b: Bonus Action:**{.rsc} Requires you to roll the dice associated with the potion or elixir's description to receive its benefits.
+- **:rsc-a: Action**{.rsc} Grants you the full maximum benefit of the potion. If the potion requires you to roll dice for its effect, you gain the maximum possible roll for those dice instead.
+- **:rsc-b Bonus Action:**{.rsc} Requires you to roll the dice associated with the potion or elixir's description to receive its benefits.
 
 ## Potions List
 
@@ -89,7 +89,7 @@ When you drink this potion, you gain the following benefits for the next 8 hours
 
 *Potion, Common, M-*
 
-Grants **:trt-thp: Temporary Hit Points** equals to 4d4 plus your Constitution modifier.
+Grants **(4d4 + Consiturion Modifier) :trt-thp: Temporary Hit Points**.
 
 ---
 
