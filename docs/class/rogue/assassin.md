@@ -34,7 +34,7 @@ You are expert at the following techniques that aid your infiltrations.
 
 ### Level 13: Envenom Weapons
 
-When you use the Poison option of your Cunning Strike, the target also takes 2d6 Poison damage whenever it fails the saving throw. This damage ignores **:dmg-res: Resistance**{ .em } to :dmg-posn: Poison damage.
+When you use the Poison option of your Cunning Strike, the target also takes **2d6 :dmg-posn: Poison**{.dmg-posn} damage whenever it fails the saving throw. This damage ignores **:dmg-res: Resistance**{ .em } to **:dmg-posn: Poison**{.dmg-posn} damage.
 
 ### Level 17: Death Strike
 

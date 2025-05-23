@@ -88,11 +88,13 @@ You and your weapons are blessed by the heavens to smite heretics and blasphemer
 
 **Bonus Proficiency**{.inl} You gain proficiency with the Religion skill. Whenever you would make an Intelligence (Religion) check, you can choose to make a Charisma (Religion) check instead.
 
-**Concecrated Weapons**{.inl} As part of a **:rest-short: Short** or **:rest-long: Long Rest**, you can perform a ritual and touch a weapon that you are proficient with to Consecrate it. This Consecrated weapon becomes a **Holy Symbol** and you can also add your Sneak Attack bonus to attacks with it even if it does not have the **:wp-prop-finesse: Finesse** property. However, all other rules of for Sneak Attack bonus still apply. You can have only one Consecrated weapon at a time.
+**Concecrated Weapons**{.inl} As part of a **:rest-short: Short** or **:rest-long: Long Rest**, you can perform a ritual and touch a weapon that you are proficient with to Consecrate it. This Consecrated weapon becomes a **Holy Symbol** and you can also add your Sneak Attack bonus to attacks with it even if it does not have the **:wp-prop-finesse: Finesse**{.wp} property. However, all other rules of for Sneak Attack bonus still apply. You can have only one Consecrated weapon at a time.
 
 ### Level 9: Wrathful Strikes
 
-When you hit a creature with an attack that includes Sneak Attack damage, you can expend a level 1+ spell slot to empower your strike with divine judgment. The additional damage from your Sneak Attack becomes **:dmg-radi: Radiant**{ .dmg-radi } or **:dmg-necr: Necrotic**{ .dmg-necr } damage (choose each time), and you roll each of your Sneak Attack dices twice and use either roll against the target.
+When you hit a creature with an attack that includes Sneak Attack damage, you can expend a level 1+ spell slot to empower your strike with divine judgment.
+
+The additional damage from your Sneak Attack becomes **:dmg-radi: Radiant**{ .dmg-radi } or **:dmg-necr: Necrotic**{ .dmg-necr } damage (choose each time), and the dice used for your Sneak Attack changes based on the level of the spell slot expended: `d8s` (Level 1 slot), `d10s` (Level 2 slot), and `d12s` (Level 3+ slot).
 
 ### Level 13: Divine Step
 
