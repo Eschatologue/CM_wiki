@@ -92,9 +92,7 @@ You and your weapons are blessed by the heavens to smite heretics and blasphemer
 
 ### Level 9: Wrathful Strikes
 
-When you hit a creature with an attack that includes Sneak Attack damage, you can expend a level 1+ spell slot to empower your strike with divine judgment.
-
-The additional damage from your Sneak Attack becomes **:dmg-radi: Radiant**{ .dmg-radi } or **:dmg-necr: Necrotic**{ .dmg-necr } damage (choose each time), and the dice used for your Sneak Attack changes based on the level of the spell slot expended: `d8s` (Level 1 slot), `d10s` (Level 2 slot), and `d12s` (Level 3+ slot).
+When you hit a creature with an attack that includes Sneak Attack damage, you can expend a level 1+ spell slot to empower your strike with divine judgment. The additional damage from your Sneak Attack becomes **:dmg-radi: Radiant**{.dmg-radi} or **:dmg-necr: Necrotic**{.dmg-necr} damage (choose each time), and the dice used for your Sneak Attack changes based on the level of the spell slot expended: `d8s` (Level 1 slot), `d10s` (Level 2 slot), and `d12s` (Level 3+ slot).
 
 ### Level 13: Divine Step
 

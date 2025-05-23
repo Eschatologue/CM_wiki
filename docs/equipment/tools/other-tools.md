@@ -8,9 +8,11 @@ These tools support adventure and other pursuits.
 
 ---
 
-### Disguise Kit
+### Disguise Kit {.noborder}
 
 *Tool, 250 SP, M.*
+
+<hr class="hr-solid">
 
 **Ability:** Charisma  
 **Utilise:** Apply makeup (DC 10)  
@@ -18,27 +20,33 @@ These tools support adventure and other pursuits.
 
 ---
 
-### Fishing's Supplies
+### Fishing's Supplies {.noborder}
 
-*Tool, 150 SP, M.*  
+*Tool, 150 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Dexterity or Wisdom  
 **Utilise:** Discern whenever a body of water suitable for fishing (DC 12)  
 
 ---
 
-### Forgery Kit
+### Forgery Kit {.noborder}
 
 *Tool, 150 SP, M.*
+
+<hr class="hr-solid">
 
 **Ability:** Dexterity  
 **Utilise:** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)  
 
 ---
 
-### Gaming Set
+### Gaming Set {.noborder}
 
 *Tool, Varies, M.*
+
+<hr class="hr-solid">
 
 **Ability:** Wisdom  
 **Utilise:** Discern whether someone is cheating (DC 10), or win the game (DC 20)  
@@ -46,9 +54,11 @@ These tools support adventure and other pursuits.
 
 ---
 
-### Herbalism Kit
+### Herbalism Kit {.noborder}
 
 *Tool, 50 SP, M.*
+
+<hr class="hr-solid">
 
 **Ability:** Intelligence  
 **Utilise:** Identify a plant (DC 10)  
@@ -56,9 +66,11 @@ These tools support adventure and other pursuits.
 
 ---
 
-### Musical Instrument
+### Musical Instrument {.noborder}
 
 *Tool, Varies, M.*
+
+<hr class="hr-solid">
 
 **Ability:** Charisma  
 **Utilise:** Play a known tune (DC 10), or improvise a song (DC 15)  
@@ -66,18 +78,22 @@ These tools support adventure and other pursuits.
 
 ---
 
-### Navigator's Tools
+### Navigator's Tools {.noborder}
 
 *Tool, 250 SP, M.*
+
+<hr class="hr-solid">
 
 **Ability:** Wisdom  
 **Utilise:** Plot a course (DC 10), or determine position by stargazing (DC 15)
 
 ---
 
-### Poisoner's Kit
+### Poisoner's Kit {.noborder}
 
 *Tool, 500 SP, M.*
+
+<hr class="hr-solid">
 
 **Ability:** Intelligence  
 **Utilise:** Detect a poisoned object (DC 10)  
@@ -85,9 +101,11 @@ These tools support adventure and other pursuits.
 
 ---
 
-### Thieves' Tools
+### Thieves' Tools {.noborder}
 
 *Tool, 250 SP, M.*
+
+<hr class="hr-solid">
 
 **Ability:** Dexterity  
 **Utilise:** Pick a lock (DC 15), or disarm a trap (DC 15)

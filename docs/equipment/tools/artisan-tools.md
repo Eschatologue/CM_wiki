@@ -12,9 +12,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Alchemist's Supplies
+### Alchemist's Supplies {.noborder}
 
-*Artisan's Tool, 500 SP, M.*  
+*Artisan's Tool, 500 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Intelligence  
 **Utilise:** Identify a substance (DC 15), or start a fire (DC 15)  
@@ -22,9 +24,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Brewer's Supplies
+### Brewer's Supplies {.noborder}
 
-*Artisan's Tool, 200 SP, M.*  
+*Artisan's Tool, 200 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Intelligence  
 **Utilise:** Detect poisoned drink (DC 15), or identify alcohol (DC 10)  
@@ -32,9 +36,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Calligrapher's Supplies
+### Calligrapher's Supplies {.noborder}
 
-*Artisan's Tool, 100 SP, M.*  
+*Artisan's Tool, 100 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Dexterity  
 **Utilise:** Write text with impressive flourishes that guard against forgery (DC 15)  
@@ -42,9 +48,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Carpenter's Tools
+### Carpenter's Tools {.noborder}
 
-*Artisan's Tool, 80 SP, M.*  
+*Artisan's Tool, 80 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Strength  
 **Utilise:** Seal or pry open a door or container (DC 20)  
@@ -52,9 +60,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Cartographer's Tools
+### Cartographer's Tools {.noborder}
 
-*Artisan's Tool, 150 SP, M.*  
+*Artisan's Tool, 150 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Wisdom  
 **Utilise:** Draft a map of a small area (DC 15)  
@@ -62,9 +72,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Cobbler's Tools
+### Cobbler's Tools {.noborder}
 
-*Artisan's Tool, 50 SP, M.*  
+*Artisan's Tool, 50 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Dexterity  
 **Utilise:** Modify footwear to give **:d20-adv: Advantage**{.d20} on the wearer's next Dexterity (Acrobatics) check (DC 10)  
@@ -72,9 +84,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Cook's Utensils
+### Cook's Utensils {.noborder}
 
-*Artisan's Tool, 10 SP, M.*  
+*Artisan's Tool, 10 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Wisdom  
 **Utilise:** Improve food's flavour (DC 10), or detect spoiled or poisoned food (DC 15)  
@@ -82,9 +96,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Glassblower's Tools
+### Glassblower's Tools {.noborder}
 
-*Artisan's Tool, 300 SP, M.*  
+*Artisan's Tool, 300 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Intelligence  
 **Utilise:** Discern what a glass object held in the past 24 hours (DC 15)  
@@ -92,9 +108,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Jeweler's Tools
+### Jeweler's Tools {.noborder}
 
-*Artisan's Tool, 250 SP, M.*  
+*Artisan's Tool, 250 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Intelligence  
 **Utilise:** Discern a gem's value (DC 15)  
@@ -102,9 +120,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Leatherworker's Tools
+### Leatherworker's Tools {.noborder}
 
-*Artisan's Tool, 50 SP, M.*  
+*Artisan's Tool, 50 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Dexterity  
 **Utilise:** Add a design to a leather item (DC 10)  
@@ -112,9 +132,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Mason's Tools
+### Mason's Tools {.noborder}
 
-*Artisan's Tool, 100 SP, M.*  
+*Artisan's Tool, 100 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Strength  
 **Utilise:** Chisel a symbol or hole in stone (DC 10)  
@@ -122,9 +144,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Painter's Supplies
+### Painter's Supplies {.noborder}
 
-*Artisan's Tool, 100 SP, M.*  
+*Artisan's Tool, 100 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Wisdom  
 **Utilise:** Paint a recognizable image of something you've seen (DC 10)  
@@ -132,9 +156,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Potter's Tools
+### Potter's Tools {.noborder}
 
-*Artisan's Tool, 100 SP, M.*  
+*Artisan's Tool, 100 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Intelligence  
 **Utilise:** Discern what a ceramic object held in the past 24 hours (DC 15)  
@@ -142,9 +168,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Smith's Tools
+### Smith's Tools {.noborder}
 
-*Artisan's Tool, 200 SP, M.*  
+*Artisan's Tool, 200 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Strength  
 **Utilise:** Pry open a door or container (DC 20)  
@@ -152,9 +180,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Tinker's Tools
+### Tinker's Tools {.noborder}
 
-*Artisan's Tool, 500 SP, M.*  
+*Artisan's Tool, 500 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Dexterity  
 **Utilise:** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)  
@@ -162,9 +192,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Weaver's Tools
+### Weaver's Tools {.noborder}
 
-*Artisan's Tool, 10 SP, M.*  
+*Artisan's Tool, 10 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Dexterity  
 **Utilise:** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)  
@@ -172,9 +204,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Woodcarver's Tools
+### Woodcarver's Tools {.noborder}
 
-*Artisan's Tool, 10 SP, M.*  
+*Artisan's Tool, 10 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Dexterity  
 **Utilise:** Carve a pattern in wood (DC 10)  
@@ -186,9 +220,11 @@ The following section list's tools from PHB'24.
 
 ---
 
-### Gunsmith's Tools
+### Gunsmith's Tools {.noborder}
 
-*Artisan's Tool, 400 SP, M.*  
+*Artisan's Tool, 400 SP, M.*
+
+<hr class="hr-solid">  
 
 **Ability:** Intelligence or Dexterity  
 **Utilise:** Discern and fix a firearm (DC 15)  
