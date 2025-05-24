@@ -79,11 +79,11 @@ You gain class features in the Player's Handbook when you reach certain levels i
 
 **Replacement**{.inl}If you take a feature that replaces another feature, you gain no benefit from the replaced one and don't qualify for anything in the game that requires it. 
 
+<div class="dl-dt-center" markdown>
+
 ### Barbarian
 
 Barbarian has the following optional class feature.
-
-<div class="dl-dt-center" markdown>
 
 **:class-barbarian:**{.x5l}<br>**BARBARIAN**{.chev-lr}
 
@@ -91,13 +91,19 @@ Barbarian has the following optional class feature.
 
     --8<-- "docs/class/barbarian/index.md:opt-barb-prim-def"
 
-</div>
+### Cleric
+
+Cleric has the following optional class feature.
+
+**:class-cleric:**{.x5l}<br>**CLERIC**{.chev-lr}
+
+:   #### Level 7 – Improved Divine Strike
+
+    --8<-- "docs/class/cleric/index.md:opt-cleric-divine-strike"
 
 ### Ranger
 
 Ranger has the following optional class feature.
-
-<div class="dl-dt-center" markdown>
 
 **:class-ranger:**{.x5l}<br>**RANGER**{.chev-lr}
 
@@ -109,13 +115,10 @@ Ranger has the following optional class feature.
 
     --8<-- "docs/class/ranger/index.md:opt-imp-mark"
 
-</div>
 
 ### Paladin
 
 Paladin has the following optional class feature.
-
-<div class="dl-dt-center" markdown>
 
 **:class-paladin:**{.x5l}<br>**PALADIN**{.chev-lr}
 

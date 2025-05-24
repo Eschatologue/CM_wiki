@@ -31,7 +31,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 | 7 | [:spell-lv4: Aura of Life], [:spell-lv4: Death Ward] |
 | 9 | [:spell-lv5: Greater Restoration], [:spell-lv5: Mass Cure Wounds] |
 
-### Level 3: Preserve Life
+### Level 3: Preserve Life :ui-chdiv-cleric:{title="Uses Channel Divinity (Cleric)"}
 
 As a **:rsc-a: Magic**{.rsc} action, you present your Holy Symbol and expend a use of your **:ui-chdiv-cleric: Channel Divinity**{ .em } to evoke healing energy that can restore a number of Hit Points equal to five times your Cleric level. Choose Bloodied creatures within 30 feet of yourself (which can include you), and divide those Hit Points among them. This feature can restore a creature to no more than half its Hit Point maximum.
 

@@ -36,7 +36,7 @@ You gain the ability to imbue magic into a weapon or armour.
 
 **Blessed Smithing**{.inl} At the end of a **:rest-long: Long Rest**, you can touch one object that is a suit of armour or a weapon. Until the end of your next **:rest-long: Long Rest** or until you die, the object becomes a magical, granting a +1 bonus to AC if it's armour or a +1 bonus to attack and damage rolls if it's a weapon, this bonus doesn't apply if the object already has higher innate bonus. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**.
 
-### Level 3: Artisan's Blessing
+### Level 3: Artisan's Blessing :ui-chdiv-cleric:{title="Uses Channel Divinity (Cleric)"}
 
 You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to create nonmagical metal items. 
 

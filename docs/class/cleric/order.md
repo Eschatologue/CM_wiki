@@ -32,7 +32,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 You can invoke the power of law to embolden an ally to attack. If you cast a spell of level 1 or higher and target an ally with the spell, that ally can use their Reaction immediately after the spell to make one weapon attack against a creature of your choice that you can see. If the spell targets more than one ally, you choose the ally who can make the attack.
 
-### Level 3: Order's Demand
+### Level 3: Order's Demand :ui-chdiv-cleric:{title="Uses Channel Divinity (Cleric)"}
 
 You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to exert an intimidating presence over others. As a **:rsc-a: Magic**{.rsc} action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or have the Charmed condition until the end of your next turn or until the charmed creature takes any damage. You can also cause any of the Charmed creatures to drop what they are holding when they fail the saving throw.
 

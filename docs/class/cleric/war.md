@@ -14,7 +14,7 @@ War has many manifestations. It can make heroes of ordinary people. It can be de
 
 Gods of the War Domain watch over warriors and reward them for their great deeds. They include champions of honor and chivalry as well as gods of destruction and pillage. Other war gods take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.
 
-### Level 3: Guided Strike
+### Level 3: Guided Strike :ui-chdiv-cleric:{title="Uses Channel Divinity (Cleric)"}
 
 When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your **:ui-chdiv-cleric: Channel Divinity**{ .em } and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a **:rsc-r: Reaction**{.rsc} to do so.
 

@@ -16,12 +16,11 @@ Gods of trickery are mischief-makers and instigators who stand as a constant cha
 
 Religious orders that operate in secret, especially those that seek to undermine oppressive governments or hierarchies, also draw on the power of the Trickery Domain.
 
-
 ### Level 3: Blessing of the Trickster
 
 As a **:rsc-a: Magic**{.rsc} action, you can choose yourself or a willing creature within 30 feet of yourself to gain **:d20-adv: Advantage**{.d20} on Dexterity (Stealth) checks. This blessing lasts until you finish a **:rest-long: Long Rest** or until you use this feature again.
 
-### Level 3: Invoke Duplicity
+### Level 3: Invoke Duplicity :ui-chdiv-cleric:{title="Uses Channel Divinity (Cleric)"}
 
 You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to create an illusory duplicate of yourself.
 

@@ -34,7 +34,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 You have Darkvision with a range of 120 feet and as a **:rsc-a: Magic**{.rsc} action, you can share it with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of 1), which lasts for 1 hour. Once you share it, you can't do so again until you finish a **:rest-long: Long Rest**, unless you expend a spell slot of any level to share it again.
 
-### Level 3: Twilight Sanctuary
+### Level 3: Twilight Sanctuary :ui-chdiv-cleric:{title="Uses Channel Divinity (Cleric)"}
 
 You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to refresh your allies with soothing twilight. As a **:rsc-b: Bonus Action**{.rsc}, you present your holy symbol, and a 30-foot Emanation of dim light appears around you. It lasts for 1 minute or until you are incapacitated or die. When you activate this feature, and as a **:rsc-b: Bonus Action**{.rsc} while it is active, you can grant one the following benefits to one creature within the Emanation of your choice:
 

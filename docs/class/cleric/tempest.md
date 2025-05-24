@@ -42,10 +42,6 @@ You can use this feature a number of times equal to your Wisdom modifier (a mini
 
 When you deal **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
 
-### Level 7: Thundering Smite (Optional)
-
-Whenever you use [Divine Strike (Blessed Strike)](index.md#level-7-blesssed-strike) feature, you can change the damage type to either **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } damage. 
-
 ### Level 17: Stormborn
 
 The winds of the tempest lift your form into the air. You have a Fly speed equal to your **:rsc-spd: Speed**{ .em }.
