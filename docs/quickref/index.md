@@ -102,7 +102,7 @@ icon: material/fast-forward
 
         **Cost:** *none*
     
-        Give yourself the **Prone**{ .cond } condition.
+        Give yourself the **Prone**{.cond} condition.
 
     :fontawesome-solid-person-arrow-up-from-line:{.x3l}
 
@@ -110,7 +110,7 @@ icon: material/fast-forward
 
         **Cost:** *half your max __:rsc-spd: Speed__*
     
-        End the **Prone**{ .cond } condition
+        End the **Prone**{.cond} condition
 
     </div>
 

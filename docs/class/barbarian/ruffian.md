@@ -37,13 +37,13 @@ Your fists becomes devastating to whoever at the receiving end. The following op
 
 **Concussion**{.inl} You can force a creature you hit with **:rsc-a: Unarmed Strike (Damage)**{.rsc} to make a **:d20-save: DEX Save**{.d20}. On fail, the target must subtract the result of your Unarmed Strike die from its next D20 Test until the start of your next turn.
 
-**Hurl**{.inl} As a **:rsc-b: Bonus Action**{.rsc}, you can end a **Grapple** to throw the creature to a point you can see within 20 feet. If the creature lands in an unoccupied space, it has the **Prone**{ .cond } condition. If it collides with another creature, that creature must succeed on a **:d20-save: DEX Save**{.d20} or take **(Unarmed Strike) :dmg-bldg: Bludgeoning**{.dmg-bps} damage.
+**Hurl**{.inl} As a **:rsc-b: Bonus Action**{.rsc}, you can end a **Grapple** to throw the creature to a point you can see within 20 feet. If the creature lands in an unoccupied space, it has the **Prone**{.cond} condition. If it collides with another creature, that creature must succeed on a **:d20-save: DEX Save**{.d20} or take **(Unarmed Strike) :dmg-bldg: Bludgeoning**{.dmg-bps} damage.
 
 ### Level 10: Backbreaker
 
 Your expertise in hand-to-hand combat reaches new heights. 
 
-At the start of each of your turns while your **:ui-rage: Rage**{ .em } is active, you can deal **(Rage Damage) :dmg-bldg: Bludgeoning**{.dmg-bps} damage to one creature that receive the **Grappled**{ .cond } condition from you (no action required).
+At the start of each of your turns while your **:ui-rage: Rage**{ .em } is active, you can deal **(Rage Damage) :dmg-bldg: Bludgeoning**{.dmg-bps} damage to one creature that receive the **Grappled**{.cond} condition from you (no action required).
 
 ### Level 10: Titan's Grip
 

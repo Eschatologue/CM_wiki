@@ -64,7 +64,7 @@ Your Psychic Blades are now an expression of your psi-suffused soul, giving you 
 
 ### Level 13: Psychic Veil
 
-You can weave a veil of psychic static to mask yourself. As a **:rsc-a: Magic**{.rsc} action, you gain the **Invisible**{ .cond } condition for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.
+You can weave a veil of psychic static to mask yourself. As a **:rsc-a: Magic**{.rsc} action, you gain the **Invisible**{.cond} condition for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.
 
 Once you use this feature, you can't do so again until you finish a **:rest-long: Long Rest** unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 

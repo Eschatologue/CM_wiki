@@ -227,7 +227,7 @@ The damage die of your [:spell-lv1: Hunter's Mark] improves to d8 when it is cas
 
 ### Level 14: Nature's Veil 
 
-You invoke spirits of nature to magically hide yourself. As a **:rsc-b: Bonus Action**{.rsc}, you can give yourself the **Invisible**{ .cond } condition until the end of your next turn.
+You invoke spirits of nature to magically hide yourself. As a **:rsc-b: Bonus Action**{.rsc}, you can give yourself the **Invisible**{.cond} condition until the end of your next turn.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 

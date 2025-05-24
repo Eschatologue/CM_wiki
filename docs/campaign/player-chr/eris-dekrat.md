@@ -26,7 +26,7 @@ As a **:rsc-b: Bonus Action**{.rsc}, you gain the following benefits for 1 minut
 - You can't have **:d20-dis: Disadvatage**{.d20} on Dexterity-based weapon attacks.
 - You are under the effect of [:spell-lv1: Detect Magic](../../spells/description/core/level-1.md#detect-magic) spell. This does not require Concentration, though the duration last so long your Sorcerous Focus is active.
 
-You can use this feature **twice** without suffering adverse effects. Each additional use before a **:rest-long: Long Rest** imposes 1 level of **Exhaustion**{ .cond }.
+You can use this feature **twice** without suffering adverse effects. Each additional use before a **:rest-long: Long Rest** imposes 1 level of **Exhaustion**{.cond}.
 
 You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
@@ -65,7 +65,7 @@ Dekrat's Special options appear in alphabetical and level requirement order.
 :   The attack damage type's becomes **:dmg-psyc: Psychic**{ .dmg-psyc } and the target has **:d20-dis: Disadvantage**{.d20} on the next Ability Check or Attack Roll it makes before the end of its next turn.
 
 **Gag Order** <br>_Level 5+ Rogue_ <br>_Cost: `2d6`_
-:   You takes out the target's ability to speak. It must succeed a **:d20-save: CON Save**{.d20} or it has the **Silenced**{ .cond } condition. At the end of each of its turns, it repeats the save, ending the effect on itself on a success.
+:   You takes out the target's ability to speak. It must succeed a **:d20-save: CON Save**{.d20} or it has the **Silenced**{.cond} condition. At the end of each of its turns, it repeats the save, ending the effect on itself on a success.
 
 **Blitz** <br>_Level 5+ Rogue_ <br>_Cost: `2d6+`_
 :   After hitting the target with a ^^Melee attack^^, you Teleport up to 30 feet to an unoccupied space you can see. The distance you can Teleport to increases by 30 feet for each additional `2d6` you forgo: `4d6` (60 feet), `6d6` (90 feet), `8d6` (120 feet) and the maximum of `10d6` (150 feet).
@@ -83,7 +83,7 @@ Dekrat's Special options appear in alphabetical and level requirement order.
 :    The attack damage type's becomes **:dmg-thun: Thunder**{ .dmg-thun } and the target is surounded by booming energy. <br>Until the start of your next turn, the target takes **(Proficiency Bonus) :dmg-thun: Thunder**{ .dmg-thun } damage for every 10 feet it willingly move.
 
 **Banishment** <br>_Level 7+ Rogue_ <br>_Cost: `4d6`_
-:   You attempt to banish the target to ~~Cibubur~~ a harmless demiplane. It must succeed a **:d20-save: CHA Save**{.d20} or it is *Banished*. While *banished* in this way, its **:rsc-spd: Speed** is 0, and it has the **Incapacitated**{ .cond } condition. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
+:   You attempt to banish the target to ~~Cibubur~~ a harmless demiplane. It must succeed a **:d20-save: CHA Save**{.d20} or it is *Banished*. While *banished* in this way, its **:rsc-spd: Speed** is 0, and it has the **Incapacitated**{.cond} condition. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
 
 **Closed Circuit** <br>_Level 9+ Rogue_ <br>_Cost: `3d6`_
 :   The attack damage type's becomes **:dmg-lgtn: Lightning**{ .dmg-lgtn } and each creature in a **15-foot :aoe-sphere: Sphere** ^^originating from you^^ must succeed a **:d20-save: CON Save**{.d20}, or take **(Total Damage Roll) :dmg-lgtn: Lightning**{ .dmg-lgtn } damage and its **:rsc-spd: Speed** becomes 0 until the start of your next turn (only half damage on success). 

@@ -90,7 +90,7 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 You gain a +1 bonus to attack rolls with Ranged weapons, and your attacks with it ignore Half Cover and treat Three-Quarters Cover as Half Cover.
 
-Moreover, having the **Prone**{ .cond } condition doesn't impose **:d20-dis: Disadvantage**{.d20} on your Ranged attacks with Arbalest, Crossbows, and Firearms.
+Moreover, having the **Prone**{.cond} condition doesn't impose **:d20-dis: Disadvantage**{.d20} on your Ranged attacks with Arbalest, Crossbows, and Firearms.
 
 ---
 

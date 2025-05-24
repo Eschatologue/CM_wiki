@@ -20,7 +20,7 @@ Below are the Aptitudes available to the [Ranger]. If an Aptitude has a prerequi
 Every Ranger has a unique origin, choose one of the following benefit:
 
 **Bounty Hunter**
-:   You gain proficiency in Insight and Investigation. In addition, creatures has **:d20-dis: Disadvantage**{.d20} on saves to resist or end the **Grappled**{ .cond } or **Restrained**{ .cond } condition caused by you.
+:   You gain proficiency in Insight and Investigation. In addition, creatures has **:d20-dis: Disadvantage**{.d20} on saves to resist or end the **Grappled**{.cond} or **Restrained**{.cond} condition caused by you.
 
     _Your expertise in hunting bounties stands out._{.quote}
 
@@ -68,7 +68,7 @@ You are an expert at navigating the urban labyrinth as well as the wilds. You ga
 
 ### Wasteland Wanderer
 
-You have spent endless days surviving desolate wastelands. Choose one of the following damage types: **:dmg-cold: Cold**{.dmg-cold}, **:dmg-fire: Fire**{.dmg-fire}, **:dmg-lgtn: Lightning**{.dmg-lgtn}, or **:dmg-posn: Poison**{.dmg-posn}. You gain **:dmg-res: Resistance**{ .nowrap } to the chosen damage type. 
+You have spent endless days surviving desolate wastelands. You gain **:dmg-res: Resistance**{ .nowrap } to one of the following damage type of your choice: **:dmg-cold: Cold**{.dmg-cold}, **:dmg-fire: Fire**{.dmg-fire}, **:dmg-lgtn: Lightning**{.dmg-lgtn}, or **:dmg-posn: Poison**{.dmg-posn}. 
 
 **Repeatable**{.inl} You can choose this Aptitude again, choosing different damage type each time.
 
@@ -78,7 +78,7 @@ You have spent endless days surviving desolate wastelands. Choose one of the fol
 
 _**Prerequisite:** Level 6+ Ranger_
 
-Choose one of the following damage types: **:dmg-force: Force**{.dmg-force}, **:dmg-necr: Necrotic**{.dmg-necr}, **:dmg-psyc: Psychic**{.dmg-psyc}, or **:dmg-radi: Radiant**{.dmg-radi}. You gain **:dmg-res: Resistance**{ .em } to the chosen damage type. 
+You gain **:dmg-res: Resistance**{ .nowrap } to one of the following damage type of your choice:: **:dmg-force: Force**{.dmg-force}, **:dmg-necr: Necrotic**{.dmg-necr}, **:dmg-psyc: Psychic**{.dmg-psyc}, or **:dmg-radi: Radiant**{.dmg-radi}.
 
 **Repeatable**{.inl} You can choose this Aptitude again, choosing different damage type each time.
 
@@ -142,7 +142,7 @@ When you roll **:d20-inv: Initiative**{.d20}, you can take a **:rsc-r: Reaction*
 
 _**Prerequisite:** Level 14+ Ranger, [Slayer II](#slayer-ii-ambush-tactics)_
 
-Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{.rsc} , you can force the target must succeed a **:d20-save: CON Save**{.d20}, or it has the **Blinded**{ .cond } and **Silenced**{ .cond } condition.
+Once per turn, when you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{.rsc}, you can force the target must succeed a **:d20-save: CON Save**{.d20}, or it has the **Blinded**{.cond} and **Silenced**{.cond} condition.
 
 ---
 
@@ -252,7 +252,7 @@ You can expend one use of your *Favoured Foe* to cast [:spell-lv3: Haste] withou
 
 _**Prerequisite:** Level 19+ Ranger, [Adrenaline I](#adrenaline-i)_
 
-When you cast [:spell-lv3: Haste] from the Adrenaline Aptidude, it does not require :spell-conc: Concentration. The spell's last for the Duration stated in the spell.
+Whenever you cast [:spell-lv3: Haste] using Adrenaline Aptidude, you can modify it so that it doesn't require **:spell-conc: Concentration**. If you do so, the spell's duration becomes 1 minute for that casting, and the spell ends early if you cast it again. 
 
 ---
 
@@ -270,7 +270,7 @@ You can cast [:spell-lv1: Ensnaring Strike] without expending a spell slot.
 
 _**Prerequisite:** Level 19+ Ranger_
 
-Whenever you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{.rsc} , you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
+Whenever you hit the target of your [:spell-lv1: Hunter's Mark] with a weapon attack or **:rsc-a: Unarmed Strike**{.rsc}, you can immediately end the spell and cause that attack to deal maximum damage instead of rolling. If the attack reduces the creature to 50 Hit Points or fewer, it must succeed on a Constitution saving throw against your Spell save DC or it instantly dies.
 
 ---
 

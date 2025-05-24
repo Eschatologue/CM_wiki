@@ -140,7 +140,7 @@ You conjure spectral chains to wrap around the target creature's soul, binding i
 **Components:** V, S, M (a scroll, a gemstone worth at least 1,000 SP, which both the spell consumes)  
 **Duration:** Until Dispelled
 
-This spell establishes a binding magical contract between two willing creatures through an oath sworn in the name of Falcone, the Judgement. A creature under the **Charmed**{ .cond } condition cannot enter into this agreement.  
+This spell establishes a binding magical contract between two willing creatures through an oath sworn in the name of Falcone, the Judgement. A creature under the **Charmed**{.cond} condition cannot enter into this agreement.  
 
 As part of the casting, both parties must clearly state the terms, which are magically transcribed word for word onto the scroll. The contract must include at least one obligation for each party and may specify exemptions, termination conditions, or additional clauses as agreed upon.  
 

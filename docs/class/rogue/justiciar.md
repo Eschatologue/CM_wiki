@@ -25,7 +25,7 @@ As a **:rsc-b: Bonus Action**{.rsc}, you can open your awareness to detect Celes
 
 #### :ui-chdiv-cleric: Shroud of Faith
 
-As an **:rsc-b: Bonus Action**{.rsc}, you grip your holy symbol and invoke the protection of your god. You have the **Invisible**{ .cond } condition for 1 minute. This effect ends early if you attack or cast a spell.
+As an **:rsc-b: Bonus Action**{.rsc}, you grip your holy symbol and invoke the protection of your god. You have the **Invisible**{.cond} condition for 1 minute. This effect ends early if you attack or cast a spell.
 
 ### Level 3: Spellcasting
 
@@ -92,7 +92,7 @@ You and your weapons are blessed by the heavens to smite heretics and blasphemer
 
 ### Level 9: Wrathful Strikes
 
-When you hit a creature with an attack that includes Sneak Attack damage, you can expend a level 1+ spell slot to empower your strike with divine judgment. The additional damage from your Sneak Attack becomes **:dmg-radi: Radiant**{.dmg-radi} or **:dmg-necr: Necrotic**{.dmg-necr} damage (choose each time), and the dice used for your Sneak Attack changes based on the level of the spell slot expended: `d8s` (Level 1 slot), `d10s` (Level 2 slot), and `d12s` (Level 3+ slot).
+When you hit a creature with an attack that includes Sneak Attack damage, you can expend a level 1+ spell slot to empower your strike with divine judgment. The additional damage from your Sneak Attack becomes **:dmg-radi: Radiant**{.dmg-radi} or **:dmg-necr: Necrotic**{.dmg-necr} damage (choose each time), and you roll each of your Sneak Attack dices twice and and use either roll against the target.
 
 ### Level 13: Divine Step
 

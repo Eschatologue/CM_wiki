@@ -27,7 +27,7 @@ The magic of your otherworldly patron ensures you always have certain spells rea
 
 ### Level 3: Hexblade's Curse
 
-You gain the ability to place a baleful curse on your enemies. As a **:rsc-b: Bonus Action**{.rsc}, choose one creature you can see within **30 feet** of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or when you have the **Incapacitated**{ .cond } condition. Until the curse ends, you gain the following benefits:
+You gain the ability to place a baleful curse on your enemies. As a **:rsc-b: Bonus Action**{.rsc}, choose one creature you can see within **30 feet** of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or when you have the **Incapacitated**{.cond} condition. Until the curse ends, you gain the following benefits:
 
 **Improved Critical**{.inl} The number you need to roll a Critical Hit while attacking the a cursed target is reduced by 1.
 

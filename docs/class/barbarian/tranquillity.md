@@ -31,7 +31,7 @@ If a Manoeuvre requires a saving throw, the DC equals 8 + your Proficiency Bonus
 
 ### Level 3: Dead Calm
 
-You enter a state of heightened focus when you **:ui-rage: Rage**{ .em }. While your **:ui-rage: Rage**{ .em } is active, the **Frightened**{ .cond } and **Charmed**{ .cond } conditions on you are suppressed. When your **:ui-rage: Rage**{ .em } ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
+You enter a state of heightened focus when you **:ui-rage: Rage**{ .em }. While your **:ui-rage: Rage**{ .em } is active, the **Frightened**{.cond} and **Charmed**{.cond} conditions on you are suppressed. When your **:ui-rage: Rage**{ .em } ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
 
 ### Level 6: Battle Focus
 
@@ -51,7 +51,7 @@ You gain one additional Superiority Die (Four total) and all your Superiority Di
 
 Your seething fury is unstopable. You gain the following benefits:
 
-**Freedom of Movement**{.inl} While your **:ui-rage: Rage**{ .em } is active, your Movement is unaffected by Difficult Terrain and Your **:rsc-spd: Speed**{ .em } can't be reduced by spells or other magical effects. You also have **:dmg-imm: Immunity** to **Paralyzed**{ .cond } and **Restrained**{ .cond } condition while your **:ui-rage: Rage**{ .em } is active.
+**Freedom of Movement**{.inl} While your **:ui-rage: Rage**{ .em } is active, your Movement is unaffected by Difficult Terrain and Your **:rsc-spd: Speed**{ .em } can't be reduced by spells or other magical effects. You also have **:dmg-imm: Immunity** to **Paralyzed**{.cond} and **Restrained**{.cond} condition while your **:ui-rage: Rage**{ .em } is active.
 
 **More Manoeuvre**{.inl} You learn one additional Combat Manoeuvre of your choice.
 

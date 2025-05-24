@@ -39,7 +39,7 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 
 ### Fey Ancestry
 
-You have **:d20-adv: Advantage**{.d20} on **:d20-save: Saving Throws** you make to avoid or end the **Charmed**{ .cond } condition.
+You have **:d20-adv: Advantage**{.d20} on **:d20-save: Saving Throws** you make to avoid or end the **Charmed**{.cond} condition.
 
 ### Keen Senses
 

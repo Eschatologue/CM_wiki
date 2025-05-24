@@ -116,7 +116,7 @@ While you have the **Invisible** condition, you experience the following effects
 
 While you have the **Paralyzed** condition, you experience the following effects.
 
-**Incapacitated**{.inl} You have the **Incapacitated**{ .cond } condition.
+**Incapacitated**{.inl} You have the **Incapacitated**{.cond} condition.
 
 **Speed 0**{.inl} Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
@@ -134,7 +134,7 @@ While you have the **Petrified** condition, you experience the following effects
 
 **Turned to Inanimate Substance**{.inl} You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
 
-**Incapacitated**{.inl} You have the **Incapacitated**{ .cond } condition.
+**Incapacitated**{.inl} You have the **Incapacitated**{.cond} condition.
 
 **Speed 0**{.inl} Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 
@@ -144,7 +144,7 @@ While you have the **Petrified** condition, you experience the following effects
 
 **Resist Damage**{.inl} You have **:dmg-res: Resistance** to all damage.
 
-**Poison Immunity**{.inl} You have **:dmg-imm: Immunity** to the **Poisoned**{ .cond } condition.
+**Poison Immunity**{.inl} You have **:dmg-imm: Immunity** to the **Poisoned**{.cond} condition.
 
 ---
 
@@ -192,7 +192,7 @@ While you have the **Silenced** condition, you experience the following effects.
 
 While you have the **Stunned** condition, you experience the following effects.
 
-**Incapacitated**{.inl} You have the **Incapacitated**{ .cond } condition.
+**Incapacitated**{.inl} You have the **Incapacitated**{.cond} condition.
 
 **Saving Throws Affected**{.inl} You automatically fail **:d20-save: STR & DEX Save**{.d20}.
 
@@ -204,7 +204,7 @@ While you have the **Stunned** condition, you experience the following effects.
 
 While you have the **Unconscious** condition, you experience the following effects.
 
-**Inert**{.inl} You have the **Incapacitated**{ .cond } and **Prone**{ .cond } conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.
+**Inert**{.inl} You have the **Incapacitated**{.cond} and **Prone**{.cond} conditions, and you drop whatever you're holding. When this condition ends, you remain Prone.
 
 **Speed 0**{.inl} Your **:rsc-spd: Speed**{ .em } is 0 and can't increase.
 

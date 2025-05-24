@@ -181,7 +181,16 @@ Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom 
 
 Divine power infuses you in battle. You gain one of the following options of your choice:
 
-**Divine Strike**{.inl} Once on each of your turns when you hit a creature with an attack with a weapon, you can cause the target to take an extra 1d8 **:dmg-necr: Necrotic**{ .dmg-necr } or **:dmg-radi: Radiant**{ .dmg-radi } damage (your choice).
+**Divine Strike**{.inl} Once on each of your turns when you hit a creature with an attack with a weapon, you can cause the target to take an extra `1d8` **:dmg-necr: Necrotic**{ .dmg-necr } or **:dmg-radi: Radiant**{ .dmg-radi } damage (your choice).  
+&emsp; Moreover, certain Cleric subclasses has the option to change the damage type according to the Blessed Strike Damage Type table.
+
+| Domains | Damage Type |
+|---|---|
+| Forge | **:dmg-fire: Fire**{.dmg-fire} |
+| Tempest | **:dmg-thun: Thunder**{.dmg-thun} or **:dmg-lgtn: Lightning**{.dmg-lgtn} |
+| War | **:material-sword-cross: Weapon Damage**{.dmg-bps} |
+
+#####
 
 **Potent Spellcasting**{.inl} You add your Wisdom modifier to the damage you deal with any Cleric cantrip.
  

@@ -32,7 +32,7 @@ Your connection to the Ascent of Destruction ensures you always have certain spe
 
 When you cast a Cleric spell that deals damage, you can change its damage type to **:dmg-force: Force**{ .dmg-force }.
 
-### Level 3: Accretion Disk  
+### Level 3: Accretion Disk :ui-chdiv-cleric:{title="Uses Channel Divinity (Cleric)"}
 
 As a **:rsc-b: Bonus Action**{.rsc}, you can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to create a **15-foot :aoe-emn: Emanation** of a swirling ring of light and spinning dust that surrounds you for 1 minute. It ends early if you dismiss it (no action required), manifest it again, or have the **Incapacitated**{.cond} condition.  
 

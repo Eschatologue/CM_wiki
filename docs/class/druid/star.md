@@ -101,7 +101,7 @@ While in your Starry Form, you become partially incorporeal, giving you **:dmg-r
 
 As a **:rsc-a: Magic**{.rsc} action, you conjure a burst of light in a **30-foot :aoe-sphere: Sphere** centered on a point within **120 feet** of you. You can Teleport each willing creature in the area to an unoccupied space within 30 feet of its current location.
 
-Any creature remaining in the Sphere must make a **:d20-save: CON Save** against your **Spell Save DC**. On a failed save, the creature takes **4d12 :dmg-radi: Radiant**{.dmg-radi} damage and has the **Blinded**{ .cond } condition until the end of your next turn. On a successful save, the creature only takes half damage.
+Any creature remaining in the Sphere must make a **:d20-save: CON Save** against your **Spell Save DC**. On a failed save, the creature takes **4d12 :dmg-radi: Radiant**{.dmg-radi} damage and has the **Blinded**{.cond} condition until the end of your next turn. On a successful save, the creature only takes half damage.
 
 Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**, or you can expend a level 5+ spell slot to regain your use of it (no action required).
 

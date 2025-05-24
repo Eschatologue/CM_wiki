@@ -34,11 +34,9 @@ You can use your **:ui-chdiv-cleric: Channel Divinity** to wield the power of th
 
 ### Level 3: Wrath of the Storm
 
-You can thunderously rebuke attackers. When a creature within **5 feet** of you that you can see hits you with an attack, you can use your **:rsc-r: Reaction**{.rsc} to force the creature to make a **:d20-save: DEX save**{.d20}. On a failed save, the creature takes **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } (your choice) damage equal to 1d8 plus your Cleric level, or half as much damage on a successful save. 
+You can thunderously rebuke attackers. When a creature within **5 feet** (**60 feet** with **:ui-chdiv-cleric: Channel Divinity**) of you that you can see hits you with an attack, you can use your **:rsc-r: Reaction**{.rsc} to force the creature to make a **:d20-save: DEX save**{.d20}. On a failed save, the creature takes **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } (your choice) damage equal to `1d8 plus your Cleric level`, or half as much damage on a successful save. 
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of 1). You regain all expended uses when you finish a **:rest-long: Long Rest**.
-
-Alternatively, when you use this feature, you can expend your **:ui-chdiv-cleric: Channel Divinity** to target a creature that hits you with an attack from up to **60 feet** away, rather than within 5 feet. The rest of the effect remains the same.
 
 ### Level 6: Thunderous Strike
 
@@ -54,5 +52,5 @@ The winds of the tempest lift your form into the air. You have a Fly speed equal
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 
-:material-book-arrow-up: Updated by *PerfectlyCircularSeal* 
+:material-book-arrow-up: Updated by *PerfectlyCircularSeal* :material-book-arrow-up: Modified by *Eschatologue*
 { .author }

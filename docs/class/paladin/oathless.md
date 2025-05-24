@@ -27,7 +27,7 @@ In most societies, the Oathless are met with distrust or outright hostility. In 
 
 *You fight without honour or respect.*
 
-When you take damage from a source you can see, you can use your **:ui-chdiv-pal: Channel Divinity**  to take a **:rsc-r: Reaction**{.rsc} to give yourself the **Invisible**{ .cond } condition, and move up to your **:rsc-spd: Speed**. You have the Invisible condition until the start of your next turn, or until you attack or force a creature to make a saving throw. 
+When you take damage from a source you can see, you can use your **:ui-chdiv-pal: Channel Divinity**  to take a **:rsc-r: Reaction**{.rsc} to give yourself the **Invisible**{.cond} condition, and move up to your **:rsc-spd: Speed**. You have the Invisible condition until the start of your next turn, or until you attack or force a creature to make a saving throw. 
 
 ### Level 3: Oathless Spells
 
