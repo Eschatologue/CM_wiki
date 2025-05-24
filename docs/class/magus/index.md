@@ -16,7 +16,7 @@ To face a Magus, is to experience the flurry of both spells and blades.
 §
 { .quote .align-center }
 
-Feared and respected by many, those who wield both blade and spell are collectively known as Magi. Rather than commit their lives solely to the study of arcane lore or the perfection of martial prowess, the Magi walk a path between the two. They may never unleash the cataclysmic power of an archmage nor rival the raw skill of a seasoned swordmaster, but a Magus commands the art of blending magic with steel, forging a deadly and elegant form of arcane combat known only to their Order.
+Feared and respected by many, those who wield both blade and spell are collectively known as Magi. Rather than commit their lives solely to the study of arcane lore or the perfection of martial prowess, the Magi walk a path between the two. They may never unleash the cataclysmic power of an archmage nor rival the raw skill of a seasoned swordmaster, but a Magus masters the art of blending magic with steel, forging a deadly and elegant form of arcane combat known only to their Order.
 { .align-center }
 
 With this unique discipline, they channel their spells through their weapons, fusing magic with every strike. Their heightened senses can detect the weave of arcane energy in the world around them, and they can even sever spells from the air before they even manifest.
@@ -101,7 +101,9 @@ As a Magus, you gain the following class features when you reach the specified M
 
 ### Level 1: Arcane Armoury
 
-You learn the signature enchantment of the Magi, marking you as a member of their ranks. Over the course of 1 hour, which can be during a **:rest-short: Short** or **:rest-long: Long Rest**, you can touch one melee weapon, shield, or set of armour to perform a ritual adding the item to your **Arcane Armoury**. Your Arcane Armoury is an extradimensional space that only its Magus can access.
+*"You learn the signature enchantment of the Magi, marking you as a member of their ranks."*{.quote}
+
+Over the course of 1 hour, which can be during a **:rest-short: Short** or **:rest-long: Long Rest**, you can touch one melee weapon, shield, or set of armour to perform a ritual adding the item to your **Arcane Armoury**. Your Arcane Armoury is an extradimensional space that only its Magus can access.
 
 Objects in your **Arcane Armoury** gain the following benefits:
 
@@ -169,7 +171,7 @@ If your attack *misses*, the spell *fails* and has no effect. On a hit, the spel
 **:aoe-rad: Area of Effect**{.inl} If the spell targets an area greater than a **10-foot :aoe-cube: Cube**{ .calc }, it takes effect as a **15-foot :aoe-cone: Cone**{ .calc } originating from you, which must include your target, or it is contained to only affect the target of your attack (your choice on hit).
 { .indt }
 
-**:spell-lv0: Cantrips**{.inl} The Cantrip does not deal damage. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
+**:spell-lv0: Cantrips**{.inl} The Cantrip *does not deal damage*. Instead, your weapon attack deals the damage type dealt by the cantrip, and applies the cantrip's additional effects, other than damage, on hit.
 { .indt }
 
 **:spell-conc: Concentration**{.inl} If the spell requires your Concentration, you must Concentrate on it as soon as it takes effect on hit.

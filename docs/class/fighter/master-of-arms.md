@@ -68,7 +68,7 @@ You can change your selected properties whenever you finish a **:rest-short: Sho
 **Thrown**
 :   The Normal and Long ranges of **:wp-prop-thrown: Thrown**{.wp} weapons for you are doubled and you don't have **:d20-dis: Disadvantage**{.d20} on Ranged attacks with **:wp-prop-thrown: Thrown**{.wp} weapons while within 5 feet from a hostile creature.
 
-    **Level 15**{.inl} When you attack with a **:wp-prop-thrown: Thrown**{.wp} weapon, you can make one extra Ranged attack using a *:wp-prop-thrown: Thrown**{.wp} as a **:rsc-b: Bonus Action**{.rsc} later on the same turn.
+    **Level 15**{.inl} When you attack with a **:wp-prop-thrown: Thrown**{.wp} weapon, you can make one extra Ranged attack using a **:wp-prop-thrown: Thrown**{.wp} as a **:rsc-b: Bonus Action**{.rsc} later on the same turn.
 
 **Versatile**
 :   When you are hit by an attack you can see while wielding a **:wp-prop-versatile: Versatile**{.wp} weapon, you can use your **:rsc-r: Reaction**{.rsc} to reduce the incoming damage by an amount equal to the weapon's damage die (e.g., 1d8 or 1d10 if used two-handed).

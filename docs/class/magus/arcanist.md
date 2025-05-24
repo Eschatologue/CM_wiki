@@ -16,7 +16,7 @@ Magi who join the Order of Arcanists often find themselves in the service of Wiz
 
 ### Level 3: Advanced Armoury
 
-*Your Order has taught you to expand your Arcane Armoury to hold more than the armaments of war.*
+*"Your Order has taught you to expand your Arcane Armoury to hold more than the armaments of war."*{.quote}
 
 You can perform your Arcane Armoury ritual on potions, spell scrolls, staffs, wands, Tiny wondrous items, and other Tiny items, storing them in your Arcane Armoury. As normal, you can use a **:rsc-b: Bonus Action**{.rsc} to shunt or summon these items from your Arcane Armoury, but you must have a free hand to do so.
 
@@ -56,7 +56,7 @@ You can also copy any Magus or Wizard spell from a spell scroll or Spellbook int
 
 ### Level 7: War Magic
 
-*You can seamlessly weave minor spells with weapon attacks.*
+*"You can seamlessly weave minor spells with weapon attacks."*{.quote}
 
 After you cast a Magus spell that has a casting time of an **:rsc-a: Action**, you can make one attack with a weapon as a **:rsc-b: Bonus Action**{.rsc}.
 
@@ -66,7 +66,7 @@ The duration of your **[Spellsight]** increases to 10 minutes, it no longer requ
 
 ### Level 20: Grand Arcanist
 
-*You wield arcane magic that rivals an archmage.*
+*Y"ou wield arcane magic that rivals an archmage."*{.quote}
 
 You add one level 6 and one level 7 Wizard spell of your choice to your Spellbook. You can cast each spell once without expending a spell slot, and regain the ability to do so after a **:rest-long: Long Rest**{ .nowrap }.
 

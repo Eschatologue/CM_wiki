@@ -46,6 +46,14 @@ While you have the **Deafened** condition, you experience the following effect.
 
 ---
 
+### :fontawesome-solid-wine-bottle: Drunk
+
+While you have the **Drunk** condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected**{.inl} You have **:d20-dis: Disadvantage**{.d20} on Dexterity & Charisma ability checks.
+
+---
+
 ### Exhaustion 
 
 While you have the **Exhaustion** condition, you experience the following effects.

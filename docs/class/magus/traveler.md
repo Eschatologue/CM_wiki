@@ -31,7 +31,7 @@ When you reach a Magus level specified in the Traveler Spells table, you thereaf
 
 ### Level 3: Temporal Shift
 
-*You can alter the passage of time to undo any mistakes and missteps you may make.*
+*"You can alter the passage of time to undo any mistakes and missteps you may make."*{.quote}
 
 Whenever you fail a D20 Test, you can take a **:rsc-r: Reaction**{.rsc} to re-roll your d20. You must use this new result.
 
@@ -39,13 +39,13 @@ You can use this feature a number of times equal to your Intelligence modifier (
 
 ### Level 3: Visions of the Past
 
-*You have learned to see echoes of past events in the present.* 
+*Y"ou have learned to see echoes of past events in the present."*{.quote}
 
 You gain proficiency in History, and whenever you make an Intelligence (History) check while in the location where the subject of your Intelligence (History) check took place, you can add double your proficiency bonus to your roll.
 
 ### Level 7: Chronological Drift
 
-*Your use of time magic has caused your physical form to be detached from the normal flow of time.*
+*"Your use of time magic has caused your physical form to be detached from the normal flow of time."*{.quote}
 
 Your age cannot be changed by spells or magical effects, and for every 10 years that pass, your physical body only ages 1 year.
 
@@ -53,7 +53,7 @@ At level 15, you only age 1 year for every 100 years that pass, and at level 20,
 
 ### Level 7: Greater Shift
 
-*Your knowledge of Chronomancy magic allows you to adjust the effects of time for the creatures around you.* 
+*"Your knowledge of Chronomancy magic allows you to adjust the effects of time for the creatures around you."*{.quote} 
 
 You can use [Temporal Shift] whenever a creature that you can see within 30 feet fails a D20 Test. It must use the new result of its d20 roll.
 
@@ -61,7 +61,7 @@ Also, at the beginning of each round of **:d20-inv: Initiative**{.d20 } in comba
 
 ### Level 15: Conjure Self
 
-*You have become so adept at the manipulation of time that you can conjure versions of yourself from the future to aid you.*
+*"You have become so adept at the manipulation of time that you can conjure versions of yourself from the future to aid you."*{.quote}
 
 As a **:rsc-a: Magic**{.rsc} action, expend a level 3+ spell slot to conjure your **Future Self**, which shares your **:d20-inv: Initiative**{.d20 } and acts immediately after you.
 

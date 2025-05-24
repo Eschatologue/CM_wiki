@@ -10,7 +10,7 @@ Channel Rage into Violent Fury
 
 > *Channel Rage into Violent Fury*
 
-Violence is both a means and an end. You follow a path of untrammelled fury, slick with blood, as you thrill in the chaos of battle, heedless of your own well-being.
+Violence is both your means and your end, as you follow a path of untrammelled fury, slick with blood and driven by sheer anger. As a **Berserker**, you revel in the chaos of battle, heedless of your own well-being, allowing your Rage to seize you and empower every savage strike.
 
 ### Level 3: Frenzy
 

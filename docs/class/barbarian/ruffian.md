@@ -11,7 +11,7 @@ Rage Born in the Streets
 
 > *Rage Born in the Streets*
 
-While most Barbarians draw their Rage from the untamed wilderness, those who follow the Path of the Ruffian find their **:ui-rage: Rage**{ .em } in the shadowy underbelly of civilisation, in the slums of sprawling cities and among the forgotten corners of society. Unlike others who fight for honour or noble causes, a Ruffian battles for the thrill of it—or simply to survive another day. Whatever drives them, Ruffians share one thing in common: when trouble arises, they prefer to settle matters with their fists.
+While most Barbarians draw their Rage from the untamed wilderness, those who follow the Path of the Ruffian find their **Rage** in the shadowy underbelly of civilisation, in the slums of sprawling cities and among the forgotten corners of society. Unlike others who fight for honour or noble causes, a Ruffian battles for the thrill of it—or simply to survive another day. Whatever drives them, Ruffians share one thing in common: when trouble arises, they prefer to settle matters with their fists.
 
 ### Level 3: The Wrong Crowd
 

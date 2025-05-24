@@ -43,7 +43,7 @@ When you reach a Magus level specified in the Spellbreaker Spells table, you the
 
 ### Level 7: Mantle of Defense
 
-*You can steel yourself to better resist the magic of your hated foes.*
+*"You can steel yourself to better resist the magic of your hated foes."*{.quote}
 
 Whenever your Mark forces you to make a saving throw to resist a spell or another magical effect, you gain a bonus to your roll equal to your Intelligence modifier (minimum of +1).
 
@@ -56,7 +56,7 @@ However, when you end your [Baleful Mark] in this way, you cannot Mark that crea
 
 ### Level 15: Reflective Spellsunder
 
-*You reflect your enemy's magic back upon themselves.*
+*"You reflect your enemy's magic back upon themselves."*{.quote}
 
 When you use Spellsunder and cause the spell to fail, you can force the creature that cast the spell to become the new target of their own spell.
 
@@ -64,7 +64,9 @@ The spell uses the caster's spell attack roll and Spell save DC. If it requires 
 
 ### Level 20: Master of Spellbreakers
 
-You have risen through the ranks of your Order to become an unparalleled hunter of mages. You gain the benefits below:
+*"You have risen through the ranks of your Order to become an unparalleled hunter of mages."*{.quote}
+
+You gain the benefits below:
 
 **Quick Mark**{.inl} When you roll **:d20-inv: Initiative**{.d20 }, so long as you are not surprised, you can mark a creature you can see with [Baleful Mark].
 

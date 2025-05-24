@@ -29,7 +29,7 @@ When you reach a Magus level specified in the Warder Spells table, you thereafte
 
 ### Level 3: Warder's Bond
 
-*You are taught the signature protective style of your Order.* 
+*"You are taught the signature protective style of your Order."*{.quote} 
 
 You gain training in Heavy armour. Also, at the end of a **:rest-long: Long Rest**, you can touch a willing creature, forging a mystical bond that designates it as your Ward until your next Long Rest.
 
@@ -39,7 +39,7 @@ At certain Magus levels, the range of this **:rsc-r: Reaction**{.rsc} increases:
 
 ### Level 7: Arcane Aegis
 
-*You can temporarily infuse your Warder's Bond with arcane power to absorb damage.*
+*"You can temporarily infuse your Warder's Bond with arcane power to absorb damage."*{.quote}
 
 When you use your Warder's Bond Reaction and you take damage, you can expend a spell slot as part of the same Reaction to reduce that damage by `2d8` per level of the spell slot you expended.
 
@@ -47,7 +47,7 @@ Moreover, whenever you start your turn within 10 feet of your Ward, you can gran
 
 ### Level 15: Bond Perfected
 
-*The magic of your Bond has reached its apex.*
+*"The magic of your Bond has reached its apex."*{.quote}
 
 When you use your Warder's Bond Reaction you are considered resistant to any damage you take from the triggering attack or effect.
 
@@ -55,7 +55,7 @@ In addition, while you are within 10 feet of your Ward you are both immune to th
 
 ### Level 20: High Warder
 
-*You have risen to the highest rank in the Order of Warders and stand as a stalwart arcane shield for any who are under your protection.*
+*"You have risen to the highest rank in the Order of Warders and stand as a stalwart arcane shield for any who are under your protection."*{.quote}
 
 At the end of each Long Rest, you can bond up to five willing creatures as your Wards with Warder's Bond. All other rules for your Warder's Bond still apply for you.
 

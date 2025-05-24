@@ -158,9 +158,9 @@ Once you use this feature, you can't use it again until you finish a **:rest-lon
 
 ### Level 3: Deflect Attacks
 
-When an attack roll hits you and its damage includes **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, or **:dmg-slsh: Slashing**{ .dmg-bps } damage, you can take a **:rsc-r: Reaction**{.rsc} to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.
+When an attack roll hits you and its damage includes **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, or **:dmg-slsh: Slashing**{ .dmg-bps } damage, you can take a **:rsc-r: Reaction**{.rsc} to reduce the attack's total damage against you. The reduction equals `1d10 plus your Dexterity modifier and Monk level`.
 
-If you reduce the damage to 0, you can expend **1 :class-phb24-monk: Focus Point(s)** to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind Total Cover if the attack was a ranged attack. That creature must succeed on a **:d20-save: DEX Save**{.d20} or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
+If you reduce the damage to 0, you can expend **1 :class-phb24-monk: Focus Point(s)** to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind Total Cover if the attack was a ranged attack. That creature must succeed on a **:d20-save: DEX Save**{.d20} or take damage equal to `two rolls of your Martial Arts die plus your Dexterity modifier`. The damage is the same type dealt by the attack.
 
 ### Level 3: Monk Subclass
 
