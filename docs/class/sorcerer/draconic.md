@@ -33,20 +33,20 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 
 ### Level 6: Elemental Affinity
 
-Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: Acid, Cold, Fire, Lightning, or Poison.
+Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: **:dmg-acid: Acid**{.dmg-acid}, **:dmg-cold: Cold**{.dmg-cold}, **:dmg-fire: Fire**{.dmg-fire}, **:dmg-lgtn: Lightning**{.dmg-lgtn}, or **:dmg-posn: Poison**{.dmg-posn}.
 
-You have Resistance to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
+You have **:dmg-res: Resistance** to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
 
 ### Level 14: Dragon Wings
 
 As a **:rsc-b: Bonus Action**{.rsc}, you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a Fly Speed of 60 feet.
 
-Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest** unless you spend 3 Sorcery Points (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest** unless you spend **3 :class-phb24-sorcerer: Sorcery Point(s)** (no action required) to restore your use of it.
 
 ### Level 18: Dragon Companion
 
 You can cast [:spell-lv5: Summon Dragon] without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a **:rest-long: Long Rest**.
 
-Whenever you start casting [:spell-lv5: Summon Dragon], you can modify it so that it doesn't require Concentration. If you do so, the spell's duration becomes 1 minute for that casting.
+Whenever you start casting [:spell-lv5: Summon Dragon], you can modify it so that it doesn't require **:spell-conc: Concentration**. If you do so, the spell's duration becomes 1 minute for that casting.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"

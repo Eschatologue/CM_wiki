@@ -19,7 +19,7 @@ The magic of your otherworldly patron ensures you always have certain spells rea
 ##### Celestial Spells
 
 | Warlock Level | Spells |
-|---|---|
+|:-:|---|
 | 3 | [:spell-lv2: Aid], [:spell-lv1: Cure Wounds], [:spell-lv1: Guiding Bolt], [:spell-lv2: Lesser Restoration], [:spell-lv0: Light], [:spell-lv0: Sacred Flame] |
 | 5 | [:spell-lv3: Daylight], [:spell-lv3: Revivify] |
 | 7 | [:spell-lv4: Guardian of Faith], [:spell-lv4: Wall of Fire] |
@@ -35,15 +35,15 @@ Your pool regains all expended dice when you finish a **:rest-long: Long Rest**.
 
 ### Level 6: Radiant Soul
 
-Your link to your patron allows you to serve as a conduit for radiant energy. You have Resistance to Radiant damage, and when you cast a spell that deals Radiant or Fire damage, you can add your Charisma modifier to one Radiant or Fire damage roll of that spell against one of its targets.
+Your link to your patron allows you to serve as a conduit for radiant energy. You have **:dmg-res: Resistance** to **:dmg-radi: Radiant**{.dmg-radi} damage, and when you cast a spell that deals **:dmg-radi: Radiant**{.dmg-radi} or **:dmg-fire: Fire**{.dmg-fire} damage, you can add your Charisma modifier to one **:dmg-radi: Radiant**{.dmg-radi} or **:dmg-fire: Fire**{.dmg-fire} damage roll of that spell against one of its targets.
 
 ### Level 10: Celestial Resilience
 
-You gain **:trt-thp: Temporary Hit Points**{.dmg-temp} whenever you use your Magical Cunning feature or finish a **:rest-short: Short Rest** or Long Rest. These **:trt-thp: Temporary Hit Points**{.dmg-temp} equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see at the end of the rest. Those creatures each gain **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to half your Warlock level plus your Charisma modifier.
+You gain **(Warlock level + Charisma modifier) :trt-thp: Temporary Hit Points**{.dmg-temp} whenever you use your Magical Cunning feature or finish a **:rest-short: Short** or **:rest-long: Long Rest**. Additionally, choose up to five creatures you can see at the end of the rest. Those creatures each gain **(Warlock level + Charisma modifier) :trt-thp: Temporary Hit Points**{.dmg-temp}.
 
 ### Level 14: Searing Vengeance
 
-The radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring to your feet with a burst of radiant energy. You regain Hit Points equal to half your Hit Point Maximum and then stand if you so choose. Each creature of your choice that is within 30 feet of you takes :dmg-radi: Radiant damage equal to 2d8 plus your Charisma modifier, and each has the Blinded condition until the end of the current turn.
+The radiant energy you channel allows you to resist death. When you have to make a death saving throw at the start of your turn, you can instead spring to your feet with a burst of radiant energy. You regain Hit Points equal to half your Hit Point Maximum and then stand if you so choose. Each creature of your choice that is within 30 feet of you takes **(2d8 + Charisma modifier) :dmg-radi: Radiant**{.dmg-radi} damage, and each has the **Blinded**{.cond} condition until the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**.
 
