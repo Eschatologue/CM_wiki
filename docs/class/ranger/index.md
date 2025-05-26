@@ -112,8 +112,6 @@ The number of times you can cast the spell without a spell slot increases when y
 
 <!-- --8<-- [start:opt-rng-aptitude] -->
 
-*Level 1 Ranger Core Class Feature (Optional)*{.fg-light}
-
 You gain invaluable knowledge, experiences, or hard-earned lessons, which is represented by Ranger's Aptidude. You gain one aptidude of your choice. Aptidude are described in the "[Ranger's Aptitude Options]" section later in this class's description.
 
 **Prerequisites**{.inl} If an aptidude has a prerequisite, you must meet it to learn that aptidude. For example, if an aptidude requires you to be a level 5+ Ranger, you can select the aptidude once you reach Ranger level 5. If another Ranger feature gives you Aptitude, those Aptitude don't count against the number of Aptitudes you know with this feature.
@@ -217,7 +215,7 @@ Choose two of your skill proficiencies with which you lack Expertise. You gain E
 
 Primal forces now help fuel you on your journeys, granting you the following benefits.
 
-**Temporary Hit Points**{.inl} As a **:rsc-a: Magic**{.rsc} action, you can give yourself a number of **:trt-thp: Temporary Hit Points** equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
+**Temporary Hit Points**{.dmg-temp}{.inl} As a **:rsc-a: Magic**{.rsc} action, you can give yourself a number of **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to 1d8 plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 **Decrease Exhaustion**{.inl} Whenever you finish a **:rest-short: Short Rest**, your Exhaustion level, if any, decreases by 1.
 

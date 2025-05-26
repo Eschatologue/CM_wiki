@@ -58,7 +58,7 @@ You can select one additional option from either *Aspect of the Wilds* or *Aspec
 | 2 | **The Magician** | You learn two Cleric cantrips of your choice. Strength is your spellcasting ability for them. You can cast them even while your **:ui-rage: Rage** is active. | 
 | 3 | **The Emperor** | When you make a Intelligence (History) or Charisma (Intimidation) check, it gains bonus equals to your Strength modifier. | 
 | 4 | **The Lovers** | You can take the **:rsc-a: Help**{.rsc} action as a **:rsc-b: Bonus Action**{.rsc}. When you make a Charisma (Persuasion) check, it gains bonus equals to your Strength modifier. | 
-| 5 | **The Chariot** | When you take the **:rsc-a: Dash**{.rsc} action, you gain **:trt-thp: Temporary Hit Points** equal to twice your Barbarian level until the start of your next turn. | 
+| 5 | **The Chariot** | When you take the **:rsc-a: Dash**{.rsc} action, you gain **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to twice your Barbarian level until the start of your next turn. | 
 | 6 | **The Strength** | You are considered one size larger for determining your carrying capacity. You also have **:d20-adv: Advantage**{.d20} on Strength checks. | 
 | 7 | **The Wheel of Fortune** | When you make an ability check or saving throw, before you know the result, you can roll a `1d4`. On a 4, you can reroll that ability check or saving throw. You must use the new roll. | 
 | 8 | **The Hermit** | When you make a Wisdom (Perception) or Wisdom (Religion) check, it gains bonus equals to your Strength modifier. | 

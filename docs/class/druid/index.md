@@ -180,7 +180,7 @@ When choosing known forms, you may look in the Monster Manual or elsewhere for e
 
 While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
-**Temporary Hit Points**{.inl} When you assume a **:material-paw: Wild Shape** form, you gain a number of **:trt-thp: Temporary Hit Points** equal to your Druid level.
+**Temporary Hit Points**{.dmg-temp}{.inl} When you assume a **:material-paw: Wild Shape** form, you gain a number of **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to your Druid level.
 { .indt }
 
 **Game Statistics**{.inl} Your game statistics are replaced by the Beast's stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.

@@ -217,7 +217,7 @@ The option you chose for Blessed Strikes grows more powerful.
 
 **Divine Strike**{.inl} The extra damage of your Divine Strike increases to 2d8.
 
-**Potent Spellcasting**{.inl} When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of **:trt-thp: Temporary Hit Points** equal to twice your Wisdom modifier.
+**Potent Spellcasting**{.inl} When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to twice your Wisdom modifier.
 
 ### Level 19: Epic Boon
 

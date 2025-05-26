@@ -14,7 +14,7 @@ Your pact draws on the Lower Planes, the realms of perdition. You might forge a 
 
 ### Level 3: Dark One's Blessing
 
-When you reduce an enemy to 0 Hit Points, you gain **:trt-thp: Temporary Hit Points** equal to your Charisma modifier plus your Warlock level (minimum of 1 Temporary Hit Point). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 Hit Points.
+When you reduce an enemy to 0 Hit Points, you gain **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to your Charisma modifier plus your Warlock level (minimum of 1 Temporary Hit Point). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 Hit Points.
 
 ### Level 3: Fiend Spells
 

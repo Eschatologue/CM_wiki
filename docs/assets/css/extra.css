@@ -230,13 +230,13 @@
 }
 
 .jetbrains, .calc, .wp, .cond, .rsc {
-  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.1rem;
 }
 
-.jetbrains-icon :is(.emojione, .twemoji, .gemoji), .dmg-heal :is(.emojione, .twemoji, .gemoji), .dmg-bps :is(.emojione, .twemoji, .gemoji), .dmg-force :is(.emojione, .twemoji, .gemoji), .dmg-radi :is(.emojione, .twemoji, .gemoji), .dmg-necr :is(.emojione, .twemoji, .gemoji), .dmg-lgtn :is(.emojione, .twemoji, .gemoji), .dmg-psyc :is(.emojione, .twemoji, .gemoji), .dmg-thun :is(.emojione, .twemoji, .gemoji), .dmg-posn :is(.emojione, .twemoji, .gemoji), .dmg-fire :is(.emojione, .twemoji, .gemoji), .dmg-cold :is(.emojione, .twemoji, .gemoji), .dmg-acid :is(.emojione, .twemoji, .gemoji), .jetbrains :is(.emojione, .twemoji, .gemoji), .calc :is(.emojione, .twemoji, .gemoji), .wp :is(.emojione, .twemoji, .gemoji), .cond :is(.emojione, .twemoji, .gemoji), .rsc :is(.emojione, .twemoji, .gemoji) {
+.jetbrains-icon :is(.emojione, .twemoji, .gemoji), .dmg-temp :is(.emojione, .twemoji, .gemoji), .dmg-heal :is(.emojione, .twemoji, .gemoji), .dmg-bps :is(.emojione, .twemoji, .gemoji), .dmg-force :is(.emojione, .twemoji, .gemoji), .dmg-radi :is(.emojione, .twemoji, .gemoji), .dmg-necr :is(.emojione, .twemoji, .gemoji), .dmg-lgtn :is(.emojione, .twemoji, .gemoji), .dmg-psyc :is(.emojione, .twemoji, .gemoji), .dmg-thun :is(.emojione, .twemoji, .gemoji), .dmg-posn :is(.emojione, .twemoji, .gemoji), .dmg-fire :is(.emojione, .twemoji, .gemoji), .dmg-cold :is(.emojione, .twemoji, .gemoji), .dmg-acid :is(.emojione, .twemoji, .gemoji), .jetbrains :is(.emojione, .twemoji, .gemoji), .calc :is(.emojione, .twemoji, .gemoji), .wp :is(.emojione, .twemoji, .gemoji), .cond :is(.emojione, .twemoji, .gemoji), .rsc :is(.emojione, .twemoji, .gemoji) {
   font-size: calc(var(--gbl-font-size) * 0.95);
   margin-right: -0.125rem;
   vertical-align: text-top !important;
@@ -506,7 +506,7 @@ table:not([class]) .smallcap {
     Damage Type Dynamic Classes
 -------------------------------------------------------*/
 .dmg-acid {
-  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.075rem;
@@ -521,7 +521,7 @@ table:not([class]) .smallcap {
 }
 
 .dmg-cold {
-  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.075rem;
@@ -536,7 +536,7 @@ table:not([class]) .smallcap {
 }
 
 .dmg-fire {
-  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.075rem;
@@ -551,7 +551,7 @@ table:not([class]) .smallcap {
 }
 
 .dmg-posn {
-  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.075rem;
@@ -566,7 +566,7 @@ table:not([class]) .smallcap {
 }
 
 .dmg-thun {
-  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.075rem;
@@ -581,7 +581,7 @@ table:not([class]) .smallcap {
 }
 
 .dmg-psyc {
-  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.075rem;
@@ -596,7 +596,7 @@ table:not([class]) .smallcap {
 }
 
 .dmg-lgtn {
-  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.075rem;
@@ -611,7 +611,7 @@ table:not([class]) .smallcap {
 }
 
 .dmg-necr {
-  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.075rem;
@@ -626,7 +626,7 @@ table:not([class]) .smallcap {
 }
 
 .dmg-radi {
-  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.075rem;
@@ -641,7 +641,7 @@ table:not([class]) .smallcap {
 }
 
 .dmg-force {
-  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.075rem;
@@ -656,7 +656,7 @@ table:not([class]) .smallcap {
 }
 
 .dmg-bps {
-  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.075rem;
@@ -671,7 +671,7 @@ table:not([class]) .smallcap {
 }
 
 .dmg-heal {
-  font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
   font-family: var(--jetbrains);
   font-weight: 600 !important;
   word-spacing: -0.075rem;
@@ -682,6 +682,21 @@ table:not([class]) .smallcap {
   margin-right: 0.04rem !important;
 }
 .dmg-heal :is(.emojione, .twemoji, .gemoji) {
+  margin-left: -0.125em;
+}
+
+.dmg-temp {
+  font-size: calc(var(--gbl-font-size) * 0.825); /* DON'T CHANGE THIS */
+  font-family: var(--jetbrains);
+  font-weight: 600 !important;
+  word-spacing: -0.075rem;
+  letter-spacing: -0.05em !important;
+  color: hsl(219, 28%, 88%) !important;
+  white-space: nowrap;
+  margin: 0 0.125rem !important;
+  margin-right: 0.04rem !important;
+}
+.dmg-temp :is(.emojione, .twemoji, .gemoji) {
   margin-left: -0.125em;
 }
 

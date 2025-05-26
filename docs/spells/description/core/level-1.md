@@ -67,7 +67,7 @@ Target a Beast that you can see within range. The target must succeed on a Wisdo
 
 Protective magical frost surrounds you. You gain 5 Temporary Hit Points. If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no Temporary Hit Points.
 
-***Using a Higher-Level Spell Slot.*** The **:trt-thp: Temporary Hit Points** and the Cold damage both increase by 5 for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** The **:trt-thp: Temporary Hit Points**{.dmg-temp} and the Cold damage both increase by 5 for each spell slot level above 1.
 
 > **Classes:** Warlock
 
@@ -580,7 +580,7 @@ Attack rolls against an affected creature or object have **:d20-adv: Advantage**
 
 You gain 2d4 + 4 Temporary Hit Points.
 
-***Using a Higher-Level Spell Slot.*** You gain 5 additional **:trt-thp: Temporary Hit Points** for each spell slot level above 1.
+***Using a Higher-Level Spell Slot.*** You gain 5 additional **:trt-thp: Temporary Hit Points**{.dmg-temp} for each spell slot level above 1.
 
 > **Classes:** Artificer, Sorcerer, Wizard
 
@@ -744,7 +744,7 @@ The creature that damaged you is momentarily surrounded by green flames. It make
 **Components:** V, S  
 **Duration:** Concentration, up to 1 minute
 
-A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the Frightened condition and gains **:trt-thp: Temporary Hit Points** equal to your spellcasting ability modifier at the start of each of its turns.
+A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the Frightened condition and gains **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to your spellcasting ability modifier at the start of each of its turns.
 
 ***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
 

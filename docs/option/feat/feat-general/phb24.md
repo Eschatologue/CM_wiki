@@ -87,7 +87,7 @@ You gain the following benefits.
 :   As part of a **:rest-short: Short Rest**, you can cook special food if you have ingredients and Cook's Utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 plus your Proficiency Bonus. At the end of the **:rest-short: Short Rest**, any creature who eats the food and spends one or more Hit Dice to regain Hit Points regains an extra 1d8 Hit Points.
 
 **Bolstering Treats**
-:   With 1 hour of work or when you finish a **:rest-long: Long Rest**, you can cook a number of treats equal to your Proficiency Bonus if you have ingredients and Cook's Utensils on hand. These special treats last 8 hours after being made. A creature can use a **:rsc-b: Bonus Action**{.rsc} to eat one of those treats to gain a number of **:trt-thp: Temporary Hit Points** equal to your Proficiency Bonus.
+:   With 1 hour of work or when you finish a **:rest-long: Long Rest**, you can cook a number of treats equal to your Proficiency Bonus if you have ingredients and Cook's Utensils on hand. These special treats last 8 hours after being made. A creature can use a **:rsc-b: Bonus Action**{.rsc} to eat one of those treats to gain a number of **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to your Proficiency Bonus.
 
 ---
 
@@ -281,7 +281,7 @@ You gain the following benefits.
 :   Increase your Wisdom or Charisma score by 1, to a maximum of 20.
 
 **Bolstering Performance**
-:   When you finish a **:rest-short: Short Rest** or a **:rest-long: Long Rest**, you can give an inspiring performance: a speech, song, or dance. When you do so, choose up to six allies (which can include yourself) within 30 feet of yourself who witness the performance. The chosen creatures each gain **:trt-thp: Temporary Hit Points** equal to your character level plus the modifier of the ability you increased with this feat.
+:   When you finish a **:rest-short: Short Rest** or a **:rest-long: Long Rest**, you can give an inspiring performance: a speech, song, or dance. When you do so, choose up to six allies (which can include yourself) within 30 feet of yourself who witness the performance. The chosen creatures each gain **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to your character level plus the modifier of the ability you increased with this feat.
 
 ---
 

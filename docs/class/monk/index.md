@@ -202,7 +202,7 @@ Your Flurry of Blows, Patient Defense, and Step of the Wind gain the following b
 
 **Flurry of Blows**{.inl} You can expend **1 :class-phb24-monk: Focus Point(s)** to use [Flurry of Blows](#flurry-of-blows) and make three **:rsc-a: Unarmed Strike**{.rsc} with it instead of two.
 
-**Patient Defense**{.inl} When you expend a **:class-phb24-monk: Focus Point(s)** to use [Patient Defense](#patient-defense), you gain a number of **:trt-thp: Temporary Hit Points** equal to two rolls of your Martial Arts die.
+**Patient Defense**{.inl} When you expend a **:class-phb24-monk: Focus Point(s)** to use [Patient Defense](#patient-defense), you gain a number of **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to two rolls of your Martial Arts die.
 
 **Step of the Wind**{.inl} When you expend a **:class-phb24-monk: Focus Point(s)** to use [Step of the Wind](#step-of-the-wind), you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's Movement doesn't provoke Opportunity Attacks.
 

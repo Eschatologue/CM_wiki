@@ -47,7 +47,7 @@ When you roll **:d20-inv: Initiative**{.d20 }, you can expend one use of your Ba
 
 Whenever you hit with a weapon attack you deal bonus **(Bardic Die) :dmg-thun: Thunder**{.dmg-thun} damage. This roll doesn't expend the die.
 
-Moreover, when a creature that has a Bardic Inspiration die from you uses it for a D20 Test, that creature gains **:trt-thp: Temporary Hit Points** equals to the number rolled.
+Moreover, when a creature that has a Bardic Inspiration die from you uses it for a D20 Test, that creature gains **:trt-thp: Temporary Hit Points**{.dmg-temp} equals to the number rolled.
 
 :material-book-edit: Written by *Laserllama* :material-book-arrow-up: Modified & Adapted to PHB'24 by *Eschatologue*
 { .author }

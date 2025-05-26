@@ -89,7 +89,7 @@ When you drink this potion, you gain the following benefits for the next 8 hours
 
 *Potion, Common, M-*
 
-Grants **(4d4 + Consiturion Modifier) :trt-thp: Temporary Hit Points**.
+Grants **(4d4 + Consiturion Modifier) :trt-thp: Temporary Hit Points**{.dmg-temp}.
 
 ---
 

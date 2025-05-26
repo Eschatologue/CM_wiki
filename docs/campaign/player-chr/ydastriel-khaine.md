@@ -44,10 +44,10 @@ You can use this feature **twice**. You regain one expended use when you finish 
     Your resolves hardens like amber and your heart pumps liquid adamantine. The Perseverance Resonance grants you the following benefit for your Starry Form Constellations.
 
     **Siege Emplacement** <br>_Archer_
-    :   Allies that start its turn within 10 feet of you, gain **:trt-thp: Temporary Hit Points** equal to twice your Proficiency Bonus until the start of its next turn.
+    :   Allies that start its turn within 10 feet of you, gain **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to twice your Proficiency Bonus until the start of its next turn.
 
     **Amber Armour** <br>_Chalice_
-    :   When you restore **:trt-hp: Hit Points** to a creature using the Chalice Form feature, any **:trt-hp: Hit Points** that exceeds the target's HP becomes **:trt-thp: Temporary Hit Points**.
+    :   When you restore **:trt-hp: Hit Points** to a creature using the Chalice Form feature, any **:trt-hp: Hit Points** that exceeds the target's HP becomes **:trt-thp: Temporary Hit Points**{.dmg-temp}.
     
     **Warding Aura** <br>_Dragon_
     :   While **:spell-conc: Concentrating** on a Druid spell, each creature that you choose within 10 feet of you gain the benefit of Half Cover.

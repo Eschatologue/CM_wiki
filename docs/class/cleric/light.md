@@ -42,7 +42,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 You regain all expended use of your Warding Flare when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
-In addition, whenever you use Warding Flare, you can give thet arger of the triggering attack a number of **:trt-thp: Temporary Hit Points** equal to 2d6 plus your Wisdom Modifier.
+In addition, whenever you use Warding Flare, you can give thet arger of the triggering attack a number of **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to 2d6 plus your Wisdom Modifier.
 
 ### Level 17: Corona of Light
 

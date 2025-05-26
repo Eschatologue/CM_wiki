@@ -74,7 +74,7 @@ You've developed masterful command of magical chemicals, enhancing the healing a
 
 You can incorporate restorative reagents into some of your works:
 
-**Fortifying Elixirs**{.inl} Whenever a creature drinks an experimental elixir you created, the creature gains **:trt-thp: Temporary Hit Points** equal to 2d6 + your Intelligence modifier (minimum of **1 :trt-thp: Temporary Hit Point**).
+**Fortifying Elixirs**{.inl} Whenever a creature drinks an experimental elixir you created, the creature gains **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to 2d6 + your Intelligence modifier (minimum of **1 :trt-thp: Temporary Hit Point**).
 
 **Lesser Restoration**{.inl} You always have the [:spell-lv2: Lesser Restoration] spell prepared, and you cast it without expending a spell slot, provided you use Alchemist's Supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a **:rest-long: Long Rest**.
 

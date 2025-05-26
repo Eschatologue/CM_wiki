@@ -21,7 +21,7 @@ You gain a set of Calligrapher's Tools and you have proficiency in it and two of
 
 Your intensive training in battle grants you unparalleled focus. You gain the ability to use one of the following effects described below. Each time you use a Fighting Spirit, you choose which effect from among those you have from this subclass.
 
-You can use Fighting Spirit a number of time equals to `1 plus your Wisdom modifier`. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. Each time you use a Fighting Spirit you also gain **(2x WIS mod) :trt-thp: Temporary Hit Points**{.calc} (minimum of 1).
+You can use Fighting Spirit a number of time equals to `1 plus your Wisdom modifier`. You regain one expended use when you finish a **:rest-short: Short Rest**, and you regain all expended uses when you finish a **:rest-long: Long Rest**. Each time you use a Fighting Spirit you also gain **(2x WIS mod) :trt-thp: Temporary Hit Points**{.dmg-temp}{.calc} (minimum of 1).
 
 **Fighting Spirit: Precision**
 :   When you make an attack, you can grant yourself **:d20-adv: Advantage**{.d20} on all your attacks until the start of your next turn.  

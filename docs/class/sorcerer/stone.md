@@ -48,23 +48,21 @@ In addition, you can cast one of your Sorcerer cantrip that has the casting time
 
 *Your command of earth magic grows stronger, allowing you to harness it for your allies' protection.*
 
-As a **:rsc-b: Bonus Action**{.rsc}, you can touch a willing creature (including yourself) and and expend Sorcery Points to grant it 1d6 **:trt-thp: Temporary Hit Points** per Sorcery Point.
+As a **:rsc-b: Bonus Action**{.rsc}, you can touch a willing creature (including yourself) and and expend **:class-phb24-sorcerer: Sorcery Point(s)** to grant it **1d6 :trt-thp: Temporary Hit Points**{.dmg-temp} per **:class-phb24-sorcerer: Sorcery Point(s)**.
 
-When a creature with these **:trt-thp: Temporary Hit Points** within 60 feet of you that you can see is hit by a melee attack, you can use your **:rsc-r: Reaction**{.rsc} to teleport within 5 feet of the attacker and make a Melee attack or **:rsc-a: Unarmed Strike**{.rsc} against it.
+When a creature with these **:trt-thp: Temporary Hit Points**{.dmg-temp} within 60 feet of you that you can see is hit by a melee attack, you can use your **:rsc-r: Reaction**{.rsc} to teleport within 5 feet of the attacker and make a Melee attack or **:rsc-a: Unarmed Strike**{.rsc} against it.
 
 ### Level 14: Mountain's Heart
 
 *Your sorcerous magic is as hard as the bedrock of mountains.*
 
-When creatures have Stone Aegis' Temporary Hit Points, they have **:dmg-res: Resistance**{ .em } to :dmg-bldg: Bludgeoning, :dmg-prcg: Piercing, and :dmg-slsh: Slashing damage. They also has :dmg-imm: Immunity to Forced Movement[^1].
+When creatures have Stone Aegis' Temporary Hit Points, they have **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**{.dmg-bps}, **:dmg-prcg: Piercing**{.dmg-bps}, and **:dmg-slsh: Slashing**{.dmg-bps} damage. They also has can't be moved against their will.
 
 ### Level 18: Earth Master's Aegis
 
 When you use your Stone's Aegis to protect an ally, you can choose up to three creatures to gain its benefits.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
-
-[^1]: *Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own Movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master's *Pushing Attack*. Forced Movement does **not** provoke Opportunity Attacks and is not limited by a creature's Movement speed.
 
 :material-book-arrow-up: Updated by *Eschatologue*
 { .author }

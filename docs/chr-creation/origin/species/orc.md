@@ -16,7 +16,7 @@ As an Orc, you have these following traits.
 
 ### Adrenaline Rush
 
-You can take the **Dash**{.rsc} action as a  **:rsc-b: Bonus Action**{.rsc}. When you do so, you gain a number of **:trt-thp: Temporary Hit Points** equal to your Proficiency Bonus.
+You can take the **Dash**{.rsc} action as a  **:rsc-b: Bonus Action**{.rsc}. When you do so, you gain a number of **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to your Proficiency Bonus.
 
 You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended use when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 

@@ -20,7 +20,7 @@ To learn a Manoeuvre you must meet any prerequisites it has.
 ### Brace Up {.hide}
 
 ***Brace Up***
-:   _**Prerequisites:** Constitution 11+_ <br>You prepare yourself to take a hit. As a **:rsc-b: Bonus Action**{.rsc}, you can expend one Superiority Die to gain **(Superiority Dice + CON Modifier) :trt-thp: Temporary Hit Points**, which expires after 1 minute.
+:   _**Prerequisites:** Constitution 11+_ <br>You prepare yourself to take a hit. As a **:rsc-b: Bonus Action**{.rsc}, you can expend one Superiority Die to gain **(Superiority Dice + CON Modifier) :trt-thp: Temporary Hit Points**{.dmg-temp}, which expires after 1 minute.
 
 ---
  

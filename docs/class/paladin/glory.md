@@ -20,7 +20,7 @@ These paladins share the following tenets:
 
 ### Level 3: Inspiring Smite
 
-Immediately after you deal damage to a creature with [:spell-lv1: Divine Smite], you can expend one use of your **:ui-chdiv-pal: Channel Divinity** and distribute **:trt-thp: Temporary Hit Points** to creatures of your choice within 30 feet of yourself, which can include you. The total number of **:trt-thp: Temporary Hit Points** equals 2d8 plus your Paladin level, divided among the chosen creatures however you like.
+Immediately after you deal damage to a creature with [:spell-lv1: Divine Smite], you can expend one use of your **:ui-chdiv-pal: Channel Divinity** and distribute **:trt-thp: Temporary Hit Points**{.dmg-temp} to creatures of your choice within 30 feet of yourself, which can include you. The total number of **:trt-thp: Temporary Hit Points**{.dmg-temp} equals 2d8 plus your Paladin level, divided among the chosen creatures however you like.
 
 ### Level 3: Oath of Glory Spells
 

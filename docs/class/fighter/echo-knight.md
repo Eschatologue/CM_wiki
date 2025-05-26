@@ -42,7 +42,7 @@ You can make your echo throw itself in front of an attack directed at another cr
 
 ### Level 15: Reclaim Potential
 
-You've learned to absorb the fleeting magic of your echo. When an echo of yours is destroyed by taking damage, you can gain a number of **:trt-thp: Temporary Hit Points** equal to 1d8 + your Constitution modifier. You can use this feature a number of times equal to your Constitution modifier (a minimum of 1). You regain all expended uses when you finish a **:rest-long: Long Rest**.
+You've learned to absorb the fleeting magic of your echo. When an echo of yours is destroyed by taking damage, you can gain a number of **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to 1d8 + your Constitution modifier. You can use this feature a number of times equal to your Constitution modifier (a minimum of 1). You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
 ### Level 18: Legion of One
 

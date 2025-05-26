@@ -82,9 +82,9 @@ The Eldritch magic within your blood seeps into your weapon strikes. When you hi
 
 ### Level 15: Greater Offering
 
-You can restore your own vitality by inflicting pain on others. When you use [Sanguine Offering](#level-3-sanguine-offering), you gain **:trt-thp: Temporary Hit Points** equal to the **:dmg-necr: Necrotic**{.dmg-necr} damage dealt to the creature.
+You can restore your own vitality by inflicting pain on others. When you use [Sanguine Offering](#level-3-sanguine-offering), you gain **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to the **:dmg-necr: Necrotic**{.dmg-necr} damage dealt to the creature.
 
-**:trt-thp: Temporary Hit Points** you gain from this feature last for 1 minute, or until you gain **:trt-thp: Temporary Hit Points** again.
+**:trt-thp: Temporary Hit Points**{.dmg-temp} you gain from this feature last for 1 minute, or until you gain **:trt-thp: Temporary Hit Points**{.dmg-temp} again.
 
 ### Level 18: Siphon Vitality
 

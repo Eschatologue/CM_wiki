@@ -50,7 +50,7 @@ As a **:rsc-b: Bonus Action**{.rsc}, you can expend one use of your **:ui-chdiv-
 
 ### Level 7: Aura of Allegiance
 
-You exude an aura that bolsters the resolve of your allies. When a creature that is friendly to you starts its turn in your Aura of Protection, you can grant that creature **:trt-thp: Temporary Hit Points** equal to your Charisma modifier.
+You exude an aura that bolsters the resolve of your allies. When a creature that is friendly to you starts its turn in your Aura of Protection, you can grant that creature **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to your Charisma modifier.
 
 ### Level 15: Unyielding Saint
 

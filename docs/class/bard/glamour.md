@@ -22,7 +22,7 @@ Once you use this benefit, you can't use it again until you finish a **:rest-lon
 
 ### Level 3: Mantle Of Inspiration
 
-You can weave fey magic into a song or dance to fill others with vigor. As a **:rsc-b: Bonus Action**{.rsc}, you can expend a use of Bardic Inspiration, rolling a Bardic Inspiration die. When you do so, choose a number of other creatures within 60 feet of yourself, up to a number equal to your Charisma modifier (minimum of one creature). Each of them gains a number of **:trt-thp: Temporary Hit Points** equal to 2 times the number rolled on the Bardic Inspiration die, and then each of them can use its Reaction to move up to its Speed without provoking Opportunity Attacks.
+You can weave fey magic into a song or dance to fill others with vigor. As a **:rsc-b: Bonus Action**{.rsc}, you can expend a use of Bardic Inspiration, rolling a Bardic Inspiration die. When you do so, choose a number of other creatures within 60 feet of yourself, up to a number equal to your Charisma modifier (minimum of one creature). Each of them gains a number of **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to 2 times the number rolled on the Bardic Inspiration die, and then each of them can use its Reaction to move up to its Speed without provoking Opportunity Attacks.
 
 ### Level 6: Mantle Of Majesty
 

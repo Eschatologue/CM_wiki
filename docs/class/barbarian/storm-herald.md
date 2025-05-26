@@ -26,7 +26,7 @@ If an effect requires a Saving Throw. its **DC** is equals **8 plus Proficiency 
 **Sea**{.inl} Creatures of your choice that starts its turn within the Aura has its **:rsc-spd: Speed** halved until the start of its next turn.
 { .indt }
 
-**Tundra**{.inl} Creatures of your choice that starts its turn in the Aura gains **:trt-thp: Temporary Hit Points** equals to your **Rage Damage**.
+**Tundra**{.inl} Creatures of your choice that starts its turn in the Aura gains **:trt-thp: Temporary Hit Points**{.dmg-temp} equals to your **Rage Damage**.
 { .indt }
 
 ### Level 6: Storm Soul

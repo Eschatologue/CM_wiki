@@ -39,7 +39,7 @@ When you activate your **:ui-rage: Rage**{ .em }, you can choose one of the foll
 
 **Restoration**{.inl} You regain one of your expended Superiority Dice.
   
-**Temporary Hit Points**{.inl} You gain a number of **:trt-thp: Temporary Hit Points** equal to one roll of your Superiority Die.
+**Temporary Hit Points**{.dmg-temp}{.inl} You gain a number of **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to one roll of your Superiority Die.
  
 **Improved Speed**{.inl} Opportunity Attack against you have **:d20-dis: Disadvantage**{.d20} and your **:rsc-spd: Speed**{ .em } is doubled for your current turn.
 

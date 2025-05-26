@@ -36,7 +36,7 @@ Through the fusion of ancient druidic magic and advanced technology, you can enh
 **Armour Class**{.inl} Your AC equals 13 plus your Wisdom modifier until you leave the form.
 { .indt }
 
-**Temporary Hit Points**{.inl} You gain **(Druid Level x 3) :trt-thp: Temporary Hit Points**{ .calc }.
+**Temporary Hit Points**{.dmg-temp}{.inl} You gain **(Druid Level x 3) :trt-thp: Temporary Hit Points**{.dmg-temp}{ .calc }.
 { .indt }
 
 **Resistance**{.inl} You have **:d20-adv: Advantage**{.d20} on saves to gain and end the **Poisoned**{.cond} condition, and you gain **:dmg-res: Resistance** to **:dmg-posn: Poison**{ .dmg-posn } damage.
@@ -80,7 +80,7 @@ _**Sonic Boom**_ <br>**:dmg-thun: Thunder**{ .dmg-thun .back }
 
 ### Level 10: Rapid Transformation
 
-When you take damage, you can take a **:rsc-r: Reaction**{.rsc} to use your **:material-paw: Wild Shape** and transform into your Beast form. The damage you take is applied to the **:trt-thp: Temporary Hit Points** granted by your **:material-paw: Wild Shape**.
+When you take damage, you can take a **:rsc-r: Reaction**{.rsc} to use your **:material-paw: Wild Shape** and transform into your Beast form. The damage you take is applied to the **:trt-thp: Temporary Hit Points**{.dmg-temp} granted by your **:material-paw: Wild Shape**.
 
 ### Level 10: Bestial Augmentations
 

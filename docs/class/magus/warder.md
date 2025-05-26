@@ -43,7 +43,7 @@ At certain Magus levels, the range of this **:rsc-r: Reaction**{.rsc} increases:
 
 When you use your Warder's Bond Reaction and you take damage, you can expend a spell slot as part of the same Reaction to reduce that damage by `2d8` per level of the spell slot you expended.
 
-Moreover, whenever you start your turn within 10 feet of your Ward, you can grant one of you **:trt-thp: Temporary Hit Points** equal to your Intelligence modifier (minimum of 1).
+Moreover, whenever you start your turn within 10 feet of your Ward, you can grant one of you **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to your Intelligence modifier (minimum of 1).
 
 ### Level 15: Bond Perfected
 

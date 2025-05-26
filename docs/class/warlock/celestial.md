@@ -39,7 +39,7 @@ Your link to your patron allows you to serve as a conduit for radiant energy. Yo
 
 ### Level 10: Celestial Resilience
 
-You gain **:trt-thp: Temporary Hit Points** whenever you use your Magical Cunning feature or finish a **:rest-short: Short Rest** or Long Rest. These **:trt-thp: Temporary Hit Points** equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see at the end of the rest. Those creatures each gain **:trt-thp: Temporary Hit Points** equal to half your Warlock level plus your Charisma modifier.
+You gain **:trt-thp: Temporary Hit Points**{.dmg-temp} whenever you use your Magical Cunning feature or finish a **:rest-short: Short Rest** or Long Rest. These **:trt-thp: Temporary Hit Points**{.dmg-temp} equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see at the end of the rest. Those creatures each gain **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to half your Warlock level plus your Charisma modifier.
 
 ### Level 14: Searing Vengeance
 

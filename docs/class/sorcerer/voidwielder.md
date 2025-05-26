@@ -25,7 +25,7 @@ Your innate connection to the primordial void grants you the following benefit:
 
 **Primordial Language**{.inl} You gain the ability to speak, read, and write Primordial.
 
-**Null Magic**{.inl} Whenever you damage a creature with a Voidwielder Spell, it cannot regain Hit Points or gain **:trt-thp: Temporary Hit Points** until the beginning of your next turn.
+**Null Magic**{.inl} Whenever you damage a creature with a Voidwielder Spell, it cannot regain Hit Points or gain **:trt-thp: Temporary Hit Points**{.dmg-temp} until the beginning of your next turn.
 
 ### Level 3: Voidwielder Spells
 

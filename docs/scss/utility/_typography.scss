@@ -13,7 +13,7 @@
 
 @mixin jetbrains($word-spacing: convert.px2rem(-2px), $letter-spacing: null) {
     @extend .jetbrains-icon;
-    font-size: calc(var(--gbl-font-size) * 0.8125); /* DON'T CHANGE THIS */
+    font-size: calc(var(--gbl-font-size) * 0.8250); /* DON'T CHANGE THIS */
     font-family: var(--jetbrains);
     font-weight: 600 !important;
     word-spacing: $word-spacing;
@@ -293,7 +293,8 @@ $damage-types: (
     radi: #ffcf40,
     force: #ff7369,
     bps: #a9acb0,
-    heal: #65cdcd
+    heal: #65cdcd,
+    temp: #d8dee9
 );
 
 @each $type, $color in $damage-types {

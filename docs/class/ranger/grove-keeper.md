@@ -17,15 +17,15 @@ Grove Keepers are protectors of ancient forests and sacred sites. Their deep con
 
 Your bond with the natural world gives you the following benefits:
 
-**Wayfinder**{.inl} Your **:rsc-spd: Speed**{ .em } increases by 5 feet. You are not affected by difficult terrain and effects caused by nature such as rocky terrain or overgrown plants..
+**Wayfinder**{.inl} Your **:rsc-spd: Speed** increases by 5 feet. You are not affected by difficult terrain and effects caused by nature such as rocky terrain or overgrown plants..
 
-**Beast Tongue**{.inl} You can cast the *Speak with Animals* spell as rituals. Wisdom is your spellcasting ability for them.
+**Beast Tongue**{.inl} You can cast the [:spell-lv1: Speak with Animals] spell as rituals. Wisdom is your spellcasting ability for them.
 
-***Naturalist***. Choose 2 skills from: Animal Handling, Nature, Survival, or Perception. Whenever you make a check that uses those skills, you can treat a d20 roll of 7 or lower as an 8.
+**Naturalist**{.inl} Choose 2 skills from: Animal Handling, Nature, Survival, or Perception. Whenever you make a check that uses those skills, you can treat a d20 roll of 7 or lower as an 8.
 
 ### Level 3: Lashing Vines
 
-You know the *Thorn Whip* Cantrip and the range increases to 60 feet. When you hit a target with this cantrip, you can take a **:rsc-b: Bonus Action**{.rsc} to make one weapon attack or **:rsc-a: Unarmed Strike**{.rsc} against the target with Advantage.
+You know the [:spell-lv0: Thorn Whip] Cantrip and the range increases to 60 feet. When you hit a target with this cantrip, you can take a **:rsc-b: Bonus Action**{.rsc} to make one weapon attack or **:rsc-a: Unarmed Strike**{.rsc} against the target with Advantage.
 
 Your reach with your Melee weapon and **:rsc-a: Unarmed Strike**{.rsc} increases by 5 feet when you reach Ranger level 7.
 
@@ -53,7 +53,7 @@ You gian the following benefits:
 
 ### Level 11: Rooted Defense
 
-When you or a creature you can see within 30 feet is hit by an attack, you can use your **:rsc-r: Reaction**{.rsc} to cover that creature in hard barks & thorns. The target gains **:trt-thp: Temporary Hit Points** equal to half your Ranger level, and the triggering damage is allocated to the Temporary Hit Point instead.
+When you or a creature you can see within 30 feet is hit by an attack, you can use your **:rsc-r: Reaction**{.rsc} to cover that creature in hard barks & thorns. The target gains **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to half your Ranger level, and the triggering damage is allocated to the Temporary Hit Point instead.
 
 ### Level 15: Consecrated Grounds
 
@@ -61,7 +61,7 @@ As a **:rsc-b: Bonus Action**{.rsc}, You beckon the Avatar of Nature to aid you 
 
 Once during your turn, You can command it to move up to 30 feet (No action required). An aura radiates from the avatar in a 20-foot emanation for the duration and has the following features:
 
-**Overgrowth**{.inl} The ground within the aura is Difficult Terrain for your enemies. When an enemy creature moves into or within the area, it takes 2d6 :dmg-prcg: Piercing damage for every 5 feet it travels.
+**Overgrowth**{.inl} The ground within the aura is Difficult Terrain for your enemies. When an enemy creature moves into or within the area, it takes **2d6 :dmg-prcg: Piercing**{.dmg-bps} damage for every 5 feet it travels.
 
 **Guardian Aura**{.inl} While in the aura, you and your allies have **:d20-adv: Advantage**{.d20} on all saving throws against spells. Additionally, At the start of each of your or your allies turn, regain 2d6 Hit Points.
 

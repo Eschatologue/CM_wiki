@@ -1119,7 +1119,7 @@ The description of a teleportation effect tells you if you must see the teleport
 
 ## Temporary Hit Points
 
-**:trt-thp: Temporary Hit Points** are granted by certain effects and act as a buffer against losing real Hit Points.
+**:trt-thp: Temporary Hit Points**{.dmg-temp} are granted by certain effects and act as a buffer against losing real Hit Points.
 
 ---
 

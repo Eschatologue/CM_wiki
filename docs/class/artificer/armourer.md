@@ -65,7 +65,7 @@ You design your armour to be in the front line of conflict. It has the following
 
 **Distracting Pulse**{.inl} When you hit a creature with a melee attack, it has **:d20-dis: Disadvantage**{.d20} on attack rolls against targets other than you until the start of your next turn, as the armour magically emits a distracting pulse when the creature attacks someone else.
 
-**Defensive Field**{.inl} While you are Bloodied, you can take a **:rsc-b: Bonus Action**{.rsc} to gain **:trt-thp: Temporary Hit Points** equal to your Artificer level. You lose these **:trt-thp: Temporary Hit Points** if you doff the armour.
+**Defensive Field**{.inl} While you are Bloodied, you can take a **:rsc-b: Bonus Action**{.rsc} to gain **:trt-thp: Temporary Hit Points**{.dmg-temp} equal to your Artificer level. You lose these **:trt-thp: Temporary Hit Points**{.dmg-temp} if you doff the armour.
 
 #### Infiltrator
 
