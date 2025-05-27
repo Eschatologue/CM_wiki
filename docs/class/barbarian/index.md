@@ -4,12 +4,12 @@ title: "Class: Barbarian"
 ---
 
 <p style="display:none">
-The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage.
+Barbarians are storm-wrapped souls, shaped by fury and trauma, unleashing unquenchable wrath upon a world that has forgotten peace.
 </p>
 
 # **:class-barbarian:**{ .x6l }<br> **Barbarian**{ .chev-lr} { .align-center }
 
-"*The strong embrace the wild that hides inside - keen instincts, primal physicality, and most of all, an unbridled, unquenchable rage.*"
+"*Barbarians are storm-wrapped souls, shaped by fury and trauma, unleashing unquenchable wrath upon a world that has forgotten peace.*"
 { .quote .align-center }
 
 §

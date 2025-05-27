@@ -38,10 +38,6 @@ You can thunderously rebuke attackers. When a creature within **5 feet** (**60 f
 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of 1). You regain all expended uses when you finish a **:rest-long: Long Rest**.
 
-### Level 6: Thunderous Strike
-
-When you deal **:dmg-lgtn: Lightning**{ .dmg-lgtn } or **:dmg-thun: Thunder**{ .dmg-thun } damage to a Large or smaller creature, you can also push it up to 10 feet away from you.
-
 ### Level 17: Stormborn
 
 The winds of the tempest lift your form into the air. You have a Fly speed equal to your **:rsc-spd: Speed**{ .em }.

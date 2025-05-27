@@ -4,12 +4,12 @@ title: "Class: Monk"
 ---
 
 <p style="display:none">
-Some reach enlightenment by languid meditation - others do so in the heat of battle. Monks manipulate ki to empower their own strikes and debilitate their foes.
+Monks embody motion and stillness, channeling breath, discipline, and harmony into graceful, lethal form.
 </p>
 
 # **:class-monk:**{ .x6l }<br> **Monk**{ .chev-lr} { .align-center }
 
-"*Some reach enlightenment by languid meditation - others do so in the heat of battle. Monks manipulate ki to empower their own strikes and debilitate their foes.*"
+"*Monks embody motion and stillness, channeling breath, discipline, and harmony into graceful, lethal form.*"
 { .quote .align-center }
 
 §

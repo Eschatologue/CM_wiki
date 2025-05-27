@@ -38,7 +38,7 @@ You are overflowing with storming energy. You gain the following benefits.
 
 **Lightning Rod**{.inl} You have **:dmg-res: Resistance** to **:dmg-lgtn: Lightning**{.dmg-lgtn} and **:dmg-thun: Thunder**{ .dmg-thun } damage.
 
-**Potent Storm**{.inl} Whenever you deal **:dmg-lgtn: Lightning**{.dmg-lgtn} or **:dmg-thun: Thunder**{ .dmg-thun } damage with a Sorcerer spell that requires you to make an attack roll, you can cause a small storm to erupt. Each creature within 20 feet of your target takes **(Sorcerer level/2) :dmg-lgtn: Lightning**{.dmg-lgtn} or **(Sorcerer level/2) :dmg-thun: Thunder**{ .dmg-thun } damage.
+**Potent Storm**{.inl} Whenever you deal **:dmg-lgtn: Lightning**{.dmg-lgtn} or **:dmg-thun: Thunder**{ .dmg-thun } damage with a Sorcerer spell that requires you to make an attack roll, you can cause a small storm to erupt. Each creature within 20 feet of your target takes **:dmg-lgtn: Lightning**{.dmg-lgtn} or **:dmg-thun: Thunder**{ .dmg-thun } damage equals to `half your Sorcerer level`.
 
 ### Level 6: Storm Transmutation
 
@@ -46,7 +46,7 @@ When you cast a spell that deals **:dmg-acid: Acid**{.dmg-acid}, **:dmg-cold: Co
 
 ### Level 14: Storm's Fury
 
-When you are hit by a Melee attack, the attacker takes **(Sorcerer level) :dmg-lgtn: Lightning**{.dmg-lgtn} or **(Sorcerer level) :dmg-thun: Thunder**{.dmg-thun} damage (choose each time). Moreover, when you deal these damage, you can take a **:rsc-r: Reaction**{.rsc} to force the attacker to make a **:d20-save: STR Save**{.d20} against your Spell Save DC. On a failed save, the attacker is pushed 20 feet away from you in a straight line.
+When you are hit by a Melee attack, the attacker takes **:dmg-lgtn: Lightning**{.dmg-lgtn} or **:dmg-thun: Thunder**{.dmg-thun} damage (choose each time) equals to your `Sorcerer level`. Moreover, when you deal these damage, you can take a **:rsc-r: Reaction**{.rsc} to force the attacker to make a **:d20-save: STR Save**{.d20} against your Spell Save DC. On a failed save, the attacker is pushed 20 feet away from you in a straight line.
 
 ### Level 18: Wind Soul
 

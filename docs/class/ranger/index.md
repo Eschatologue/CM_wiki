@@ -5,12 +5,12 @@ status: homebrew
 ---
 
 <p style="display:none">
-Rangers are unrivalled scouts and trackers, honing a deep connection with nature in order to hunt their favoured prey
+Rangers are hunters in broken lands, walking unseen through ruin and wilderness with purpose in every step
 </p>
 
 # **:class-ranger:**{ .x6l }<br> **Ranger**{ .chev-lr} { .align-center }
 
-"*Rangers are unrivalled scouts and trackers, honing a deep connection with nature in order to hunt their favoured prey.*"
+"*Rangers are hunters in broken lands, walking unseen through ruin and wilderness with purpose in every step.*"
 { .quote .align-center }
 
 §

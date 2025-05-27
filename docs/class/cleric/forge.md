@@ -48,10 +48,6 @@ Your mastery of the forge grants you special abilities. You have **:dmg-res: Res
 
 Moreover, the bonus you gain for objects imbued by your Blessed Smithing feature increases to +2.
 
-### Level 7: Burning Smite (Optional)
-
-Whenever you use *[Divine Strike (Blessed Strike)](index.md#level-7-blesssed-strike)* feature, you can change the damage type to **:dmg-fire: Fire**{.dmg-fire} damage. 
-
 ### Level 17: Saint of Forge and Fire
 
 Your blessed affinity with fire and metal becomes more powerful. You have **:dmg-imm: Immunity** to **:dmg-fire: Fire**{.dmg-fire} damage and while wearing metal armour, you have **:dmg-res: Resistance**{ .em } to **:dmg-bldg: Bludgeoning**{ .dmg-bps }, **:dmg-prcg: Piercing**{ .dmg-bps }, and **:dmg-slsh: Slashing**{ .dmg-bps } damage.

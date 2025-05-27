@@ -5,12 +5,12 @@ status: homebrew
 ---
 
 <p style="display:none">
-To face a Magus, is to experience the flurry of both spells and blades.
+The Magus wields blade and incantation as one—warriors of precision whose strikes shimmer with spellfire.
 </p>
 
 # **:class-magus:**{ .x6l }<br> **Magus**{ .chev-lr} { .align-center }
 
-"*To face a Magus, is to experience the flurry of both spells and blades.*"
+"*The Magus wields blade and incantation as one—warriors of precision whose strikes shimmer with spellfire.*"
 { .quote .align-center }
 
 §

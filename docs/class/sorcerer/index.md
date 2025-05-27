@@ -4,12 +4,12 @@ title: "Class: Sorcerer"
 ---
 
 <p style="display:none">
-Sorcerers are natural spellcasters, drawing on inherent magic from a gift or bloodline.
+Sorcerers are chaos incarnate—born of bloodlines, cataclysms, or fate, their magic erupts with unshaped potential.
 </p>
 
 # **:class-sorcerer:**{ .x6l }<br> **Sorcerer**{ .chev-lr} { .align-center }
 
-"*Sorcerers are natural spellcasters, drawing on inherent magic from a gift or bloodline.*"
+"*Sorcerers are chaos incarnate—born of bloodlines, cataclysms, or fate, their magic erupts with unshaped potential.*"
 { .quote .align-center }
 
 §

@@ -23,7 +23,7 @@ Your martial arts technique mixes combat training with the precision of a dancer
 
 ### Level 3: Spirit of the Party
 
-You have **:dmg-imm: Immunity** to the **Drunk**{.cond} condition.
+You no longer suffer the effects of the **Drunk**{.cond} condition.
 
 ### Level 6: Tipsy Sway
 

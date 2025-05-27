@@ -4,12 +4,12 @@ title: "Class: Druid"
 ---
 
 <p style="display:none">
-Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of **:material-paw: Wild Shape** allows them to transform into beasts from all over the Realms.
+Shaped by nature, pollution, or starlight alike, druids twist with the world—and wield its memory like a living weapon.
 </p>
 
 # **:class-druid:**{ .x6l }<br> **Druid**{ .chev-lr} { .align-center }
 
-"*Druids channel the elemental forces of nature and share a deep kinship with animals. Mastery of Wild Shape allows them to transform into beasts from all over the Realms.*"
+"*Shaped by nature, pollution, or starlight alike, druids twist with the world—and wield its memory like a living weapon.*"
 { .align-center .quote }
 
 §

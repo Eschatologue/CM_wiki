@@ -4,12 +4,12 @@ title: "Class: Cleric"
 ---
 
 <p style="display:none">
-Clerics are representatives of the gods they worship, wielding potent divine magic for good or ill
+Clerics channel belief into reality, their faith in cosmic ideals shapes beliefs into miracles.
 </p>
 
 # **:class-cleric:**{ .x6l }<br> **Cleric**{ .chev-lr} { .align-center }
 
-"*Clerics are representatives of the gods they worship, wielding potent divine magic for good or ill*"
+"*Clerics channel belief into reality, their faith in cosmic ideals shapes beliefs into miracles.*"
 { .quote .align-center }
 
 §

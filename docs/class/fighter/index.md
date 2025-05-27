@@ -4,12 +4,12 @@ title: "Class: Fighter"
 ---
 
 <p style="display:none">
-Fighters have mastered the art of combat, wielding weapons with unmatched skill and wearing armour like a second skin.
+Fighters are hardened survivors, sculpted by war and will, turning violence into a language of mastery.
 </p>
 
 # **:class-fighter:**{ .x6l }<br> **Fighter**{ .chev-lr} { .align-center }
 
-"*Fighters have mastered the art of combat, wielding weapons with unmatched skill and wearing armour like a second skin.*"
+"*Fighters are hardened survivors, sculpted by war and will, turning violence into a language of mastery.*"
 { .quote .align-center }
 
 §

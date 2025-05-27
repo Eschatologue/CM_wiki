@@ -4,12 +4,12 @@ title: "Class: Wizard"
 ---
 
 <p style="display:none">
-Wizards master the arcane by specialising in individual schools of magic, combining ancient spells with modern research.
+Wizards pry secrets from the weave of reality, carving power from ink, intellect, and often, obsession.
 </p>
 
 # **:class-wizard:**{ .x6l }<br> **Wizard**{ .chev-lr} { .align-center }
 
-"*Wizards master the arcane by specialising in individual schools of magic, combining ancient spells with modern research.*"
+"*Wizards pry secrets from the weave of reality, carving power from ink, intellect, and often, obsession.*"
 { .quote .align-center }
 
 §

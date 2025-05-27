@@ -4,12 +4,12 @@ title: "Class: Artificer"
 ---
 
 <p style="display:none">
-A Magical Crafter and an Inventor of Wonders
+Tinkerers of lost knowledge and living engines, artificers forge miracles where spell and soots entwine
 </p>
 
 # **:class-artificer:**{ .x6l }<br> **Artificer**{ .chev-lr} { .align-center }
 
-"*A Magical Crafter and an Inventor of Wonders*"
+"*Tinkerers of lost knowledge and living engines, artificers forge miracles where spell and soots entwine*"
 { .align-center .quote }
 
 §

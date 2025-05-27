@@ -4,12 +4,12 @@ title: "Class: Warlock"
 ---
 
 <p style="display:none">
-Bound by a pact to an all-powerful patron, warlocks trade their loyalty for supernatural abilities and unique magic.
+Marked by pacts with forgotten titans or whispering voids, warlocks wield borrowed power at a terrible price.
 </p>
 
 # **:class-warlock:**{ .x6l }<br> **Warlock**{ .chev-lr} { .align-center }
 
-"*Bound by a pact to an all-powerful patron, warlocks trade their loyalty for supernatural abilities and unique magic.*"
+"*Marked by pacts with forgotten titans or whispering voids, warlocks wield borrowed power at a terrible price.*"
 { .quote .align-center }
 
 §
