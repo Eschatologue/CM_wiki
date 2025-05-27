@@ -55,7 +55,7 @@ You don't need to sleep, and magic can't put you to sleep. You can finish a **:r
 |---|---|---|---|
 | Drow | The range of your Darkvision increases to 120 feet. <br>You also know the [:spell-lv0: Dancing Lights] cantrip. | [:spell-lv1: Faerie Fire] | [:spell-lv2: Darkness] |
 | High Elf | You know the [:spell-lv0: Prestidigitation] cantrip. Can :material-reload: Replace on Long Rest with another Wizard's cantrip. | [:spell-lv1: Detect Magic] | [:spell-lv2: Misty Step] |
-| Wood Elf | Your **:rsc-spd: Speed** increases to 35 feet. <br>You also know the [:spell-lv0: Druidcraft] cantrip. | [:spell-lv1: Longstrider] | [:spell-lv2: Pass without Trace] |
+| Wood Elf | Your **:rsc-spd: Speed**{.mv} increases to 35 feet. <br>You also know the [:spell-lv0: Druidcraft] cantrip. | [:spell-lv1: Longstrider] | [:spell-lv2: Pass without Trace] |
 
 --8<-- "includes\snippets\spells3\lv0-5.md"
 

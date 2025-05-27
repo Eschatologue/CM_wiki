@@ -244,7 +244,7 @@ A cantrip is a level 0 spell, which is cast without a spell slot.
 
 Your size and Strength score determine the amount of inventory slots that you have, as shown in the Carrying Capacity table. The table also shows the maximum weight you can drag, lift, or push.
 
-While dragging, lifting, or pushing weight in excess of the maximum weight you can carry, your **:rsc-spd: Speed**{ .em } can be no more than 5 feet.
+While dragging, lifting, or pushing weight in excess of the maximum weight you can carry, your **:rsc-spd: Speed**{.mv} can be no more than 5 feet.
 
 ##### Carrying Capacity 
 
@@ -993,7 +993,7 @@ A creature has a :rsc-spd: **Speed**, which is the distance in feet the creature
 
 **Special Speeds**{.inl} Some creatures have special speeds, such as a **Burrow Speed**, **Climb Speed**, **Fly Speed**, or **Swim Speed**. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
 
-**Changes to Your Speeds**{.inl} If an effect increases or decreases your **:rsc-spd: Speed**{ .em } for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your **:rsc-spd: Speed**{ .em } is reduced to 0 and you have a Climb Speed, your Climb Speed is also reduced to 0. Similarly, if your **:rsc-spd: Speed**{ .em } is halved and you have a Fly Speed, your Fly Speed is also halved.
+**Changes to Your Speeds**{.inl} If an effect increases or decreases your **:rsc-spd: Speed**{.mv} for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your **:rsc-spd: Speed**{.mv} is reduced to 0 and you have a Climb Speed, your Climb Speed is also reduced to 0. Similarly, if your **:rsc-spd: Speed**{.mv} is halved and you have a Fly Speed, your Fly Speed is also halved.
 
 ### Burrow Speed
 

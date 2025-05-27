@@ -13,7 +13,7 @@ To learn a Manoeuvre you must meet any prerequisites it has.
 ### Arresting Strike {.hide}
 
 ***Arresting Strike***
-:   When you hit a creature with an attack roll, you can expend **one** Superiority Die to attempt to hinder the target's Movement. Add the Superiority Die to the attack's damage roll. The target must succeed on a **:d20-save: DEX Save**{ .d20} or it's **:rsc-spd: Speed** is halved until the start of your next turn.
+:   When you hit a creature with an attack roll, you can expend **one** Superiority Die to attempt to hinder the target's Movement. Add the Superiority Die to the attack's damage roll. The target must succeed on a **:d20-save: DEX Save**{ .d20} or it's **:rsc-spd: Speed**{.mv} is halved until the start of your next turn.
 
 ---
 

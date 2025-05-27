@@ -22,7 +22,7 @@ The *Bladesong* lasts for 1 minute and ends early if you have the **Incapacitate
 
 While the *Bladesong* is active, you gain the following benefits. You can invoke the *Bladesong* a number of times equal to 1 plus your Intelligence modifier (minimum 1), and you regain all expended uses when you finish a **:rest-long: Long Rest**. 
  
-**Agility**{.inl} You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1), and your **:rsc-spd: Speed** increases by 10 feet. 
+**Agility**{.inl} You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1), and your **:rsc-spd: Speed**{.mv} increases by 10 feet. 
  
 **Bladework**{.inl} Whenever you attack with a weapon with which you have proficiency, you can use your Intelligence modifier for the attack and damage rolls instead of using Strength or Dexterity. 
 

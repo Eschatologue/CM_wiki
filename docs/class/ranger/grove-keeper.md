@@ -17,7 +17,7 @@ Grove Keepers are protectors of ancient forests and sacred sites. Their deep con
 
 Your bond with the natural world gives you the following benefits:
 
-**Wayfinder**{.inl} Your **:rsc-spd: Speed** increases by 5 feet. You are not affected by difficult terrain and effects caused by nature such as rocky terrain or overgrown plants..
+**Wayfinder**{.inl} Your **:rsc-spd: Speed**{.mv} increases by 5 feet. You are not affected by difficult terrain and effects caused by nature such as rocky terrain or overgrown plants..
 
 **Beast Tongue**{.inl} You can cast the [:spell-lv1: Speak with Animals] spell as rituals. Wisdom is your spellcasting ability for them.
 

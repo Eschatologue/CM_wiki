@@ -46,7 +46,7 @@ You can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to refresh your a
 
 *You can draw on the mystical power of night to rise into the air.* 
 
-When you are in dim light or darkness you can use your **:rsc-b: Bonus Action**{.rsc} to give yourself a Fly Speed equal to your **:rsc-spd: Speed**{ .em } for 1 minute. You can do so as part of the same **:rsc-b: Bonus Action**{.rsc} you use to activate Twilight Sanctuary.
+When you are in dim light or darkness you can use your **:rsc-b: Bonus Action**{.rsc} to give yourself a Fly Speed equal to your **:rsc-spd: Speed**{.mv} for 1 minute. You can do so as part of the same **:rsc-b: Bonus Action**{.rsc} you use to activate Twilight Sanctuary.
 
 You can use this feature a number of times equal to your Wisdom modifier and regain all expended uses when you finish a **:rest-long: Long Rest**.
 

@@ -40,7 +40,7 @@ You can use this feature a number of times equal to your Wisdom modifier (a mini
 
 ### Level 17: Stormborn
 
-The winds of the tempest lift your form into the air. You have a Fly speed equal to your **:rsc-spd: Speed**{ .em }.
+The winds of the tempest lift your form into the air. You have a Fly speed equal to your **:rsc-spd: Speed**{.mv}.
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

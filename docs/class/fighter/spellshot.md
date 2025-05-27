@@ -56,7 +56,7 @@ Your Arcane Shots are improved further. All of your Arcane Shot damage increases
 If an option requires a saving throw, your **Arcane Shot save DC** equals `8 plus your Proficiency Bonus + your Intelligence Modifier`.
 
 **Banishing Shot**
-:   On hit, target must succeed on a **:d20-save: CHA Save**{.d20} or be banished. While banished in this way, its **:rsc-spd: Speed** is **0**, and it has the **Incapacitated**{.cond} condition. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
+:   On hit, target must succeed on a **:d20-save: CHA Save**{.d20} or be banished. While banished in this way, its **:rsc-spd: Speed**{.mv} is **0**, and it has the **Incapacitated**{.cond} condition. At the end of its next turn, the target reappears in the space it vacated or in the nearest unoccupied space if that space is occupied.
 
     *You use abjuration magic to try to temporarily banish your target to a harmless location.*{.quote}
 

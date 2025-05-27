@@ -91,7 +91,7 @@ _**Prerequisites:** Melee or Ranged Weapon; Any Properties_
 
 <hr class="hr-solid">
 
-If you hit a creature with this weapon and deal damage to the creature, you can reduce its **:rsc-spd: Speed** by 10 feet until the start of your next turn. If you hit the creature more than once with this property, the Speed reduction doesn't exceed 10 feet.
+If you hit a creature with this weapon and deal damage to the creature, you can reduce its **:rsc-spd: Speed**{.mv} by 10 feet until the start of your next turn. If you hit the creature more than once with this property, the Speed reduction doesn't exceed 10 feet.
 
 ---
 
@@ -121,7 +121,7 @@ _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-light: Light**{.wp} or **
 
 <hr class="hr-solid">
 
-Before or after making an attack with this weapon, you can move up to 5 feet without provoking **:rsc-r: Opportunity Attack**{.rsc}. You can't move in his way if your **:rsc-spd: Speed** is 0.
+Before or after making an attack with this weapon, you can move up to 5 feet without provoking **:rsc-r: Opportunity Attack**{.rsc}. You can't move in his way if your **:rsc-spd: Speed**{.mv} is 0.
 
 ---
 
@@ -131,7 +131,7 @@ _**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-heavy: Heavy**{.wp} or **
 
 <hr class="hr-solid">
 
-On your turn, you can spend an amount of movement equal to half your **:rsc-spd: Speed** (rounded *up* to the nearest 5-foot increment) to brace your weapon. Until the end of your turn, whenever you damage creatures with this weapon, you roll the weapon's damage dice twice and use either result (e.g, A Wood Elf with 35 ft. speed must spend 20 ft. to use this Mastery property).
+On your turn, you can spend an amount of movement equal to half your **:rsc-spd: Speed**{.mv} (rounded *up* to the nearest 5-foot increment) to brace your weapon. Until the end of your turn, whenever you damage creatures with this weapon, you roll the weapon's damage dice twice and use either result (e.g, A Wood Elf with 35 ft. speed must spend 20 ft. to use this Mastery property).
 
 ---
 

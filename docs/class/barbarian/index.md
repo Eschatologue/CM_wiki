@@ -191,7 +191,7 @@ You can attack twice instead of once whenever you take the **:rsc-a: Attack**{.r
 
 ### Level 5: Fast Movement
 
-Your **:rsc-spd: Speed**{ .em } increases by 10 feet while you aren't wearing Heavy armour.
+Your **:rsc-spd: Speed**{.mv} increases by 10 feet while you aren't wearing Heavy armour.
 
 ### Level 7: Feral Instinct
 
@@ -199,7 +199,7 @@ Your instincts are so honed that you have **:d20-adv: Advantage**{.d20} on **:d2
 
 ### Level 7: Instinctive Pounce
 
-As part of the **:rsc-b: Bonus Action**{.rsc} you take to enter your **:ui-rage: Rage**{ .em }, you can move up to half your **:rsc-spd: Speed**{ .em }.
+As part of the **:rsc-b: Bonus Action**{.rsc} you take to enter your **:ui-rage: Rage**{ .em }, you can move up to half your **:rsc-spd: Speed**{.mv}.
 
 ### Level 9: Brutal Strike
 
@@ -207,9 +207,9 @@ If you use Reckless Attack, you can forgo any **:d20-adv: Advantage**{.d20} on o
 
 If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or **:rsc-a: Unarmed Strike**{.rsc} , and you can cause one Brutal Strike effect of your choice. You have the following effect options.
 
-**Forceful Blow**{.inl} The target is pushed 15 feet straight away from you. You can then move up to half your **:rsc-spd: Speed**{ .em } straight toward the target without provoking Opportunity Attacks.
+**Forceful Blow**{.inl} The target is pushed 15 feet straight away from you. You can then move up to half your **:rsc-spd: Speed**{.mv} straight toward the target without provoking Opportunity Attacks.
 
-**Hamstring Blow**{.inl} The target's **:rsc-spd: Speed**{ .em } is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.
+**Hamstring Blow**{.inl} The target's **:rsc-spd: Speed**{.mv} is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.
 
 ### Level 11: Relentless Rage
 

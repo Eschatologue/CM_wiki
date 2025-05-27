@@ -48,7 +48,7 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <hr class="hr-solid">  
 
-While you are wielding only **:wp-prop-light: Light**{ .wp } weapons, and nothing else, your **:rsc-spd: Speed** increases by 10 feet. You also gain a +1 bonus to damage rolls with **:wp-prop-light: Light**{ .wp } weapons.
+While you are wielding only **:wp-prop-light: Light**{ .wp } weapons, and nothing else, your **:rsc-spd: Speed**{.mv} increases by 10 feet. You also gain a +1 bonus to damage rolls with **:wp-prop-light: Light**{ .wp } weapons.
 
 You only gain these benefits so long as you are not wearing Medium or Heavy armor, or wielding a Shield
 

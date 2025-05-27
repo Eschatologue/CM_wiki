@@ -40,7 +40,7 @@ As a **:rsc-b: Bonus Action**{.rsc}, you can expend one use of your **:ui-chdiv-
 
 ### Level 7: Aura Of Alacrity
 
-Your **:rsc-spd: Speed**{ .em } increases by 10 feet. In addition, whenever an ally enters your Aura of Protection for the first tome on a turn or starts their turn there, the ally's Speed increased by 10 feet until the end of their turn.
+Your **:rsc-spd: Speed**{.mv} increases by 10 feet. In addition, whenever an ally enters your Aura of Protection for the first tome on a turn or starts their turn there, the ally's Speed increased by 10 feet until the end of their turn.
 
 ### Level 15: Glorious Defense
 

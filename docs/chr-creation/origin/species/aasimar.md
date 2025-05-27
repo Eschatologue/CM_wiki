@@ -30,7 +30,7 @@ As an Aasimar, you have these following traits.
 
     Here are the transformation options:
 
-    **Heavenly Wings**{.inl} Two spectral wings sprout from your back temporarily. Until the transformation ends, you have a Fly Speed equal to your **:rsc-spd: Speed**{ .em }.
+    **Heavenly Wings**{.inl} Two spectral wings sprout from your back temporarily. Until the transformation ends, you have a Fly Speed equal to your **:rsc-spd: Speed**{.mv}.
     { .indt }
 
     **Inner Radiance**{.inl} Searing light temporarily radiates from your eyes and mouth. For the duration, you shed Bright Light in a 10-foot radius and Dim Light for an additional 10 feet, and at the end of each of your turn, each creature within 10 feet of you takes **(Proficiency Bonus) :dmg-radi: Radiant**{ .dmg-radi } damage.

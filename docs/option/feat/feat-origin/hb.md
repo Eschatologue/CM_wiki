@@ -42,7 +42,7 @@ You pride yourself on your quickness and your close study of certain clandestine
 :   As part of a **:rest-short: Short Rest**, you can use scavenged or acquired materials to build a temporary set of Thieves' Tools for when you lack access to a permanent one. This temporary set ceases to function after 1 hour.
     
 **Slightly Cunning Action**
-:   Choose one of the following actions: *Dash*, *Disengage*, *Hide* or *Utilise*. You can use the chosen action as a **:rsc-b: Bonus Action**{.rsc}.
+:   Choose one of the following actions: **:rsc-a: Dash**{.rsc}, **:rsc-a: Disengage**{.rsc}, **:rsc-a: Hide**{.rsc}, or **:rsc-a: Utilise**{.rsc}. You can use the chosen action as a **:rsc-b: Bonus Action**{.rsc}.
 
 ---
 
@@ -112,7 +112,7 @@ Your study of history rewards you with the following benefits:
 :   You gain Proficiency in the History skill. If you are already proficient in the skill, you gain Expertise instead.
     
 **An Example for Every Situation**
-:   When you take the Help action to aid another creature's ability check, you can make a DC 15 Intelligence (History) check. On a success, that creature's check gains a bonus equal to your Proficiency Bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you're saying.
+:   When you take the Help action to aid another creature's ability check, you can make a **DC 15 :d20-check: Intelligence (History) check**{.d20}. On a success, that creature's check gains a bonus equal to your Proficiency Bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you're saying.
 
 ---
 
@@ -180,9 +180,7 @@ While you may not be a true Sorcerer, within you dwells a small spark of arcane 
 :   You learn one Cantrip and two level 1 spells of your choice from the Sorcerer spell list, and you use Charisma as your spellcasting ability for all three Sorcerer spells.
 
 **Sorcery Points**
-:   You gain 2 :class-phb24-sorcerer: **Sorcery Point(s)*
-
-<hr class="hr-solid">  *, which you can convert to a level 1 spell slot as a **:rsc-b: Bonus Action**{.rsc}. Should you already have Sorcery Points, these are added to your existing pool. You regain all your Sorcery Points from this feat when you finish a **:rest-long: Long Rest**.
+:   You gain **2 :ui-sorc-point: Sorcery Point(s)**, which you can convert to a level 1 spell slot as a **:rsc-b: Bonus Action**{.rsc}. Should you already have **Sorcery Points**, these are added to your existing pool. You regain all your Sorcery Points from this feat when you finish a **:rest-long: Long Rest**.
 
 ---
 
@@ -204,6 +202,8 @@ Though you might not be a Ranger, your past experiences with them teaches you im
 ### Wise One {.noborder}
 
 *Origin Feat*
+
+<hr class="hr-solid">  
 
 You find ways to learn from every experience in life, always growing in wisdom. 
 

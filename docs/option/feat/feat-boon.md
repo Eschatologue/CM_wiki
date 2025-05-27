@@ -163,7 +163,7 @@ You gain the following benefits.
 :   As a **:rsc-b: Bonus Action**{.rsc}, you can take the **:rsc-a: Disengage**{.rsc} action, which also ends the Grappled condition on you.
 
 **Quickness**
-:   Your **:rsc-spd: Speed**{ .em } increases by 30 feet.
+:   Your **:rsc-spd: Speed**{.mv} increases by 30 feet.
 
 ---
 

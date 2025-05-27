@@ -66,7 +66,7 @@ Your hex grows more powerful, giving you the follwing benefits:
 
 Your Hexblade’s Curse becomes more debilitating. When you curse a creature with your [Hexblade's Curse], you gain the following benefits:
 
-**Impending Doom**{.inl} The cursed target has its **:rsc-spd: Speed** reduced by **15 feet**.
+**Impending Doom**{.inl} The cursed target has its **:rsc-spd: Speed**{.mv} reduced by **15 feet**.
 
 **Relentless Curse**{.inl} When you take the **:rsc-a: Attack**{.rsc} action using your Pact Weapon, you can Teleport yourself or your *Spectral Weapon* up to **30 feet** to an unoccupied space within 5 feet of a cursed target that you can see as part of the attack.
 

@@ -42,7 +42,7 @@ Whenever you cast a spell that restores Hit Points to a creature, you can modify
 
 **Empowered Healing**{.inl} You can add your Charisma modifier to one of the spell's healing rolls.
 
-**Discounted Metamagic**{.inl} You can reduce the cost of one of your Metamagic options on that spell by **1 :class-phb24-sorcerer: Sorcery Point(s)**.
+**Discounted Metamagic**{.inl} You can reduce the cost of one of your Metamagic options on that spell by **1 :ui-sorc-point: Sorcery Point(s)**.
 
 ### Level 14: Otherworldly Wings
 

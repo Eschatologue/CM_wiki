@@ -69,7 +69,7 @@ Whenever you make a Dragon’s Exhalation, you can expend one of your Pact Magic
 
 ### Level 14: Soaring Winds 
 
-As a **:rsc-b: Bonus Action**{.rsc}, you can manifest (or dismiss) the elements to carry you aloft. This takes the form of spectral wings, swirling winds, flowing water, or another expression of your patron’s power might be. While manifested, you gain a **Fly Speed** equal to your **:rsc-spd: Speed**{ .em }.  
+As a **:rsc-b: Bonus Action**{.rsc}, you can manifest (or dismiss) the elements to carry you aloft. This takes the form of spectral wings, swirling winds, flowing water, or another expression of your patron’s power might be. While manifested, you gain a **Fly Speed** equal to your **:rsc-spd: Speed**{.mv}.  
 
 --8<-- "includes/snippets/spells2/lv0-5.md"
 

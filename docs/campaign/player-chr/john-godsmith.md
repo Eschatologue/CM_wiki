@@ -1,12 +1,9 @@
 ---
 title: "John K. Gimmick"
-
 ---
 
 <p style="display:none">
-
 Path of the Finality
-
 </p>
 
 # Path of the Finality
@@ -39,7 +36,7 @@ When you use *Smite of Origin* while your **:ui-rage: Rage** is active, you can 
 :   Your smite cauterise wounds. One creature of your choice that you can see within 30 feet gain **:trt-hp: Hit Points** equals twice your Proficiency Bonus.
 
 **Tailwind Smite** <br>_Eagle_
-:   Your smite grants swiftness. Each creature of your choice that you can see within 30 feet has their **:rsc-spd: Speed** increased by 10 feet until the start of your next turn.
+:   Your smite grants swiftness. Each creature of your choice that you can see within 30 feet has their **:rsc-spd: Speed**{.mv} increased by 10 feet until the start of your next turn.
 
 **Marking Smite** <br>_Wolf_
 :   Primordial Flare surrounds the target. Until the start of your next turn, the target takes extra **(Prof. Bonus) :dmg-fire: Fire**{ .dmg-fire } damage when it is hit by an attack roll.

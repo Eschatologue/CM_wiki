@@ -61,9 +61,9 @@ Below is a list of common actions you can take. Each action requires using one o
 
 :   ### Dash :rsc-a:
 
-    When you take the **:rsc-a: Dash**{.rsc} action, you gain extra Movement for the current turn. The increase equals your **:rsc-spd: Speed**{ .em }, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash.
+    When you take the **:rsc-a: Dash**{.rsc} action, you gain extra Movement for the current turn. The increase equals your **:rsc-spd: Speed**{.mv}, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you Dash.
 
-    Any increase or decrease to your **:rsc-spd: Speed**{ .em } changes this additional Movement by the same amount. If your **:rsc-spd: Speed**{ .em } of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you Dash.
+    Any increase or decrease to your **:rsc-spd: Speed**{.mv} changes this additional Movement by the same amount. If your **:rsc-spd: Speed**{.mv} of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you Dash.
 
 ---
 
@@ -79,7 +79,7 @@ Below is a list of common actions you can take. Each action requires using one o
 
 :   ### Dodge :rsc-a:
 
-    When you take the **:rsc-a: Dodge**{.rsc} action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has **:d20-dis: Disadvantage**{.d20} if you can see the attacker, and you make **:d20-save: DEX Save**{.d20} with **:d20-adv: Advantage**{.d20}. You lose this benefit if you have the **Incapacitated**{.cond} condition or if your **:rsc-spd: Speed**{ .em } is 0.
+    When you take the **:rsc-a: Dodge**{.rsc} action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has **:d20-dis: Disadvantage**{.d20} if you can see the attacker, and you make **:d20-save: DEX Save**{.d20} with **:d20-adv: Advantage**{.d20}. You lose this benefit if you have the **Incapacitated**{.cond} condition or if your **:rsc-spd: Speed**{.mv} is 0.
 
 ---
 
@@ -150,7 +150,7 @@ Below is a list of common actions you can take. Each action requires using one o
 
     You take the **:rsc-a: Ready**{.rsc} action to wait for a particular circumstance before you act. To do so, you take this action on your turn, which lets you act by taking a **:rsc-r: Reaction**{.rsc} before the start of your next turn.
 
-    First, you decide what perceivable circumstance will trigger your **:rsc-r: Reaction**{.rsc}. Then, you choose the action you will take in response to that trigger, or you choose to move up to your **:rsc-spd: Speed**{ .em } in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
+    First, you decide what perceivable circumstance will trigger your **:rsc-r: Reaction**{.rsc}. Then, you choose the action you will take in response to that trigger, or you choose to move up to your **:rsc-spd: Speed**{.mv} in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the zombie steps next to me, I move away."
 
     When the trigger occurs, you can either take your **:rsc-r: Reaction**{.rsc} right after the trigger finishes or ignore the trigger.
 

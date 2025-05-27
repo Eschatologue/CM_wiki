@@ -35,7 +35,7 @@ When you take damage from a creature within 60 feet of you, you can take a **:rs
 
 ### Large Form
 
-Starting at character level 5, you can change your size to Large as a **:rsc-b: Bonus Action**{.rsc} if you're in big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have **:d20-adv: Advantage**{.d20} on :d20-check: Strength checks, and your **:rsc-spd: Speed** increases by 10 feet. Once you use this trait, you can't use it again until you finish a **:rest-long: Long Rest**.
+Starting at character level 5, you can change your size to Large as a **:rsc-b: Bonus Action**{.rsc} if you're in big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have **:d20-adv: Advantage**{.d20} on :d20-check: Strength checks, and your **:rsc-spd: Speed**{.mv} increases by 10 feet. Once you use this trait, you can't use it again until you finish a **:rest-long: Long Rest**.
 
 ### Powerful Build
 

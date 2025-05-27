@@ -145,7 +145,7 @@ You can attack twice instead of once whenever you take the **:rsc-a: Attack**{.r
 
 ### Level 5: Tactical Shift
 
-Whenever you activate your Second Wind with a **:rsc-b: Bonus Action**{.rsc}, you can move up to half your **:rsc-spd: Speed**{ .em } without provoking Opportunity Attacks.
+Whenever you activate your Second Wind with a **:rsc-b: Bonus Action**{.rsc}, you can move up to half your **:rsc-spd: Speed**{.mv} without provoking Opportunity Attacks.
 
 ### Level 9: Indomitable
 

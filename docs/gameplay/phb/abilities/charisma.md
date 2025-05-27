@@ -6,7 +6,7 @@ icon: abl/cha
 
 Charisma measures your ability to interact effectively with others and forcing your will upon reality. It includes such factors as confidence and eloquence, and it can represent a charming or commanding personality.
 
-Charisma is the recommended primary ability and spellcasting ability for :class-phb24-bard: Bards, :class-phb24-sorcerer: Sorcerers, :class-phb24-warlock: Warlocks and :class-phb24-paladin: Paladins.
+Charisma is the recommended primary ability and spellcasting ability for :class-phb24-bard: Bards, :ui-sorc-point: Sorcerers, :class-phb24-warlock: Warlocks and :class-phb24-paladin: Paladins.
 
 ## Charisma Checks
 

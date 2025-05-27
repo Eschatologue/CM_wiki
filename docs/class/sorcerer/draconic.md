@@ -41,7 +41,7 @@ You have **:dmg-res: Resistance** to that damage type, and when you cast a spell
 
 As a **:rsc-b: Bonus Action**{.rsc}, you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a Fly Speed of 60 feet.
 
-Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest** unless you spend **3 :class-phb24-sorcerer: Sorcery Point(s)** (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest** unless you spend **3 :ui-sorc-point: Sorcery Point(s)** (no action required) to restore your use of it.
 
 ### Level 18: Dragon Companion
 

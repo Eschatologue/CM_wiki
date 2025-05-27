@@ -55,7 +55,7 @@ Resolve result persist until the creature finishes a **:rest-long: Long Rest** o
 | 81-84 | 10 | **Mania** | The creature has **:d20-dis: Disadvantage**{.d20} on attack rolls.<br>*"Chaos is their crown — and madness their throne"*{.quote} |
 | == | **D6** | ***Resolute***{.chev-lr} | |
 | 85-87 | 1 | **Stalwart** | The creature gains `+2` to **AC** & has **:d20-adv: Advantage**{.d20} on Death Saving Throw.<br>*"Many fall in the face of chaos; But not this one, not today"*{.quote} |
-| 88-90 | 2 | **Courageous** | The creature's **:rsc-spd: Speed** increases by half of its base Speed & has **:d20-adv: Advantage**{.d20} on CHA checks & save.<br>*"A moment of valour shines brightest agaisnt a backdrop of despair"*{.quote} |
+| 88-90 | 2 | **Courageous** | The creature's **:rsc-spd: Speed**{.mv} increases by half of its base Speed & has **:d20-adv: Advantage**{.d20} on CHA checks & save.<br>*"A moment of valour shines brightest agaisnt a backdrop of despair"*{.quote} |
 | 91-93 | 3 | **Focused** | The creature adds `+1d8` to its **attack rolls** & has **:d20-adv: Advantage**{.d20} on WIS checks & save.<br>*"A moment of clarity in the eye of the storm"*{.quote} |
 | 94-96 | 4 | **Powerful** | The creature adds `+1d8` to its **damage rolls** & has **:d20-adv: Advantage**{.d20} on STR checks & save.<br>*"Anger is power - unleash it!"*{.quote} |
 | 97-99 | 5 | **Vigorous** | The creature **regains Hit Points equal to half its Hit Point Maximum** & has **:d20-adv: Advantage**{.d20} on CON Save.<br>*"Adversity can foster hope and resilience"*{.quote} |

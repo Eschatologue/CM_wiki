@@ -48,7 +48,7 @@ If a combatant is suprised by combat starting, that combatant has **:d20-dis: Di
 
 During your turn, you can do the following on any order:
 
-- Move up to your **:rsc-spd: Speed**{ .em }
+- Move up to your **:rsc-spd: Speed**{.mv}
 - Take one **:rsc-a: Action**{.rsc}
 - Take one **:rsc-b: Bonus Action**{.rsc} (If you have a feature that uses it)
 
@@ -92,7 +92,7 @@ On a grid, each square represents 5 feet. A character with 30 feet of Movement s
 
 #### Speed
 
-Rather than moving foot by foot, move square by square on the Grid using your **:rsc-spd: Speed**{ .em } in 5-foot segments. You can translate your **:rsc-spd: Speed**{ .em } into squares by dividing it by 5. For example, a Speed of 30 feet translate into 6 squares. Consider writing your **:rsc-spd: Speed**{ .em } in sqyares on your character sheet
+Rather than moving foot by foot, move square by square on the Grid using your **:rsc-spd: Speed**{.mv} in 5-foot segments. You can translate your **:rsc-spd: Speed**{.mv} into squares by dividing it by 5. For example, a Speed of 30 feet translate into 6 squares. Consider writing your **:rsc-spd: Speed**{.mv} in sqyares on your character sheet
 
 #### Entering a Square
 
@@ -119,7 +119,7 @@ Speed of 30 feet, you could go 10 feet, take an action, and then go 20 feet.
 
 ### Dropping Prone
 
-On your turn, you can give yourself the Prone condition without using an action or any of your **:rsc-spd: Speed**{ .em }, but you can't do so if your **:rsc-spd: Speed**{ .em } is 0.
+On your turn, you can give yourself the Prone condition without using an action or any of your **:rsc-spd: Speed**{.mv}, but you can't do so if your **:rsc-spd: Speed**{.mv} is 0.
 
 ### Creature Size
 
@@ -208,7 +208,7 @@ A willing creature that is at least one size larger than a rider and that has an
 
 ### Mounting and Dismounting
 
-During your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of Movement equal to half your **:rsc-spd: Speed**{ .em } (round down). For example, if your **:rsc-spd: Speed**{ .em } is 30 feet, you spend 15 feet of Movement to mount a horse.
+During your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of Movement equal to half your **:rsc-spd: Speed**{.mv} (round down). For example, if your **:rsc-spd: Speed**{.mv} is 30 feet, you spend 15 feet of Movement to mount a horse.
 
 ### Controlling a Mount
 

@@ -102,7 +102,7 @@ When you use **:material-paw: Wild Shape**, you can enhance your beast form with
     *Your beast form is reinforced with crushing power, its strikes capable of shattering steel and bone alike.*{ .quote }
 
 **Overclocked Actuators**
-:   Your **:rsc-spd: Speed** is increased by 10 feet and you can take the **:rsc-a: Dash**{.rsc} action as a **:rsc-b: Bonus Action**{.rsc}.
+:   Your **:rsc-spd: Speed**{.mv} is increased by 10 feet and you can take the **:rsc-a: Dash**{.rsc} action as a **:rsc-b: Bonus Action**{.rsc}.
 
     *Your beast form is enhanced with reinforced joints and hydraulic motion-assist mechanisms.*{ .quote }
 

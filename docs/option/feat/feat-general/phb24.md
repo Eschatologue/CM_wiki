@@ -53,7 +53,7 @@ You gain the following benefits.
 :   Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 
 **Climb Speed**
-:   You gain a Climb Speed equal to your **:rsc-spd: Speed**{ .em }.
+:   You gain a Climb Speed equal to your **:rsc-spd: Speed**{.mv}.
 
 **Hop Up**
 :   When you are Prone, you can right yourself with only 5 feet of Movement.
@@ -75,7 +75,7 @@ You gain the following benefits.
 :   Increase your Strength or Dexterity score by 1, to a maximum of 20.
 
 **Improved Dash**
-:   When you take the Dash Action, your **:rsc-spd: Speed**{ .em } increases by 10 feet for that Action.
+:   When you take the Dash Action, your **:rsc-spd: Speed**{.mv} increases by 10 feet for that Action.
 
 **Charge Attack**
 :   If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll as part of the **:rsc-a: Attack**{.rsc} action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or push the target up to 10 feet away if it is no more than one size larger than you. You can use this benefit only once on each of your turns.
@@ -248,7 +248,7 @@ You gain the following benefits.
 :   You have **:d20-adv: Advantage**{.d20} on attack rolls against a creature Grappled by you.
 
 **Fast Wrestler**
-:   Your **:rsc-spd: Speed**{ .em } isn't halved when you move a creature Grappled by you if the creature is your size or smaller.
+:   Your **:rsc-spd: Speed**{.mv} isn't halved when you move a creature Grappled by you if the creature is your size or smaller.
 
 ---
 
@@ -568,7 +568,7 @@ You gain the following benefits.
 :   Immediately after a creature within 5 feet of you takes the **:rsc-a: Disengage**{.rsc} action or hits a target other than you with an attack, you can make an **:rsc-r: Opportunity Attack**{.rsc} against that creature.
 
 **Halt**
-:   When you hit a creature with an **:rsc-r: Opportunity Attack**{.rsc}, the creature's **:rsc-spd: Speed** becomes 0 for the rest of the current turn.
+:   When you hit a creature with an **:rsc-r: Opportunity Attack**{.rsc}, the creature's **:rsc-spd: Speed**{.mv} becomes 0 for the rest of the current turn.
 
 ---
 
@@ -698,7 +698,7 @@ You gain the following benefits.
 :   Increase your Dexterity or Constitution score by 1, to a maximum of 20.
 
 **Speed Increase**
-:   Your **:rsc-spd: Speed** increases by 10 feet.
+:   Your **:rsc-spd: Speed**{.mv} increases by 10 feet.
 
 **Dash Over Difficult Terrain**
 :   When you take the **:rsc-a: Dash**{.rsc} action on your turn, Difficult Terrain doesn't cost you extra Movement for the rest of that turn.

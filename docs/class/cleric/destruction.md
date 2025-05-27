@@ -36,7 +36,7 @@ When you cast a Cleric spell that deals damage, you can change its damage type t
 
 As a **:rsc-b: Bonus Action**{.rsc}, you can use your **:ui-chdiv-cleric: Channel Divinity**{ .em } to create a **15-foot :aoe-emn: Emanation** of a swirling ring of light and spinning dust that surrounds you for 1 minute. It ends early if you dismiss it (no action required), manifest it again, or have the **Incapacitated**{.cond} condition.  
 
-When you manifest the Emanation and as a **:rsc-b: Bonus Action**{.rsc} on your subsequent turns, you can force all creatures of your choice within this Emanation to make a **:d20-save: CON Save**{.d20} against your Spell Save DC. On a failed save, the creatures take **(Cleric level/2) :dmg-force: Force**{ .dmg-force } damage, and their **:rsc-spd: Speed** is halved until the end of their next turn. 
+When you manifest the Emanation and as a **:rsc-b: Bonus Action**{.rsc} on your subsequent turns, you can force all creatures of your choice within this Emanation to make a **:d20-save: CON Save**{.d20} against your Spell Save DC. On a failed save, the creatures take **(Cleric level/2) :dmg-force: Force**{ .dmg-force } damage, and their **:rsc-spd: Speed**{.mv} is halved until the end of their next turn. 
 
 ### Level 6: Quasar Jet  
 

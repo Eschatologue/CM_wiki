@@ -38,7 +38,7 @@ If the creature drops to 0 Hit Points before the vow ends, you can transfer the 
 
 ### Level 7: Relentless Avenger
 
-Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an Opportunity Attack, you can reduce the creature's Speed to 0, and you can then move up to half your **:rsc-spd: Speed**{ .em } as part of the same Reaction. This Movement doesn't provoke Opportunity Attacks.
+Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an Opportunity Attack, you can reduce the creature's Speed to 0, and you can then move up to half your **:rsc-spd: Speed**{.mv} as part of the same Reaction. This Movement doesn't provoke Opportunity Attacks.
 
 ### Level 15: Soul Of Vengeance
 
@@ -48,7 +48,7 @@ Immediately after a creature under the effect of your Vow of Enmity hits or miss
 
 As a **:rsc-b: Bonus Action**{.rsc}, you gain the following benefits for 10 minutes. Once you use this feature, you can't use it again until you finish a **:rest-long: Long Rest**. You can also restore your use of it by expending a level 5 spell slot (no action required).
 
-**Flight**{.inl} You sprout spectral wings on your back. You have a Fly Speed equal to your **:rsc-spd: Speed**{ .em } and can Hover.
+**Flight**{.inl} You sprout spectral wings on your back. You have a Fly Speed equal to your **:rsc-spd: Speed**{.mv} and can Hover.
 
 **Frightful Aura**{.inl} Whenever an enemy starts its turn in the aura, that creature must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. Attack rolls against the Frightened creature have Advantage.
 

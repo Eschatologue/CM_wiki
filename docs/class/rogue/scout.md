@@ -27,7 +27,7 @@ You have proficiency and Expertise in the Nature and Survival skills. If you alr
 
 ### Level 9: Superior Mobility
 
-Your **:rsc-spd: Speed**{ .em } increases by 10 feet. If you have a Climb Speed or a Swim Speed, they also benefit from this increase. 
+Your **:rsc-spd: Speed**{.mv} increases by 10 feet. If you have a Climb Speed or a Swim Speed, they also benefit from this increase. 
 
 In addition, you no longer need to forgo any Sneak Attack dice in order to use the Withdraw option of your [Cunning Strike].
 

@@ -148,7 +148,7 @@ You can take the **:rsc-a: Dash**{.rsc} action as a **:rsc-b: Bonus Action**{.rs
 
 ### Level 2: Unarmoured Movement
 
-Your **:rsc-spd: Speed**{ .em } increases by 10 feet while you aren't wearing armour or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
+Your **:rsc-spd: Speed**{.mv} increases by 10 feet while you aren't wearing armour or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
 
 ### Level 2: Uncanny Metabolism
 
@@ -180,7 +180,7 @@ You can attack twice instead of once whenever you take the **:rsc-a: Attack**{.r
 
 ### Level 5: Stunning Strike
 
-Once per turn when you hit a creature with a Monk weapon or an **:rsc-a: Unarmed Strike**{.rsc}, you can expend **1 :class-phb24-monk: Focus Point(s)** to attempt a stunning strike. The target must make a **:d20-save: Constitution saving throw**{.d20}. On a failed save, the target has the **Stunned**{.cond} condition until the start of your next turn. On a successful save, the target's **:rsc-spd: Speed**{ .em } is halved until the start of your next turn, and the next attack roll made against the target before then has **:d20-adv: Advantage**{.d20}.
+Once per turn when you hit a creature with a Monk weapon or an **:rsc-a: Unarmed Strike**{.rsc}, you can expend **1 :class-phb24-monk: Focus Point(s)** to attempt a stunning strike. The target must make a **:d20-save: Constitution saving throw**{.d20}. On a failed save, the target has the **Stunned**{.cond} condition until the start of your next turn. On a successful save, the target's **:rsc-spd: Speed**{.mv} is halved until the start of your next turn, and the next attack roll made against the target before then has **:d20-adv: Advantage**{.d20}.
 
 ### Level 6: Empowered Strikes
 

@@ -48,7 +48,7 @@ In addition, you can cast one of your Sorcerer cantrip that has the casting time
 
 *Your command of earth magic grows stronger, allowing you to harness it for your allies' protection.*
 
-As a **:rsc-b: Bonus Action**{.rsc}, you can touch a willing creature (including yourself) and and expend **:class-phb24-sorcerer: Sorcery Point(s)** to grant it **1d6 :trt-thp: Temporary Hit Points**{.dmg-temp} per **1 :class-phb24-sorcerer: Sorcery Point(s)**.
+As a **:rsc-b: Bonus Action**{.rsc}, you can touch a willing creature (including yourself) and and expend **:ui-sorc-point: Sorcery Point(s)** to grant it **1d6 :trt-thp: Temporary Hit Points**{.dmg-temp} per **1 :ui-sorc-point: Sorcery Point(s)**.
 
 When a creature with these **:trt-thp: Temporary Hit Points**{.dmg-temp} within 60 feet of you that you can see is hit by a melee attack, you can use your **:rsc-r: Reaction**{.rsc} to teleport within 5 feet of the attacker and make a Melee attack or **:rsc-a: Unarmed Strike**{.rsc} against it.
 

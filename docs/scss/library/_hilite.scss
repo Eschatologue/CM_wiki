@@ -1,0 +1,63 @@
+@use "../base/typeset";
+@use '../palette/nord';
+@use "../utility/convert";
+@use "../palette/accent";
+@use "../utility/typography";
+
+/*-------------------------------------------------------
+    Damage Type Dynamic Classes
+-------------------------------------------------------*/
+
+$damage-types: (
+    acid: #7bac02,
+    cold: #4fc3f7,
+    fire: #e1822e,
+    posn: #37b700,
+    thun: #9b7fcc,
+    psyc: #dd73ac,
+    lgtn: #3393e8,
+    necr: #3faf4f,
+    radi: #ffcf40,
+    force: #ff7369,
+    bps: #a9acb0,
+    heal: #65cdcd,
+    temp: #d8dee9
+);
+
+@each $type, $color in $damage-types {
+    .dmg-#{$type} {
+        @include typography.jetbrains(convert.px2rem(-1.5px), convert.px2em(-0.8px));
+        color: convert.hex3hsl($color) !important;
+        white-space: nowrap;
+        margin: 0 convert.px2rem(2.5px) !important;
+
+        :is(.emojione, .twemoji, .gemoji) {
+            margin-left: convert.px2em(-2px);
+        }
+
+        margin-right: convert.px2rem(0.8px) !important;
+    }
+}
+
+//Shorthand for nowrap
+.nw {
+    @extend .em, .nowrap;
+    font-weight: 500 !important;
+}
+
+.nord12 {
+    color: nord.$nord12 !important;
+}
+
+.nord13 {
+    color: nord.$nord13 !important;
+}
+
+/*-------------------------------------------------------
+    Specific Highlighting
+-------------------------------------------------------*/
+
+// Movements
+.mv {
+    @extend .nw, .nord13;
+}

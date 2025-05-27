@@ -143,7 +143,7 @@ You gain a Rogue subclass of your choice. A subclass is a specialization that gr
 
 ### Level 3: Steady Aim
 
-As a **:rsc-b: Bonus Action**{.rsc}, you give yourself **:d20-adv: Advantage**{.d20} on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your **:rsc-spd: Speed**{ .em } is 0 until the end of the current turn.
+As a **:rsc-b: Bonus Action**{.rsc}, you give yourself **:d20-adv: Advantage**{.d20} on your next attack roll on the current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your **:rsc-spd: Speed**{.mv} is 0 until the end of the current turn.
 
 ### Level 4: Ability Score Improvement
 
@@ -162,7 +162,7 @@ If a Cunning Strike effect requires a saving throw, the DC equals 8 plus your De
 :   If the target is Large or smaller, it must succeed on a **:d20-save: DEX Save**{.d20} or have the Prone condition.
 
 **Withdraw** <br>_Cost: `1d6`_
-:   Immediately after the attack, you move up to half your **:rsc-spd: Speed**{ .em } without provoking Opportunity Attacks.
+:   Immediately after the attack, you move up to half your **:rsc-spd: Speed**{.mv} without provoking Opportunity Attacks.
 
 ### Level 5: Uncanny Dodge
 

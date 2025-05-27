@@ -21,7 +21,7 @@ Your Order's style of combat is an art. You gain proficiency in Performance, and
 
 So long as you are not wearing Heavy armour or wielding a weapon with :wp-prop-heavy: Heavy Property, you can use your **:rsc-b: Bonus Action**{.rsc} to enter the trance known as the **Blade Dance**. This trance lasts for 1 minute, and while it is active, you gain the benefits below:
 
-**Speed Increase**{.inl} Your **:rsc-spd: Speed**{ .em } increases by 10 feet.
+**Speed Increase**{.inl} Your **:rsc-spd: Speed**{.mv} increases by 10 feet.
 
 **Bonus AC**{.inl}  You gain a +1 bonus to your Armour Class.
 

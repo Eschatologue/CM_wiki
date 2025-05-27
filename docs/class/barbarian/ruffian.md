@@ -27,7 +27,7 @@ Your body itself has become a weapon, while you aren't wearing Medium or Heavy a
 
 **Bonus Unarmed Strike**{.inl} You can make an **:rsc-a: Unarmed Strike**{.rsc} as a **:rsc-b: Bonus Action**{.rsc}.
 
-**Climbing Speed**{.inl} You gain a Climbing Speed equal to your **:rsc-spd: Speed**{ .em }.
+**Climbing Speed**{.inl} You gain a Climbing Speed equal to your **:rsc-spd: Speed**{.mv}.
 
 **Quick Jab**{.inl} When you activate your **:ui-rage: Rage**{ .em }, you can make one **:rsc-a: Unarmed Strike**{.rsc} as part of the same **:rsc-b: Bonus Action**{.rsc}.
 
@@ -49,9 +49,9 @@ At the start of each of your turns while your **:ui-rage: Rage**{ .em } is activ
 
 Once you have a hold of something it is nearly impossible for it to escape. You gain the following benefit:
 
-**Improved Grappling**{.inl} The size of creatures that you can Grapple increases by one size. When you Grapple a creature more than one size larger than you, its **:rsc-spd: Speed**{ .em } is halved, but you move with it so long as there is an unoccupied space adjacent to it.
+**Improved Grappling**{.inl} The size of creatures that you can Grapple increases by one size. When you Grapple a creature more than one size larger than you, its **:rsc-spd: Speed**{.mv} is halved, but you move with it so long as there is an unoccupied space adjacent to it.
 
-**No Speed Reduction**{.inl} While you are moving or dragging a Grappled creature that is one size larger than you or smaller, your **:rsc-spd: Speed**{ .em } isn't reduced.
+**No Speed Reduction**{.inl} While you are moving or dragging a Grappled creature that is one size larger than you or smaller, your **:rsc-spd: Speed**{.mv} isn't reduced.
 
 ### Level 14: Unyielding
 
