@@ -39,3 +39,16 @@ You gain the following benefits.
 
 ---
 
+### Armoured and Angry
+
+_Archetype Feat (Prerequisites: Level 4+ Barbarian)_
+
+You gain the following benefits.
+
+**Ability Score Increase**
+:   Increase your Constitution score by 1, to a maximum of 20.
+
+**Urban Defence**
+:   You can use your Constitution, instead of Dexterity, when calculating your Armour Class in Light or Medium armour.
+
+---
