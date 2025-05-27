@@ -9,9 +9,11 @@ These General feats are homebrew.
 
 <div class="dl-bootstrap" markdown>
 
-### Battlecaster
+### Battlecaster {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Ability to cast a Spell)*
+
+<hr class="hr-solid">  
 
 You are skilled at casting spells with a weapon in hand.
 
@@ -28,9 +30,11 @@ You are skilled at casting spells with a weapon in hand.
 
 ---
 
-### Cartomancy
+### Cartomancy {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Ability to cast a Spell)*
+
+<hr class="hr-solid">  
 
 You have learned to channel your magic through a deck of cards. 
 
@@ -53,9 +57,11 @@ While the card is imbued with the spell, you can use a **:rsc-b: Bonus Action**{
 
 ---
 
-### Flash Recall
+### Flash Recall {.noborder}
 
-*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic feature)* 
+*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic feature)*
+
+<hr class="hr-solid">   
 
 You've developed the ability to instantly recall an unprepared spell in moments of sudden necessity. You gain the following benefits:
 
@@ -69,9 +75,11 @@ You've developed the ability to instantly recall an unprepared spell in moments 
 
 ---
 
-### Great Weapon Master (Alternate)
+### Great Weapon Master (Alternate) {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Strength 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -88,9 +96,11 @@ You gain the following benefits.
 
 ---
 
-### Gunner
+### Gunner {.noborder}
 
-*General Feat (Prerequisite: Level 4+, Firearms Proficiency)*  
+*General Feat (Prerequisite: Level 4+, Firearms Proficiency)*
+
+<hr class="hr-solid">    
 
 You have a quick hand and keen eye when employing firearms, granting you the following benefits:
 
@@ -102,9 +112,11 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 
 ---
 
-### Helpful Insights
+### Helpful Insights {.noborder}
 
 *General Feat (Prerequisites: Level 4+)*
+
+<hr class="hr-solid">  
 
 You always seem to have helpful advice for any situation. You gain the benefits below:
 
@@ -118,9 +130,11 @@ You always seem to have helpful advice for any situation. You gain the benefits 
 
 ---
 
-### Metamagic Adept
+### Metamagic Adept {.noborder}
 
 *General Feat (Prerequisite: Spellcasting or Pact Magic Feature, or [Sorcerous Spark](../feat-origin/hb.md#sorcerous-spark))*
+
+<hr class="hr-solid">  
 
 You've learned how to exert your will on your spells to alter how they function:
 
@@ -135,9 +149,11 @@ You've learned how to exert your will on your spells to alter how they function:
 
 ---
 
-### Overwhelming Strength
+### Overwhelming Strength {.noborder}
 
-*General Feat (Prerequisite: Level 4+, Strength 13+)* 
+*General Feat (Prerequisite: Level 4+, Strength 13+)*
+
+<hr class="hr-solid">   
 
 Your sheer physical might dwarfs that of nearly all other mortal creatures, giving you the following benefits:
 
@@ -155,9 +171,11 @@ Your sheer physical might dwarfs that of nearly all other mortal creatures, givi
 
 ---
 
-### Remarkable Recovery
+### Remarkable Recovery {.noborder}
 
-*General Feat (Prerequisite: Level 4+, Constitution 13+)* 
+*General Feat (Prerequisite: Level 4+, Constitution 13+)*
+
+<hr class="hr-solid">   
 
 Your body has the ability to recover quickly from terrible injuries, and is unusually receptive to healing magic. You gain the following benefits:
 
@@ -172,9 +190,11 @@ Your body has the ability to recover quickly from terrible injuries, and is unus
 
 ---
 
-### Resolute Caster
+### Resolute Caster {.noborder}
 
-*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)* 
+*General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+
+<hr class="hr-solid">   
 
 You gain the following benefits.
 
@@ -186,9 +206,11 @@ You gain the following benefits.
 
 ---
 
-### Rich in History
+### Rich in History {.noborder}
 
-*General Feat (Prerequisite: Level 4+, History Proficiency)* 
+*General Feat (Prerequisite: Level 4+, History Proficiency)*
+
+<hr class="hr-solid">   
 
 You gain the following benefits.
 
@@ -204,9 +226,11 @@ You gain the following benefits.
 
 ---
 
-### Spell Sniper (Alternate)
+### Spell Sniper (Alternate) {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -226,9 +250,11 @@ You gain the following benefits.
 
 ---
 
-### Sword Dancing
+### Sword Dancing {.noborder}
 
-*General Feat (Prerequisite: Level 4+)* 
+*General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">   
 
 One-handed weapons and blades are an extension of your arm, graceful as the wind.
 
@@ -243,9 +269,11 @@ One-handed weapons and blades are an extension of your arm, graceful as the wind
 
 ---
 
-### Thrown Arms Master
+### Thrown Arms Master {.noborder}
 
-*General Feat (Prerequisite: Level 4+)* 
+*General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">   
 
 You've honed your ability to lob weaponry into the fray, including weapons not meant for ranged combat. You gain the following benefits:
 
@@ -253,7 +281,11 @@ You've honed your ability to lob weaponry into the fray, including weapons not m
 :   Increase your Strength or Dexterity by 1, to a maximum of 20.
 
 **Throwable Weapons**
-:   Simple and Martial melee weapons without the **:wp-prop-thrown: Thrown**{.wp} property have the **:wp-prop-thrown: Thrown**{.wp} property for you. One-handed weapons has **:wp-prop-thrown: Thrown (30/60)**{.wp}, while **:wp-prop-two-handed: Two-handed**{.wp} weapons has **:wp-prop-thrown: Thrown (15/30)**{.wp}
+:   Simple and Martial melee weapons without the **:wp-prop-thrown: Thrown**{.wp} property have the **:wp-prop-thrown: Thrown**{.wp} property for you. One-handed weapons has **:wp-prop-thrown: Thrown (30/60)*
+
+<hr class="hr-solid">  *{.wp}, while **:wp-prop-two-handed: Two-handed**{.wp} weapons has **:wp-prop-thrown: Thrown (15/30)*
+
+<hr class="hr-solid">  *{.wp}
 
 **Improved Throw Range**
 :   Weapons that already have the **:wp-prop-thrown: Thrown**{.wp} property has their range is increased by (+20/+40)
@@ -263,9 +295,11 @@ You've honed your ability to lob weaponry into the fray, including weapons not m
 
 ---
 
-### Trick Shots
+### Trick Shots {.noborder}
 
-*General Feat (Prerequisite: Level 4+, Ranged weapon proficiency)* 
+*General Feat (Prerequisite: Level 4+, Ranged weapon proficiency)*
+
+<hr class="hr-solid">   
 
 You gain the following benefits:
 

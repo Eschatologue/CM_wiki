@@ -130,50 +130,6 @@
   margin: 0.5em 0;
 }
 
-/*-------------------------------------------------------
-    Horizontal Description List
--------------------------------------------------------*/
-.md-typeset dl {
-  font-size: calc(var(--gbl-font-size) * 0.9);
-  display: grid;
-  grid-template-columns: calc(var(--gbl-font-size) * 8) auto;
-  gap: 0.6rem 0.4rem !important;
-  align-items: center;
-}
-.md-typeset dl dt {
-  text-align: right;
-  border-right: 0.2rem solid var(--md-code-bg-color);
-  padding-right: 0.3rem;
-}
-.md-typeset dl dd {
-  border-radius: 0.2rem;
-  margin: 0em !important;
-}
-.md-typeset dl dd p {
-  margin-top: 0.1875em;
-  margin-bottom: 0.1875em;
-}
-
-.md-typeset .remove-dd-border dd {
-  border: none;
-}
-
-.md-typeset .remove-dt-border dt, .md-typeset .dl-bootstrap dl dt, .md-typeset .dl-dt-center dl dt {
-  border: none;
-}
-
-.md-typeset .dl-dt-center dl dt {
-  text-align: center;
-}
-
-.md-typeset .dl-bootstrap dl {
-  grid-template-columns: calc(var(--gbl-font-size) * 8 * 1) auto;
-  align-items: start;
-}
-.md-typeset .dl-bootstrap dl dt {
-  text-align: start;
-}
-
 /*------------------------------------------------------- 
     Tables
 --------------------------------------------------------*/
@@ -1011,6 +967,54 @@ table:not([class]) .smallcap {
   --gbl-font-size: calc(var(--default-font-size) * var(--scale-table));
 }
 
+/*-------------------------------------------------------
+    Horizontal Description List
+-------------------------------------------------------*/
+.md-typeset dl {
+  display: grid;
+  grid-template-columns: calc(var(--gbl-font-size) * 8) auto;
+  gap: 0.6rem 0.4rem !important;
+  align-items: center;
+}
+.md-typeset dl dt {
+  text-align: right;
+  border-right: 0.2rem solid var(--md-code-bg-color);
+  padding-right: 0.3rem;
+}
+.md-typeset dl dd {
+  border-radius: 0.2rem;
+  margin: 0em !important;
+}
+.md-typeset dl dd p {
+  margin-top: 0.1875em;
+  margin-bottom: 0.1875em;
+}
+
+.md-typeset .remove-dd-border dd {
+  border: none;
+}
+
+.md-typeset .remove-dt-border dt, .md-typeset .dl-bootstrap dl dt, .md-typeset .dl-dt-center dl dt {
+  border: none;
+}
+
+.md-typeset .dl-dt-center dl dt {
+  text-align: center;
+}
+
+.md-typeset .dl-bootstrap dl {
+  grid-template-columns: 15% auto;
+  align-items: start;
+}
+.md-typeset .dl-bootstrap dl dt {
+  text-align: start;
+}
+@media screen and (max-width: 720px) {
+  .md-typeset .dl-bootstrap dl {
+    grid-template-columns: 22.5% auto;
+  }
+}
+
 /*------------------------------------------------------- 
     Admonitions
 --------------------------------------------------------*/
@@ -1346,6 +1350,11 @@ table:not([class]) .smallcap {
 @media (max-width: 1024px) {
   .md-grid {
     max-width: 95%;
+  }
+}
+@media (max-width: 720px) {
+  .md-grid {
+    max-width: 98%;
   }
 }
 

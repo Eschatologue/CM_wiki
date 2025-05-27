@@ -8,9 +8,11 @@ These feats are in Epic Boon category
 
 <div class="dl-bootstrap" markdown>
 
-### Boon of Combat Prowess
+### Boon of Combat Prowess {.noborder}
 
 *Epic Boon Feat (Prerequisite: Level 19+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -22,9 +24,11 @@ You gain the following benefits.
 
 ---
 
-### Boon of Dimensional Travel
+### Boon of Dimensional Travel {.noborder}
 
 *Epic Boon Feat (Prerequisite: Level 19+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -36,9 +40,11 @@ You gain the following benefits.
 
 ---
 
-### Boon of Energy Resistance
+### Boon of Energy Resistance {.noborder}
 
 *Epic Boon Feat (Prerequisite: Level 19+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -53,9 +59,11 @@ You gain the following benefits.
 
 ---
 
-### Boon of Fate
+### Boon of Fate {.noborder}
 
 *Epic Boon Feat (Prerequisite: Level 19+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -67,9 +75,11 @@ You gain the following benefits.
 
 ---
 
-### Boon of Fortitude
+### Boon of Fortitude {.noborder}
 
 *Epic Boon Feat (Prerequisite: Level 19+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -81,9 +91,11 @@ You gain the following benefits.
 
 ---
 
-### Boon of Irresistible Offense
+### Boon of Irresistible Offense {.noborder}
 
 *Epic Boon Feat (Prerequisite: Level 19+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -98,9 +110,11 @@ You gain the following benefits.
 
 ---
 
-### Boon of Recovery
+### Boon of Recovery {.noborder}
 
 *Epic Boon Feat (Prerequisite: Level 19+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -115,9 +129,11 @@ You gain the following benefits.
 
 ---
 
-### Boon of Skill
+### Boon of Skill {.noborder}
 
 *Epic Boon Feat (Prerequisite: Level 19+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -132,9 +148,11 @@ You gain the following benefits.
 
 ---
 
-### Boon of Speed
+### Boon of Speed {.noborder}
 
 *Epic Boon Feat (Prerequisite: Level 19+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -149,9 +167,11 @@ You gain the following benefits.
 
 ---
 
-### Boon of the Night Spirit
+### Boon of the Night Spirit {.noborder}
 
 *Epic Boon Feat (Prerequisite: Level 19+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -166,9 +186,11 @@ You gain the following benefits.
 
 ---
 
-### Boon of Truesight
+### Boon of Truesight {.noborder}
 
 *Epic Boon Feat (Prerequisite: Level 19+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -180,9 +202,11 @@ You gain the following benefits.
 
 ---
 
-### Boon of Spell Recall
+### Boon of Spell Recall {.noborder}
 
 *Epic Boon Feat (Prerequisite: Level 19+; Spellcasting or Pact Magic Feature)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 

@@ -17,6 +17,8 @@ _Archetype Feat (Prerequisites: Level 4+ Cleric)_
 
 <hr class="hr-solid">  
 
+You gain the following benefits.
+
 **Ability Score Increase**
 :   Increase your Strength, Dexterity, Constitution, or Wisdom score by 1, to a maximum of 20.
 

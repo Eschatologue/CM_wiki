@@ -10,9 +10,11 @@ These General feats are included in the PHB'24
 
 ---
 
-### Ability Scores Improvement
+### Ability Scores Improvement {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You increase one Ability Score of your choice by 2, or you can increase two Ability Scores of your choice by 1. You can't increase an Ability Score above 20 using this feat. However, if you're at least level 19, that maximum increases to 22.
 
@@ -20,9 +22,11 @@ You increase one Ability Score of your choice by 2, or you can increase two Abil
 
 ---
 
-### Actor
+### Actor {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Charisma 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -37,9 +41,11 @@ You gain the following benefits.
 
 ---
 
-### Athlete
+### Athlete {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -57,9 +63,11 @@ You gain the following benefits.
 
 ---
 
-### Charger
+### Charger {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -74,9 +82,11 @@ You gain the following benefits.
 
 ---
 
-### Chef
+### Chef {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -91,9 +101,11 @@ You gain the following benefits.
 
 ---
 
-### Crossbow Expert
+### Crossbow Expert {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Dexterity 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -111,9 +123,11 @@ You gain the following benefits.
 
 ---
 
-### Crusher
+### Crusher {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You are practiced in the art of crushing your enemies, granting you the following benefits:
 
@@ -128,9 +142,11 @@ You are practiced in the art of crushing your enemies, granting you the followin
 
 ---
 
-### Defensive Duelist
+### Defensive Duelist {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Dexterity 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -142,9 +158,11 @@ You gain the following benefits.
 
 ---
 
-### Dual Wielder
+### Dual Wielder {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -159,9 +177,11 @@ You gain the following benefits.
 
 ---
 
-### Durable
+### Durable {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -176,9 +196,11 @@ You gain the following benefits.
 
 ---
 
-### Elemental Adept
+### Elemental Adept {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -192,9 +214,11 @@ You gain the following benefits.
 
 ---
 
-### Fey Touched
+### Fey Touched {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 Your exposure to the Feywild's magic has changed you, granting you the following benefits:
 
@@ -206,9 +230,11 @@ Your exposure to the Feywild's magic has changed you, granting you the following
 
 ---
 
-### Grappler
+### Grappler {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -226,9 +252,11 @@ You gain the following benefits.
 
 ---
 
-### Great Weapon Master
+### Great Weapon Master {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Strength 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -243,9 +271,11 @@ You gain the following benefits.
 
 ---
 
-### Heavily Armoured
+### Heavily Armoured {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Medium Armour Training)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -257,9 +287,11 @@ You gain the following benefits.
 
 ---
 
-### Heavy Armour Master
+### Heavy Armour Master {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Heavy Armour Training)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -271,9 +303,11 @@ You gain the following benefits.
 
 ---
 
-### Inspiring Leader
+### Inspiring Leader {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Wisdom or Charisma 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -285,9 +319,11 @@ You gain the following benefits.
 
 ---
 
-### Keen Mind
+### Keen Mind {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Intelligence 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -304,9 +340,11 @@ You can take the **:rsc-a: Study**{.rsc} action as a **:rsc-b: Bonus Action**{.r
 
 ---
 
-### Lightly Armoured
+### Lightly Armoured {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 **Ability Score Increase**
 :   Increase your Strength or Dexterity score by 1, to a maximum of 20.
@@ -316,9 +354,11 @@ You can take the **:rsc-a: Study**{.rsc} action as a **:rsc-b: Bonus Action**{.r
 
 ---
 
-### Mage Slayer
+### Mage Slayer {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -333,9 +373,11 @@ You gain the following benefits.
 
 ---
 
-### Martial Weapon Training
+### Martial Weapon Training {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -347,9 +389,11 @@ You gain the following benefits.
 
 ---
 
-### Medium Armour Master
+### Medium Armour Master {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Medium Armour Training)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -361,9 +405,11 @@ You gain the following benefits.
 
 ---
 
-### Moderately Armoured
+### Moderately Armoured {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 **Ability Score Increase**
 :   Increase your Strength or Dexterity score by 1, to a maximum of 20.
@@ -373,9 +419,11 @@ You gain the following benefits.
 
 ---
 
-### Mounted Combatant
+### Mounted Combatant {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -393,9 +441,11 @@ You gain the following benefits.
 
 ---
 
-### Observant
+### Observant {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Intelligence or Wisdom 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -411,9 +461,11 @@ You gain the following benefits.
 ---
 
 
-### Piercer
+### Piercer {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -428,9 +480,11 @@ You gain the following benefits.
 
 --- 
 
-### Poisoner
+### Poisoner {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -445,9 +499,11 @@ You gain the following benefits.
 
 ---
 
-### Polearm Master
+### Polearm Master {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -462,9 +518,11 @@ You gain the following benefits.
 
 ---
 
-### Resilient
+### Resilient {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -476,9 +534,11 @@ You gain the following benefits.
 
 ---
 
-### Ritual Caster
+### Ritual Caster {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Intelligence, Wisdom, or Charisma 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -493,9 +553,11 @@ You gain the following benefits.
 
 ---
 
-### Sentinel
+### Sentinel {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Strength or Dexterity 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -510,9 +572,11 @@ You gain the following benefits.
 
 ---
 
-### Shadow Touched
+### Shadow Touched {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -524,9 +588,11 @@ You gain the following benefits.
 
 ---
 
-### Sharpshooter
+### Sharpshooter {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Dexterity 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -544,9 +610,11 @@ You gain the following benefits.
 
 ---
 
-### Shield Master
+### Shield Master {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Shield Training)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -561,9 +629,11 @@ You gain the following benefits.
 
 ---
 
-### Skill Expert
+### Skill Expert {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -575,9 +645,11 @@ You gain the following benefits.
 
 ---
 
-### Skulker
+### Skulker {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Dexterity 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -595,9 +667,11 @@ You gain the following benefits.
 
 ---
 
-### Slasher
+### Slasher {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -612,9 +686,11 @@ You gain the following benefits.
 
 ---
 
-### Speedy
+### Speedy {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Dexterity or Constitution 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -632,9 +708,11 @@ You gain the following benefits.
 
 ---
 
-### Spell Sniper
+### Spell Sniper {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -652,9 +730,11 @@ You gain the following benefits.
 
 ---
 
-### Telekinetic
+### Telekinetic {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -669,9 +749,11 @@ You gain the following benefits.
 
 ---
 
-### Telepathic
+### Telepathic {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You awaken the ability to mentally connect with others, granting you the following benefits:
 
@@ -686,9 +768,11 @@ You awaken the ability to mentally connect with others, granting you the followi
 
 ---
 
-### War Caster
+### War Caster {.noborder}
 
 *General Feat (Prerequisite: Level 4+, Spellcasting or Pact Magic Feature)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 
@@ -706,9 +790,11 @@ You gain the following benefits.
 
 ---
 
-### Weapon Master :material-glass-mug-variant:{title="This is Homebrew/Modified"}
+### Weapon Master :material-glass-mug-variant:{title="This is Homebrew/Modified"} {.noborder}
 
 *General Feat (Prerequisite: Level 4+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits.
 

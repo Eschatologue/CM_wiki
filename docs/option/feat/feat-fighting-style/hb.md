@@ -6,6 +6,10 @@ title: "Homebrew Fighting Style"
 
 These Fighting Style Feature are homebrew.
 
+<div class="dl-bootstrap" markdown>
+
+---
+
 ### Controlled Burst {.noborder}
 
 _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
@@ -120,8 +124,8 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <hr class="hr-solid">
 
-
-
 While wielding a single weapon with the **:wp-prop-versatile: Versatile**{ .wp } property and no Shield, you gain a +1 bonus to your attack roll and damage roll with that weapon. While doing so, you can take one of the following actions as a **:rsc-b: Bonus Action**{.rsc}: **:rsc-a: Unarmed Strike (Grapple)**{.rsc},**:rsc-a: Unarmed Strike (Shove)**{.rsc}, or **:rsc-a: Utilise**{.rsc} action.
 
 ---
+
+</div>

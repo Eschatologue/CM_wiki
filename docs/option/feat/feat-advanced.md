@@ -11,9 +11,11 @@ These feats are in the Advanced Feats category.
 
 <div class="dl-bootstrap" markdown>
 
-### Ambidexterous
+### Ambidexterous {.noborder}
 
 *Advanced Feat (Prerequisites: Level 8+, Strength or Dexterity 15+, [Two-weapon Fighting](./feat-fighting-style/phb24.md#two-weapon-fighting) feat)*
+
+<hr class="hr-solid">  
 
 You learn to wield even more weapon variety with both of your hands.
 
@@ -31,9 +33,11 @@ You learn to wield even more weapon variety with both of your hands.
 
 ---
 
-### Battlemage
+### Battlemage {.noborder}
 
 *Advanced Feat (Prerequisites: Level 8+, Extra Attack feature)*
+
+<hr class="hr-solid">  
 
 You've learned the art of channeling the Weave with your weapon. Strength or Dexterity is your spellcasting ability for this feat's spells (choose when you select this feat). 
 
@@ -47,9 +51,11 @@ You gain the following benefits:
 
 ---
 
-### Dual-Focused
+### Dual-Focused {.noborder}
 
 *Advanced Feat (Prerequisites: Level 8+, Spellcasting or Pact Magic feature)*
+
+<hr class="hr-solid">  
 
 Countless hours have been spent training your mind to maintain focus on concurrent incantations, taxing as the process may be.
 
@@ -63,9 +69,11 @@ Any time you would be forced to make a **:d20-save: CON Save**{.d20} to maintain
 
 ---
 
-### Great Weapon Expert
+### Great Weapon Expert {.noborder}
 
 *Advanced Feat (Prerequisites: Level 8+, Strength or Constitution 15+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefits:
 
@@ -77,9 +85,11 @@ You gain the following benefits:
 
 --- 
 
-### Master of None
+### Master of None {.noborder}
 
 *Advanced Feat (Prerequisites: Level 8+, Intelligence, Wisdom, or Charisma 13+)*
+
+<hr class="hr-solid">  
 
 You gain the following benefit:
 
@@ -88,9 +98,11 @@ You gain the following benefit:
 
 ---
 
-### Mystical Conflux
+### Mystical Conflux {.noborder}
 
-*Advanced Feat (Prerequisites: Level 8+)*  
+*Advanced Feat (Prerequisites: Level 8+)*
+
+<hr class="hr-solid">    
 
 Through your repeated exposure to the natural flow of arcane magic throughout your world and beyond, you've adapted to attune with additional enchantments, though the process can be physically taxing. You gain the following benefits:
 
@@ -108,9 +120,11 @@ You can cast the [:spell-lv1: Identify] spell without expending a spell slot or 
 
 ---
 
-### Remarkable Life Journey
+### Remarkable Life Journey {.noborder}
 
 *Advanced Feat (Prerequisites: Level 8+)*
+
+<hr class="hr-solid">  
 
 Your journey are full of experience.
 
@@ -123,9 +137,11 @@ Your journey are full of experience.
 
 ---
 
-### Shield Prodigy
+### Shield Prodigy {.noborder}
 
 *Advanced Feat (Prerequisites: Level 8+)*
+
+<hr class="hr-solid">  
 
 Through meticulous refinement and tinkering of your equipment, you gain unique abilities with shields. **While wielding a Shield**, you gain the following benefits:
 
@@ -142,9 +158,11 @@ You can take a **:rsc-b: Bonus Action**{.rsc} to end this transformation, revert
 
 ---
 
-### Single Specialialisation
+### Single Specialialisation {.noborder}
 
 *Advanced Feat (Prerequisites: Level 8+)*
+
+<hr class="hr-solid">  
 
 You focus further into the unique strengths of your archetype.
 
@@ -155,9 +173,11 @@ You focus further into the unique strengths of your archetype.
 
 ---
 
-### Spelldriver
+### Spelldriver {.noborder}
 
 *Advanced Feat (Prerequisites: Level 8+, Spellcasting or Pact Magic feature)*
+
+<hr class="hr-solid">  
 
 Through intense focus, training, and dedication, you've harnessed the techniques of rapid spellcasting.
 
@@ -172,9 +192,11 @@ Through intense focus, training, and dedication, you've harnessed the techniques
     
 ---
 
-### Spell Executioner
+### Spell Executioner {.noborder}
 
 *Advanced Feat (Prerequisites: Level 8+, Spellcasting or Pact Magic feature)*
+
+<hr class="hr-solid">  
 
 Your spells become especially lethal against unsuspecting foes.
 
@@ -192,9 +214,11 @@ Your spells become especially lethal against unsuspecting foes.
 
 ---
 
-### Theurgy
+### Theurgy {.noborder}
 
 *Advanced Feat (Prerequisites: Level 8+, Intelligence, Wisdom, or Charisma 15+)*
+
+<hr class="hr-solid">  
 
 You learn how to channel divine power given by the divine.
     
