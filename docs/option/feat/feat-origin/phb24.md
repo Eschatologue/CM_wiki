@@ -10,7 +10,7 @@ These Origin feats are included in the PHB'24
 
 ---
 
-### Alert  {.noborder}
+### Alert {.noborder}
 
 *Origin Feat*
 
