@@ -7,7 +7,7 @@ search:
 
 ## Overview
 
-> *"We do not have a home. We have a promise."*{ .emq }  
+> *"The alliance is built upon a promise."*{ .emq }  
 – Elder Yurukhan, Keeper of the Grand Charter
 { .quote }
 
@@ -71,7 +71,7 @@ The majority of its population are **Oni**, a subrace of continental orcs distin
 
 In recent years, the Kamikaze has begun to shift. The once-unyielding bastion of war has slowly opened its doors to art, literature, and diplomacy. Ancient practices once thought lost have begun to resurface, and with new alliances forming—particularly with **Tartessia** and **Gallia**. 
 
-Its literature, known as *light novels*, has gained a cult following in these foreign lands, a strange yet fitting evolution for an ark once built for conquest.
+Its literature, known as *light novels*, has gained a cult following in these foreign lands.
 
 ### Tianming: Gate of Prosperity
 

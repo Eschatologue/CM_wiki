@@ -13,7 +13,7 @@ search:
 
 The **State of Valinor**, often referred to simply as **Valinor**, stands as a lone beacon of warmth in the frozen northern wastelands of Antares. A city-state built upon perseverance, it shelters elves who once called the verdant forests and great halls of Myrkheim home—refugees, exiles, and those who sought to escape the oppression of their past.   
 
-The lifeblood of Valinor is the **Irminsul**, a colossal engine that generates the heat and energy needed to sustain the city. Without it, the unrelenting cold of the wastelands would claim every soul within its walls. More than a mere machine, the Irminsul is a monument to the elves’ ingenuity, proof that survival lies not in harmony with nature, but in dominion over it.   
+The lifeblood of Valinor is the **Irminsul**, a colossal engine that generates the heat and energy needed to sustain the city. Without it, the unrelenting cold of the wastelands would claim every soul within its walls. More than a mere machine, the Irminsul is a monument to the elves’ ingenuity.
 
 Beyond survival, Valinor has carved out an identity as the **scholarly heart of Antares**. Once secretive, the elves have now thrown open their archives, turning their city into a sanctuary of knowledge. Scholars from distant lands brave the treacherous journey north, drawn to the promise of learning and the wisdom of a civilisation that refuses to fade.  
 

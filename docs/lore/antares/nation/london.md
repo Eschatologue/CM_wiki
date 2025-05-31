@@ -62,8 +62,6 @@ They did not wield magic. They had no ties to the gods. Yet their hands shaped m
 
 At first, the elves welcomed the Londoners, offering them land and protection. Yet what began as an act of benevolence soon soured into resentment. Cities rose where forests once stood. Machines churned where rivers once flowed. The British expanded ceaselessly, unconcerned with the sacred lands they claimed.  
 
-And then came the demands.  
-
 The elves, wary of Albion’s growing power, sought to control it. They insisted on oversight, demanded the secrets of London’s industry be shared. When their petitions were denied, they turned to coercion—kidnappings, sabotage, even slavery.  
 
 The final breaking point came when an elven warband raided an Albion outpost, seizing dozens of its people. The retaliation was swift and merciless. It was the first time Antares witnessed the full fury of Albion’s industry—and it would not be the last.  
@@ -96,7 +94,7 @@ For two hundred years, Albion has known no peace. The world beyond its borders i
 
 ### Government Structure  
 
-> *"We do not serve kings, nor do we bow to gods. We serve Albion. That is enough."*{ .emq }   
+> *"We do not serve kings, nor do we bow to gods. The Dominion stands above all."*{ .emq }   
 — Marshal Edric Vaughn, Ministry of Order
 { .quote }
 

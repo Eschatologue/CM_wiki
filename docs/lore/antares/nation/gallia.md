@@ -7,7 +7,7 @@ search:
 
 ## Overview
 
-> *"Gallia is more than an empire; it is a legacy. A legacy written in ink, fire, and blood."*{ .emq }  
+> *"Gallia is more than an empire; it is a legacy–written in ink, fire, and blood."*{ .emq }  
 — Archmage Valérien d'Alembert, Imperial Historian
 { .quote }
 
@@ -23,7 +23,7 @@ Yet no empire lasts forever. *The Second Maelstorm* shattered its supremacy, and
 — Chancellor Armand Leclerc, Reflections on Empire
 { .quote }
 
-Gallia’s ascent was built on magic and war. The empire’s famed Le système Gallien, a doctrine of governance and arcane mastery, made it the envy of Antares. Its noble houses—many tracing their lineage to the first sorcerer-kings—ensured that magic remained the dominion of the aristocracy.
+Gallia’s ascent was built on magic and war. The empire’s famed *Le système Gallien*, a doctrine of governance and arcane mastery, made it the envy of Antares. Its noble houses—many tracing their lineage to the first sorcerer-kings—ensured that magic remained the dominion of the aristocracy.
 
 At its height, Gallia controlled vast territories, its influence shaping everything from trade to warfare. Its language became the common tongue, spoken from the frozen north to the distant east. To speak Gallian was to be civilised—to be part of a greater world.
 
@@ -31,7 +31,7 @@ Yet the grandeur masked a festering rot. The empire was gilded, but fragile. And
 
 ### The Gallian Revolution
 
-> *"We gave them grains, and they gave us shackles."*{ .emq }  
+> *"Gallian Grains are traded for its commoner's shackles."*{ .emq }  
 — Camille Durand, Revolutionary Leader
 { .quote }
 
@@ -43,7 +43,7 @@ The sorcerer-emperor and his loyalists unleashed their wrath, drowning the revol
 
 ### Empress Corsica II Reforms
 
-> *"Revolutions do not end with fire. They end when rulers learn to listen."*{ .emq }  
+> *"Revolutions do not end with fire. They end when rulers learn to listen–good luck with that..."*{ .emq }  
 — Empress Corsica II
 { .quote }
 

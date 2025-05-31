@@ -1,6 +1,8 @@
 ---
 search:
   boost: 0.15
+hide:
+    - toc
 ---
 
 # Welcome to Crown and Misery
@@ -12,6 +14,8 @@ search:
 *As the sun sinks below the horizon and night falls once more, weary soldiers finish tending their rifles. They take their posts in silence, wounded yet unwavering—one more night, they pray, until reinforcements arrive.*{.quote}
 
 *The sensors shriek in garbled static, warning the prospectors of what lies ahead. The air reeks of death. Still, they march onward. Riches, after all, often bear the same stench.*{.quote}
+
+---
 
 The world of Crown and Misery is built upon a broken land. On this hollowed continent, time ticks ever forward as all things inch toward the yawning void. This is no longer an age for heroes, but for the tired souls that still choose to fight for the last flickers of hope. Good people commit evil acts. Evils serve the greater good. The world is painted in a hundred shades of grey.
 

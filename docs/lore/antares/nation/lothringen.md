@@ -18,7 +18,7 @@ Once part of Gallia, the province of Lorraine, Lothringen was always a unique en
 
 ### Gallia & Lothringen  
 
-> *"Gallia did not forge an empire. It gathered the spoils of war and called it unity."*{ .emq }  
+> *"Gallia gathered the spoils of war and called it an empire."*{ .emq }  
 — Marquis Henri de Dorian, Gallian noble  
 { .quote }
 
