@@ -235,7 +235,7 @@ nav:
       - Trinket: equipment/adventuring-gear/trinket.md
       - Consumeables: 
         - Grenade: equipment/consumeables/grenade.md
-        - Potion: equipment/consumeables/potion.md
+        - Potion/Elixir: equipment/consumeables/potion.md
         - Spell Scroll: equipment/consumeables/spell-scroll.md
   - Class: 
     - class/index.md

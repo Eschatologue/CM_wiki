@@ -2,6 +2,8 @@
 icon: material/bottle-tonic-plus
 ---
 
+# Potion and Elixir
+
 In this D&D, potions or elixirs come in various types, from basic healing potions or elixirs to those that grant specific buffs to those who consumes it. These items are typically regarded as magical byproducts, so their availability depends on the familiarity of a particular shop or nation with magical goods.
 
 ## Drinking or Consuming
@@ -50,10 +52,10 @@ Multiple variations of this item exist. When you drink this elixir, your Strengt
 |---|---|:-:|---|--:|
 | *Elixir of Hill Giant Strength* | Rare | 21 | Contains a sliver of **hill giant** fingernail. | 750 SP |
 | *Elixir of Stone Giant Strength* | Very Rare | 23 | Contains a sliver of **stone giant** fingernail. | 1,500 SP |
-| *Elixir of Cloud Giant Strength* | Legendary | 27 | Contains a sliver of **cloud giant** fingernail. | 3,000 |
+| *Elixir of Cloud Giant Strength* | Legendary | 27 | Contains a sliver of **cloud giant** fingernail. | 3,000 SP |
 | *Elixir of Storm Giant Strength* | - | 29 | Contains a sliver of **storm giant** fingernail. | - |
 
---
+---
 
 ### Elixir of Resistance {.noborder}
 

@@ -44,7 +44,7 @@ When you cast a spell that forces a creature to make a saving throw, you can spe
 
 ### Quickened Spell :ui-sorc-point::ui-sorc-point:
 
-When you cast a spell that has a casting time of an action, you can spend **2 :ui-sorc-point: Sorcery Point(s)** to change the casting time to a **:rsc-b: Bonus Action**{.rsc} for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
+When you cast a spell that has a casting time of an **:rsc-a: Action**{.rsc}, you can spend **2 :ui-sorc-point: Sorcery Point(s)** to change the casting time to a **:rsc-b: Bonus Action**{.rsc} for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
 
 ---
 
@@ -64,7 +64,7 @@ When you cast a spell, you can spend **1 :ui-sorc-point: Sorcery Point(s)** to c
 
 ### Transmuted Spell :ui-sorc-point:
 
-When you cast a spell that deals a type of damage from the following list, you can spend **1 :ui-sorc-point: Sorcery Point(s)** to change that damage type to one of the other listed types: Acid, Cold, Fire, Lightning, Poison, Thunder.
+When you cast a spell that deals a type of damage from the following list, you can spend **1 :ui-sorc-point: Sorcery Point(s)** to change that damage type to one of the other listed types: **:dmg-acid: Acid**{.dmg-acid}, **:dmg-cold: Cold**{.dmg-cold}, **:dmg-fire: Fire**{.dmg-fire}, **:dmg-lgtn: Lightning**{.dmg-lgtn}, **:dmg-posn: Poison**{.dmg-posn}, **:dmg-thun: Thunder**{.dmg-thun}.
 
 ---
 
