@@ -48,7 +48,7 @@ You pride yourself on your quickness and your close study of certain clandestine
 
 ### Dominion's Armaments {.noborder}
 
-*Origin Feat (Prerequisite: Dexterity or Intelligence 13+, English Language Proficiency, Crown & Misery Setting)*
+*Origin Feat (Prerequisite: Dexterity or Intelligence 13+, English Language Proficiency, & Crown & Misery Setting)*
 
 <hr class="hr-solid"> 
 
@@ -112,7 +112,7 @@ Your study of history rewards you with the following benefits:
 :   You gain Proficiency in the History skill. If you are already proficient in the skill, you gain Expertise instead.
     
 **An Example for Every Situation**
-:   When you take the Help action to aid another creature's ability check, you can make a **DC 15 :d20-check: Intelligence (History) check**{.d20}. On a success, that creature's check gains a bonus equal to your Proficiency Bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you're saying.
+:   When you take the **:rsc-a: Help**{.rsc} action to aid another creature's ability check, you can make a **DC 15 :d20-check: Intelligence (History) check**{.d20}. On a success, that creature's check gains a bonus equal to your Proficiency Bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you're saying.
 
 ---
 
@@ -185,15 +185,15 @@ Though you might not be a Ranger, your past experiences with them teaches you im
 
 You have always found ways to leverage your great might.
 
-You gain the benefits from the table below that correspond to your Strength score and lower. If your Strength score increases, the benefits you gain from this Feat also increase with your score:
+You gain the benefits from the table below that correspond to your Strength score and lower. Should your Strength score increases, the benefits you gain from this Feat also increase with your score:
 
 | STR Score | Benefit |
 |:-:|---|
-| 12-13 | You are considered to be one size larger to determine your [Carrying Capacity](../../../gameplay/homebrew/inventory.md#carrying-capacity). |
+| 12-13 | Whenever you make an Athletics check you treat a roll of 7 or lower on the d20 as an 8.  |
 | 14-15 | You can make Strength (Intimidation) checks in place of Charisma (Intimidation) checks. |
-| 16-17 | You gain a **Climb Speed**{.mv} and **Swim Speed**{.mv} equal to your **:rsc-spd: Speed**{.mv}. |
-| 18-19 | Whenever you make an Athletics check you treat a roll of 7 or lower on the d20 as an 8. |
-| 20+ | Whenever you are forced to make a Constitution saving throw, you can choose to make an Strength saving throw instead. |
+| 16-17 | You gain **Climb Speed**{.mv} and **Swim Speed**{.mv} equal to half your **:rsc-spd: Speed**{.mv}. |
+| 18-19 | You are considered to be one size larger to determine your [Carrying Capacity](../../../gameplay/homebrew/inventory.md#carrying-capacity). |
+| 20+ | Whenever you are forced to make a **:d20-save: CON Save**{.d20}, you can choose to make an **:d20-save: STR Save**{.d20} instead. |
 
 **Source:** Laserllama Compendium of Feats*
 
@@ -207,7 +207,7 @@ You gain the benefits from the table below that correspond to your Strength scor
 
 You have made a vow to never stop learning, no matter how old or educated you become. 
 
-You gain the benefits from the table below that correspond to your Intelligence score and lower. If your Intelligence score increases, the benefits you gain from this Feat also increase with your score:
+You gain the benefits from the table below that correspond to your Intelligence score and lower. Should your Intelligence score increases, the benefits you gain from this Feat also increase with your score:
 
 | INT Score | Benefit |
 |:-:|---|
@@ -215,7 +215,7 @@ You gain the benefits from the table below that correspond to your Intelligence 
 | 14-15 | You gain proficiency with one set of Artisan's Tools of your choice. |
 | 16-17 | You gain proficiency in one skill of your choice. |
 | 18-19 | For one skill proficiency of your choice, you treat a roll of 7 or lower on the d20 as an 8. |
-| 20+ | Whenever you are forced to make a Wisdom saving throw, you can choose to make an Intelligence saving throw instead. |
+| 20+ | Whenever you are forced to make a **:d20-save: Save**{.d20}, you can choose to make an **:d20-save: INT Save**{.d20} instead. |
 
 **Source:** Laserllama Compendium of Feats*
 
@@ -235,9 +235,9 @@ You gain the benefits on the table below that correspond to your current Wisdom 
 |:-:|---|
 | 12-13 | You gain proficiency with one musical instrument of your choice. |
 | 14-15 | You can make Wisdom (Persuasion) checks in place of Charisma (Persuasion) checks. |
-| 16-17 | You gain proficiency in either Animal Handling, Insight, Medicine, or Perception. |
+| 16-17 | You gain proficiency in one of the following skill of your choice: Animal Handling, Insight, Medicine, or Perception. |
 | 18-19 | You have **:d20-adv: Advantage**{.d20} on saving throws to end the **Charmed**{.cond} and **Frightened**{.cond} conditions. |
-| 20+ | When you are forced to make a Charisma or Intelligence saving throw, you can choose to make a Wisdom saving throw instead. |
+| 20+ | When you are forced to make a **:d20-save: CHA or INT Save**{.d20}, you can choose to make a **:d20-save: WIS Save**{.d20} instead. |
 
 **Source:** Laserllama Compendium of Feats*
 
