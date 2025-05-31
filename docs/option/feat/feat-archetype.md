@@ -47,7 +47,7 @@ You gain the following benefits.
 
 ---
 
-### Armoured and Angry {.noborder}
+### Unnatural Physique {.noborder}
 
 _Archetype Feat (Prerequisites: Level 4+ Barbarian)_
 
@@ -60,6 +60,9 @@ You gain the following benefits.
 
 **Urban Defence**
 :   You can use your Constitution, instead of Dexterity, when calculating your Armour Class in Light or Medium armour.
+
+**Immovable**
+:   You have **:d20-adv: Advantage**{.d20} on **:d20-saves: Saves**{.d20} to avoid being moved against your will and having the **Grappled**{.cond} or **Prone**{.cond} condition.
 
 ---
 

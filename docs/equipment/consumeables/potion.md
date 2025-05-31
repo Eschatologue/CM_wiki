@@ -74,7 +74,7 @@ Multiple variations of this item exist. When you drink this potion, you gain **:
 | *Elixir of Resistance (Lightning)* | Uncommon | **:dmg-lgtn: Lightning**{ .dmg-lgtn }  | Liquid crackles with a faint yellow glow. | 500 SP |
 | *Elixir of Resistance (Thunder)* | Uncommon | **:dmg-thun: Thunder**{ .dmg-thun }  | Liquid rumbles and vibrates inside the container. | 500 SP |
 | *Elixir of Resistance (Psychic)* | Rare | **:dmg-psyc: Psychic**{ .dmg-psyc }  | Liquid shimmers with an iridescent purple hue. | 750 SP |
-| *Elixir of Resistance (Necrotic)* | Very Rare | :**dmg-necr: Necrotic**{ .dmg-necr }  | Liquid is dark and swirls with shadowy wisps. | 1,500 SP |
+| *Elixir of Resistance (Necrotic)* | Very Rare | **:dmg-necr: Necrotic**{ .dmg-necr }  | Liquid is dark and swirls with shadowy wisps. | 1,500 SP |
 | *Elixir of Resistance (Radiant)* | Very Rare | **:dmg-radi: Radiant**{ .dmg-radi }  | Liquid glows faintly with a soft golden light. | 1,500 SP |
 | *Elixir of Resistance (Force)* | Very Rare | **:dmg-force: Force**{ .dmg-force }  | Liquid appears translucent with a slight shimmer. | 1,500 SP |
 

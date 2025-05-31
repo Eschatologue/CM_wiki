@@ -116,28 +116,6 @@ Your study of history rewards you with the following benefits:
 
 ---
 
-### Lifelong Learner {.noborder}
-
-*Origin Feat*
-
-<hr class="hr-solid">  
-
-You have made a vow to never stop learning, no matter how old or educated you become. 
-
-You gain the benefits from the table below that correspond to your Intelligence score and lower. If your Intelligence score increases, the benefits you gain from this Feat also increase with your score:
-
-| INT Score | Benefit |
-|:-:|---|
-| 12-13 | You learn to speak, read, and write one additional language of your choice. |
-| 14-15 | You gain proficiency with one set of Artisan's Tools of your choice. |
-| 16-17 | You gain proficiency in one skill of your choice. |
-| 18-19 | For one skill proficiency of your choice, you treat a roll of 7 or lower on the d20 as an 8. |
-| 20+ | Whenever you are forced to make a Wisdom saving throw, you can choose to make an Intelligence saving throw instead. |
-
-**Source:** Laserllama Compendium of Feats*
-
----
-
 ### Linguist {.noborder}
 
 *Origin Feat (Prerequisites: Intelligence or Wisdom 13+)*
@@ -199,9 +177,53 @@ Though you might not be a Ranger, your past experiences with them teaches you im
 
 ---
 
+### Legendary Physique {.noborder}
+
+*Origin Feat (Ability Score: Strength)*
+
+<hr class="hr-solid">  
+
+You have always found ways to leverage your great might.
+
+You gain the benefits from the table below that correspond to your Strength score and lower. If your Strength score increases, the benefits you gain from this Feat also increase with your score:
+
+| STR Score | Benefit |
+|:-:|---|
+| 12-13 | You are considered to be one size larger to determine your [Carrying Capacity](../../../gameplay/homebrew/inventory.md#carrying-capacity). |
+| 14-15 | You can make Strength (Intimidation) checks in place of Charisma (Intimidation) checks. |
+| 16-17 | You gain a **Climb Speed**{.mv} and **Swim Speed**{.mv} equal to your **:rsc-spd: Speed**{.mv}. |
+| 18-19 | Whenever you make an Athletics check you treat a roll of 7 or lower on the d20 as an 8. |
+| 20+ | Whenever you are forced to make a Constitution saving throw, you can choose to make an Strength saving throw instead. |
+
+**Source:** Laserllama Compendium of Feats*
+
+---
+
+### Lifelong Learner {.noborder}
+
+*Origin Feat (Ability Score: Intelligence)*
+
+<hr class="hr-solid">  
+
+You have made a vow to never stop learning, no matter how old or educated you become. 
+
+You gain the benefits from the table below that correspond to your Intelligence score and lower. If your Intelligence score increases, the benefits you gain from this Feat also increase with your score:
+
+| INT Score | Benefit |
+|:-:|---|
+| 12-13 | You learn one additional standard language of your choice. |
+| 14-15 | You gain proficiency with one set of Artisan's Tools of your choice. |
+| 16-17 | You gain proficiency in one skill of your choice. |
+| 18-19 | For one skill proficiency of your choice, you treat a roll of 7 or lower on the d20 as an 8. |
+| 20+ | Whenever you are forced to make a Wisdom saving throw, you can choose to make an Intelligence saving throw instead. |
+
+**Source:** Laserllama Compendium of Feats*
+
+---
+
 ### Wise One {.noborder}
 
-*Origin Feat*
+*Origin Feat (Ability Score: Wisdom)*
 
 <hr class="hr-solid">  
 
@@ -214,7 +236,7 @@ You gain the benefits on the table below that correspond to your current Wisdom 
 | 12-13 | You gain proficiency with one musical instrument of your choice. |
 | 14-15 | You can make Wisdom (Persuasion) checks in place of Charisma (Persuasion) checks. |
 | 16-17 | You gain proficiency in either Animal Handling, Insight, Medicine, or Perception. |
-| 18-19 | You have **:d20-adv: Advantage**{.d20} on saving throws to end the charmed and frightened conditions. |
+| 18-19 | You have **:d20-adv: Advantage**{.d20} on saving throws to end the **Charmed**{.cond} and **Frightened**{.cond} conditions. |
 | 20+ | When you are forced to make a Charisma or Intelligence saving throw, you can choose to make a Wisdom saving throw instead. |
 
 **Source:** Laserllama Compendium of Feats*
