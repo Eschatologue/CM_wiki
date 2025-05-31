@@ -3,9 +3,9 @@ icon: material/cards-playing-spade
 status: homebrew
 ---
 
-# Archetype Feats
+# Archetype 
 
-These feats are in the Archetype Feats category.
+Archetype feats are feats made specifically for a particular class. The following Feats are in this category.
 
 <div class="dl-bootstrap" markdown>
 
