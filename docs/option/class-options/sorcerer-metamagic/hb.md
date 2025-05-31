@@ -6,7 +6,7 @@ title: Sorcerer's Metamagic (CM)
 
 The list below contains additional Metamagic available for Crown & Misery campaign. In Prison & Wyvern, ask the DM first.
 
-### Aftershock
+### Aftershock :ui-sorc-point::ui-sorc-point::ui-sorc-point:
 
 _**Cost:** 3 :ui-sorc-point: Sorcery Point(s)_
 
@@ -14,7 +14,7 @@ When you cast a damaging spell with an area of effect that forces creatures to m
 
 ---
 
-### Borrowed Spell
+### Borrowed Spell :ui-sorc-point::ui-sorc-point:
 
 _**Cost:** 2 :ui-sorc-point: Sorcery Point(s)_
 
@@ -22,7 +22,7 @@ You can spend 2 Sorcery Point(s) to touch a willing creature within 5 feet and c
 
 ---
 
-### Cerebral Spell
+### Cerebral Spell :ui-sorc-point::ui-sorc-point:
 
 _**Cost:** 2 :ui-sorc-point: Sorcery Point(s)_
 
@@ -32,7 +32,7 @@ This Metamagic only changes the initial save. Any subsequent saves target the or
 
 ---
 
-### Imbued Spell
+### Imbued Spell :ui-sorc-point:++ {data-toc-label="Imbued Spell"}
 
 _**Cost:** 1 - 10 :ui-sorc-point: Sorcery Point(s)_
 
@@ -42,7 +42,7 @@ If the spell requires Concentration, the creature you cast the spell on must Con
 
 ---
 
-### Kinetic Spell
+### Kinetic Spell :ui-sorc-point:
 
 _**Cost:** 1 :ui-sorc-point: Sorcery Point(s)_
 
@@ -52,7 +52,7 @@ This Metamagic only changes the initial save. Any subsequent Saving Throws targe
 
 ---
 
-### Magical Guidance
+### Magical Guidance :ui-sorc-point:
 
 _**Cost:** 1 :ui-sorc-point: Sorcery Point(s)_
 
@@ -60,7 +60,7 @@ When you fail an Ability Check, you can take a **:rsc-r: Reaction**{.rsc} to spe
 
 ---
 
-### Misdirection
+### Misdirection :ui-sorc-point:
 
 _**Cost:** 1 :ui-sorc-point: Sorcery Point(s)_
 
@@ -68,7 +68,7 @@ When you cast a spell that originates from you, you can spend 1 Sorcery Point(s)
 
 ---
 
-### Overcharge
+### Overcharge :ui-sorc-point::ui-sorc-point:++ {data-toc-label="Overcharge"}
 
 _**Cost:** 2-10 :ui-sorc-point: Sorcery Point(s)_
 
@@ -76,7 +76,7 @@ When you cast a spell has only one target, and requires you to make an attack ro
 
 ---
 
-### Penetrating Spell
+### Penetrating Spell :ui-sorc-point:
 
 _**Cost:** 1 :ui-sorc-point: Sorcery Point(s)_
 
@@ -86,7 +86,7 @@ You can use this Metamagic even if you have already used a different Metamagic o
 
 ---
 
-### Punch Spell
+### Punch Spell :ui-sorc-point:
 
 _**Cost:** 1 :ui-sorc-point: Sorcery Point(s)_
 
@@ -94,7 +94,7 @@ When you cast a spell that requires you to make a ranged spell attack while ther
 
 ---
 
-### Recycled Spell
+### Recycled Spell :ui-sorc-point:
 
 _**Cost:** 1 :ui-sorc-point: Sorcery Point(s)_
 
@@ -102,7 +102,7 @@ When you cast a spell, you can spend 1 Sorcery Point to possibly conserve your a
 
 ---
 
-### Resolute Spell
+### Resolute Spell :ui-sorc-point::ui-sorc-point:
 
 _**Cost:** 2 :ui-sorc-point: Sorcery Point(s)_
 
@@ -112,7 +112,7 @@ This Metamagic only changes the initial save. Any subsequent Saving Throws targe
 
 ---
 
-### Unerring Spell
+### Unerring Spell :ui-sorc-point:
 
 _**Cost:** 1 :ui-sorc-point: Sorcery Point(s)_
 

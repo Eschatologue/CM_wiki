@@ -36,13 +36,13 @@ If the affected spell requires Concentration, you have **:d20-adv: Advantage**{.
 
 ---
 
-### Heightened Spell :ui-sorc-point: :ui-sorc-point:
+### Heightened Spell :ui-sorc-point::ui-sorc-point:
 
 When you cast a spell that forces a creature to make a saving throw, you can spend **2 :ui-sorc-point: Sorcery Point(s)** to give one target of the spell **:d20-dis: Disadvantage**{.d20} on saves against the spell.
 
 ---
 
-### Quickened Spell :ui-sorc-point: :ui-sorc-point:
+### Quickened Spell :ui-sorc-point::ui-sorc-point:
 
 When you cast a spell that has a casting time of an action, you can spend **2 :ui-sorc-point: Sorcery Point(s)** to change the casting time to a **:rsc-b: Bonus Action**{.rsc} for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
 
