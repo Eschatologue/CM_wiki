@@ -11,9 +11,7 @@ icon: material/book
 
 These are Rule Glossary, keep in mind some rule glossary has been changed to suit Crown & Misery campaign.
 
-## A {.noborder .align-right}
-
----
+## A {.noborder .align-middle}
 
 ### Ability Score and Modifier {.noborder}
 
@@ -197,6 +195,8 @@ Some magic items require a creature to form a bond—called Attunement—with th
 
 ---
 
+## B {.noborder .align-middle}
+
 ### Bloodied {.noborder}
 
 *Core, PHB'24*
@@ -271,6 +271,8 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 Bright Light is normal illumination.
 
 ---
+
+## C {.noborder .align-middle}
 
 ### Campaign {.noborder}
 
@@ -500,6 +502,8 @@ A :d20-save: **Saving Throw**—also called a save—represents an attempt to av
 
 ---
 
+## D {.noborder .align-middle}
+
 ### Damage {.noborder}
 
 *Core, PHB'24*
@@ -655,6 +659,8 @@ If you have **:d20-dis: Disadvantage**{.d20} on a D20 Test, roll two d20s and us
 
 ---
 
+## E {.noborder .align-middle}
+
 ### Encounter {.noborder}
 
 *Core, PHB'24*
@@ -697,6 +703,8 @@ If you gain Expertise, you gain it in one skill in which you have proficiency. Y
 
 ---
 
+## F {.noborder .align-middle}
+
 ### Flying {.noborder}
 
 *Core, PHB'24*
@@ -715,13 +723,15 @@ A variety of effects allow a creature to fly. While flying, you fall if you have
 
 <!-- --8<-- [start:forced_movement] -->
 
-*Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own Movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like *Thunderwave* or a Battle Master's *Pushing Attack*. Forced Movement does **not** provoke Opportunity Attacks and is not limited by a creature's Movement speed.
+*Forced Movement* occurs when a creature is moved by an external force, such as a spell or ability, without using its own Movement, Actions, or Reactions. Common examples include being pushed, pulled, or moved by effects like [:spell-lv1: Thunderwave] or a Battle Master's *Pushing Attack*. Forced Movement does **not** provoke Opportunity Attacks and is not limited by a creature's Movement speed.
 
 If forced into hazardous terrain (e.g. pits or lava), the creature suffers any consequences. The Movement usually stops if the creature hits an obstacle or reaches an edge, unless otherwise specified. Forced Movement generally requires the target to end in an unoccupied space.
 
 <!-- --8<-- [end:forced_movement] -->
 
 ---
+
+## G {.noborder .align-middle}
 
 ### Grappling {.noborder}
 
@@ -742,6 +752,8 @@ A creature can grapple another creature. Characters typically grapple by using a
 <!-- --8<-- [end:grappling] -->
 
 ---
+
+## H {.noborder .align-middle}
 
 ### Hazards {.noborder}
 
@@ -889,6 +901,8 @@ Some creatures can hover, as noted in their stat blocks, and some spells and oth
 
 ---
 
+## I {.noborder .align-middle}
+
 ### Illusions {.noborder}
 
 *Core, PHB'24*
@@ -945,6 +959,8 @@ Sometimes a DM might have combatants use their **:d20-inv: Initiative**{.d20 } s
 
 ---
 
+## J {.noborder .align-middle}
+
 ### Jumping {.noborder}
 
 *Core, PHB'24*
@@ -969,6 +985,8 @@ You can extend your arms half your height above yourself during the jump. Thus, 
 
 ---
 
+## K {.noborder .align-middle}
+
 ### Knocking Out a Creature {.noborder}
 
 *Core, PHB'24*
@@ -980,6 +998,8 @@ When you would reduce a creature to 0 Hit Points with a melee attack, you can in
 The creature remains Unconscious until it regains any Hit Points or until someone uses an action to administer first aid to it, which requires a successful DC 10 Wisdom (Medicine) check.
 
 ---
+
+## L {.noborder .align-middle}
 
 ### Lightly Obscured {.noborder}
 
@@ -1021,6 +1041,8 @@ You can resume a **:rest-long: Long Rest** immediately after an interruption. If
 
 ---
 
+## M {.noborder .align-middle}
+
 ### Magical Effect {.noborder}
 
 *Core, PHB'24*
@@ -1041,6 +1063,8 @@ A monster is a creature controlled by the DM, even if the creature is benevolent
 
 ---
 
+## N {.noborder .align-middle}
+
 ### Nonplayer Character {.noborder}
 
 *Core, PHB'24*
@@ -1050,6 +1074,8 @@ A monster is a creature controlled by the DM, even if the creature is benevolent
 A nonplayer character (NPC) is a monster that has a personal name and a distinct personality.
 
 ---
+
+## O {.noborder .align-middle}
 
 ### Object {.noborder}
 
@@ -1074,6 +1100,8 @@ An object is a nonliving, distinct thing. Composite things, like buildings, comp
 A space is occupied if a creature is in it or if it is completely filled by objects.
 
 ---
+
+## P {.noborder .align-middle}
 
 ### Passive Perception {.noborder}
 
@@ -1127,6 +1155,8 @@ If you have proficiency with something, you can add your Proficiency Bonus to an
 
 ---
 
+## R {.noborder .align-middle}
+
 ### Reaction {.noborder}
 
 *Core, PHB'24*
@@ -1166,6 +1196,8 @@ If you have a spell prepared that has the Ritual tag, you can cast that spell as
 Whenever you divide or multiply a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater. Some rules make an exception and tell you to round up.
 
 ---
+
+## S {.noborder .align-middle}
 
 ### Save {.noborder}
 
@@ -1444,6 +1476,8 @@ While you're swimming, each foot of Movement costs 1 extra foot (2 extra feet in
 
 ---
 
+## T {.noborder .align-middle}
+
 ### Target {.noborder}
 
 *Core, PHB'24*
@@ -1494,6 +1528,8 @@ The description of a teleportation effect tells you if you must see the teleport
 
 ---
 
+## U {.noborder .align-middle}
+
 ### Unoccupied Space {.noborder}
 
 *Core, PHB'24*
@@ -1504,6 +1540,8 @@ A space is unoccupied if no creatures are in it and it isn't completely filled b
 
 ---
 
+## V {.noborder .align-middle}
+
 ### Vulnerability {.noborder}
 
 *Core, PHB'24*
@@ -1513,6 +1551,8 @@ A space is unoccupied if no creatures are in it and it isn't completely filled b
 If you have Vulnerability to a damage type, damage of that type is doubled against you. Vulnerability is applied only once to an instance of damage.
 
 ---
+
+## W {.noborder .align-middle}
 
 ### Weapon {.noborder}
 
