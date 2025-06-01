@@ -11,13 +11,17 @@ icon: material/book
 
 These are Rule Glossary, keep in mind some rule glossary has been changed to suit Crown & Misery campaign.
 
+## A
+
+### Ability Score and Modifier {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
+
+A creature has six ability scores—Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma—each of which has a corresponding modifier. Add the modifier when you make a D20 Test Test with the corresponding ability or when a rule asks you to do so.
+
 <div class="dl-bootstrap" markdown>
-
-## Ability Score and Modifier {.hide}
-
-**Ability Score and Modifier**
-
-:   A creature has six ability scores—Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma—each of which has a corresponding modifier. Add the modifier when you make a D20 Test Test with the corresponding ability or when a rule asks you to do so.
 
 ---
 

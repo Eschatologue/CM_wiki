@@ -11,7 +11,7 @@ In this D&D, potions or elixirs come in various types, from basic healing potion
 In Crown & Misery, where combat can be exceptionally lethal, rules regarding or elixir consumption differ slightly from standard PHB'24 rulings, in which you can choose between taking either **:rsc-a: Action**{.rsc} or **:rsc-b: Bonus Action**{.rsc} to consume the potion or elixir.
 
 - **:rsc-a: Action**{.rsc} Grants you the full maximum benefit of the potion or elixir. If the potion or elixir requires you to roll dice for its effect, you gain the maximum possible roll for those dice instead.
-- **:rsc-b Bonus Action:**{.rsc} Requires you to roll the dice associated with the potion or elixir's description to receive its benefits.
+- **:rsc-b: Bonus Action**{.rsc} Requires you to roll the dice associated with the potion or elixir's description to receive its benefits.
 
 ## Potions & Elixir List
 

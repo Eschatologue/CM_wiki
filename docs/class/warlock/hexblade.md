@@ -20,7 +20,7 @@ The magic of your otherworldly patron ensures you always have certain spells rea
 
 | Warlock Level | Spells |
 |:-:|---|
-| 3 | [:spell-lv1: Shield], [:spell-lv1: Wrathful Smite], [:spell-lv2: Darkness], [:spell-lv2: Blur] |
+| 3 | [:spell-lv1: Shield], [:spell-lv1: Hex], [:spell-lv1: Wrathful Smite], [:spell-lv2: Darkness], [:spell-lv2: Blur] |
 | 5 | [:spell-lv3: Blink], [:spell-lv3: Elemental Weapon] |
 | 7 | [:spell-lv4: Phantasmal Killer], [:spell-lv4: Fire Shield] |
 | 9 | [:spell-lv5: Hold Monster], [:spell-lv5: Cone of Cold] |
