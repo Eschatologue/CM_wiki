@@ -11,7 +11,7 @@ icon: material/book
 
 These are Rule Glossary, keep in mind some rule glossary has been changed to suit Crown & Misery campaign.
 
-## A {.noborder .align-middle}
+## A {.align-center}
 
 ### Ability Score and Modifier {.noborder}
 
@@ -195,7 +195,7 @@ Some magic items require a creature to form a bond—called Attunement—with th
 
 ---
 
-## B {.noborder .align-middle}
+## B {.align-center}
 
 ### Bloodied {.noborder}
 
@@ -272,7 +272,7 @@ Bright Light is normal illumination.
 
 ---
 
-## C {.noborder .align-middle}
+## C {.align-center}
 
 ### Campaign {.noborder}
 
@@ -502,7 +502,7 @@ A :d20-save: **Saving Throw**—also called a save—represents an attempt to av
 
 ---
 
-## D {.noborder .align-middle}
+## D {.align-center}
 
 ### Damage {.noborder}
 
@@ -659,7 +659,7 @@ If you have **:d20-dis: Disadvantage**{.d20} on a D20 Test, roll two d20s and us
 
 ---
 
-## E {.noborder .align-middle}
+## E {.align-center}
 
 ### Encounter {.noborder}
 
@@ -703,7 +703,7 @@ If you gain Expertise, you gain it in one skill in which you have proficiency. Y
 
 ---
 
-## F {.noborder .align-middle}
+## F {.align-center}
 
 ### Flying {.noborder}
 
@@ -731,7 +731,7 @@ If forced into hazardous terrain (e.g. pits or lava), the creature suffers any c
 
 ---
 
-## G {.noborder .align-middle}
+## G {.align-center}
 
 ### Grappling {.noborder}
 
@@ -753,7 +753,7 @@ A creature can grapple another creature. Characters typically grapple by using a
 
 ---
 
-## H {.noborder .align-middle}
+## H {.align-center}
 
 ### Hazards {.noborder}
 
@@ -901,7 +901,7 @@ Some creatures can hover, as noted in their stat blocks, and some spells and oth
 
 ---
 
-## I {.noborder .align-middle}
+## I {.align-center}
 
 ### Illusions {.noborder}
 
@@ -959,7 +959,7 @@ Sometimes a DM might have combatants use their **:d20-inv: Initiative**{.d20 } s
 
 ---
 
-## J {.noborder .align-middle}
+## J {.align-center}
 
 ### Jumping {.noborder}
 
@@ -985,7 +985,7 @@ You can extend your arms half your height above yourself during the jump. Thus, 
 
 ---
 
-## K {.noborder .align-middle}
+## K {.align-center}
 
 ### Knocking Out a Creature {.noborder}
 
@@ -999,7 +999,7 @@ The creature remains Unconscious until it regains any Hit Points or until someon
 
 ---
 
-## L {.noborder .align-middle}
+## L {.align-center}
 
 ### Lightly Obscured {.noborder}
 
@@ -1041,7 +1041,7 @@ You can resume a **:rest-long: Long Rest** immediately after an interruption. If
 
 ---
 
-## M {.noborder .align-middle}
+## M {.align-center}
 
 ### Magical Effect {.noborder}
 
@@ -1063,7 +1063,7 @@ A monster is a creature controlled by the DM, even if the creature is benevolent
 
 ---
 
-## N {.noborder .align-middle}
+## N {.align-center}
 
 ### Nonplayer Character {.noborder}
 
@@ -1075,7 +1075,7 @@ A nonplayer character (NPC) is a monster that has a personal name and a distinct
 
 ---
 
-## O {.noborder .align-middle}
+## O {.align-center}
 
 ### Object {.noborder}
 
@@ -1101,7 +1101,7 @@ A space is occupied if a creature is in it or if it is completely filled by obje
 
 ---
 
-## P {.noborder .align-middle}
+## P {.align-center}
 
 ### Passive Perception {.noborder}
 
@@ -1155,7 +1155,7 @@ If you have proficiency with something, you can add your Proficiency Bonus to an
 
 ---
 
-## R {.noborder .align-middle}
+## R {.align-center}
 
 ### Reaction {.noborder}
 
@@ -1197,7 +1197,7 @@ Whenever you divide or multiply a number in the game, round down if you end up w
 
 ---
 
-## S {.noborder .align-middle}
+## S {.align-center}
 
 ### Save {.noborder}
 
@@ -1424,45 +1424,68 @@ A creature is Stable if it has 0 Hit Points but isn't required to make Death Sav
 
 A stat block contains the game slatistics of a monster. Each stat block includes the following information presented after the monster's name.
 
-**Size**{.inl} A monster is Tiny, Small, Med ium, Large, Huge, or Gargantuan.
+<div class="dl-bootstrap" markdown>
 
-**Creature Type**{.inl} This entry notes the family of beings a monster belongs to, along with any descriptive tags.
+**Size**
+:   A monster is Tiny, Small, Med ium, Large, Huge, or Gargantuan.
+
+**Creature Type**
+:   This entry notes the family of beings a monster belongs to, along with any descriptive tags.
 
 **Alignment**{.inl} An alignment is suggested for the monster, with the DM determining its actual alignment.
 
-**AC, **:d20-inv: Initiative**{.d20 }, and HP**{.inl} These entries give the monster's Armour Class, **:d20-inv: Initiative**{.d20 }, and Hit Points, which are detailed in *chapter 1*. In parentheses after the Hit Points, the monster's Hit Point Dice are provided, along with the contribution of its Constitution, if any, to its Hit Points. Following the **:d20-inv: Initiative**{.d20 } modifier is an **:d20-inv: Initiative**{.d20 } score. Some creatures that are created by magic lack Hit Dice and **:d20-inv: Initiative**{.d20 } information.
+**AC, Initiative, and HP**
+:    These entries give the monster's Armour Class, **:d20-inv: Initiative**{.d20 }, and Hit Points, which are detailed in *chapter 1*. In parentheses after the Hit Points, the monster's Hit Point Dice are provided, along with the contribution of its Constitution, if any, to its Hit Points. Following the **:d20-inv: Initiative**{.d20 } modifier is an **:d20-inv: Initiative**{.d20 } score. Some creatures that are created by magic lack Hit Dice and **:d20-inv: Initiative**{.d20 } information.
 
-**Speed**{.inl} Here the monster's Speed is provided, along with any special speeds.
+**Speed**
+:   Here the monster's Speed is provided, along with any special speeds.
 
-**Ability Scores**{.inl} A table provides the monster's ability scores, modifiers, and saving throw modifiers, all of which are detailed in *chapter 1*.
+**Ability Scores**
+:   A table provides the monster's ability scores, modifiers, and saving throw modifiers, all of which are detailed in *chapter 1*.
 
-**Skills**{.inl} This entry lists the monster's skill proficiencies, if any.
+**Skills**
+:   This entry lists the monster's skill proficiencies, if any.
 
-**Resistances and Vulnerabilities**{.inl} These entries list the monster's Resistances and Vulnerabilities, if any.
+**Resistances and Vulnerabilities**
+:   These entries list the monster's Resistances and Vulnerabilities, if any.
 
-**Immunities**{.inl} This section lists the monster's damage and condition Immunities, if any.
+**Immunities**
+:   This section lists the monster's damage and condition Immunities, if any.
 
-**Gear**{.inl} If the monster has any equipment that can be given away or retrieved, it's listed in this entry.
+**Gear**
+:   If the monster has any equipment that can be given away or retrieved, it's listed in this entry.
 
-**Senses**{.inl} This entry lists the monster's special senses, such as Darkvision, and its Passive Perception.
+**Senses**
+:   This entry lists the monster's special senses, such as Darkvision, and its Passive Perception.
 
-**Languages**{.inl} This entry lists any languages the monster knows.
+**Languages**
+:   This entry lists any languages the monster knows.
 
-**CR**{.inl} Challenge Rating summarizes the threat a monster poses and is detailed in the *Monster Manual*. The Experience Points characters receive for defeating a monster and its Proficiency Bonus follow. Some creatures that are created by magic have no CR.
+**CR**
+:   Challenge Rating summarizes the threat a monster poses and is detailed in the *Monster Manual*. The Experience Points characters receive for defeating a monster and its Proficiency Bonus follow. Some creatures that are created by magic have no CR.
 
-**Traits**{.inl} The monster's traits, if any, are features that are active at all times or in certain situations.
+**Traits**
+:   The monster's traits, if any, are features that are active at all times or in certain situations.
 
-**Actions**{.inl} The monster can take these actions in addition to those detailed in this glossary.
+**Actions**
+:   The monster can take these actions in addition to those detailed in this glossary.
 
-**Bonus Actions**{.inl} If the monster has **:rsc-b: Bonus Action**{.rsc} options, they are listed in this section.
+**Bonus Actions**
+:   If the monster has **:rsc-b: Bonus Action**{.rsc} options, they are listed in this section.
 
-**Reactions**{.inl} If the monster can take special Reactions, those are listed in this section.
+**Reactions**
+:   If the monster can take special Reactions, those are listed in this section.
 
-**Attack Notation**{.inl} The entry for a monster's attack starts by identifying whether the attack is a melee or a ranged attack and then provides the attack roll's bonus, its reach or range, and what happens on a hit. An attack is against one target unless its entry says otherwise.
+**Attack Notation**
+:   The entry for a monster's attack starts by identifying whether the attack is a melee or a ranged attack and then provides the attack roll's bonus, its reach or range, and what happens on a hit. An attack is against one target unless its entry says otherwise.
 
-**Saving Throw Effect Notation**{.inl} If an effect forces a saving throw, the effect's entry starts by identifying the kind of saving throw required and then provides the save's DC, a description of which creatures must make the save, and what happens on a failed or a successful save.
+**Saving Throw Effect Notation**
+:   If an effect forces a saving throw, the effect's entry starts by identifying the kind of saving throw required and then provides the save's DC, a description of which creatures must make the save, and what happens on a failed or a successful save.
 
-**Damage Notation**{.inl} A stat block usually provides both a static number and a die expression for each instance of damage. For example, an attack might deal 4 (1d4 + 2) damage on a hit. The DM determines whether you use the static number or the die expression in parentheses; you don't use both.
+**Damage Notation**
+:   A stat block usually provides both a static number and a die expression for each instance of damage. For example, an attack might deal 4 (1d4 + 2) damage on a hit. The DM determines whether you use the static number or the die expression in parentheses; you don't use both.
+
+</dov>
 
 ---
 
@@ -1476,7 +1499,7 @@ While you're swimming, each foot of Movement costs 1 extra foot (2 extra feet in
 
 ---
 
-## T {.noborder .align-middle}
+## T {.align-center}
 
 ### Target {.noborder}
 
@@ -1528,7 +1551,7 @@ The description of a teleportation effect tells you if you must see the teleport
 
 ---
 
-## U {.noborder .align-middle}
+## U {.align-center}
 
 ### Unoccupied Space {.noborder}
 
@@ -1540,7 +1563,7 @@ A space is unoccupied if no creatures are in it and it isn't completely filled b
 
 ---
 
-## V {.noborder .align-middle}
+## V {.align-center}
 
 ### Vulnerability {.noborder}
 
@@ -1552,7 +1575,7 @@ If you have Vulnerability to a damage type, damage of that type is doubled again
 
 ---
 
-## W {.noborder .align-middle}
+## W {.align-center}
 
 ### Weapon {.noborder}
 
