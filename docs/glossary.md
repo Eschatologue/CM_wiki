@@ -1432,7 +1432,8 @@ A stat block contains the game slatistics of a monster. Each stat block includes
 **Creature Type**
 :   This entry notes the family of beings a monster belongs to, along with any descriptive tags.
 
-**Alignment**{.inl} An alignment is suggested for the monster, with the DM determining its actual alignment.
+**Alignment**
+:    An alignment is suggested for the monster, with the DM determining its actual alignment.
 
 **AC, Initiative, and HP**
 :    These entries give the monster's Armour Class, **:d20-inv: Initiative**{.d20 }, and Hit Points, which are detailed in *chapter 1*. In parentheses after the Hit Points, the monster's Hit Point Dice are provided, along with the contribution of its Constitution, if any, to its Hit Points. Following the **:d20-inv: Initiative**{.d20 } modifier is an **:d20-inv: Initiative**{.d20 } score. Some creatures that are created by magic lack Hit Dice and **:d20-inv: Initiative**{.d20 } information.
