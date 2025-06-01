@@ -11,7 +11,9 @@ icon: material/book
 
 These are Rule Glossary, keep in mind some rule glossary has been changed to suit Crown & Misery campaign.
 
-## A
+## A {.noborder .align-right}
+
+---
 
 ### Ability Score and Modifier {.noborder}
 
@@ -21,55 +23,63 @@ These are Rule Glossary, keep in mind some rule glossary has been changed to sui
 
 A creature has six ability scores—Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma—each of which has a corresponding modifier. Add the modifier when you make a D20 Test Test with the corresponding ability or when a rule asks you to do so.
 
-<div class="dl-bootstrap" markdown>
+---
+
+### Advantage {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
+
+If you have **:d20-adv: Advantage**{.d20} on a D20 Test, roll two d20s, and use the higher roll. A roll can't be affected by more than one **:d20-adv: Advantage**{.d20} , and **:d20-adv: Advantage**{.d20} and **:d20-dis: Disadvantage**{.d20} on the same roll cancel each other.
 
 ---
 
-## Advantage {.hide}
+### Adventure {.noborder}
 
-**Advantage**
+*Core, PHB'24*
 
-:   If you have **:d20-adv: Advantage**{.d20} on a D20 Test, roll two d20s, and use the higher roll. A roll can't be affected by more than one **:d20-adv: Advantage**{.d20} , and **:d20-adv: Advantage**{.d20} and **:d20-dis: Disadvantage**{.d20} on the same roll cancel each other.
+<hr class="hr-solid">  
 
----
-
-## Adventure {.hide}
-
-**Adventure**
-
-:   An adventure is a series of encounters. A story emerges through playing them.
+An adventure is a series of encounters. A story emerges through playing them.
 
 ---
 
-## Alignment {.hide}
+### Alignment {.noborder}
 
-**Alignment**
+*Core, PHB'24*
 
-:   A creature's alignment broadly describes its ethical attitudes and ideals. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward order (lawful, chaotic, or neutral). These factors allow for nine possible combinations, such as Lawful Good and Neutral Evil.
+<hr class="hr-solid">  
 
----
-
-## Ally {.hide}
-
-**Ally**
-
-:   A creature is your ally if it is a member of your adventuring party, your friend, on your side in combat, or a creature that the rules or the DM designates as your ally.
+A creature's alignment broadly describes its ethical attitudes and ideals. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward order (lawful, chaotic, or neutral). These factors allow for nine possible combinations, such as Lawful Good and Neutral Evil.
 
 ---
 
-## Area of Effect {.hide}
+### Ally {.noborder}
 
-**Area of Effect**
+*Core, PHB'24*
 
-:   The descriptions of many spells and other features specify that they have an area of effect, which typically has one of **six** shapes. 
+<hr class="hr-solid">  
 
-    An area of effect has a point of origin, a location from which the effect's energy erupts. The rules for each shape specify how to position its point of origin. If all straight lines extending from the point of origin to a location in the area of effect are blocked, that location isn't included in the area of effect. To block a line, an obstruction must provide Total Cover.
+A creature is your ally if it is a member of your adventuring party, your friend, on your side in combat, or a creature that the rules or the DM designates as your ally.
 
-    If the creator of an area of effect places it at an unseen point and an obstruction—such as a wall—is between the creator and that point, the point of origin comes into being on the near side of the obstruction.
+---
 
-    These **six** shapes are defined as follow:
+### Area of Effect {.noborder}
 
-### Cone 
+*Core, PHB'24*
+
+<hr class="hr-solid">  
+
+The descriptions of many spells and other features specify that they have an area of effect, which typically has one of **six** shapes. 
+
+An area of effect has a point of origin, a location from which the effect's energy erupts. The rules for each shape specify how to position its point of origin. If all straight lines extending from the point of origin to a location in the area of effect are blocked, that location isn't included in the area of effect. To block a line, an obstruction must provide Total Cover.
+
+If the creator of an area of effect places it at an unseen point and an obstruction—such as a wall—is between the creator and that point, the point of origin comes into being on the near side of the obstruction.
+
+These **six** shapes are defined as follow:
+
+#### Cone 
 
 <!-- --8<-- [start:aoe-cone] -->
 
@@ -79,7 +89,7 @@ A Cone's point of origin isn't included in the area of effect unless its creator
 
 <!-- --8<-- [end:aoe-cone] -->
 
-### Cube 
+#### Cube 
 
 <!-- --8<-- [start:aoe-cube] -->
 
@@ -87,7 +97,7 @@ A Cube is an **area of effect** that extends in straight lines from a point of o
 
 <!-- --8<-- [end:aoe-cube] -->
 
-### Cylinder 
+#### Cylinder 
 
 <!-- --8<-- [start:aoe-cylinder] -->
 
@@ -97,7 +107,7 @@ A Cylinder's point of origin is included in the area of effect.
 
 <!-- --8<-- [end:aoe-cylinder] -->
 
-### Emanation 
+#### Emanation 
 
 <!-- --8<-- [start:aoe-emanation] -->
 
@@ -109,7 +119,7 @@ An Emanation's origin (creature or object) isn't included in the area of effect 
 
 <!-- --8<-- [end:aoe-emanation] -->
 
-### Line 
+#### Line 
 
 <!-- --8<-- [start:aoe-line] -->
 
@@ -119,7 +129,7 @@ A Line's point of origin isn't included in the area of effect unless its creator
 
 <!-- --8<-- [end:aoe-line] -->
 
-### Sphere 
+#### Sphere 
 
 <!-- --8<-- [start:aoe-sphere] -->
 
@@ -131,7 +141,11 @@ A Sphere's point of origin is included in the Sphere's area of effect.
 
 ---
 
-## Armour Class
+### Armour Class {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 An Armour Class (AC) is the target number for an attack roll. AC represents how difficult it is to hit a target.
 
@@ -141,49 +155,73 @@ For an attack to hit, the attack result needs to be equal or greater than the nu
 
 ---
 
-## Armour Training
+### Armour Training {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Armour training allows you to use armour of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armour and lack training with it, you have **:d20-dis: Disadvantage**{.d20} on any D20 Test that involves Strength or Dexterity, and you can't cast spells. If you use a *Shield* and lack training with it, you don't gain its AC bonus.
 
 ---
 
-## Attitude
+### Attitude {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A monster has a starting attitude toward a player character: Friendly, Hostile, or Indifferent.
 
-### Friendly
+#### Friendly
 
 A Friendly creature views you favorably. You have **:d20-adv: Advantage**{.d20} on an ability check to influence a Friendly creature.
 
-### Hostile
+#### Hostile
 
 A Hostile creature views you unfavorably. You have **:d20-dis: Disadvantage**{.d20} on an ability check to influence a Hostile creature.
 
-### Indifferent 
+#### Indifferent 
 
 An Indifferent creature has no desire to help or hinder you. Indifferent is the default attitude of a monster.
 
 ---
 
-## Attunement
+### Attunement {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item's magical properties. A creature can have Attunement with no more than three magic items at a time.
 
 ---
 
-## Bloodied
+### Bloodied {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A creature is Bloodied while it has half its Hit Points or fewer remaining.
 
 ---
 
-## Bonus Action
+### Bonus Action {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A **:rsc-b: Bonus Action**{.rsc} is a special action that you can take on the same turn that you take an action. You can't take more than one **:rsc-b: Bonus Action**{.rsc} on a turn, and you have a **:rsc-b: Bonus Action**{.rsc} to take only if a rule explicitly says so.
 
 ---
 
-## Breaking Objects
+### Breaking Objects {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 <!-- --8<-- [start:breaking-objects] -->
 
@@ -224,25 +262,42 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 ---
 
-## Bright Light
+### Bright Light {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Bright Light is normal illumination.
 
 ---
 
-## Campaign
+### Campaign {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
+
 
 A campaign is a series of adventures.
 
 ---
 
-## Cantrip
+### Cantrip {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A cantrip is a level 0 spell, which is cast without a spell slot.
 
 ---
 
-## Carrying Capacity
+### Carrying Capacity {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 <!-- --8<-- [start:carrying-capacity] -->
 
@@ -278,25 +333,41 @@ While dragging, lifting, or pushing weight in excess of the maximum weight you c
 
 ---
 
-## Challenge Rating
+### Challenge Rating {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Challenge Rating (CR) summarizes the threat a monster poses to a group of four player characters. Compare a monster's CR to the characters' level. If the CR is higher, the monster is likely a danger. If the CR is lower, the monster likely poses little threat. But circumstances and the number of player characters can significantly alter how threatening a monster is in actual play. The *Dungeon Master's Guide* provides guidance to the DM on using CR while planning potential combat encounters.
 
 ---
 
-## Character Sheet
+### Character Sheet {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A character sheet is a paper or digital record that you use to track your character's information.
 
 ---
 
-## Climbing
+### Climbing {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 While you're climbing, each foot of Movement costs 1 extra foot 2 extra feet in difficult terrain. You ignore this extra cost if you have a Climb Speed and use it to climb. At the DM's option, climbing a slippery surface or one with few handholds might require a successful DC 15 Strength (Athletics) check.
 
 ---
 
-## Condition
+### Condition {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A condition is a temporary game state. The definition of a condition says how it affects its recipient, and various rules define how to end a condition. This glossary defines these conditions:
 
@@ -319,7 +390,11 @@ A condition doesn't stack with itself; a recipient either has a condition or doe
 
 ---
 
-## Cover
+### Cover {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Cover provides a degree of protection to a target behind it. There are three degrees of cover, each of which provides a different benefit to a target as stated in the Cover table
 
@@ -333,19 +408,31 @@ Cover provides a degree of protection to a target behind it. There are three deg
 
 ---
 
-## Crawling
+### Crawling {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 While you're crawling, each foot of Movement costs 1 extra foot (2 extra feet in difficult terrain).
 
 ---
 
-## Creature
+### Creature {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Any being in the game, including a a player's character, is a creature.
 
 ---
 
-## Creature Type
+### Creature Type {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Every creature, including every player character, has a tag in the rules that identifies the type of creature it is. Most player characters are of the Humanoid type. These are the game's creature types:
 
@@ -367,7 +454,11 @@ The types don't have rules themselves, but some rules in the game affect creatur
 
 ---
 
-## Critical Hit
+### Critical Hit {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 If you roll a 20 on the d20 for an attack roll, you score a Critical Hit, and the attack hits regardless of any modifiers or the target's AC. A Critical Hit lets you roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers.
 
@@ -375,51 +466,75 @@ In Crown & Misery, a critical hit means total damage result is doubled.
 
 ---
 
-## Curses
+### Curses {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Some game effects curse a creature or an object. The effect that confers a curse defines what the curse does. Curses can be removed by the *Remove Curse* and *Greater Restoration* spells or other magic that explicitly ends curses.
 
 ---
 
-## D20 Test
+### D20 Test {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 D20 Tests encompass the three main d20 rolls of the game: **Ability Checks**, **Attack Rolls**, and **Saving Throws**. If something in the game affects D20 Tests, it affects all three of these rolls. The DM determines whether a D20 Test is warranted in a given circumstance.
 
 It is comprised of three types of roll.
 
-### Ability Check
+#### Ability Check
 
 An :d20-check: **Ability Check** is a D20 Test that represents using one of the six abilities—or a specific skill associated with an ability—to overcome a challenge.
 
-### Attack Roll
+#### Attack Roll
 
 An :d20-attack: **Attack Roll** is a D20 Test that represents making an attack with a weapon, an **:rsc-a: Unarmed Strike**{.rsc} (Damage), or a spell.
 
-### Saving Throw
+#### Saving Throw
 
 A :d20-save: **Saving Throw**—also called a save—represents an attempt to avoid or resist a threat. You normally make a saving throw only when a rule requires you to do so, but you can decide to fail the save without rolling. The result of a save is detailed in the effect that allowed it. If a target is forced to make a save and lacks the ability score used by it, the target automatically fails.
 
 ---
 
-## Damage
+### Damage {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Damage represents harm that causes a creature or an object to lose Hit Points.
 
 ---
 
-## Damage Roll
+### Damage Roll {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A damage roll is a die roll, adjusted by any applicable modifiers, that deals damage to a target.
 
 ---
 
-## Damage Threshold
+### Damage Threshold {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A creature or an object that has a damage threshold has Immunity to all damage unless it takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, in which case it takes that entire instance of damage. Any damage that fails to meet or exceed the damage threshold is superficial and doesn't reduce Hit Points. For example, if an object has a damage threshold of 10, the object takes no damage if 9 damage is dealt to it, since that damage fails to exceed the threshold. If the same object is dealt 11 damage, it takes all of that damage.
 
 ---
 
-## Damage Types
+### Damage Types {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Attacks and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as Resistance, rely on the types. The Damage Types table offers examples to help a DM assign a type to a new effect.
 
@@ -442,19 +557,31 @@ Attacks and other harmful effects deal different types of damage. Damage types h
 
 ---
 
-## Darkness
+### Darkness {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 An area of Darkness is Heavily Obscured.
 
 ---
 
-## Darkvision
+### Darkvision {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 If you have Darkvision, you can see in Dim Light within a specified range as if it were Bright Light and in Darkness within that range as if it were Dim Light. You discern colors in that Darkness only as shades of gray.
 
 ---
 
-## Dead
+### Dead {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A dead creature has no Hit Points and can't regain them unless it is first revived by magic such as the *Raise Dead* or *Revivify* spell. When such a spell is cast, the spirit knows who is casting it and can refuse. The spirit of a dead creature has left the body and departed for the Outer Planes, and reviving the creature requires calling the spirit back.
 
@@ -462,7 +589,11 @@ If the creature returns to life, the revival effect determines the creature's cu
 
 ---
 
-## Death Saving Throws
+### Death Saving Throws {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 When you start your turn with 0 HP, roll 1d20, and you succeed on a 10+.
 
@@ -475,7 +606,11 @@ If you take damage at 0 HP, it counts as a failed Death Save or two failures if 
 
 ---
 
-## Difficult Terrain
+### Difficult Terrain {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 If a space is *Difficult Terrain*, every foot of Movement in that space costs 1 extra foot. For example, moving 5 feet through Difficult Terrain costs 10 feet of Movement. Difficult Terrain isn't cumulative; either a space is Difficult Terrain or it isn't.
 
@@ -490,43 +625,71 @@ A space is Difficult Terrain if the space contains any of the following or somet
 
 ---
 
-## Difficulty Class
+### Difficulty Class {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A Difficulty Class (DC) is the target number for an ability check or a saving throw.
 
 ---
 
-## Dim Light
+### Dim Light {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 An area with Dim Light is Lightly Obscured.
 
 ---
 
-## Disadvantage
+### Disadvantage {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 If you have **:d20-dis: Disadvantage**{.d20} on a D20 Test, roll two d20s and use the lower roll. A roll can't be affected by more than one **:d20-dis: Disadvantage**{.d20}, and **:d20-adv: Advantage**{.d20} and **:d20-dis: Disadvantage**{.d20} on the same roll cancel each other.
 
 ---
 
-## Encounter
+### Encounter {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 An encounter is a scene in an adventure that is part of at least one of the game's three pillars: social interaction, exploration, or combat.
 
 ---
 
-## Enemy
+### Enemy {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A creature is your enemy if it fights against you in combat, actively works to harm you, or is designated as your enemy by the rules or DM.
 
 ---
 
-## Experience Points
+### Experience Points {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 As they overcome challenges and complete adventures, characters earn Experience Points (XP) which are awarded by the Dungeon Master. When a character's XP total crosses certain thresholds, the character's level increases. The *Dungeon Master's Guide* provides guidance on awarding XP.
 
 ---
 
-## Expertise
+### Expertise {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Expertise is a feature that enhances your use of a skill proficiency. When you make an ability check with a skill proficiency in which you have Expertise, your Proficiency Bonus is doubled for that check unless the bonus is doubled by another feature.
 
@@ -534,13 +697,21 @@ If you gain Expertise, you gain it in one skill in which you have proficiency. Y
 
 ---
 
-## Flying
+### Flying {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A variety of effects allow a creature to fly. While flying, you fall if you have the Incapacitated or Prone condition or your Fly Speed is reduced to 0. You can stay aloft in those circumstances if you can hover.
 
 ---
 
-## Forced Movement
+### Forced Movement {.noborder}
+
+*Homebrew, CM*
+
+<hr class="hr-solid">  
 
 <!-- --8<-- [start:forced_movement] -->
 
@@ -552,7 +723,11 @@ If forced into hazardous terrain (e.g. pits or lava), the creature suffers any c
 
 ---
 
-## Grappling
+### Grappling {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 <!-- --8<-- [start:grappling] -->
 
@@ -568,11 +743,15 @@ A creature can grapple another creature. Characters typically grapple by using a
 
 ---
 
-## Hazards
+### Hazards {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Monsters are the main perils characters face, but other dangers awaits as follow:
 
-### Burning
+#### Burning
 
 <!-- --8<-- [start:haz-burning] -->
 
@@ -580,7 +759,7 @@ A burning creature or object takes **1d4 :dmg-fire: Fire**{ .dmg-fire } damage a
 
 <!-- --8<-- [end:haz-burning] -->
 
-### Dehydration
+#### Dehydration
 
 <!-- --8<-- [start:haz-dehydration] -->
 
@@ -599,7 +778,7 @@ A creature requires an amount of water per day based on its size, as shown in th
 
 <!-- --8<-- [end:haz-dehydration] -->
 
-### Falling
+#### Falling
 
 <!-- --8<-- [start:haz-falling] -->
 
@@ -609,7 +788,7 @@ A creature that falls into water or another liquid can use its REaction to make 
 
 <!-- --8<-- [end:haz-falling] -->
 
-### Malnutrition
+#### Malnutrition
 
 <!-- --8<-- [start:haz-malnutrition] -->
 
@@ -630,7 +809,7 @@ Exhaustion caused by malnutriion can;t be removed untul the creature eats the fu
 
 <!-- --8<-- [end:haz-malnutrition] -->
 
-### Suffocation
+#### Suffocation
 
 <!-- --8<-- [start:haz-suffocation] -->
 
@@ -640,19 +819,31 @@ A creature can hold its breath for a number of minute equal to 1 plus its Consti
 
 ---
 
-## Healing
+### Healing {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Healing is how you regain Hit Points.
 
 ---
 
-## Heavily Obscured
+### Heavily Obscured {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 You have the Blinded condition while trying to see something in a Heavily Obscured space.
 
 ---
 
-## Heroic Inspiration
+### Heroic Inspiration {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 If you (a player character) have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
 
@@ -660,13 +851,21 @@ If you gain Heroic Inspiration but already have it, it's lost unless you give it
 
 ---
 
-## Hit Point Dice
+### Hit Point Dice {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Hit Point Dice, or Hit Dice for short, help determine a player character's Hit Point maximum, as explained in *chapter 2*. Most monsters also have Hit Dice. A creature can spend Hit Dice during a **:rest-short: Short Rest** to regain Hit Points.
 
 ---
 
-## Hit Points
+### Hit Points {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Hit Points (HP) are a measure of how difficult it is to kill or destroy a creature or an object. Damage reduces Hit Points, and healing restores them. You can't have more Hit Points than your Hit Point maximum, and you can't have less than 0.
 
@@ -680,13 +879,21 @@ When a creature reaches 0 HP, it means they have sustained a decisive blow or ot
 
 ---
 
-## Hover
+### Hover {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Some creatures can hover, as noted in their stat blocks, and some spells and other effects grant the ability to hover. Hovering while flying prevents you from falling in certain circumstances.
 
 ---
 
-## Illusions
+### Illusions {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Spells and other effects sometimes create magical illusions. Such an effect defines what the illusion does and which senses or mental faculties it deceives.
 
@@ -694,13 +901,21 @@ If an illusion manifests in space, the illusion is insubstantial and weightless,
 
 ---
 
-## Immunity
+### Immunity {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 If you have Immunity to a damage type or a condition, it doesn't affect you in any way.
 
 ---
 
-## Improvised Weapons
+### Improvised Weapons {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 An improvised weapon is an object wielded as a makeshift weapon, such as broken glass, a table leg, or a frying pan. A Simple or Martial weapon also counts as an improvised weapon if it's wielded in a way contrary to its design; if you use a Ranged weapon to make a melee attack or throw a Melee weapon that lacks the Thrown property, the weapon counts as an improvised weapon. An improvised weapon follows the rules below.
 
@@ -714,7 +929,11 @@ An improvised weapon is an object wielded as a makeshift weapon, such as broken 
 
 ---
 
-## Initiative
+### Initiative {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 <!-- --8<-- [start:initiative] -->
 
@@ -726,11 +945,15 @@ Sometimes a DM might have combatants use their **:d20-inv: Initiative**{.d20 } s
 
 ---
 
-## Jumping
+### Jumping {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 When you jump, you make either a Long Jump (horizontal) or a High Jump (vertical):
 
-### Long Jump
+#### Long Jump
 
 When you make a Long Jump, you leap horizontally a number of feet up to your Strength score if you move at least 10 feet immediately before the jump. When you make a standing Long Jump, you can leap only half that distance. Either way, each foot you jump costs a foot of Movement.
 
@@ -738,7 +961,7 @@ If you land in Difficult Terrain, you must succeed on a DC 10 Dexterity (Acrobat
 
 This Long Jump rule assumes that the height of the jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit the obstacle.
 
-### High Jump
+#### High Jump
 
 When you make a High Jump, you leap into the air a number of feet equal to 3 plus your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing High Jump, you can jump only half that distance. Either way, each foot of the jump costs a foot of Movement.
 
@@ -746,7 +969,11 @@ You can extend your arms half your height above yourself during the jump. Thus, 
 
 ---
 
-## Knocking Out a Creature
+### Knocking Out a Creature {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point. The creature then has the Unconscious condition and starts a **:rest-short: Short Rest**.
 
@@ -754,13 +981,21 @@ The creature remains Unconscious until it regains any Hit Points or until someon
 
 ---
 
-## Lightly Obscured
+### Lightly Obscured {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 You have **:d20-dis: Disadvantage**{.d20} on Wisdom (Perception) checks to see something in a Lightly Obscured space.
 
 ---
 
-## Long Rest
+### Long Rest {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 a **:rest-long: Long Rest** is a period of extended downtime—at least 8 hours—available to any creature. During a **:rest-long: Long Rest**, you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.
 
@@ -786,25 +1021,41 @@ You can resume a **:rest-long: Long Rest** immediately after an interruption. If
 
 ---
 
-## Magical Effect
+### Magical Effect {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 An effect is magical if it is created by a spell, a magic item, or a phenomenon that a rule labels as magical.
 
 ---
 
-## Monster
+### Monster {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A monster is a creature controlled by the DM, even if the creature is benevolent.
 
 ---
 
-## Nonplayer Character
+### Nonplayer Character {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A nonplayer character (NPC) is a monster that has a personal name and a distinct personality.
 
 ---
 
-## Object
+### Object {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 <!-- --8<-- [start:object] -->
 
@@ -814,13 +1065,21 @@ An object is a nonliving, distinct thing. Composite things, like buildings, comp
 
 ---
 
-## Occupied Space
+### Occupied Space {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A space is occupied if a creature is in it or if it is completely filled by objects.
 
 ---
 
-## Passive Perception
+### Passive Perception {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Passive Perception is a score that reflects a creature's general awareness of its surroundings. The DM uses this score when determining whether a creature notices something without consciously making a Wisdom (Perception) check.
 
@@ -828,67 +1087,111 @@ A creature's Passive Perception equals 10 plus the creature's Wisdom (Perception
 
 ---
 
-## Per Day
+### Per Day {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 If a rule says you can use something a certain number of times per day, that means you must finish a **:rest-long: Long Rest** to use it again after you run out of uses.
 
 ---
 
-## Player Character
+## Player Character {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A player character is a character controlled by a player
 
 ---
 
-## Possession
+### Possession {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Some effects cause a creature to be possessed by another creature or entity. A possessing effect defines how the possession operates. Possession can be prevented by the *Protection from Evil and Good* spell and ended by the *Dispel Evil and Good* spell.
 
 ---
 
-## Proficiency
+### Proficiency {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 If you have proficiency with something, you can add your Proficiency Bonus to any D20 Test you make using that thing. A creature might have proficiency in a skill or saving throw or with a weapon or tool.
 
 ---
 
-## Reaction
+### Reaction {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A Reaction is a special action taken in response to a trigger defined in the Reaction's description. You can take a **:rsc-r: Reaction**{.rsc} on another creature's turn, and if you take it on your turn, you can do so even if you also take an action, a **:rsc-b: Bonus Action**{.rsc}, or both. Once you take a **:rsc-r: Reaction**{.rsc}, you can't take another one until the start of your next turn. The Opportunity Attack is a **:rsc-r: Reaction**{.rsc} available to all creatures.
 
 ---
 
-## Resistance
+### Resistance {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 If you have Resistance to a damage type, damage of that type is halved against you (round down). Resistance is applied only once to an instance of damage.
 
 ---
 
-## Ritual
+### Ritual {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 If you have a spell prepared that has the Ritual tag, you can cast that spell as a Ritual. The Ritual version of a spell takes 10 minutes longer to cast than normal. It also doesn't expend a spell slot, which means the ritual version of a spell can't be cast at a higher level.
 
 ---
 
-## Round Down
+### Round Down {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Whenever you divide or multiply a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater. Some rules make an exception and tell you to round up.
 
 ---
 
-## Save
+### Save {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Save is another name for a saving throw.
 
 ---
 
-## Shape-Shifting
+### Shape-Shifting {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 If an effect, such as Wild Shape or the *Polymorph* spell, lets you shape-shift, its description specifies what happens to you. Unless that description says otherwise, any ongoing effects on you—conditions, spells, curses, and the like—carry over from one form to the other. You revert to your true form if you die.
 
 ---
 
-## Short Rest
+### Short Rest {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A **:rest-short: Short Rest** is a 1-hour period of downtime, during which a creature does nothing more strenuous than reading, talking, eating, or standing watch. To start a **:rest-short: Short Rest**, you must have at least 1 Hit Point.
 
@@ -907,13 +1210,21 @@ An interrupted **:rest-short: Short Rest** confers no benefits.
 
 ---
 
-## Simultaneous Effects
+### Simultaneous Effects {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 If two or more things happen at the same time on a turn, the person at the game table—player or DM whose turn it is decides the order in which those things happen. For example, if two effects occur at the start of a player character's turn, the player decides which of the effects happens first.
 
 ---
 
-## Special Items^*CM*^ { data-toc-label="Special Items" }
+### Special Items {.noborder}
+
+*Homebrew, CM*
+
+<hr class="hr-solid">  
 
 In *Crown and Misery*, items are classified differently than in standard D&D. While magical items exist in the world for **lore purposes**, they do not have a functional impact on the game mechanics unless explicitly stated in an item's description. The concept of "magical" items, as commonly understood in D&D, is not applied here. Instead, enhanced items are referred to as *Special Items*
 
@@ -929,23 +1240,35 @@ In *Crown and Misery*, items are classified differently than in standard D&D. Wh
 
 ---
 
-## Size
+### Size {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A creature or an object belongs to a size category: Tiny, Small, Medium, Large, Huge, or Gargantuan. A creature's size determines how much space the creature occupies in combat. An object's size affects its Hit Points.
 
 ---
 
-## Skill
+### Skill {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A skill is an *area of specialization* associated with an Ability Check. If you have proficiency in a skill, you can add your Proficiency Bonus when you make an ability check associated with that skill.
 
 ---
 
-## Special Senses
+### Special Senses {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A creature sometimes has senses other or enhanced senses, defined as follow:
 
-### Blindsight
+#### Blindsight
 
 <!-- --8<-- [start:sense-blindsight] -->
 
@@ -953,7 +1276,7 @@ If you have Blindsight, you can see within a specific range without relying on p
 
 <!-- --8<-- [end:sense-blindsight] -->
 
-### Darkvision
+#### Darkvision
 
 <!-- --8<-- [start:sense-darkvision] -->
 
@@ -961,13 +1284,13 @@ If you have Darkvision, you can see in Dim Light within a specified range as if 
 
 <!-- --8<-- [end:sense-darkvision] -->
 
-### Truesight
+#### Truesight
 
 <!-- --8<-- [start:sense-truesight] -->
 
 If you have Truesight, your vision is enhanced within a specified range. Within that range, your vision pierces through the following:
 
-***Darkness***. You can see in normal and magical Darkness.
+**Darkness**{.inl} You can see in normal and magical Darkness.
 
 **Invisibility**{.inl} You see creatures and objects that have the Invisible condition.
 
@@ -979,7 +1302,7 @@ If you have Truesight, your vision is enhanced within a specified range. Within 
 
 <!-- --8<-- [end:sense-truesight] -->
 
-### Tremorsense
+#### Tremorsense
 
 <!-- --8<-- [start:sense-tremorsense] -->
 
@@ -991,7 +1314,11 @@ Tremorsense can't detect creatures or objects in the air, and it doesn't count a
 
 ---
 
-## Speed
+### Speed {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A creature has a :rsc-spd: **Speed**, which is the distance in feet the creature can cover when it moves on its turn.
 
@@ -999,49 +1326,69 @@ A creature has a :rsc-spd: **Speed**, which is the distance in feet the creature
 
 **Changes to Your Speeds**{.inl} If an effect increases or decreases your **:rsc-spd: Speed**{.mv} for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your **:rsc-spd: Speed**{.mv} is reduced to 0 and you have a Climb Speed, your Climb Speed is also reduced to 0. Similarly, if your **:rsc-spd: Speed**{.mv} is halved and you have a Fly Speed, your Fly Speed is also halved.
 
-### Burrow Speed
+#### Burrow Speed
 
 A creature that has a Burrow Speed can use that speed to move through sand, earth, mud, or ice. The creature can't burrow through solid rock unless the creature has a trait that allows it to do so.
 
-### Climb Speed
+#### Climb Speed
 
 A Climb Speed can be used in place of Speed to traverse a vertical surface without expending the extra Movement normally associated with climbing.
 
-### Fly Speed
+#### Fly Speed
 
 A Fly Speed can be used to travel through the air. While you have a Fly Speed, you can stay aloft until you land, fall, or die.
 
-### Swim Speed
+#### Swim Speed
 
 A Swim Speed can be used to swim without expending the extra Movement normally associated with swimming.
 
 ---
 
-## Spell
+### Spell {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A spell is a magical effect that has the characteristics described in *[chapter 7](spells/gaining-spells.md)*.
 
 ---
 
-## Spell Attack
+### Spell Attack {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A spell attack is an attack roll made as part of a spell or another magical effect.
 
 ---
 
-## Spellcasting Focus
+### Spellcasting Focus {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A Spellcasting Focus is an object that certain creatures can use in place of a spell's Material components if those materials aren't consumed by the spell and don't have a cost specified. Some classes allow its members to use certain types of Spellcasting Focuses.
 
 ---
 
-## Stable
+### Stable {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A creature is Stable if it has 0 Hit Points but isn't required to make Death Saving Throws.
 
 ---
 
-## Stat Block
+### Stat Block {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A stat block contains the game slatistics of a monster. Each stat block includes the following information presented after the monster's name.
 
@@ -1087,19 +1434,31 @@ A stat block contains the game slatistics of a monster. Each stat block includes
 
 ---
 
-## Swimming
+### Swimming {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 While you're swimming, each foot of Movement costs 1 extra foot (2 extra feet in difficult terrain). You ignore this extra cost if you have a Swim Speed and use it to swim. At the DM's option, moving any distance in rough water might require a successful DC 15 Strength (Athletics) check.
 
 ---
 
-## Target
+### Target {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A target is the creature or object targeted by an attack roll, forced to make a saving throw by an effect, or selected to receive the effects of a spell or another phenomenon.
 
 ---
 
-## Telepathy
+### Telepathy {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Telepathy is a magical ability that allows a creature to communicate mentally with another creature within a specified range. Unless a rule states otherwise, the contacted creature doesn't need to share a language with the telepath to understand this communication, but the contacted creature must be able to understand at least one language or be telepathic itself to understand.
 
@@ -1109,7 +1468,11 @@ A creature without telepathy can receive telepathic messages but can't initiate 
 
 ---
 
-## Teleportation
+### Teleportation {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 Teleportation is a special kind of magical transportation. If you teleport, you disappear and reappear elsewhere instantly, without moving through the intervening space. This transportation doesn't expend Movement unless a rule tells you otherwise, and teleportation never provokes Opportunity Attacks.
 
@@ -1121,32 +1484,50 @@ The description of a teleportation effect tells you if you must see the teleport
 
 ---
 
-## Temporary Hit Points
+### Temporary Hit Points {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 **:trt-thp: Temporary Hit Points**{.dmg-temp} are granted by certain effects and act as a buffer against losing real Hit Points.
 
 ---
 
-## Unoccupied Space
+### Unoccupied Space {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A space is unoccupied if no creatures are in it and it isn't completely filled by objects.
 
 ---
 
-## Vulnerability
+### Vulnerability {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 If you have Vulnerability to a damage type, damage of that type is doubled against you. Vulnerability is applied only once to an instance of damage.
 
 ---
 
-## Weapon
+### Weapon {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A weapon is an object that is in the :prof-wp-simple: Simple or :prof-wp-martial: Martial weapon category.
 
 ---
 
-## Weapon Attack
+### Weapon Attack {.noborder}
+
+*Core, PHB'24*
+
+<hr class="hr-solid">  
 
 A weapon attack is an attack roll made with a weapon.
-
-</div>
