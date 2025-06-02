@@ -11,7 +11,7 @@ icon: material/book
 
 These are Rule Glossary, keep in mind some rule glossary has been changed to suit Crown & Misery campaign.
 
-## A {.align-center}
+## A {.noborder .calc}
 
 ### Ability Score and Modifier {.noborder}
 
