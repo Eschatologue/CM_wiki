@@ -14,15 +14,15 @@ Antares boasts many religions, some with structured rules and others that closel
 
 The Spires are higher-dimensional beings that govern and enact a philosophical concept called an Ascent. These beings manifest during events of great importance tied to their Ascent. Mortals can draw power from a Spire if granted permission, usually by adhering to the Ascent or concept the Spire represents to a degree deemed adequate by the Spire. While this is rare, when it happens, it is akin to a mortal gaining the power of a deity.
 
-| Name | Ascent | Status |
-|:--|:--|:--|
-| Aaraau | Destruction | Alive |
-| Etemenanki | Perseverance | Alive |
-| Falcone | Judgement | Alive |
-| Sri | Harmony |  Deceased |
-| Antero Vipunen | Enlightenment | Unknown |
-| Caishen | Prosperity | Alive |
-| Trutinius | Equilibrium | Alive |
+| Name | Title | Ascent | Associated | Status |
+|---|---|---|---|---|
+| Aaraau | Lord of Entropy | **Destruction** | Beginning and End | Alive |
+| Etemenanki | Immortal Engine | **Perseverance** | Preservation and Bravery | Alive |
+| Falcone | The Sightless Judge | **Judgement** | Justice and Order | Alive |
+| Sri | Arboreal Puppeteer | **Harmony** | Harmony and Unity | Deceased |
+| Antero Vipunen | Minstrel of Magic | **Enlightenment** | Knowledge and Magic | Unknown |
+| Caishen | Dragon of Golds | **Prosperity** | Wealth and Abundance | Alive | 
+| Trutinius | The Overlord | **Equilibrium** | Balance | Alive |
 
 ## Aeginae
 
@@ -31,7 +31,7 @@ Aeginae are leviathans that once lives in Antares. They are the progenitors of a
 | Name | Title | Associated | Status |
 |:--|:--|:--|:--|
 | Ouroboros | The Burrower Below | Cycle of Betrayal | Unknown |
-| Jörmungandr | The World Serpent | Antares' Primordial Seas | Alive |
+| Jörmungandr | The World Serpent | Antares' Continent | Alive |
 | Vorthalas | The Engraver | Promises and Punishment | Deceased |
 | Thalassa | The Deep Sea | Bottomless Ocean | Deceased |
 | Tiamat | The Brood Lord | Origin of Suffering | Deceased|

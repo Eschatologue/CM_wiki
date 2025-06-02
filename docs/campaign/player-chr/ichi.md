@@ -8,7 +8,7 @@ search:
 
 **Base Sublass:** *[Samurai](../../class/fighter/samurai.md)*
 
-The blood of an *Andskotarnir*—both a demon and aberration—flows through your veins. To the aberrations, you are a traitor; to mortals, a threat. Your very existence blurs the line between realities, and the whispers of the Void, which would shatter lesser minds, only sharpen your resolve.  
+The taint of the Warp through your veins, yet you remain yourself. To the aberrations, you are a traitor; to mortals, a threat. Your very existence blurs the line between realities, and the whispers of the Void, which would shatter lesser minds, only sharpen your resolve.  
 
 But the Void is not easily tamed. Its influence lingers, patient and insidious. The power it grants you comes at a price: a mind constantly on the precipice of comprehension and corruption. You are both hunter and hunted, forever dancing with the darkness that made you.  
 

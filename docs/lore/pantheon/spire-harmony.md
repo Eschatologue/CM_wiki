@@ -1,6 +1,6 @@
 ---
 search:
-  boost: 0.25
+  exclude: true
 ---
 
 # Spire of Harmony

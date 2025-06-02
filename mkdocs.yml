@@ -463,11 +463,11 @@ nav:
       - Voidite: lore/warp/voidite.md
     - Pantheon: 
       - lore/pantheon/index.md
-      - Spires:
-        - The Destruction: lore/pantheon/spire-destruction.md
-        - The Enlightenment: lore/pantheon/spire-enlightenment.md
-        - The Equillibrium: lore/pantheon/spire-equillibrium.md
-        - The Harmony: lore/pantheon/spire-harmony.md
-        - The Judgement: lore/pantheon/spire-judgement.md
-        - The Perseverance: lore/pantheon/spire-perseverance.md
+      # - Spires:
+      #   - The Destruction: lore/pantheon/spire-destruction.md
+      #   - The Enlightenment: lore/pantheon/spire-enlightenment.md
+      #   - The Equillibrium: lore/pantheon/spire-equillibrium.md
+      #   - The Harmony: lore/pantheon/spire-harmony.md
+      #   - The Judgement: lore/pantheon/spire-judgement.md
+      #   - The Perseverance: lore/pantheon/spire-perseverance.md
     - Lore Glossary: lore/glossary.md
