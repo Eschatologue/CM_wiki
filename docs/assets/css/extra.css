@@ -287,7 +287,7 @@ h6.hide {
   color: var(--md-gbl-text-color-strong);
 }
 
-.disable-abbr abbr, .wp abbr, .em abbr, .nw abbr, .mv abbr, .inl abbr, .cond abbr, .rsc abbr, .d20 abbr, .emq abbr {
+.disable-abbr abbr, .calc abbr, .wp abbr, .em abbr, .nw abbr, .mv abbr, .inl abbr, .cond abbr, .rsc abbr, .d20 abbr, .emq abbr {
   border-bottom: none !important;
 }
 
@@ -1029,7 +1029,10 @@ table:not([class]) .smallcap {
 }
 
 /*-------------------------------------------------------
-    Specific Highlighting
+    UI Highlighting
+-------------------------------------------------------*/
+/*-------------------------------------------------------
+    Resource Highlighting
 -------------------------------------------------------*/
 /*------------------------------------------------------- 
     Admonitions
