@@ -81,7 +81,7 @@
   margin-top: 0;
 }
 .md-typeset h2 {
-  font-size: calc(var(--gbl-font-size) * 1.75);
+  font-size: calc(var(--gbl-font-size) * 1.5);
   border-bottom: 0.1rem solid var(--md-primary-fg-color--light);
   margin: 0.8rem 0 0.2rem;
   padding-bottom: 0.1rem;
