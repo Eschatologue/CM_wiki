@@ -14,15 +14,15 @@ Antares boasts many religions, some with structured rules and others that closel
 
 The Spires are higher-dimensional beings that govern and enact a philosophical concept called an Ascent. These beings manifest during events of great importance tied to their Ascent. Mortals can draw power from a Spire if granted permission, usually by adhering to the Ascent or concept the Spire represents to a degree deemed adequate by the Spire. While this is rare, when it happens, it is akin to a mortal gaining the power of a deity.
 
-| Name | Title | Ascent | Associated | Status |
-|---|---|---|---|---|
-| Aaraau | Lord of Entropy | **Destruction** | Beginning and End | Alive |
-| Etemenanki | Immortal Engine | **Perseverance** | Preservation and Bravery | Alive |
-| Falcone | The Sightless Judge | **Judgement** | Justice and Order | Alive |
-| Sri | Arboreal Puppeteer | **Harmony** | Harmony and Unity | Deceased |
-| Antero Vipunen | Minstrel of Magic | **Enlightenment** | Knowledge and Magic | Unknown |
-| Caishen | Dragon of Golds | **Prosperity** | Wealth and Abundance | Alive | 
-| Trutinius | The Overlord | **Equilibrium** | Balance | Alive |
+| Name | Title | Ascent | Associated | Domain | Status |
+|---|---|---|---|---|---|
+| Aaraau | Lord of Entropy | **Destruction** | Beginning and End | Death, Destruction, Light, Tempest, War | Alive |
+| Etemenanki | Immortal Engine | **Perseverance** | Preservation and Bravery | Forge, Light, Twilight, War | Alive |
+| Falcone | The Sightless Judge | **Judgement** | Justice and Order | Dearh, Order, War | Alive |
+| Sri | Arboreal Puppeteer | **Harmony** | Harmony and Unity | Life, Order | Deceased |
+| Antero Vipunen | Minstrel of Magic | **Enlightenment** | Knowledge and Magic | Arcana, Knowledge, Tempest, Twilight | Unknown |
+| Caishen | Dragon of Golds | **Prosperity** | Wealth and Abundance | Forge, Life, Trickery | Alive | 
+| Trutinius | The Overlord | **Equilibrium** | Balance | Death, Order, Knowledge | Alive |
 
 ## Aeginae
 

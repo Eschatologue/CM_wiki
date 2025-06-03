@@ -318,6 +318,7 @@ nav:
     - Priest Group:
       - Cleric:
         - class/cleric/index.md
+        - Knowledge: class/cleric/knowledge.md
         - Life: class/cleric/life.md
         - Light: class/cleric/light.md
         - Trickery: class/cleric/trickery.md
