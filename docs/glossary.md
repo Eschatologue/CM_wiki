@@ -11,11 +11,7 @@ icon: material/book
 
 These are Rule Glossary, keep in mind some rule glossary has been changed to suit Crown & Misery campaign.
 
-## A {.hide}
-
-!!! glossary "A"
-
----
+## A {.align-center .chev-lr .noborder}
 
 ### Ability Score and Modifier {.noborder}
 
@@ -199,9 +195,7 @@ Some magic items require a creature to form a bond—called Attunement—with th
 
 ---
 
-## B {.hide}
-
-!!! glossary "B"
+## B {.align-center}
 
 ### Bloodied {.noborder}
 
