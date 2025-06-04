@@ -536,28 +536,43 @@ A creature or an object that has a damage threshold has Immunity to all damage u
 
 ### Damage Types {.noborder}
 
-*Core, PHB'24*
+*Altered, PHB'24 & CM*
 
 <hr class="hr-solid">  
 
-Attacks and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as Resistance, rely on the types. The Damage Types table offers examples to help a DM assign a type to a new effect.
+Attacks and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as **:dmg-res: Resistance**, rely on the types. The Damage Types table offers examples to help a DM assign a type to a new effect.
+
+**Damage Categories**{.inl} All damage types are organized into three overarching categories: Physical, Elemental, and Esoteric, as detailed in the Damage Type table below. When an ability, spell, or effect references one of these categories, it applies to all damage types within that group.
 
 ##### Damage Types
-| Type        | Examples                             |
-|-------------|--------------------------------------|
-| Acid        | Corrosive liquids, digestive enzymes |
-| Bludgeoning | Blunt objects, constriction, falling |
-| Cold        | Freezing water, icy blasts           |
-| Fire        | Flames, unbearable heat              |
-| Force       | Pure magical energy                  |
-| Lightning   | Electricity                          |
-| Necrotic    | Life-draining energy                 |
-| Piercing    | Fangs, puncturing objects            |
-| Poison      | Toxic gas, venom                     |
-| Psychic     | Mind-rending energy                  |
-| Radiant     | Holy energy, searing radiation       |
-| Slashing    | Claws, cutting objects               |
-| Thunder     | Concussive sound                     |
+
+=== "Physical Damage"
+
+    |symbol| Name |description|
+    |:-:|:--|:--|
+    |:dmg-bldg:{ .xxl }| **Bludgeoning** | Damage from blunt force, such as from clubs, hammers, or falling. |
+    |:dmg-prcg:{ .xxl }| **Piercing** | Damage from pointed weapons, such as arrows, spears, or teeth. |
+    |:dmg-slsh:{ .xxl }|**Slashing** | Damage from edged weapons, such as swords, axes, or claws. |
+
+=== "Elemental Damage"
+
+    |symbol| name |description|
+    |:-:|:--|:--|
+    |:dmg-acid:{ .xxl .dmg-acid }| **Acid** | Damage from corrosive substances that can eat through materials and flesh. |
+    |:dmg-cold:{ .xxl .dmg-cold }| **Cold** | Damage from extreme cold, such as ice and freezing temperatures. |
+    |:dmg-fire:{ .xxl .dmg-fire }| **Fire** | Damage from flames and intense heat. |
+    |:dmg-lgtn:{ .xxl .dmg-lgtn }| **Lightning** | Damage from electrical energy, such as a lightning bolt. |
+    |:dmg-posn:{ .xxl .dmg-posn }| **Poison**| Damage from toxic substances, which can also inflict various conditions. |
+    |:dmg-thun:{ .xxl .dmg-thun }| **Thunder** | Damage from sonic energy, often causing concussive force. |
+
+=== "Esoteric Damage"
+
+    |symbol| name |description|
+    |:-:|:--|:--|
+    |:dmg-force:{ .xxl .dmg-force }| **Force** | Damage from pure magical energy. |
+    |:dmg-necr:{ .xxl .dmg-necr }| **Necrotic** | Damage from deathly energy, draining life force. |
+    |:dmg-psyc:{ .xxl .dmg-psyc }| **Psychic** | Damage from mental energy, affecting the mind. |
+    |:dmg-radi:{ .xxl .dmg-radi }| **Radiant** | Damage from intense, often holy or celestial, energy that can come from divine sources or powerful light-based effects. |
 
 ---
 
@@ -660,6 +675,24 @@ If you have **:d20-dis: Disadvantage**{.d20} on a D20 Test, roll two d20s and us
 ---
 
 ## E {.align-center .chev-lr .noborder}
+
+### Enchantment {.noborder}
+
+*Homebrew, CM*
+
+<hr class="hr-solid">
+
+**Enchantment**, for mechanical purposes, refers specifically to the **+X bonus** granted to weapons, armor, or spellcasting focuses. This bonus is typically written before the item's name (e.g., *+1 Longsword*, *+2 Chainmail*), and represents an improvement over the item's base form.
+
+These enchantments do **not** necessarily imply magical origin or function. A +1 weapon could be forged through masterful craftsmanship, empowered by ritual, or carry a divine history — but mechanically, all +X enchantments function the same, regardless of their narrative background.
+
+**Mechanical Effects**
+
+- **Weapons**: Add the enchantment bonus (+1 to +3) to both **attack rolls** and **damage rolls**.
+- **Armor & Shields**: Add the bonus to the wearer's **AC**.
+- **Spellcasting Foci (e.g., wands, staves, arcane focuses)**: Add the enchantment bonus only to **spell attack rolls**. This does not apply to spell save DCs or spell damage unless otherwise specified in the item's description.
+
+---
 
 ### Encounter {.noborder}
 
@@ -1125,7 +1158,7 @@ If a rule says you can use something a certain number of times per day, that mea
 
 ---
 
-## Player Character {.noborder}
+### Player Character {.noborder}
 
 *Core, PHB'24*
 
@@ -1268,7 +1301,7 @@ In *Crown and Misery*, items are classified differently than in standard D&D. Wh
 
 **Traits**{.inl} Unlike standard D&D, Special Items do not automatically gain additional properties like ignoring Resistance (for weapons) or granting damage Resistance (for armour) unless explicitly stated in their description. These properties are only granted when the item's description clearly outlines them.
 
-**Attunement**{.inl} In Crown and Misery, attunement is tied to the mental focus required to manage powerful or enhanced items. It is not a magical connection. The limit of three attuned items remains unchanged unless a class feature increases it.
+**Attunement**{.inl} In Crown and Misery, attunement is tied to the mental focus required to manage powerful or enhanced items. It is not a magical connection. The limit of three attuned items remains unchanged unless a feature increases it.
 
 ---
 
