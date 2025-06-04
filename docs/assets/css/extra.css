@@ -211,7 +211,6 @@
 -------------------------------------------------------*/
 h1.noborder {
   border-bottom: none !important;
-  margin: 0 0 -0.5rem 0 !important;
 }
 
 h1.hide {
@@ -221,7 +220,6 @@ h1.hide {
 
 h2.noborder {
   border-bottom: none !important;
-  margin: 0 0 -0.5rem 0 !important;
 }
 
 h2.hide {
@@ -231,7 +229,6 @@ h2.hide {
 
 h3.noborder {
   border-bottom: none !important;
-  margin: 0 0 -0.5rem 0 !important;
 }
 
 h3.hide {
@@ -241,7 +238,6 @@ h3.hide {
 
 h4.noborder {
   border-bottom: none !important;
-  margin: 0 0 -0.5rem 0 !important;
 }
 
 h4.hide {
@@ -251,7 +247,6 @@ h4.hide {
 
 h5.noborder {
   border-bottom: none !important;
-  margin: 0 0 -0.5rem 0 !important;
 }
 
 h5.hide {
@@ -261,7 +256,6 @@ h5.hide {
 
 h6.noborder {
   border-bottom: none !important;
-  margin: 0 0 -0.5rem 0 !important;
 }
 
 h6.hide {
