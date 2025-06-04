@@ -31,7 +31,7 @@ Aeginae are leviathans that once lives in Antares. They are the progenitors of a
 | Name | Title | Associated | Status |
 |:--|:--|:--|:--|
 | Ouroboros | The Burrower Below | Cycle of Betrayal | Unknown |
-| Jörmungandr | The World Serpent | Antares' Continent | Alive |
+| Jörmungandr | The World Serpent | The Mist Veil | Alive |
 | Vorthalas | The Engraver | Promises and Punishment | Deceased |
 | Thalassa | The Deep Sea | Bottomless Ocean | Deceased |
 | Tiamat | The Brood Lord | Origin of Suffering | Deceased|
@@ -39,3 +39,14 @@ Aeginae are leviathans that once lives in Antares. They are the progenitors of a
 | Thabat | The Eternal Guardian | Permanence and Stability | Deceased |
 | Xanthous | The Moon | The Night and the Moon | Unknown |
 | Tartarus | The Abyssal Warden | Darkness, Imprisonment, and Abyss | Deceased |
+
+
+<!-- | Spire                | Ascent        | What “Climbing” Might Look Like                                                                                                 |
+| -------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Aarau**            | Destruction   | Accepting the impermanence of all things. Becoming a destroyer not out of hate, but necessity. Ending cycles to begin new ones. |
+| **Sri** *(deceased)* | Harmony       | Forging unity through self-erasure. Mending divisions through interconnected action. Bringing disparate parts into a whole.     |
+| **Etemenanki**       | Perseverance  | Withstanding entropy. Building the eternal. Suffering without breaking.                                                         |
+| **Falcone**          | Judgement     | Seeing the truth without bias. Making decisions that uphold higher order, even when cruel.                                      |
+| **Caishen**          | Prosperity    | Cultivating abundance for others. Accumulating without hoarding. Creating systems that feed more than the self.                 |
+| **Trutinius**        | Equilibrium   | Restoring balance. Accepting contradictions. Becoming still in motion.                                                          |
+| **Vipunen**          | Enlightenment | Seeking truth through pattern. Understanding beyond language. Sacrificing self for comprehension.                               | -->
