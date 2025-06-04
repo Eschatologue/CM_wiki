@@ -53,7 +53,7 @@
     // Remove bottom border for headings with .noborder
     h#{$i}.noborder {
         border-bottom: none !important;
-        // margin: 0 0 convert.px2rem(-10px) 0 !important;
+        margin: 0 0 convert.px2rem(-8px) 0 !important;
     }
 
     // Hide heading visually for table of contents with .hide
