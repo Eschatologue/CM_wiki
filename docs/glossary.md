@@ -195,7 +195,7 @@ Some magic items require a creature to form a bond—called Attunement—with th
 
 ---
 
-## B {.align-center}
+## B {.align-center .chev-lr .noborder}
 
 ### Bloodied {.noborder}
 
@@ -272,7 +272,7 @@ Bright Light is normal illumination.
 
 ---
 
-## C {.align-center}
+## C {.align-center .chev-lr .noborder}
 
 ### Campaign {.noborder}
 
@@ -502,7 +502,7 @@ A :d20-save: **Saving Throw**—also called a save—represents an attempt to av
 
 ---
 
-## D {.align-center}
+## D {.align-center .chev-lr .noborder}
 
 ### Damage {.noborder}
 
@@ -659,7 +659,7 @@ If you have **:d20-dis: Disadvantage**{.d20} on a D20 Test, roll two d20s and us
 
 ---
 
-## E {.align-center}
+## E {.align-center .chev-lr .noborder}
 
 ### Encounter {.noborder}
 
@@ -703,7 +703,7 @@ If you gain Expertise, you gain it in one skill in which you have proficiency. Y
 
 ---
 
-## F {.align-center}
+## F {.align-center .chev-lr .noborder}
 
 ### Flying {.noborder}
 
@@ -731,7 +731,7 @@ If forced into hazardous terrain (e.g. pits or lava), the creature suffers any c
 
 ---
 
-## G {.align-center}
+## G {.align-center .chev-lr .noborder}
 
 ### Grappling {.noborder}
 
@@ -753,7 +753,7 @@ A creature can grapple another creature. Characters typically grapple by using a
 
 ---
 
-## H {.align-center}
+## H {.align-center .chev-lr .noborder}
 
 ### Hazards {.noborder}
 
@@ -901,7 +901,7 @@ Some creatures can hover, as noted in their stat blocks, and some spells and oth
 
 ---
 
-## I {.align-center}
+## I {.align-center .chev-lr .noborder}
 
 ### Illusions {.noborder}
 
@@ -959,7 +959,7 @@ Sometimes a DM might have combatants use their **:d20-inv: Initiative**{.d20 } s
 
 ---
 
-## J {.align-center}
+## J {.align-center .chev-lr .noborder}
 
 ### Jumping {.noborder}
 
@@ -985,7 +985,7 @@ You can extend your arms half your height above yourself during the jump. Thus, 
 
 ---
 
-## K {.align-center}
+## K {.align-center .chev-lr .noborder}
 
 ### Knocking Out a Creature {.noborder}
 
@@ -999,7 +999,7 @@ The creature remains Unconscious until it regains any Hit Points or until someon
 
 ---
 
-## L {.align-center}
+## L {.align-center .chev-lr .noborder}
 
 ### Lightly Obscured {.noborder}
 
@@ -1041,7 +1041,7 @@ You can resume a **:rest-long: Long Rest** immediately after an interruption. If
 
 ---
 
-## M {.align-center}
+## M {.align-center .chev-lr .noborder}
 
 ### Magical Effect {.noborder}
 
@@ -1063,7 +1063,7 @@ A monster is a creature controlled by the DM, even if the creature is benevolent
 
 ---
 
-## N {.align-center}
+## N {.align-center .chev-lr .noborder}
 
 ### Nonplayer Character {.noborder}
 
@@ -1075,7 +1075,7 @@ A nonplayer character (NPC) is a monster that has a personal name and a distinct
 
 ---
 
-## O {.align-center}
+## O {.align-center .chev-lr .noborder}
 
 ### Object {.noborder}
 
@@ -1101,7 +1101,7 @@ A space is occupied if a creature is in it or if it is completely filled by obje
 
 ---
 
-## P {.align-center}
+## P {.align-center .chev-lr .noborder}
 
 ### Passive Perception {.noborder}
 
@@ -1155,7 +1155,7 @@ If you have proficiency with something, you can add your Proficiency Bonus to an
 
 ---
 
-## R {.align-center}
+## R {.align-center .chev-lr .noborder}
 
 ### Reaction {.noborder}
 
@@ -1197,7 +1197,7 @@ Whenever you divide or multiply a number in the game, round down if you end up w
 
 ---
 
-## S {.align-center}
+## S {.align-center .chev-lr .noborder}
 
 ### Save {.noborder}
 
@@ -1500,7 +1500,7 @@ While you're swimming, each foot of Movement costs 1 extra foot (2 extra feet in
 
 ---
 
-## T {.align-center}
+## T {.align-center .chev-lr .noborder}
 
 ### Target {.noborder}
 
@@ -1552,7 +1552,7 @@ The description of a teleportation effect tells you if you must see the teleport
 
 ---
 
-## U {.align-center}
+## U {.align-center .chev-lr .noborder}
 
 ### Unoccupied Space {.noborder}
 
@@ -1564,7 +1564,7 @@ A space is unoccupied if no creatures are in it and it isn't completely filled b
 
 ---
 
-## V {.align-center}
+## V {.align-center .chev-lr .noborder}
 
 ### Vulnerability {.noborder}
 
@@ -1576,7 +1576,7 @@ If you have Vulnerability to a damage type, damage of that type is doubled again
 
 ---
 
-## W {.align-center}
+## W {.align-center .chev-lr .noborder}
 
 ### Weapon {.noborder}
 
