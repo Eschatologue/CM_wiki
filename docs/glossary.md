@@ -438,6 +438,7 @@ Any being in the game, including a a player's character, is a creature.
 
 Every creature, including every player character, has a tag in the rules that identifies the type of creature it is. Most player characters are of the Humanoid type. These are the game's creature types:
 
+- Abberation
 - Elemental
 - Monstrosity
 - Beast
@@ -490,15 +491,15 @@ It is comprised of three types of roll.
 
 #### Ability Check
 
-An :d20-check: **Ability Check** is a D20 Test that represents using one of the six abilities—or a specific skill associated with an ability—to overcome a challenge.
+An **:d20-check: Ability Check**{.d20} is a D20 Test that represents using one of the six abilities—or a specific skill associated with an ability—to overcome a challenge.
 
 #### Attack Roll
 
-An :d20-attack: **Attack Roll** is a D20 Test that represents making an attack with a weapon, an **:rsc-a: Unarmed Strike**{.rsc} (Damage), or a spell.
+An **:d20-attack: Attack Roll**{.d20} is a D20 Test that represents making an attack with a weapon, an **:rsc-a: Unarmed Strike**{.rsc} (Damage), or a spell.
 
 #### Saving Throw
 
-A :d20-save: **Saving Throw**—also called a save—represents an attempt to avoid or resist a threat. You normally make a saving throw only when a rule requires you to do so, but you can decide to fail the save without rolling. The result of a save is detailed in the effect that allowed it. If a target is forced to make a save and lacks the ability score used by it, the target automatically fails.
+A **:d20-save: Saving Throw**{.d20}—also called a save—represents an attempt to avoid or resist a threat. You normally make a saving throw only when a rule requires you to do so, but you can decide to fail the save without rolling. The result of a save is detailed in the effect that allowed it. If a target is forced to make a save and lacks the ability score used by it, the target automatically fails.
 
 ---
 
