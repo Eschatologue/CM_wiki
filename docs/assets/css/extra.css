@@ -1401,7 +1401,11 @@ table:not([class]) .smallcap {
   }
 }
 .md-typeset .grid.cards.noborder {
-  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+}
+.md-typeset .grid.cards.noborder:is(:focus-within, :hover) {
+  border-color: none !important;
+  box-shadow: none !important;
 }
 .md-typeset .grid.cards.noborder > :is(ul, ol) > li,
 .md-typeset .grid.cards.noborder > .card {
@@ -1411,12 +1415,12 @@ table:not([class]) .smallcap {
 }
 @media (max-width: 920px) {
   .md-typeset .grid.cards.noborder {
-    grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
   }
 }
 @media (max-width: 720px) {
   .md-typeset .grid.cards.noborder {
-    grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(7rem, 1fr));
   }
 }
 
