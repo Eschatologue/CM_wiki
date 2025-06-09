@@ -1403,7 +1403,7 @@ table:not([class]) .smallcap {
 .md-typeset .grid.cards.noborder {
   grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr)) !important;
 }
-.md-typeset .grid.cards.noborder:is(:hover) {
+.md-typeset .grid.cards.noborder > :is(:hover) {
   border-color: none !important;
   box-shadow: none !important;
 }
@@ -1411,7 +1411,7 @@ table:not([class]) .smallcap {
 .md-typeset .grid.cards.noborder > .card {
   border: none !important;
   border-left: none !important;
-  padding: 0.2rem 0rem;
+  padding: 0.1rem 0rem;
 }
 @media (max-width: 920px) {
   .md-typeset .grid.cards.noborder {
