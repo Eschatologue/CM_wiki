@@ -62,15 +62,13 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 You have studied combat techniques that allow you to perform Combat Manoeuvre.
 
-###### Combat Manoeuvre 
+**Combat Manoeuvre** 
+:   You learn two [Manoeuvre](../../class-options/fighter-manoeuvre/index.md) of your choice from among those available to the Battle Master. If a manoeuvre forces a saving throw, the DC equals to 8 plus your Proficiency Bonus and Strength or Dexterity modifier (your choice). Each time you gain a level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
 
-You learn two [Manoeuvre](../../class-options/fighter-manoeuvre/index.md) of your choice from among those available to the Battle Master. If a manoeuvre forces a saving throw, the DC equals to 8 plus your Proficiency Bonus and Strength or Dexterity modifier (your choice). Each time you gain a level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
+**Three Superiority Die**
+:   You gain three :die-d4: d4 Superiority Die. This die is used to fuel your manoeuvres. A Superiority Die is expended when you use it. You regain your expended Superiority Dice when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
 
-###### Three Superiority Die 
-
-You gain three :die-d4: d4 Superiority Die. This die is used to fuel your manoeuvres. A Superiority Die is expended when you use it. You regain your expended Superiority Dice when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
-
-If you already have a pool of Superiority Dice, these dice are added to that pool. Their size matches the largest die in your pool, increasing to match if you have a feature that improves your Superiority Dice.
+    If you already have a pool of Superiority Dice, these dice are added to that pool. Their size matches the largest die in your pool, increasing to match if you have a feature that improves your Superiority Dice.
 
 ---
 
@@ -80,9 +78,16 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <hr class="hr-solid">
 
-You gain a +1 bonus to damage rolls with Quarterstaves, Spears, War Scythes, and weapons that has the **:wp-prop-heavy: Heavy**{ .wp } and **:wp-prop-reach: Reach**{ .wp } properties. While wielding one of these weapons, creatures provoke an **:rsc-r: Opportunity Attack**{.rsc} from you when they *enter* or *move* within your reach with that weapon. 
+While wielding Quaterstaves, Spears, War Scythes, or weapons that has the **:wp-prop-heavy: Heavy**{ .wp } and **:wp-prop-reach: Reach**{ .wp } property, you gain the following benefits:
 
-Moreover, Quarterstaves, Spears, and War Scythes gains the **:wp-prop-reach: Reach**{ .wp } property when wielded with two hands.
+**Bonus Damage**
+:   You gain a +1 bonus to damage rolls. 
+
+**Improved Sentinel**
+:   Vreatures provoke an **:rsc-r: Opportunity Attack**{.rsc} from you when they *enter* or *move* within your reach. 
+
+**Extra Reach**
+:   Quarterstaves, Spears, and War Scythes gains the **:wp-prop-reach: Reach**{ .wp } property when wielded with two hands.
 
 ---
 
@@ -92,9 +97,16 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <hr class="hr-solid">
 
-You gain a +1 bonus to attack rolls with Ranged weapons, and your attacks with it ignore Half Cover and treat Three-Quarters Cover as Half Cover.
+You gain the following benefits:
 
-Moreover, having the **Prone**{.cond} condition doesn't impose **:d20-dis: Disadvantage**{.d20} on your Ranged attacks with Arbalest, Crossbows, and Firearms.
+**Bonus Damage**
+:   You gain a +1 bonus to damage rolls Ranged weapons. 
+
+**Ignore Cover**
+:   Your attacks with Ranged weapons ignore Half Cover and treat Three-Quarters Cover as Half Cover.
+
+**Prone Shooting**
+:   Having the **Prone**{.cond} condition doesn't impose **:d20-dis: Disadvantage**{.d20} on your Ranged attacks with on weapon that has the **:wp-prop-loading: Loading**{.wp} or **:wp-prop-reload: Reload**{.wp} properties.
 
 ---
 
