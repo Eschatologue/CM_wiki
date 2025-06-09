@@ -13,7 +13,7 @@ The table below lists available General Feats, divided into two categories: *PHB
 
 ### PHB'24 General Feats
 
-<div class="grid cards" markdown>
+<div class="grid noborder" markdown>
 
 - [:option-feat-general: Ability Scores Improvement](phb24.md#abl-scores-improvement)
 - [:option-feat-general: Actor](phb24.md#actor)
