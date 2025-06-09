@@ -29,13 +29,13 @@ When selecting weapons for Weapon Mastery, you can instead **assign an additiona
 
 If a weapon has multiple mastery properties, you can **only use one of them per attack**. You must choose which mastery property you're using before making the attack. This is true for Mastery properties which effects occurs upon a **hit** (e.g. **:wp-mas: Topple**{.wp}), an **attack** (e.g. **:wp-mas: Nick**{.wp}), or a **miss** (e.g.**:wp-mas: Graze**{.wp}). 
 
-For example, a Level 1 Barbarian could choose to apply either **:wp-mas: Cleave**{.wp} or **:wp-mas: Graze**{.wp} when attacking with a Greataxe, instead of selecting a second weapon for Weapon Mastery. Likewise, a Level 1 Rogue could choose either **:wp-mas: Nick**{.wp} or **:wp-mas: Slow**{.wp} for a Dagger.  
+For example, a Level 1 Barbarian could choose to use either **:wp-mas: Cleave**{.wp} or **:wp-mas: Graze**{.wp} when attacking with a Greataxe, instead of select using a second weapon for Weapon Mastery. Likewise, a Level 1 Rogue could choose either **:wp-mas: Nick**{.wp} or **:wp-mas: Slow**{.wp} for a Dagger.  
 
 ## Mastery Properties Description
 
 The following Mastery Properties are available
 
-### Cleave {.noborder}
+### Cleave
 
 <!-- _**Prerequisites:** Melee Weapon; **:wp-prop-heavy: Heavy**{.wp}_ -->
 

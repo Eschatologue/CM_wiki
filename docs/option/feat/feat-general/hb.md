@@ -100,7 +100,7 @@ You gain the following benefits.
 
 *General Feat (Prerequisite: Level 4+, Firearms Proficiency)*
 
-<hr class="hr-solid">    
+<hr class="hr-solid">
 
 You have a quick hand and keen eye when employing firearms, granting you the following benefits:
 
@@ -281,11 +281,7 @@ You've honed your ability to lob weaponry into the fray, including weapons not m
 :   Increase your Strength or Dexterity by 1, to a maximum of 20.
 
 **Throwable Weapons**
-:   Simple and Martial melee weapons without the **:wp-prop-thrown: Thrown**{.wp} property have the **:wp-prop-thrown: Thrown**{.wp} property for you. One-handed weapons has **:wp-prop-thrown: Thrown (30/60)*
-
-<hr class="hr-solid">  *{.wp}, while **:wp-prop-two-handed: Two-handed**{.wp} weapons has **:wp-prop-thrown: Thrown (15/30)*
-
-<hr class="hr-solid">  *{.wp}
+:   Simple and Martial melee weapons without the **:wp-prop-thrown: Thrown**{.wp} property have the **:wp-prop-thrown: Thrown**{.wp} property for you. One-handed weapons has **:wp-prop-thrown: Thrown (30/60)**{.wp}, while **:wp-prop-two-handed: Two-handed**{.wp} weapons has **:wp-prop-thrown: Thrown (15/30)**{.wp}
 
 **Improved Throw Range**
 :   Weapons that already have the **:wp-prop-thrown: Thrown**{.wp} property has their range is increased by (+20/+40)
