@@ -58,7 +58,7 @@
         &.noborder {
             grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(220px), 1fr)) !important;
 
-            > :is(:hover) {
+            &:hover {
                 border-color: none !important;
                 box-shadow: none !important;
             }
