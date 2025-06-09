@@ -1402,12 +1402,14 @@ table:not([class]) .smallcap {
 }
 .md-typeset .grid.cards.noborder {
   grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr)) !important;
+  margin-top: 0.1rem;
+  margin-bottom: 0.1rem;
 }
 .md-typeset .grid.cards.noborder > :is(ul, ol) > li,
 .md-typeset .grid.cards.noborder > .card {
   border: none !important;
   border-left: none !important;
-  padding: -0.1rem 0rem;
+  padding: 0.1rem 0rem;
 }
 .md-typeset .grid.cards.noborder > :is(ul, ol) > li:focus-within, .md-typeset .grid.cards.noborder > :is(ul, ol) > li :hover,
 .md-typeset .grid.cards.noborder > .card:focus-within,
