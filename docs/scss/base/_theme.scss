@@ -62,11 +62,11 @@
             >.card {
                 border: none !important;
                 border-left: none !important;
-                padding: convert.px2rem(2px) convert.px2rem(0px);
+                padding: convert.px2rem(-2px) convert.px2rem(0px);
 
-                &:is(:focus-within, :hover) {
+                &:focus-within, :hover {
                     border-color: none !important;
-                    box-shadow: none !important;
+                    box-shadow: transparent !important;
                 }
             }
 
