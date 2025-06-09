@@ -7,7 +7,7 @@
     MKDocs Material Theme Overrides
 --------------------------------------------------------*/
 /* Tooltips */
-[role='tooltip'] > .md-tooltip2__inner {
+[role='tooltip']>.md-tooltip2__inner {
     font-style: normal;
     padding: 0.45em 1.5em;
     max-width: convert.px2em(560px);
@@ -38,33 +38,39 @@
 
     &.cards {
         grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(260px), 1fr));
-        > :is(ul, ol) > li,
-        > .card {
+
+        > :is(ul, ol)>li,
+        >.card {
             border: convert.px2rem(2px) solid var(--md-default-fg-color--lightest) !important;
             border-left: convert.px2rem(4px) solid var(--md-default-fg-color--lightest) !important;
             padding: convert.px2rem(4px) convert.px2rem(12px);
         }
-        @media (max-width: 920px) {
-            grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(220px), 1fr));
-        }
-        @media (max-width: 720px) {
-            grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(180px), 1fr));
-        }
-    }
 
-    &.noborder {
-        grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(260px), 1fr));
-        > :is(ul, ol) > li,
-        > .card {
-            border: none !important;
-            border-left: none !important;
-            padding: convert.px2rem(4px) convert.px2rem(12px);
-        }
         @media (max-width: 920px) {
             grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(220px), 1fr));
         }
+
         @media (max-width: 720px) {
             grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(180px), 1fr));
+        }
+
+        &.noborder {
+            grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(260px), 1fr));
+
+            > :is(ul, ol)>li,
+            >.card {
+                border: none !important;
+                border-left: none !important;
+                padding: convert.px2rem(4px) convert.px2rem(12px);
+            }
+
+            @media (max-width: 920px) {
+                grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(220px), 1fr));
+            }
+
+            @media (max-width: 720px) {
+                grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(180px), 1fr));
+            }
         }
     }
 }
@@ -131,7 +137,7 @@
         color: var(--md-default-fg-color--light);
     }
 
-    ~ .md-search__icon {
+    ~.md-search__icon {
         color: var(--md-text-color);
     }
 }
@@ -139,6 +145,7 @@
 /* Link */
 .md-content {
     --md-typeset-a-color: var(--md-gbl-link-color);
+
     :is(.emojione, .twemoji, .gemoji) {
         vertical-align: convert.px2em(-3px);
     }
