@@ -41,9 +41,9 @@ The following Mastery Properties are available
 
 <div class="grid cards noborder" markdown>
 
-- **Type**<br>Melee
-- **Property**<br>**:wp-prop-heavy: Heavy**{.wp}
-- **Trigger**<br>On Hit
+- **TYPE**<br>Melee
+- **PROPERTY**<br>**:wp-prop-heavy: Heavy**{.wp}
+- **TRIGGER**<br>On Hit
 
 </div>
 
