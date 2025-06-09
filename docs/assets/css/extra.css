@@ -1407,12 +1407,13 @@ table:not([class]) .smallcap {
 .md-typeset .grid.cards.noborder > .card {
   border: none !important;
   border-left: none !important;
-  padding: 0.1rem 0rem;
+  padding: -0.1rem 0rem;
 }
-.md-typeset .grid.cards.noborder > :is(ul, ol) > li:is(:focus-within, :hover),
-.md-typeset .grid.cards.noborder > .card:is(:focus-within, :hover) {
+.md-typeset .grid.cards.noborder > :is(ul, ol) > li:focus-within, .md-typeset .grid.cards.noborder > :is(ul, ol) > li :hover,
+.md-typeset .grid.cards.noborder > .card:focus-within,
+.md-typeset .grid.cards.noborder > .card :hover {
   border-color: none !important;
-  box-shadow: none !important;
+  box-shadow: transparent !important;
 }
 @media (max-width: 920px) {
   .md-typeset .grid.cards.noborder {
