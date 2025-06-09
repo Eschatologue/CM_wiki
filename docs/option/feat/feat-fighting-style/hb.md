@@ -63,7 +63,10 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 You have studied combat techniques that allow you to perform Combat Manoeuvre.
 
 **Combat Manoeuvre** 
-:   You learn two [Manoeuvre](../../class-options/fighter-manoeuvre/index.md) of your choice from among those available to the Battle Master. If a manoeuvre forces a saving throw, the DC equals to 8 plus your Proficiency Bonus and Strength or Dexterity modifier (your choice). Each time you gain a level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
+:   You learn two [Manoeuvre](../../class-options/fighter-manoeuvre/index.md) of your choice from among those available to the Battle Master. Each time you gain a level you can replace a Manoeuvre you know with another Manoeuvre of your choice.
+
+    **Manoeuvre DC**
+    :   If a manoeuvre forces a saving throw, the **DC** equals to `8 plus your Proficiency Bonus and Strength or Dexterity modifier (your choice)`
 
 **Three Superiority Die**
 :   You gain three :die-d4: d4 Superiority Die. This die is used to fuel your manoeuvres. A Superiority Die is expended when you use it. You regain your expended Superiority Dice when you finish a **:rest-short: Short** or **:rest-long: Long Rest**.
@@ -126,7 +129,13 @@ _Fighting Style Feat (Prerequisite: Fighting Style Feature)_
 
 <hr class="hr-solid">
 
-You can use your Strength modifier, in place of Dexterity, for attack rolls, damage rolls, and to meet the **:wp-prop-heavy: Heavy**{ .wp } weapon property requirement with Compound Bows, Longbows, and Shortbows. You also gain a +1 to damage rolls with those weapons.
+While wielding a Ranged weapon that *lacks* the **:wp-prop-loading: Loading**{.wp} or **:wp-prop-reload: Reload**{.wp}, you gain the following benefits:
+
+**Bonus Damage**
+:   You gain a +1 bonus to damage rolls for those weapons. 
+
+**Strong Arm**
+:   You can use your Strength modifier, in place of Dexterity, for attack rolls, damage rolls, and to meet the **:wp-prop-heavy: Heavy**{ .wp } weapon property requirement.
 
 ---
 
