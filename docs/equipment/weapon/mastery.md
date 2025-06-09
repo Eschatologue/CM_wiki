@@ -37,7 +37,13 @@ The following Mastery Properties are available
 
 ### Cleave {.noborder}
 
-_**Prerequisites:** Melee Weapon; **:wp-prop-heavy: Heavy**{.wp}_
+<!-- _**Prerequisites:** Melee Weapon; **:wp-prop-heavy: Heavy**{.wp}_ -->
+
+<div class="grid cards noborder" markdown>
+
+- **Type**<br>Melee
+- **Property**<br>**:wp-prop-heavy: Heavy**{.wp}
+- **Trigger**<br>On Hit
 
 <hr class="hr-solid">
 
