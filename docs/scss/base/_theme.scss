@@ -58,7 +58,7 @@
         &.noborder {
             grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(220px), 1fr)) !important;
 
-            &:is(:focus-within, :hover) {
+            &:is(:hover) {
                 border-color: none !important;
                 box-shadow: none !important;
             }
@@ -67,7 +67,7 @@
             >.card {
                 border: none !important;
                 border-left: none !important;
-                padding: convert.px2rem(4px) convert.px2rem(12px);
+                padding: convert.px2rem(4px) convert.px2rem(0px);
             }
 
             @media (max-width: 920px) {
