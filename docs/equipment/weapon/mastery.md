@@ -45,6 +45,8 @@ The following Mastery Properties are available
 - **Property**<br>**:wp-prop-heavy: Heavy**{.wp}
 - **Trigger**<br>On Hit
 
+</div>
+
 <hr class="hr-solid">
 
 If you hit a creature with a melee attack using this weapon, you can make an attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon's damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
