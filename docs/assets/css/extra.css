@@ -1400,6 +1400,25 @@ table:not([class]) .smallcap {
     grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
   }
 }
+.md-typeset .grid.noborder {
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+}
+.md-typeset .grid.noborder > :is(ul, ol) > li,
+.md-typeset .grid.noborder > .card {
+  border: none !important;
+  border-left: none !important;
+  padding: 0.2rem 0.6rem;
+}
+@media (max-width: 920px) {
+  .md-typeset .grid.noborder {
+    grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+  }
+}
+@media (max-width: 720px) {
+  .md-typeset .grid.noborder {
+    grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+  }
+}
 
 /*-------------------------------------------------------
     Typography Overrides
