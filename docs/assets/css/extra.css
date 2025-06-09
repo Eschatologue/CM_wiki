@@ -1403,7 +1403,7 @@ table:not([class]) .smallcap {
 .md-typeset .grid.cards.noborder {
   grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr)) !important;
 }
-.md-typeset .grid.cards.noborder > :is(:hover) {
+.md-typeset .grid.cards.noborder:hover {
   border-color: none !important;
   box-shadow: none !important;
 }
