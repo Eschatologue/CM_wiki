@@ -14,10 +14,10 @@ search:
 
 <div class="grid cards noborder" markdown>
 
-- **Casting Time:** **:rsc-a: Action**{.rsc}  
-- **Range:** 60 feet   
-- **Components:** V, S   
-- **Duration:** Instantaneous
+- **Casting Time**<br>**:rsc-a: Action**{.rsc}  
+- **Range**<br>60 feet   
+- **Components**<br>V, S   
+- **Duration**<br>Instantaneous
 
 </div>
 
