@@ -2,24 +2,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap");
 /*-------------------------------------------------------
-    Additional Styles
---------------------------------------------------------*/
-.md-typeset hr {
-  border-bottom: 0.1875em dashed var(--md-default-wht--0125);
-  margin: 0.5em 0;
-}
-
-.md-typeset hr.hr-solid {
-  border-bottom: 0.1875em solid var(--md-default-wht--0125);
-  margin: 0.5em 0;
-}
-
-.md-typeset hr.hr-dotted {
-  border-bottom: 0.1875em dotted var(--md-default-wht--0125);
-  margin: 0.5em 0;
-}
-
-/*-------------------------------------------------------
     Basic Typesets
 --------------------------------------------------------*/
 .md-typeset {
@@ -105,12 +87,11 @@
   padding-bottom: 0.1rem;
 }
 .md-typeset h3 {
-  border-bottom: 0.1875em solid var(--md-default-wht--0125);
-  margin: 0.5em 0;
   font-weight: 600;
   color: var(--md-gbl-text-color-strong);
   font-size: calc(var(--gbl-font-size) * 1.5);
   margin: 0.6rem 0;
+  border-bottom: 0.15rem solid var(--md-default-wht--0125);
   padding-bottom: 0.15rem;
 }
 .md-typeset h4 {
@@ -129,6 +110,24 @@
   font-family: var(--jetbrains);
   color: var(--md-gbl-text-color-strong);
   margin: 0.2rem 0 -0.25rem 0;
+}
+
+/*-------------------------------------------------------
+    Additional Styles
+--------------------------------------------------------*/
+.md-typeset hr {
+  border-bottom: 0.1875em dashed var(--md-default-wht--0125);
+  margin: 0.5em 0;
+}
+
+.md-typeset hr.hr-solid {
+  border-bottom: 0.1875em solid var(--md-default-wht--0125);
+  margin: 0.5em 0;
+}
+
+.md-typeset hr.hr-dotted {
+  border-bottom: 0.1875em dotted var(--md-default-wht--0125);
+  margin: 0.5em 0;
 }
 
 /*------------------------------------------------------- 
