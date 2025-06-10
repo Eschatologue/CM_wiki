@@ -44,6 +44,11 @@
             border: convert.px2rem(2px) solid var(--md-default-fg-color--lightest) !important;
             border-left: convert.px2rem(4px) solid var(--md-default-fg-color--lightest) !important;
             padding: convert.px2rem(4px) convert.px2rem(12px);
+
+            &:is(:focus-within, :hover) {
+                border-color: inherit !important;
+                box-shadow: none !important;
+            }
         }
 
         @media (max-width: 920px) {
@@ -65,11 +70,6 @@
                 border: none !important;
                 border-left: none !important;
                 padding: convert.px2rem(2px) convert.px2rem(0px);
-
-                &:focus-within, :hover {
-                    border-color: none !important;
-                    box-shadow: transparent !important;
-                }
             }
 
             @media (max-width: 920px) {
