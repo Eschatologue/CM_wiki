@@ -30,28 +30,6 @@
 // }
 
 /*-------------------------------------------------------
-    Additional Styles
---------------------------------------------------------*/
-
-@mixin hr-style($style: dashed, $width: 3px, $color: var(--md-default-wht--0125), $margin: 8px) {
-    border-bottom: #{convert.px2em($width)} #{$style} #{$color};
-    margin: #{convert.px2em($margin)} 0;
-}
-
-.md-typeset hr {
-    @include hr-style(dashed); // Default
-}
-
-.md-typeset hr.hr-solid {
-    @include hr-style(solid); // Solid
-}
-
-.md-typeset hr.hr-dotted {
-    @include hr-style(dotted); // Dotted
-}
-
-
-/*-------------------------------------------------------
     Basic Typesets
 --------------------------------------------------------*/
 .md-typeset {
@@ -156,11 +134,11 @@
     }
 
     h3 {
-        @include hr-style(solid);
         font-weight: 600;
         color: var(--md-gbl-text-color-strong);
         font-size: calc(var(--gbl-font-size) * 1.5);
         margin: #{convert.px2rem(12px)} 0;
+        border-bottom: #{convert.px2rem(3px)} solid var(--md-default-wht--0125);
         padding-bottom: #{convert.px2rem(3px)};
     }
 
@@ -185,4 +163,24 @@
     }
 }
 
+/*-------------------------------------------------------
+    Additional Styles
+--------------------------------------------------------*/
+
+@mixin hr-style($style: dashed, $width: 3px, $color: var(--md-default-wht--0125), $margin: 8px) {
+    border-bottom: #{convert.px2em($width)} #{$style} #{$color};
+    margin: #{convert.px2em($margin)} 0;
+}
+
+.md-typeset hr {
+    @include hr-style(dashed); // Default
+}
+
+.md-typeset hr.hr-solid {
+    @include hr-style(solid); // Solid
+}
+
+.md-typeset hr.hr-dotted {
+    @include hr-style(dotted); // Dotted
+}
 
