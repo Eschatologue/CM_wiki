@@ -2,5 +2,6 @@
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
     ],
-    "markdown.validate.enabled": false
+    "markdown.validate.enabled": false,
+    "scssFormatter.singleQuote": true
 }

@@ -41,7 +41,7 @@ The following Mastery Properties are available
 
 - **TYPE**<br>Melee
 - **PROPERTY**<br>**:wp-prop-heavy: Heavy**{.wp}
-- **TRIGGER**<br>On Hit
+- **TRIGGER**<br>On hit
 
 </div>
 
@@ -51,7 +51,7 @@ If you hit a creature with a melee attack using this weapon, you can make an att
 
 ---
 
-### Graze {.noborder}
+### Graze 
 
 <div class="grid cards noborder" markdown>
 
@@ -67,7 +67,7 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 
 ---
 
-### Nick {.noborder}
+### Nick 
 
 <div class="grid cards noborder" markdown>
 
@@ -83,13 +83,13 @@ When you make the [extra attack](index.md#light) of the **:wp-prop-light: Light*
 
 ---
 
-### Push {.noborder}
+### Push 
 
 <div class="grid cards noborder" markdown>
 
 - **TYPE**<br>Melee or Ranged
 - **PROPERTY**<br>**:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-two-handed: Two-Handed**{.wp}, or **:wp-prop-versatile: Versatile**{.wp}
-- **TRIGGER**<br>On Hit
+- **TRIGGER**<br>On hit
 
 </div>
 
@@ -105,7 +105,7 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 - **TYPE**<br>Melee or Ranged
 - **PROPERTY**<br>**:wp-prop-versatile: Versatile**{.wp} or **:wp-prop-none: No Properties**{.wp}
-- **TRIGGER**<br>On Hit
+- **TRIGGER**<br>On hit
 
 </div>
 
@@ -121,7 +121,7 @@ If you hit a creature with this weapon, that creature has **:d20-dis: Disadvanta
 
 - **TYPE**<br>Melee or Ranged
 - **PROPERTY**<br>Any Properties
-- **TRIGGER**<br>On Hit
+- **TRIGGER**<br>On hit
 
 </div>
 
@@ -131,9 +131,15 @@ If you hit a creature with this weapon and deal damage to the creature, you can 
 
 ---
 
-### Topple {.noborder}
+### Topple 
 
-_**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-reach: Reach**{.wp}, or **:wp-prop-versatile: Versatile**{.wp}_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Melee or Ranged
+- **PROPERTY**<br>**:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-reach: Reach**{.wp}, or **:wp-prop-versatile: Versatile**{.wp}
+- **TRIGGER**<br>On hit
+
+</div>
 
 <hr class="hr-solid">
 
@@ -141,9 +147,15 @@ If you hit a creature with this weapon, you can force the creature to make a **:
 
 ---
 
-### Vex {.noborder}
+### Vex 
 
-_**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp}, **:wp-prop-finesse: Finesse**{.wp}, or **:wp-prop-light: Light**{.wp}_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Melee or Ranged
+- **PROPERTY**<br>**:wp-prop-ammunition: Ammunition**{.wp}, **:wp-prop-finesse: Finesse**{.wp}, or **:wp-prop-light: Light**{.wp}
+- **TRIGGER**<br>On hit & deals damage
+
+</div>
 
 <hr class="hr-solid">
 
@@ -151,9 +163,15 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 
 ---
 
-### Agile :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
+### Agile :material-glass-mug-variant:{title="Homebrew" .fg-light} 
 
-_**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-light: Light**{.wp} or **:wp-prop-versatile: Versatile**{.wp}_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Melee or Ranged
+- **PROPERTY**<br>**:wp-prop-light: Light**{.wp} or **:wp-prop-versatile: Versatile**{.wp}
+- **TRIGGER**<br>Before or after an attack
+
+</div>
 
 <hr class="hr-solid">
 
@@ -161,9 +179,15 @@ Before or after making an attack with this weapon, you can move up to 5 feet wit
 
 ---
 
-### Brace :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
+### Brace :material-glass-mug-variant:{title="Homebrew" .fg-light} 
 
-_**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-heavy: Heavy**{.wp} or **:wp-prop-two-handed: Two-Handed**{.wp}_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Melee or Ranged
+- **PROPERTY**<br>**:wp-prop-heavy: Heavy**{.wp} or **:wp-prop-two-handed: Two-Handed**{.wp}
+- **TRIGGER**<br>None
+
+</div>
 
 <hr class="hr-solid">
 
@@ -171,9 +195,15 @@ On your turn, you can spend an amount of movement equal to half your **:rsc-spd:
 
 ---
 
-### Expose :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
+### Expose :material-glass-mug-variant:{title="Homebrew" .fg-light} 
 
-_**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp}, **:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-versatile: Versatile**{.wp} or deals **:dmg-bldg: Bludgeoning**{.dmg-bps} damage_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>**:dmg-bldg: Bludgeoning**{.dmg-bps} Melee or any Ranged
+- **PROPERTY**<br>**:wp-prop-ammunition: Ammunition**{.wp}, **:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-versatile: Versatile**{.wp} or 
+- **TRIGGER**<br>On hit
+
+</div>
 
 <hr class="hr-solid">
 
@@ -181,9 +211,15 @@ If you hit a creature with this weapon and deal damage to the creature, the next
 
 ---
 
-### Flex :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
+### Flex :material-glass-mug-variant:{title="Homebrew" .fg-light} 
 
-_**Prerequisites:** Melee Weapon; **:wp-prop-versatile: Versatile**{.wp}_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Melee
+- **PROPERTY**<br>**:wp-prop-versatile: Versatile**{.wp}
+- **TRIGGER**<br>On hit
+
+</div>
 
 <hr class="hr-solid">
 
@@ -191,9 +227,15 @@ When you hit a melee attack using this weapon, you deal its **:wp-prop-versatile
 
 ---
 
-### Flurry :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
+### Flurry :material-glass-mug-variant:{title="Homebrew" .fg-light} 
 
-_**Prerequisites:** Melee Weapon; **:wp-prop-light: Light**{.wp}_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Melee
+- **PROPERTY**<br>**:wp-prop-light: Light**{.wp}
+- **TRIGGER**<br>On miss
+
+</div>
 
 <hr class="hr-solid">
 
@@ -201,9 +243,15 @@ If your attack roll with this weapon misses a creature, you can immediately make
 
 ---
 
-### Parry :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
+### Parry :material-glass-mug-variant:{title="Homebrew" .fg-light} 
 
-_**Prerequisites:** Melee Weapon; **:wp-prop-finesse: Finesse**{.wp} or **:wp-prop-versatile: Versatile**{.wp}_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Melee
+- **PROPERTY**<br>**:wp-prop-finesse: Finesse**{.wp} or **:wp-prop-versatile: Versatile**{.wp}
+- **TRIGGER**<br>On the target's attack roll
+
+</div>
 
 <hr class="hr-solid">
 
@@ -211,9 +259,15 @@ While wielding this weapon, when a creature makes a Melee attack roll against yo
 
 ---
 
-### Speedload :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
+### Speedload :material-glass-mug-variant:{title="Homebrew" .fg-light} 
 
-_**Prerequisites:** Ranged Weapon; **:wp-prop-ammunition: Ammunition**{.wp} or **:wp-prop-loading: Loading**{.wp}_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Ranged
+- **PROPERTY**<br>**:wp-prop-ammunition: Ammunition**{.wp} or **:wp-prop-loading: Loading**{.wp}
+- **TRIGGER**<br>None
+
+</div>
 
 <hr class="hr-solid">
 
@@ -221,9 +275,15 @@ You ignore the **:wp-prop-loading: Loading**{.wp} property of this weapon and yo
 
 ---
 
-### Split :material-glass-mug-variant:{title="Homebrew" .fg-light} {.noborder}
+### Split :material-glass-mug-variant:{title="Homebrew" .fg-light} 
 
-_**Prerequisites:** Melee Weapon; **:wp-prop-finesse: Finesse**{.wp}_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Melee
+- **PROPERTY**<br>**:wp-prop-finesse: Finesse**{.wp}
+- **TRIGGER**<br>After attack action
+
+</div>
 
 <hr class="hr-solid">
 

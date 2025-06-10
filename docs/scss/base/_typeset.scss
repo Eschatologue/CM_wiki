@@ -41,6 +41,7 @@
         font-weight: 600;
         letter-spacing: calc(var(--gbl-font-size) * 0.0125);
         color: var(--md-gbl-text-color-strong);
+
         abbr {
             border-bottom: none !important;
         }
@@ -76,6 +77,7 @@
         transition:
             background-color 250ms,
             padding 100ms ease;
+
         &:is(:focus, :hover) {
             border-radius: convert.px2em(2px);
             box-decoration-break: clone;
@@ -183,4 +185,3 @@
 .md-typeset hr.hr-dotted {
     @include hr-style(dotted); // Dotted
 }
-
