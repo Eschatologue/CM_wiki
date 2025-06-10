@@ -75,13 +75,14 @@ Any time you would be forced to make a **:d20-save: CON Save**{.d20} to maintain
 
 <hr class="hr-solid">  
 
-You gain the following benefits:
+When you attack a creature with a weapon that you are holding with two hands as part of the **:rsc-a: Attack**{.rsc} action on your turn, you gain the following benefits:
 
 **Improved Critical**
-:   The number you need to roll for a Critical Hit is reduced by 1 when you attack with a Melee Weapon that you are holding with two hands. This effect can stack.
+:   The number you need to roll for a Critical Hit is reduced by 1. This effect can stack.
 
-**Multi-Mastery**
-:   When you attack with a Melee Weapon that you are holding with two hands whose mastery property you can use, you can replace that property with the **:wp-mas: Cleave**{ .wp }, **:wp-mas: Graze**{ .wp }, **:wp-mas: Topple**{ .wp }, or **:wp-mas: Vex**{ .wp } property for that attack, ignoring its prerequisites.
+**Masterful Technique**
+:   When you use one of the following Weapon Mastery properties—**:wp-mas: Cleave**{.wp}, **:wp-mas: Graze**{.wp}, **:wp-mas: Push**{.wp}, **:wp-mas: Topple**{.wp}, or **:wp-mas: Slow**{.wp}—you can apply one additional property from this same list to the same attack.
+
 
 --- 
 
@@ -102,21 +103,18 @@ You gain the following benefit:
 
 *Advanced Feat (Prerequisites: Level 8+)*
 
-<hr class="hr-solid">    
+<hr class="hr-solid">
 
 Through your repeated exposure to the natural flow of arcane magic throughout your world and beyond, you've adapted to attune with additional enchantments, though the process can be physically taxing. You gain the following benefits:
 
 **Experienced**
-:   
-You have **:d20-adv: Advantage**{.d20} on Intelligence (Arcana) checks when investigating the nature of a magical object or device.
+:   You have **:d20-adv: Advantage**{.d20} on Intelligence (Arcana) checks when investigating the nature of a magical object or device.
     
 **Increased Attunement**
-:   
-Your magical item attunement limit is increased by one. All other magical attunement rule still applies.
+:   Your magical item attunement limit is increased by one. All other magical attunement rule still applies.
     
 **Examine**
-:   
-You can cast the [:spell-lv1: Identify] spell without expending a spell slot or Material components.
+:   You can cast the [:spell-lv1: Identify] spell without expending a spell slot or Material components.
 
 ---
 
