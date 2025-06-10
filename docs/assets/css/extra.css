@@ -1392,7 +1392,6 @@ table:not([class]) .smallcap {
 }
 .md-typeset .grid.cards > :is(ul, ol) > li:is(:focus-within, :hover),
 .md-typeset .grid.cards > .card:is(:focus-within, :hover) {
-  border-left: 0.8rem solid var(--md-default-fg-color--lightest) !important;
   border-color: inherit !important;
   box-shadow: none !important;
 }
