@@ -104,7 +104,7 @@ When you make the extra attack of the **:wp-prop-light: Light**{ .wp } weapon pr
 
 <hr class="hr-solid">
 
-When you do damage with **:rsc-a: Unarmed Strike**{.rsc} , it deals **1d6 + STR Modifier :dmg-bldg: Bludgeoning**{ .dmg-bps } damage on a hit. If you have two free hands, the :die-d6: d6 damage die becomes a :die-d8: d8.
+When you do damage with **:rsc-a: Unarmed Strike**{.rsc} , it deals **(1d6 + STR Modifier) :dmg-bldg: Bludgeoning**{ .dmg-bps } damage on a hit. If you have two free hands, the :die-d6: d6 damage die becomes a :die-d8: d8.
 
 At the start of each of your turns, you can deal **1d4 :dmg-bldg: Bludgeoning**{ .dmg-bps } damage to one creature that receive the Grappled condition from you.
 
