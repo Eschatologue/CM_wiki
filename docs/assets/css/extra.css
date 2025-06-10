@@ -1390,6 +1390,11 @@ table:not([class]) .smallcap {
   border-left: 0.2rem solid var(--md-default-fg-color--lightest) !important;
   padding: 0.2rem 0.6rem;
 }
+.md-typeset .grid.cards > :is(ul, ol) > li:is(:focus-within, :hover),
+.md-typeset .grid.cards > .card:is(:focus-within, :hover) {
+  border-color: inherit !important;
+  box-shadow: none !important;
+}
 @media (max-width: 920px) {
   .md-typeset .grid.cards {
     grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
@@ -1410,12 +1415,6 @@ table:not([class]) .smallcap {
   border: none !important;
   border-left: none !important;
   padding: 0.1rem 0rem;
-}
-.md-typeset .grid.cards.noborder > :is(ul, ol) > li:focus-within, .md-typeset .grid.cards.noborder > :is(ul, ol) > li :hover,
-.md-typeset .grid.cards.noborder > .card:focus-within,
-.md-typeset .grid.cards.noborder > .card :hover {
-  border-color: none !important;
-  box-shadow: transparent !important;
 }
 @media (max-width: 920px) {
   .md-typeset .grid.cards.noborder {
