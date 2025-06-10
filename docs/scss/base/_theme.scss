@@ -63,8 +63,8 @@
 
         &.noborder {
             grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(220px), 1fr)) !important;
-            margin-top: convert.px2rem(2px);
-            margin-bottom: convert.px2rem(2px);
+            margin-top: convert.px2rem(0px) !important;
+            margin-bottom: convert.px2rem(0px) !important;
 
             > :is(ul, ol)>li,
             >.card {
