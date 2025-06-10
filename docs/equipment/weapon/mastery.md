@@ -37,8 +37,6 @@ The following Mastery Properties are available
 
 ### Cleave
 
-<!-- _**Prerequisites:** Melee Weapon; **:wp-prop-heavy: Heavy**{.wp}_ -->
-
 <div class="grid cards noborder" markdown>
 
 - **TYPE**<br>Melee
@@ -55,7 +53,13 @@ If you hit a creature with a melee attack using this weapon, you can make an att
 
 ### Graze {.noborder}
 
-_**Prerequisites:** Melee Weapon; **:wp-prop-heavy: Heavy**{.wp}_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Melee
+- **PROPERTY**<br>**:wp-prop-heavy: Heavy**{.wp}
+- **TRIGGER**<br>On Miss
+
+</div>
 
 <hr class="hr-solid">
 
@@ -65,7 +69,13 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 
 ### Nick {.noborder}
 
-_**Prerequisites:** Melee Weapon; **:wp-prop-light: Light**{.wp}_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Melee
+- **PROPERTY**<br>**:wp-prop-light: Light**{.wp}
+- **TRIGGER**<br>On **:wp-prop-light: Light**{.wp}'s Extra Attack
+
+</div>
 
 <hr class="hr-solid">
 
@@ -75,7 +85,13 @@ When you make the [extra attack](index.md#light) of the **:wp-prop-light: Light*
 
 ### Push {.noborder}
 
-_**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-two-handed: Two-Handed**{.wp}, or **:wp-prop-versatile: Versatile**{.wp}_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Melee or Ranged
+- **PROPERTY**<br>**:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-two-handed: Two-Handed**{.wp}, or **:wp-prop-versatile: Versatile**{.wp}
+- **TRIGGER**<br>On Hit
+
+</div>
 
 <hr class="hr-solid">
 
@@ -85,7 +101,13 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 ### Sap {.noborder}
 
-_**Prerequisites:** Melee or Ranged Weapon; **:wp-prop-versatile: Versatile**{.wp} or **:wp-prop-none: No Properties**{.wp}_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Melee or Ranged
+- **PROPERTY**<br>*:wp-prop-versatile: Versatile**{.wp} or **:wp-prop-none: No Properties**{.wp}
+- **TRIGGER**<br>On Hit
+
+</div>
 
 <hr class="hr-solid">
 
