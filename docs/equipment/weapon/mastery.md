@@ -282,8 +282,6 @@ You ignore the **:wp-prop-loading: Loading**{.wp} property of this weapon and yo
 - **TYPE**<br>Melee
 - **PROPERTY**<br>**:wp-prop-finesse: Finesse**{.wp}
 - **TRIGGER**<br>After attack action
-- **TRIGGER**<br>After attack action
-- **TRIGGER**<br>After attack action
 
 </div>
 

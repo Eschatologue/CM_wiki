@@ -9,12 +9,19 @@ search:
 ---
 
 ### Acid Splash
+
 *Evocation Cantrip*
 
-**Casting Time:** **:rsc-a: Action**{.rsc}  
-**Range:** 60 feet   
-**Components:** V, S   
-**Duration:** Instantaneous
+<div class="grid cards noborder" markdown>
+
+- **Casting Time:** **:rsc-a: Action**{.rsc}  
+- **Range:** 60 feet   
+- **Components:** V, S   
+- **Duration:** Instantaneous
+
+</div>
+
+<hr class="hr-solid">
 
 You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity saving throw or take 1d6 Acid damage.
 
