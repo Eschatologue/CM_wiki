@@ -99,12 +99,12 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 ---
 
-### Sap {.noborder}
+### Sap
 
 <div class="grid cards noborder" markdown>
 
 - **TYPE**<br>Melee or Ranged
-- **PROPERTY**<br>*:wp-prop-versatile: Versatile**{.wp} or **:wp-prop-none: No Properties**{.wp}
+- **PROPERTY**<br>**:wp-prop-versatile: Versatile**{.wp} or **:wp-prop-none: No Properties**{.wp}
 - **TRIGGER**<br>On Hit
 
 </div>
@@ -115,9 +115,15 @@ If you hit a creature with this weapon, that creature has **:d20-dis: Disadvanta
 
 ---
 
-### Slow {.noborder}
+### Slow
 
-_**Prerequisites:** Melee or Ranged Weapon; Any Properties_
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Melee or Ranged
+- **PROPERTY**<br>Any Properties
+- **TRIGGER**<br>On Hit
+
+</div>
 
 <hr class="hr-solid">
 
