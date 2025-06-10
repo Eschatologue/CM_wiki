@@ -4,8 +4,7 @@ title: "PHB'24 Combat Manoeuvre"
 
 # PHB'24 Combat Manoeuvre
 
-This page contains a list of all Combat Manoeuvre from the PHB'24.
-The maneuvers are presented here in alphabetical order.
+This page contains a list of all Combat Manoeuvre from the PHB'24. The maneuvers are presented here in alphabetical order.
 
 ---
 
@@ -27,7 +26,7 @@ When you make a Dexterity (Stealth) check or an Initiative roll, you can expend 
 
 When you're within 5 feet of a creature on your turn, you can expend one Superiority Die and switch places with that creature, provided you spend at least 5 feet of movement and the creature is willing and doesn't have the **Incapacitated**{.cond} condition. This movement doesn't provoke **:rsc-r: Opportunity Attack**{.rsc}.  
     
-    Roll the Superiority Die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
+Roll the Superiority Die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
 
 ---
 
@@ -73,7 +72,7 @@ When you hit a creature with an attack roll, you can expend one Superiority Die 
 
 ### Evasive Footwork {.noborder}
 
-**Cost:** 1 Superiority Die
+**Cost:** 1 Superiority Die + **:rsc-b: Bonus Action**{.rsc}
 
 <hr class="hr-solid">
 
@@ -103,7 +102,7 @@ When you hit a creature with an attack roll, you can expend one Superiority Die 
 
 ### Lunging Attack {.noborder}
 
-**Cost:** 1 Superiority Die
+**Cost:** 1 Superiority Die + **:rsc-b: Bonus Action**{.rsc}
 
 <hr class="hr-solid">
 
@@ -133,7 +132,7 @@ When you hit a creature with an attack roll, you can expend one Superiority Die 
 
 ### Parry {.noborder}
 
-**Cost:** 1 Superiority Die
+**Cost:** 1 Superiority Die + **:rsc-r: Reaction**{.rsc}
 
 <hr class="hr-solid">
 
@@ -173,7 +172,7 @@ As a **:rsc-b: Bonus Action**{.rsc}, you can expend one Superiority Die to bolst
 
 ### Riposte {.noborder}
 
-**Cost:** 1 Superiority Die
+**Cost:** 1 Superiority Die + **:rsc-r: Reaction**{.rsc}
 
 <hr class="hr-solid">
 
