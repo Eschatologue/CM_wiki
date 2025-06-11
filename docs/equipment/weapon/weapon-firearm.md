@@ -22,6 +22,10 @@ Most classes don’t gain Firearm proficiency unless granted by a background, sp
 
     In a spectacular case of "this won't backfire at all," the Elves of Tahdenvalta developed Cordite to counter Londiniers during the Great Split. The plan? Create a weapon deadly to those *not* connected to the Weave. The result? Londiniers promptly stole the tech, reverse-engineered it, and now they're the only ones who can actually use it properly. Great job, Elves.
 
+## Special Rules
+
+Firearms has additional rules as follow:
+
 ### Special Rule 1: Lack of proficiency
 
 While operating a firearm is simple enough—point, pull, bang—using it well requires suppressing your innate magical essence, something few can manage. If your character **lacks proficiency with Firearms**, attacking using a Firearms gives you the following effect:
@@ -57,10 +61,10 @@ The Short-Arm Table include pistols, revolvers, and other small, easily conceala
 
 | Name | damage | properties | mastery | weight | cost |
 |---|---|---|:-:|:-:|--:|
-| *Revolver* | **2d6 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 60/180; Bullet), Reload (6) | **:wp-mas: Sap**{ .wp } | M. | 3,000 SP |
-| *Sawn-Off Shotgun* | **1d6 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 30/60; Shell), Automatic, Reload (2), Scatter (2d10) | **:wp-mas: Push**{ .wp } | M. | 2,500 SP |
-| *Semi-Auto Pistol* | **1d8 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 60/180; Bullet), Automatic, Light, Reload (12) | **:wp-mas: Vex**{ .wp } | M. | 3,400 SP |
-| *Submachine Gun* | **2d4 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 40/120; Bullet), Automatic, Burst-Fire, Reload (28), Two-handed | **:wp-mas: Vex**{ .wp } | M. | 4,000 SP |
+| *Revolver* | **2d6 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 60/180; Bullet), Reload (6) | **:wp-mas: Sap**{ .wp } | M. | 1,500 SP |
+| *Sawn-Off Shotgun* | **1d6 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 30/60; Shell), Automatic, Reload (2), Scatter (2d10) | **:wp-mas: Push**{ .wp } | M. | 1,000 SP |
+| *Semi-Auto Pistol* | **2d4 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 60/180; Bullet), Automatic, Light, Reload (12) | **:wp-mas: Vex**{ .wp } | M. | 2,500 SP |
+| *Submachine Gun* | **2d4 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 40/120; Bullet), Automatic, Burst-Fire, Reload (28), Two-handed | **:wp-mas: Vex**{ .wp } | M. | 3,000 SP |
 
 ### Long-Arm
 
@@ -70,11 +74,11 @@ The Long-arm Table encompass rifles and other longer-range weapons. These are de
 
 | Name | damage | properties | mastery | weight | cost |
 |---|---|---|:-:|:-:|--:|
-| *Automatic Rifle* | **2d6 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 80/240; Bullet), Automatic, Burst-Fire, Heavy, Reload (12), Two-handed | **:wp-mas: Vex**{ .wp } | L. | 6,500 SP |
-| *Machine Gun* | **1d12 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 120/360; Bullet), Automatic, Burst-Fire, Heavy (STR/DEX 15), Reload (50), Two-Handed | **:wp-mas: Brace**{ .wp } | XL. | 10,000  SP |
-| *Marksmen Rifle* | **2d10 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 120/360; Bullet), Reload (6), Two-handed | **:wp-mas: Sighted**{ .wp } | L. | 5,000 SP |
-| *Over-under Shotgun* | **2d4 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 30/90; Shell), Automatic, Reload (2), Scatter (2d12), Two-handed | **:wp-mas: Slow**{ .wp } | M. | 3,500 SP |
-| *Pump Shotgun* | **2d6 :dmg-prcg: Ps.**{ .dmg-bps } | Ammunition (:wp-prop-range: Range 40/120; Shell), Automatic, Heavy, Reload (7), Scatter (2d8), Two-handed | **:wp-mas: Push**{ .wp } | M. | 5,000 SP |
+| *Automatic Rifle* | **2d6 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 80/240; Bullet), Automatic, Burst-Fire, Heavy, Reload (12), Two-handed | **:wp-mas: Vex**{ .wp } | L. | 4,500 SP |
+| *Machine Gun* | **1d12 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 120/360; Bullet), Automatic, Burst-Fire, Heavy (STR/DEX 15), Reload (50), Two-Handed | **:wp-mas: Brace**{ .wp } | XL. | 7,500  SP |
+| *Marksmen Rifle* | **2d10 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 120/360; Bullet), Reload (6), Two-handed | **:wp-mas: Sighted**{ .wp } | L. | 4,000 SP |
+| *Over-under Shotgun* | **2d4 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 30/90; Shell), Automatic, Reload (2), Scatter (2d12), Two-handed | **:wp-mas: Slow**{ .wp } | M. | 2,500 SP |
+| *Pump Shotgun* | **2d6 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 40/120; Shell), Automatic, Heavy, Reload (7), Scatter (2d8), Two-handed | **:wp-mas: Push**{ .wp } | M. | 5,500 SP |
 
 <!---
 
