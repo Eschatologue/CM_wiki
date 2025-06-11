@@ -57,16 +57,8 @@ Albion's reach extends far, and with it, their influence upon you. You gain the 
 **Firearm Proficiency**
 :   You gain proficiency with Short-Arms. If you are proficient with :prof-wp-martial: Martial weapons, you gain proficiency with all Firearms.
 
-**Bullet Crafting**
-:   You gain Proficiency with Gunsmith's Tools. When you finish a **:rest-short: Short Rest**, you can craft a total number of Pistol, Rifle, or Shotgun cartridges equal to four times your proficiency bonus in any combination following the Bullet Crafting table.
-
-    ##### Bullet Crafting
-
-    | name | used for... | cost per item | total cost (20) |
-    |---|---|--:|--:|
-    | Pistol Cartridges (20) | Pistols and SMGs | 15 SP | 300 SP |
-    | Rifle Cartridges (20) | Rifles and Machine Gun | 25 SP | 500 SP |
-    | Shotgun Cartridges (20) | Shotguns | 10 SP | 200 SP |
+**Tool Expertise**
+:   You gain Proficiency and Exprtise with Gunsmith's Tools.
 
 ---
 

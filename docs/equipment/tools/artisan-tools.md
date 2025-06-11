@@ -228,7 +228,7 @@ The following section list's tools from PHB'24.
 
 **Ability:** Intelligence or Dexterity  
 **Utilise:** Discern and fix a firearm (DC 15)  
-**Craft:** Pistol Cartridges, Rifle Cartridges, Shotgun Cartridges, [Proximity Mines](../consumeables/grenade.md#planting-grenade)
+**Craft:** Bullets, Shells, [Proximity Mines](../consumeables/grenade.md#planting-grenade)
 
 
 --8<-- "includes/snippets/inv-notation.md"

@@ -6,13 +6,13 @@ status: homebrew
 # Firearms
 
 *"A good blade's worth more than any fire-spitter. A gun's only as strong as its powder and steel, but a sword or an axe? Aye, that's as strong as the arm that swings it—and there's no arm stronger than a dwarf!"*
-{ .quote }
+{.quote}
 
-**Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as '**cordite**' to propel projectiles known as "bullets" over long distances. These weapons were brought over by the Londiniers and are used exclusively by their people.
+**Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as **'Cordite'** to propel projectiles known as "bullets" over long distances. These weapons were brought over by the Londiniers and are used exclusively by their people.
 
 ## Firearm Proficiency
 
-In *Crown & Misery*, firearms are rare weapons powered by **Cordite**, a volatile alchemical compound that becomes inert near creatures attuned to the Weave. This makes firearms largely ineffective for most Antares races—except **Londiniers**, who lack a natural connection to the Weave.
+In *Crown & Misery*, firearms are rare weapons powered by **Cordite**, a volatile alchemical compound that becomes inert near creatures attuned to the Weave. This makes firearms largely ineffective for most Antares races—except **Londiniers**, who isn't native to Antares, therefore, lack a *natural* connection to the Weave.
 
 Firearms require their own proficiency category (not Simple or Martial) and are unaffected by effects tied to Cold Weapons, such as most enchantments or magical abilities.
 
@@ -20,19 +20,21 @@ Most classes don’t gain Firearm proficiency unless granted by a background, sp
 
 !!! info "Cordite Origins"
 
-    In a spectacular case of "this won't backfire at all," the Elves of Tahdenvalta developed Cordite to counter Londiniers during their war with Albion. The plan? Create a weapon deadly to those *not* connected to the Weave. The result? Londiniers promptly stole the tech, reverse-engineered it, and now they're the only ones who can actually use it properly. Great job, Elves.
+    In a spectacular case of "this won't backfire at all," the Elves of Tahdenvalta developed Cordite to counter Londiniers during the Great Split. The plan? Create a weapon deadly to those *not* connected to the Weave. The result? Londiniers promptly stole the tech, reverse-engineered it, and now they're the only ones who can actually use it properly. Great job, Elves.
 
-### Special Rule: Spellcasters and Firearms
+### Special Rule 1: Lack of proficiency
 
-While operating a firearm is simple enough—point, pull, bang—using it well requires suppressing your magical essence, something few can manage. If your character **has any spell slots**—even one—attacking using a Firearms gives you the following effect:
+While operating a firearm is simple enough—point, pull, bang—using it well requires suppressing your innate magical essence, something few can manage. If your character **lacks proficiency with Firearms**, attacking using a Firearms gives you the following effect:
 
 **Half Damage**{.inl} Any damage dealt by Firearms is halved.
 
-**Fouling**{.inl} All attack rolls made with Firearms are made at Disadvantage, regardless of circumstance.
+**Fouling**{.inl} All attack rolls made with Firearms are made at **:d20-dis: Disadvantage**{.d20}, regardless of circumstance.
 
-To bypass these penalties, specially modified Cordite rounds can be purchased from underground or illegal gunsmiths. These cost 3x as much as standard ammunition but remove both effects for spellcasters. 
+If your character has proficiency with it, Firearms function as normal. All other rules—such as proficiency and weapon properties—still apply.
 
-If your character has no remaining spell slots, Firearms function as normal. All other rules—such as proficiency and weapon properties—still apply.
+### Special Rule 2: No Ability Modifier
+
+You do **not** add your ability modifier to the Firearms's damage roll, unless otherwise stated. 
 
 ## Firearm Table
 
@@ -95,16 +97,16 @@ Ammunition is required by a weapon that has the Ammunition property. A weapon's 
 
 Firearm ammunition is destroyed upon use.
 
-!!! info "Realism"
-
-    Realistically, each diffrent type of firearm uses different ammunition, but for the sake of gameplay, this has been heavily simplified.
-
 ##### Firearms Ammunitions
 
 | Name | amount | cost |
 |---|:-:|--:|
-| Bullet | 20 | 350 SP |
+| Bullet | 20 | 400 SP |
 | Shells | 20 | 200 SP | 
+
+!!! info "Realism"
+
+    Realistically, each diffrent type of firearm uses different ammunition, but for the sake of gameplay, this has been heavily simplified.
 
 --8<-- "includes/snippets/inv-notation.md"
 --8<-- "includes/snippets/item-mastery.md"
