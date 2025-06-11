@@ -108,7 +108,7 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 :   Increase your Dexterity score by 1, to a maximum of 20.
 
 **Improved Firing**
-:   When you make the extra attack of the **:wp-prop-automatic: Automatic**{.wp} property, you can add your ability modifier to one of the damage roll.
+:   Once per turn, when you hit an attack with a Firearm, you can add the ability modifier used in the attack to the damage roll.
 
 ---
 

@@ -75,14 +75,13 @@ Any time you would be forced to make a **:d20-save: CON Save**{.d20} to maintain
 
 <hr class="hr-solid">  
 
-When you attack a creature with a weapon that you are holding with two hands as part of the **:rsc-a: Attack**{.rsc} action on your turn, you gain the following benefits:
+When you attack a creature with a weapon that you are holding with two hands, you gain the following benefits:
 
 **Improved Critical**
 :   The number you need to roll for a Critical Hit is reduced by 1. This effect can stack.
 
 **Masterful Technique**
 :   When you use one of the following Weapon Mastery properties—**:wp-mas: Cleave**{.wp}, **:wp-mas: Graze**{.wp}, **:wp-mas: Push**{.wp}, **:wp-mas: Topple**{.wp}, or **:wp-mas: Slow**{.wp}—you can apply one additional property from this same list to the same attack.
-
 
 --- 
 
@@ -202,7 +201,7 @@ Your spells become especially lethal against unsuspecting foes.
 :   The number you need to roll for Critical Hit with spells is reduced by 1. This effect can stack.
 
 **Fatal Magic**
-:   When a creature's saving throw result on the d20 is equal or lower than your Proficiency Bonus against one of your spells, the spell's initial damage is doubled. This is treated as a Critical Hit for gameplay purposes.
+:   When a creature's saving throw result on the d20 is equal or lower than half your Proficiency Bonus (round up) against one of your spells, the spell's initial damage is doubled. This is treated as a Critical Hit for gameplay purposes.
 
 !!! glossary "Interactions"
 

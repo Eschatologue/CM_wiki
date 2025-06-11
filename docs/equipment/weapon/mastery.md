@@ -41,7 +41,6 @@ The following Mastery Properties are available
 
 - **TYPE**<br>Melee
 - **PROPERTY**<br>**:wp-prop-heavy: Heavy**{.wp}
-- **TRIGGER**<br>On hit
 
 </div>
 
@@ -57,7 +56,6 @@ If you hit a creature with a melee attack using this weapon, you can make an att
 
 - **TYPE**<br>Melee
 - **PROPERTY**<br>**:wp-prop-heavy: Heavy**{.wp}
-- **TRIGGER**<br>On Miss
 
 </div>
 
@@ -73,7 +71,6 @@ If your attack roll with this weapon misses a creature, you can deal damage to t
 
 - **TYPE**<br>Melee
 - **PROPERTY**<br>**:wp-prop-light: Light**{.wp}
-- **TRIGGER**<br>On **:wp-prop-light: Light**{.wp}'s Extra Attack
 
 </div>
 
@@ -89,7 +86,6 @@ When you make the [extra attack](index.md#light) of the **:wp-prop-light: Light*
 
 - **TYPE**<br>Melee or Ranged
 - **PROPERTY**<br>**:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-two-handed: Two-Handed**{.wp}, or **:wp-prop-versatile: Versatile**{.wp}
-- **TRIGGER**<br>On hit
 
 </div>
 
@@ -105,7 +101,6 @@ If you hit a creature with this weapon, you can push the creature up to 10 feet 
 
 - **TYPE**<br>Melee or Ranged
 - **PROPERTY**<br>**:wp-prop-versatile: Versatile**{.wp} or **:wp-prop-none: No Properties**{.wp}
-- **TRIGGER**<br>On hit
 
 </div>
 
@@ -121,7 +116,6 @@ If you hit a creature with this weapon, that creature has **:d20-dis: Disadvanta
 
 - **TYPE**<br>Melee or Ranged
 - **PROPERTY**<br>Any Properties
-- **TRIGGER**<br>On hit
 
 </div>
 
@@ -137,7 +131,6 @@ If you hit a creature with this weapon and deal damage to the creature, you can 
 
 - **TYPE**<br>Melee or Ranged
 - **PROPERTY**<br>**:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-reach: Reach**{.wp}, or **:wp-prop-versatile: Versatile**{.wp}
-- **TRIGGER**<br>On hit
 
 </div>
 
@@ -153,7 +146,6 @@ If you hit a creature with this weapon, you can force the creature to make a **:
 
 - **TYPE**<br>Melee or Ranged
 - **PROPERTY**<br>**:wp-prop-ammunition: Ammunition**{.wp}, **:wp-prop-finesse: Finesse**{.wp}, or **:wp-prop-light: Light**{.wp}
-- **TRIGGER**<br>On hit & deals damage
 
 </div>
 
@@ -169,7 +161,6 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 
 - **TYPE**<br>Melee or Ranged
 - **PROPERTY**<br>**:wp-prop-light: Light**{.wp} or **:wp-prop-versatile: Versatile**{.wp}
-- **TRIGGER**<br>Before or after an attack
 
 </div>
 
@@ -185,7 +176,6 @@ Before or after making an attack with this weapon, you can move up to 5 feet wit
 
 - **TYPE**<br>Melee or Ranged
 - **PROPERTY**<br>**:wp-prop-heavy: Heavy**{.wp} or **:wp-prop-two-handed: Two-Handed**{.wp}
-- **TRIGGER**<br>None
 
 </div>
 
@@ -200,8 +190,7 @@ On your turn, you can spend an amount of movement equal to half your **:rsc-spd:
 <div class="grid cards noborder" markdown>
 
 - **TYPE**<br>**:dmg-bldg: Bludgeoning**{.dmg-bps} Melee or any Ranged
-- **PROPERTY**<br>**:wp-prop-ammunition: Ammunition**{.wp}, **:wp-prop-heavy: Heavy**{.wp}, **:wp-prop-versatile: Versatile**{.wp} or 
-- **TRIGGER**<br>On hit
+- **PROPERTY**<br>**:wp-prop-ammunition: Ammunition**{.wp}, **:wp-prop-heavy: Heavy**{.wp}, or **:wp-prop-versatile: Versatile**{.wp}
 
 </div>
 
@@ -217,7 +206,6 @@ If you hit a creature with this weapon and deal damage to the creature, the next
 
 - **TYPE**<br>Melee
 - **PROPERTY**<br>**:wp-prop-versatile: Versatile**{.wp}
-- **TRIGGER**<br>On hit
 
 </div>
 
@@ -233,7 +221,6 @@ When you hit a melee attack using this weapon, you deal its **:wp-prop-versatile
 
 - **TYPE**<br>Melee
 - **PROPERTY**<br>**:wp-prop-light: Light**{.wp}
-- **TRIGGER**<br>On miss
 
 </div>
 
@@ -249,7 +236,6 @@ If your attack roll with this weapon misses a creature, you can immediately make
 
 - **TYPE**<br>Melee
 - **PROPERTY**<br>**:wp-prop-finesse: Finesse**{.wp} or **:wp-prop-versatile: Versatile**{.wp}
-- **TRIGGER**<br>On the target's attack roll
 
 </div>
 
@@ -259,13 +245,27 @@ While wielding this weapon, when a creature makes a Melee attack roll against yo
 
 ---
 
+### Sighted :material-glass-mug-variant:{title="Homebrew" .fg-light} 
+
+<div class="grid cards noborder" markdown>
+
+- **TYPE**<br>Ranged
+- **PROPERTY**<br>**:wp-prop-ammunition: Ammunition**{.wp}
+
+</div>
+
+<hr class="hr-solid">
+
+Attacking at long range with this weapon doesn't impose **:d20-dis: Disadvantage**{.d20} on your attack rolls. When you hit a creature with an attack using this weapon at long range, you can reroll any of the damage dice and must use the new roll.
+
+---
+
 ### Speedload :material-glass-mug-variant:{title="Homebrew" .fg-light} 
 
 <div class="grid cards noborder" markdown>
 
 - **TYPE**<br>Ranged
 - **PROPERTY**<br>**:wp-prop-ammunition: Ammunition**{.wp} or **:wp-prop-loading: Loading**{.wp}
-- **TRIGGER**<br>None
 
 </div>
 
@@ -281,7 +281,6 @@ You ignore the **:wp-prop-loading: Loading**{.wp} property of this weapon and yo
 
 - **TYPE**<br>Melee
 - **PROPERTY**<br>**:wp-prop-finesse: Finesse**{.wp}
-- **TRIGGER**<br>After attack action
 
 </div>
 

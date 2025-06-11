@@ -55,9 +55,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :   ### Automatic { .noborder }
 
-    Each time you make an attack with an **:wp-prop-automatic: Automatic**{.wp} weapon, you can make one extra attack later on the same turn. This extra attack must be made with the *same weapon* provided it has enough Ammunition for the attack, and you don't add your ability modifier to the additional attack's damage roll, unless that modifier is negative. 
-
-    If the Automatic property includes a plus and a number (e.g., Automatic (+3)), that number determines the maximum additional attacks you can make each time you attack with the weapon. For example, a Sub-Machine Gun with Automatic (+3) allows up to 3 extra attacks per attack.
+    Each time you attack with an **:wp-prop-automatic: Automatic**{.wp} weapon, you can immediately make one extra attack with the *same weapon*. This extra attack are always made with **:d20-dis: Disadvantage**{.d20}, regardless of circumstance. You must have enough ammunition to make the extra attack.
 
 ---
 
@@ -133,13 +131,13 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
     If you make an attack against a target that is within half this weapon's normal range (round up), you deal the damage value listed in parenthesis instead of the weapon's normal damage dice.
 
----
+<!-- ---
 
 :wp-prop-sighted:{ .x3l }
 
 :   ### Sighted { .noborder }
 
-    This weapon has **:d20-dis: Disadvantage**{.d20} on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{.d20} against target that has not moved at least 15 feet for this before the start of your turn.
+    This weapon has **:d20-dis: Disadvantage**{.d20} on attack rolls made against targets within 20 feet and has **:d20-adv: Advantage**{.d20} against target that has not moved at least 15 feet for this before the start of your turn. -->
 
 ---
 
