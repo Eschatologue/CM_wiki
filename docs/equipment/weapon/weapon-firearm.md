@@ -12,15 +12,16 @@ status: homebrew
 
 ## Firearm Proficiency
 
-In *Crown & Misery*, firearms are rare weapons powered by **Cordite**, a volatile alchemical compound that becomes inert near creatures attuned to the Weave. This makes firearms largely ineffective for most Antares races—except **Londiniers**, who isn't native to Antares, therefore, lack a *natural* connection to the Weave.
+In *Crown & Misery*, firearms are rare weapons powered by **[Cordite](../../lore/glossary.md#cordite)**, a volatile alchemical compound that becomes inert near creatures attuned to the Weave. This makes firearms largely ineffective for most Antares races—except **Londiniers**, who isn't native to Antares, therefore, lack a *natural* connection to the Weave.
 
 Firearms require their own proficiency category (not Simple or Martial) and are unaffected by effects tied to Cold Weapons, such as most enchantments or magical abilities.
 
-Most classes don’t gain Firearm proficiency unless granted by a background, species trait, or similar feature. Though point-and-shoot is easy enough, using a firearm effectively means suppressing your magical nature—an awkward task for spellcasters.
+Most classes don’t gain Firearm proficiency unless granted by a background, species trait, or similar feature. Though point-and-shoot is easy enough, using a firearm effectively means suppressing your magical nature.
 
+<!-- 
 !!! info "Cordite Origins"
 
-    In a spectacular case of "this won't backfire at all," the Elves of Tahdenvalta developed Cordite to counter Londiniers during the Great Split. The plan? Create a weapon deadly to those *not* connected to the Weave. The result? Londiniers promptly stole the tech, reverse-engineered it, and now they're the only ones who can actually use it properly. Great job, Elves.
+    In a spectacular case of "this won't backfire at all," the Elves of Tahdenvalta developed Cordite to counter Londiniers during the Great Split. The plan? Create a unstable and deadly substance to those *not* connected to the Weave. The result? Londiniers promptly stole the tech, reverse-engineered it, and now they're the only ones who can actually use it properly. Great job, Elves. -->
 
 ## Special Rules
 

@@ -82,7 +82,7 @@ The Brabazon Fleet is a series of colossal mobile penal colonies, constructed by
 
 *Substance*
 
-*Cordite* is a volatile substance used to propel projectiles in firearms and other London-based weaponry. Refined from rare minerals found only in certain regions of Antares, it burns with immense energy, enabling the magic-less Londoners to rival the magical capabilities of other nations.
+*Cordite* is a volatile substance used to propel projectiles in firearms and other Albion-made weaponry. Refined from rare minerals found only in certain regions of Antares, it burns with immense energy, enabling the magic-less Londoners to rival the magical capabilities of other nations.
 
 Interestingly, Cordite rapidly becomes inert when in close proximity to those attuned to the Weave. This unique trait makes it unreliable for most non-Londoners, as even minor magical attunement neutralises its potency.
 
@@ -94,7 +94,7 @@ Interestingly, Cordite rapidly becomes inert when in close proximity to those at
 
 ---
 
-### Dominion of Albion (London)
+### Dominion of Albion
 
 *Nation*
 
