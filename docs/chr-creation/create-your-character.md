@@ -131,7 +131,7 @@ The Standard Languages table lists languages that are widespread on D&D worlds. 
     | 9 | Goblin | Goblinoids | Gallia, Soterrano | [Italian], [Spanish] |
     | 10 | Halfling | Halflings | Albion, Karakorum | [Alsatian] |
     | 11 | Orc | Orcs | Gallia, Myrkheim | [German] |
-    | 12 | English^*CM*^ | Londoners | Albion | [English] |
+    | 12 | English^*CM*^ | Londiniers | Albion | [English] |
 
 [French]: https://en.wikipedia.org/wiki/French_language
 [Japanese]: https://en.wikipedia.org/wiki/Japanese_language

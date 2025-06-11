@@ -37,6 +37,6 @@ Dwarves typically live for around 250 years, with the oldest members having witn
 
     **Humans**{.inl} "Humans are ambitious folk, always pushing boundaries, and they get things done quickly—sometimes too quickly. They're unpredictable, a blessing and a curse, yet in their drive for progress, there's a spark we respect. Share a forge or a drink with one, and you'll find they're not so different from us... though maybe a touch more reckless."
 
-    **Londoners**{.inl} *"Those tea addicts have the strength of a twig! But, ah, their inventions! Centuries ahead of anything we've got. And they're a frightening lot—what we'd call horrors is mere child's play to them. Makes you wonder what they've seen to turn them like that…"*
+    **Londiniers**{.inl} *"Those tea addicts have the strength of a twig! But, ah, their inventions! Centuries ahead of anything we've got. And they're a frightening lot—what we'd call horrors is mere child's play to them. Makes you wonder what they've seen to turn them like that…"*
 
 

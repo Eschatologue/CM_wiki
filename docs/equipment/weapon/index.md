@@ -27,7 +27,7 @@ Main article: [Cold Weapons](weapon-cold.md)
 
 ### Firearms
 
-Firearms are weapons that use an explosive charge to propel projectiles called "bullets" at incredible speed. These new types of weaponry were brought over by the Londoners when they first arrived in Antares, making them more adept at using firearms due to their long experience with them. 
+Firearms are weapons that use an explosive charge to propel projectiles called "bullets" at incredible speed. These new types of weaponry were brought over by the Londiniers when they first arrived in Antares, making them more adept at using firearms due to their long experience with them. 
 
 Firearms are very rare, and rarely sold outside of Albion-controlled territories. Even if you find one, it is almost impractical compared to other weapons due to their reliance on [Cordites](../../lore/glossary.md#cordite).
 

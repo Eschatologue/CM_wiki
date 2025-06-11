@@ -171,7 +171,7 @@ nav:
         - Halfling: chr-creation/origin/species/halfling.md
         - Half Elf: chr-creation/origin/species/half-elf.md       
         - Human: chr-creation/origin/species/human.md
-        - Londoner: chr-creation/origin/species/londoner.md
+        - Londinier: chr-creation/origin/species/londinier.md
         - Orc: chr-creation/origin/species/orc.md
         - Tiefling: chr-creation/origin/species/tiefling.md
       - Affiliation: chr-creation/origin/affiliation.md
@@ -448,7 +448,7 @@ nav:
       #   - Aasimar: lore/antares/race/aasimar.md
       #   - Dwarf: lore/antares/race/dwarf.md
       #   - Elf: lore/antares/race/elf.md
-      #   - Londoner: lore/antares/race/londoner.md
+      #   - Londinier: lore/antares/race/londinier.md
     - Event:
       - The Second Maelstorm: lore/event/second-maelstorm.md
       - Fall of Tähdenvalta: 

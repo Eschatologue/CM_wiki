@@ -12,7 +12,7 @@ status: homebrew
 
 ## Firearm Proficiency
 
-In *Crown & Misery*, firearms are rare weapons powered by **[Cordite](../../lore/glossary.md#cordite)**, a volatile alchemical compound that becomes inert near creatures attuned to the Weave. This makes firearms largely ineffective for most Antares races—except **Londiniers**, who isn't native to Antares, therefore, lack a *natural* connection to the Weave.
+In *Crown & Misery*, firearms are rare weapons powered by [Cordite](../../lore/glossary.md#cordite), a volatile alchemical compound that becomes inert near creatures attuned to the Weave. This makes firearms largely ineffective for most Antares races—except **Londiniers**, who isn't native to Antares, therefore, lack a *natural* connection to the Weave.
 
 Firearms require their own proficiency category (not Simple or Martial) and are unaffected by effects tied to Cold Weapons, such as most enchantments or magical abilities.
 
