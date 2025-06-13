@@ -6,7 +6,7 @@ search:
 
 # Londoners
 
-The Londoners or Londiniers (singular: Londoner) are an alien race in Antares.
+The Londoners or Londiniers (singular: Londoner or Londinier) are an alien race in Antares.
 
 *"Forsan et haec olim meminisse iuvabit"*  
 { .quote }
