@@ -24,7 +24,7 @@ The **Dominion of Albion**, known colloquially as **London**, stands as the pinn
 : Federal Dominant-party Stratocracy
 
 **Demonym** 
-: Londiniers, Londiniers, British
+: Londoners, Londoners, British
 
 **Head of State** 
 : Chancellor
@@ -60,7 +60,7 @@ They did not wield magic. They had no ties to the gods. Yet their hands shaped m
 — High Lord Nithenoel Vanhatalo, last ruler of the Tähdenvalta Empire  
 { .quote }
 
-At first, the elves welcomed the Londiniers, offering them land and protection. Yet what began as an act of benevolence soon soured into resentment. Cities rose where forests once stood. Machines churned where rivers once flowed. The British expanded ceaselessly, unconcerned with the sacred lands they claimed.  
+At first, the elves welcomed the Londoners, offering them land and protection. Yet what began as an act of benevolence soon soured into resentment. Cities rose where forests once stood. Machines churned where rivers once flowed. The British expanded ceaselessly, unconcerned with the sacred lands they claimed.  
 
 The elves, wary of Albion’s growing power, sought to control it. They insisted on oversight, demanded the secrets of London’s industry be shared. When their petitions were denied, they turned to coercion—kidnappings, sabotage, even slavery.  
 

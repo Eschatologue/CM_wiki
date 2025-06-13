@@ -2,11 +2,11 @@
 status: homebrew
 ---
 
-# Londinier
+# Londoner
 
-The Londiniers arrived in Antares through the Northern Gate, bringing industrial might, tactical brilliance, and a fanatical devotion to their homeland. Alien to the Weave and hardened by centuries of warfare, they are a people of innovation, steel, and blood.
+The Londoners in Antares through the Northern Gate, bringing industrial might, tactical brilliance, and a fanatical devotion to their homeland. Alien to the Weave and hardened by centuries of warfare, they are a people of innovation, steel, and blood.
 
-## Londinier Traits
+## Londoner Traits
 
 *Crown & Misery Species*
 
@@ -24,7 +24,7 @@ You are restricted from choosing the **Bard**, **Cleric**, **Druid**, **Sorcerer
 
 ??? info "Why Restriction?"
 
-    Humans from the Albion are outsiders in Antares. As a result, the Weave of magic does not interact with them in the same way it does with the native races, rendering them unable to perform direct spellcraft. However, a small number of Londiniers have found ways to wield magic, often through the use of technological innovations, casting units, or ancient artifacts that contain magical properties.
+    Humans from the Albion are outsiders in Antares. As a result, the Weave of magic does not interact with them in the same way it does with the native races, rendering them unable to perform direct spellcraft. However, a small number of Londoners have found ways to wield magic, often through the use of technological innovations, casting units, or ancient artifacts that contain magical properties.
 
 ### Ability Score Change
 

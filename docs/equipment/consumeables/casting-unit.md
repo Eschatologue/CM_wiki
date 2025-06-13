@@ -7,7 +7,7 @@ search:
 
 # Casting Units
 
-Casting Units, also known as *Arts Units*, *Weave Looms*, *Spellcasting Units*, or (more informally) "*Spell Scrolls with Skill Issues*" and "*Dumb Casters*," depending on who you ask, are modernised versions of traditional spell scrolls. Though less potent than their predecessors, these devices allow even those without a natural connection to the Weave—sometimes referred to disparagingly as "Londiniers"—to cast spells.
+Casting Units, also known as *Arts Units*, *Weave Looms*, *Spellcasting Units*, or (more informally) "*Spell Scrolls with Skill Issues*" and "*Dumb Casters*," depending on who you ask, are modernised versions of traditional spell scrolls. Though less potent than their predecessors, these devices allow even those without a natural connection to the Weave—sometimes referred to disparagingly as "Londoners"—to cast spells.
 
 Casting Units emerged in response to the [brain drain](../../lore/glossary.md#toulouse-exodus) that swept across Gallia following the establishment of the Caerdyf Tower of Arts (Albion) and The Great Halls (Valinor). They were made possible through a fusion of Elven Fey magic, British craftsmanship, and Gallian spell-weaving standards. These units vary in shape and size, catering to a wide range of magical needs and users.
 

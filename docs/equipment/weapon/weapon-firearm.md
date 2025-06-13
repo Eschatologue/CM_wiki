@@ -8,11 +8,11 @@ status: homebrew
 *"A good blade's worth more than any fire-spitter. A gun's only as strong as its powder and steel, but a sword or an axe? Aye, that's as strong as the arm that swings it—and there's no arm stronger than a dwarf!"*
 {.quote}
 
-**Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as **'Cordite'** to propel projectiles known as "bullets" over long distances. These weapons were brought over by the Londiniers and are used exclusively by their people.
+**Gun weapons**, shortened as **guns** and often referred to as **firearms**, are unique mid-range to long-range weapons that use a special explosive charge known as **'Cordite'** to propel projectiles known as "bullets" over long distances. These weapons were brought over by the Londoners and are used exclusively by their people.
 
 ## Firearm Proficiency
 
-In *Crown & Misery*, firearms are rare weapons powered by [Cordite](../../lore/glossary.md#cordite), a volatile alchemical compound that becomes inert near creatures attuned to the Weave. This makes firearms largely ineffective for most Antares races—except **Londiniers**, who isn't native to Antares, therefore, lack a *natural* connection to the Weave.
+In *Crown & Misery*, firearms are rare weapons powered by [Cordite](../../lore/glossary.md#cordite), a volatile alchemical compound that becomes inert near creatures attuned to the Weave. This makes firearms largely ineffective for most Antares races—except **Londoners**, who isn't native to Antares, therefore, lack a *natural* connection to the Weave.
 
 Firearms require their own proficiency category (not Simple or Martial) and are unaffected by effects tied to Cold Weapons, such as most enchantments or magical abilities.
 
@@ -21,7 +21,7 @@ Most classes don’t gain Firearm proficiency unless granted by a background, sp
 <!-- 
 !!! info "Cordite Origins"
 
-    In a spectacular case of "this won't backfire at all," the Elves of Tahdenvalta developed Cordite to counter Londiniers during the Great Split. The plan? Create a unstable and deadly substance to those *not* connected to the Weave. The result? Londiniers promptly stole the tech, reverse-engineered it, and now they're the only ones who can actually use it properly. Great job, Elves. -->
+    In a spectacular case of "this won't backfire at all," the Elves of Tahdenvalta developed Cordite to counter Londoners during the Great Split. The plan? Create a unstable and deadly substance to those *not* connected to the Weave. The result? Londoners promptly stole the tech, reverse-engineered it, and now they're the only ones who can actually use it properly. Great job, Elves. -->
 
 ## Special Rules
 

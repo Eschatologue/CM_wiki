@@ -7,13 +7,13 @@ search:
 
 # The Northern Gate
 
-The Northern Gate, commonly referred to as "the Gate," is an ancient structure located near the northern pole of Antares, at the borders of the Teethering Maw. This circular portal/gate is notable for being the primary entry point through which the Londiniers arrived on Antares for the first time.
+The Northern Gate, commonly referred to as "the Gate," is an ancient structure located near the northern pole of Antares, at the borders of the Teethering Maw. This circular portal/gate is notable for being the primary entry point through which the Londoners arrived on Antares for the first time.
 
 ## Overview
 
 ![Impending Threat by Sheer Madness](../../assets/wiki/northern-gate.png){ align=right }
 
-The Northern Gate is rumoured to serve as a conduit between distant realms or locations separated by great distances. Its exact mechanism and purpose remain largely unknown. Prior to the Londiniers' arrival and the ensuing conflicts, the existence of the Northern Gate was kept secret by the elves who controlled the area. This secrecy was due, in part, to the Gate's inherent danger; prolonged exposure to its Celestial script and engravings could result in insanity and to even spontaneous combustion, even if the victim did not see the celestial script, a phenomenon that rendered the Gate particularly hazardous.
+The Northern Gate is rumoured to serve as a conduit between distant realms or locations separated by great distances. Its exact mechanism and purpose remain largely unknown. Prior to the Londoners' arrival and the ensuing conflicts, the existence of the Northern Gate was kept secret by the elves who controlled the area. This secrecy was due, in part, to the Gate's inherent danger; prolonged exposure to its Celestial script and engravings could result in insanity and to even spontaneous combustion, even if the victim did not see the celestial script, a phenomenon that rendered the Gate particularly hazardous.
 
 Following the Second Warp Maelstrom, the responsibility for guarding the Northern Gate was largely abandoned. The elves, who had previously maintained vigilant oversight, were unable to continue their efforts due to shifting priorities and their eventual defeat by London. Consequently, London assumed control of the Gate's protection. They employ fleets of airships and dreadnoughts to patrol the surrounding region from a secure distance, preventing unauthorised access. The reasons for London's continued oversight of the Gate remain classified.
 

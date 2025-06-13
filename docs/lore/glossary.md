@@ -13,7 +13,7 @@ search:
 
 *Species*
 
-Abhumans, or Aberrant Humans, are a subgroup of humans, also known as "Londiniers." Characterised by their human traits, but lacking a connection to the Weave and possessing a weaker physical strength compared to other species found on Antares. 
+Abhumans, or Aberrant Humans, are a subgroup of humans, also known as "Londoners." Characterised by their human traits, but lacking a connection to the Weave and possessing a weaker physical strength compared to other species found on Antares. 
 
 In modern times, the term has taken on a derogatory connotation, used in Gallian society to refer to those of lower social status.
 
@@ -39,7 +39,7 @@ Ancient are the majority of humanoid inhabitants in Antares, comprising Aasimar,
 
 *Weaponry*
 
-Boiler Rifles were ranged weapons used by Londiniers before the discovery of Cordite. These short-lived weapons utilised high-pressure steam to propel projectiles at high speeds. Though less efficient than Cordite-based firearms, they served as a temporary solution in the fight against the Elves.
+Boiler Rifles were ranged weapons used by Londoners before the discovery of Cordite. These short-lived weapons utilised high-pressure steam to propel projectiles at high speeds. Though less efficient than Cordite-based firearms, they served as a temporary solution in the fight against the Elves.
 
 ---
 
@@ -82,11 +82,11 @@ The Brabazon Fleet is a series of colossal mobile penal colonies, constructed by
 
 *Substance*
 
-*Cordite* is a volatile substance used to propel projectiles in firearms and other Albion-made weaponry. Refined from rare minerals found only in certain regions of Antares, it burns with immense energy, enabling the magic-less Londiniers to rival the magical capabilities of other nations.
+*Cordite* is a volatile substance used to propel projectiles in firearms and other Albion-made weaponry. Refined from rare minerals found only in certain regions of Antares, it burns with immense energy, enabling the magic-less Londoners to rival the magical capabilities of other nations.
 
-Interestingly, Cordite rapidly becomes inert when in close proximity to those attuned to the Weave. This unique trait makes it unreliable for most non-Londiniers, as even minor magical attunement neutralises its potency.
+Interestingly, Cordite rapidly becomes inert when in close proximity to those attuned to the Weave. This unique trait makes it unreliable for most non-Londoners, as even minor magical attunement neutralises its potency.
 
-*"The discovery of Cordite was, ironically, an accident. Produced by Elven alchemists as a weapon to obliterate their invaders, it was designed to be stable only in the hands of those bonded with the Weave, but volatile when near those who not. Yet, the plan backfired spectacularly when the Londiniers learned to tame and weaponise it. What was intended to bring their ruin instead became the key to their military might—turning the tides and sealing the elves fate."*
+*"The discovery of Cordite was, ironically, an accident. Produced by Elven alchemists as a weapon to obliterate their invaders, it was designed to be stable only in the hands of those bonded with the Weave, but volatile when near those who not. Yet, the plan backfired spectacularly when the Londoners learned to tame and weaponise it. What was intended to bring their ruin instead became the key to their military might—turning the tides and sealing the elves fate."*
 { .quote }
 
 *"Blud made racist gunpowder. Truly a skill issue"* —London Scientiest
@@ -98,7 +98,7 @@ Interestingly, Cordite rapidly becomes inert when in close proximity to those at
 
 *Nation*
 
-The Dominion of Albion is the home of the Londiniers and occupies the largest territory in Antares. Characterised by its appetite for expansion and might, Albion boasts the strongest military in the region alongside a behemoth of industry, solidifying its status as a hegemonic power in Antares.
+The Dominion of Albion is the home of the Londoners and occupies the largest territory in Antares. Characterised by its appetite for expansion and might, Albion boasts the strongest military in the region alongside a behemoth of industry, solidifying its status as a hegemonic power in Antares.
 
 ---
 
@@ -182,7 +182,7 @@ A continent-spanning suspended rail network. This monumental construction projec
 
 The Millennium Dawn marks the age that began 200 years after the Second Maelstorm, characterised by the fall of the Tahdenvalta Empire and the aftermath of the Great Split. 
 
-This era signifies a new period for Antares, as societies adapt to the new balance of power, technology slowly replaces magic in every part of societies, and the remnants of the old world collide with the burgeoning innovations of the Londiniers.
+This era signifies a new period for Antares, as societies adapt to the new balance of power, technology slowly replaces magic in every part of societies, and the remnants of the old world collide with the burgeoning innovations of the Londoners.
 
 ---
 

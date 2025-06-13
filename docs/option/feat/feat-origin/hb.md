@@ -144,15 +144,13 @@ While you may not be a true Sorcerer, within you dwells a small spark of arcane 
 
 <hr class="hr-solid"> 
 
-You onced served the Albion's armed forces, where its citizenship is earned through the choking hell of warfare. In soot and blood, you carved your right to exist.
-
-You gain the following benefits:
+You onced served the Albion's armed forces, where the nation's citizenship is earned through the choking hell of warfare. You gain the following benefits:
 
 **Firearm Training**
 :   You gain proficiency with Short-Arms. If you are proficient with :prof-wp-martial: Martial weapons, you gain proficiency with Long-Arms.
 
 **Unbreaking Spirit**
-:   Whenever you gain or use Heroic Inspiration, you can choose to gain Hit Points equal to twice your Proficiency Bonus. You can't gain Hit Points this way again until you finish a **:rest-short: Short Rest**
+:   Whenever you gain or use Heroic Inspiration, you can choose to gain Hit Points equal to three times your Proficiency Bonus. You can't gain Hit Points this way again until you finish a **:rest-short: Short Rest**
 
 ---
 

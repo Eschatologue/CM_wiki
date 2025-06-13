@@ -33,6 +33,6 @@ Voidite ores occur naturally as mineral deposits, with their value and density t
 
 > Main Article: Warp Storm (Ground Zero) 
 
-For many nations, the lack of advanced mining capabilities comparable to those of the Dwarves or the Londiniers poses a significant challenge. One solution to their need for Voidite lies in sourcing high-density Voidite from Ground Zero—locations directly impacted by Warp Storms. Although these sites are fraught with dangers and teeming with aberrations, the rewards often outweigh the risks and sacrifices.  
+For many nations, the lack of advanced mining capabilities comparable to those of the Dwarves or the Londoners poses a significant challenge. One solution to their need for Voidite lies in sourcing high-density Voidite from Ground Zero—locations directly impacted by Warp Storms. Although these sites are fraught with dangers and teeming with aberrations, the rewards often outweigh the risks and sacrifices.  
 
 To harvest Voidite from these Ground Zeros, nations rely on Prospectors—individuals tasked with venturing into Ground Zero to retrieve Voidite for further processing. Though the inherent dangers of the Warp would often take a toll, with most Prospectors are known to suffer from varying degrees of insanity.

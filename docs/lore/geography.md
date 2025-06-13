@@ -27,7 +27,7 @@ To the west of the mountain range lies the 'Underdark,' a vast expanse of subter
 
 ### Eastern Regions
 
-East of the mountain range is Gallia, a realm rich in magic and sorcery, often mockingly referred to as "The French" by the Londiniers. Gallia's southwestern territories are covered in lush rainforests. 
+East of the mountain range is Gallia, a realm rich in magic and sorcery, often mockingly referred to as "The French" by the Londoners. Gallia's southwestern territories are covered in lush rainforests. 
 
 ### Western Regions
 
