@@ -63,7 +63,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :   ### Burst-Fire { .noborder }
     
-    As an **:rsc-a: Action**{.rsc}, you can expend at least 5 pieces of ammunition to make a **:rsc-a: Burst-Fire Attack**{.rsc}. Each creature in a **10-foot :aoe-cube: Cube**{.nowrap} within the weapon’s normal range must succeed on a **:d20-save: DEX Save**{.d20} (**DC** = `5 + ammunition expended`) or take damage. Roll the weapon’s damage once and apply it to all creatures that failed the save.
+    As an **:rsc-a: Action**{.rsc}, you can expend at least 5 pieces of ammunition to make a **:rsc-a: Burst-Fire Attack**{.rsc}. Each creature in a **10-foot :aoe-cube: Cube**{.nowrap} within the weapon’s normal range must succeed on a **:d20-save: DEX Save**{.d20} (**DC** = `DEX Modifier + ammunition expended`) or take damage. Roll the weapon’s damage once and apply it to all creatures that failed the save.
 
 ---
 
@@ -113,7 +113,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :   ### Reach { .noborder}
 
-    This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for **:rsc-r: Opportunity Attacks** with a reach weapon.
+    This weapon adds 5 feet to your reach when you attack with it. This property also determines your reach for **:rsc-r: Opportunity Attacks**{.rsc} with a reach weapon.
 
 ---
 
@@ -121,7 +121,7 @@ Many weapons have special properties related to their use, as shown in the Weapo
 
 :   ### Reload { .noborder }
 
-    This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a **:rsc-b: Bonus Action**{.rsc}; otherwise, reloading it takes an **:rsc-a: Action**{.rsc}. Some weapons require an **:rsc-a: Action**{.rsc} or longer to reload, even if you have Proficiency, which is specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
+    This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes an **:rsc-a: Action**{.rsc} or **:rsc-b: Bonus Action**{.rsc}; otherwise, reloading it takes an **:rsc-a: Action**{.rsc}.
 
 ---
 

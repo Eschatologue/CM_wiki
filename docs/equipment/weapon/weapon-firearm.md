@@ -62,9 +62,9 @@ The Short-Arm Table include pistols, revolvers, and other small, easily conceala
 
 | Name | damage | properties | mastery | weight | cost |
 |---|---|---|:-:|:-:|--:|
-| *Revolver* | **2d6 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 60/180; Bullet), Reload (6) | **:wp-mas: Sap**{ .wp } | M. | 1,500 SP |
-| *Sawn-Off Shotgun* | **1d6 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 30/60; Shell), Automatic, Reload (2), Scatter (2d10) | **:wp-mas: Push**{ .wp } | M. | 1,000 SP |
-| *Semi-Auto Pistol* | **2d4 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 60/180; Bullet), Automatic, Light, Reload (12) | **:wp-mas: Vex**{ .wp } | M. | 2,500 SP |
+| *Revolver* | **2d6 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 60/180; Bullet), Reload (6) | **:wp-mas: Expose**{ .wp } | M. | 1,500 SP |
+| *Sawn-Off Shotgun* | **1d6 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 30/60; Shell), Automatic, Light, Reload (2), Scatter (2d10) | **:wp-mas: Push**{ .wp } | M. | 1,000 SP |
+| *Semi-Auto Pistol* | **2d4 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 60/180; Bullet), Light, Reload (12) | **:wp-mas: Vex**{ .wp } | M. | 2,500 SP |
 | *Submachine Gun* | **2d4 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 40/120; Bullet), Automatic, Burst-Fire, Reload (28), Two-handed | **:wp-mas: Vex**{ .wp } | M. | 3,000 SP |
 
 ### Long-Arm
@@ -75,7 +75,7 @@ The Long-arm Table encompass rifles and other longer-range weapons. These are de
 
 | Name | damage | properties | mastery | weight | cost |
 |---|---|---|:-:|:-:|--:|
-| *Automatic Rifle* | **2d6 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 80/240; Bullet), Automatic, Burst-Fire, Heavy, Reload (12), Two-handed | **:wp-mas: Vex**{ .wp } | L. | 4,500 SP |
+| *Assault Rifle* | **2d6 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 80/240; Bullet), Automatic, Burst-Fire, Heavy, Reload (12), Two-handed | **:wp-mas: Vex**{ .wp } | L. | 4,500 SP |
 | *Machine Gun* | **1d12 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 120/360; Bullet), Automatic, Burst-Fire, Heavy (STR/DEX 15), Reload (50), Two-Handed | **:wp-mas: Brace**{ .wp } | XL. | 7,500  SP |
 | *Marksmen Rifle* | **2d10 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 120/360; Bullet), Reload (6), Two-handed | **:wp-mas: Sighted**{ .wp } | L. | 4,000 SP |
 | *Over-under Shotgun* | **2d4 :dmg-prcg: Ps.**{.dmg-bps} | Ammunition (:wp-prop-range: Range 30/90; Shell), Automatic, Reload (2), Scatter (2d12), Two-handed | **:wp-mas: Slow**{ .wp } | M. | 2,500 SP |
