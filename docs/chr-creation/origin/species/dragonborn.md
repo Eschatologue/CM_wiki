@@ -6,40 +6,43 @@
 :trt-size: **Size:** Medium (about 5-7 feet tall)  
 :rsc-spd: **Speed:** Standard (30 feet)
 
+## Trait {.hide}
+
 As a Dragonborn, you have these special traits.
 
 <div class="dl-bootstrap" markdown>
 
 **Draconic Ancestry**
-:   You have an ancestry tied to a specific aeiginae. Choose the kind of dragon or aeginae^*CM*^ from the Draconic Ancestors or Aeginae Ancestry^*CM*^ table. Your choice affects your **Breath Weapon** and **Damage Resistance** traits as well as your appearance.
+:   
+You have an ancestry tied to a specific aeiginae. Choose the kind of dragon or aeginae^*CM*^ from the Draconic Ancestors or Aeginae Ancestry^*CM*^ table. Your choice affects your **Breath Weapon** and **Damage Resistance** traits as well as your appearance.
 
-    <!-- <div class="grid" markdown> -->
+<div class="grid" markdown>
 
-    | Dragon | Damage Type |
-    |--------|-------------|
-    | Black  | **:dmg-acid: Acid**{ .dmg-acid } |
-    | Blue   | **:dmg-lgtn: Lightning**{ .dmg-lgtn } |
-    | Brass  | **:dmg-fire: Fire**{ .dmg-fire } |
-    | Bronze | **:dmg-lgtn: Lightning**{ .dmg-lgtn } |
-    | Copper | **:dmg-acid: Acid**{ .dmg-acid } |
-    | Gold   | **:dmg-fire: Fire**{ .dmg-fire } |
-    | Green  | **:dmg-posn: Poison**{ .dmg-posn } |
-    | Red    | **:dmg-fire: Fire**{ .dmg-fire } |
-    | Silver | **:dmg-cold: Cold**{ .dmg-cold } |
-    | White  | **:dmg-cold: Cold**{ .dmg-cold } |
+| Dragon | Damage Type |
+|--------|-------------|
+| Black  | **:dmg-acid: Acid**{ .dmg-acid } |
+| Blue   | **:dmg-lgtn: Lightning**{ .dmg-lgtn } |
+| Brass  | **:dmg-fire: Fire**{ .dmg-fire } |
+| Bronze | **:dmg-lgtn: Lightning**{ .dmg-lgtn } |
+| Copper | **:dmg-acid: Acid**{ .dmg-acid } |
+| Gold   | **:dmg-fire: Fire**{ .dmg-fire } |
+| Green  | **:dmg-posn: Poison**{ .dmg-posn } |
+| Red    | **:dmg-fire: Fire**{ .dmg-fire } |
+| Silver | **:dmg-cold: Cold**{ .dmg-cold } |
+| White  | **:dmg-cold: Cold**{ .dmg-cold } |
 
-    | Aeginae^*CM*^ | Damage Type |
-    |:--|:--|
-    | Jörmungandr | **:dmg-thun: Thunder**{ .dmg-thun } |
-    | Ouroboros | **:dmg-acid: Acid**{ .dmg-acid } |
-    | Raijin | **:dmg-lgtn: Lightning**{ .dmg-lgtn } |
-    | Tartarus | **:dmg-necr: Necrotic**{ .dmg-necr } |
-    | Thabat | **:dmg-fire: Fire**{ .dmg-fire } |
-    | Thalassa | **:dmg-cold: Cold**{ .dmg-cold } |
-    | Vorthalas | **:dmg-radi: Radiant**{ .dmg-radi } |
-    | Xanthous | **:dmg-force: Force**{ .dmg-force } |
+| Aeginae^*CM*^ | Damage Type |
+|:--|:--|
+| Jörmungandr | **:dmg-thun: Thunder**{ .dmg-thun } |
+| Ouroboros | **:dmg-acid: Acid**{ .dmg-acid } |
+| Raijin | **:dmg-lgtn: Lightning**{ .dmg-lgtn } |
+| Tartarus | **:dmg-necr: Necrotic**{ .dmg-necr } |
+| Thabat | **:dmg-fire: Fire**{ .dmg-fire } |
+| Thalassa | **:dmg-cold: Cold**{ .dmg-cold } |
+| Vorthalas | **:dmg-radi: Radiant**{ .dmg-radi } |
+| Xanthous | **:dmg-force: Force**{ .dmg-force } |
 
-    <!-- </div> -->
+   </div>
 
 **Breath Weapon**
 :   Each ancestry provides a damage resistance and a Breath Weapon, which shares the same range and area of effect but different damage type and :d20-save: Saving Throws, all breath weapon also increases in damage at certain levels.

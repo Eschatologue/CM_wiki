@@ -6,6 +6,8 @@
 :trt-size: **Size:** Medium (about 4-7 feet tall) or Small (about 2-4 feet tall)  
 :rsc-spd: **Speed:** Standard (30 feet)
 
+## Trait {.hide}
+
 As an Aasimar, you have these following traits.
 
 <div class="dl-bootstrap" markdown>
