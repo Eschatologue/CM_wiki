@@ -1,0 +1,177 @@
+@use './typeset';
+@use '../utility/convert';
+@use '../palette/accent';
+@use '../utility/typography';
+
+/*------------------------------------------------------- 
+    MKDocs Material Theme Overrides
+--------------------------------------------------------*/
+/* Tooltips */
+[role='tooltip']>.md-tooltip2__inner {
+    font-style: normal;
+    padding: 0.45em 1.5em;
+    max-width: convert.px2em(560px);
+    border: convert.px2em(2.5px) solid var(--md-primary-fg-color);
+    border-radius: convert.px2em(6px);
+    font-size: #{calc(var(--gbl-font-size) * 0.8)};
+}
+
+/* Content Grid Adjustments */
+.md-grid {
+    max-width: 90%;
+
+    @media (max-width: 1024px) {
+        max-width: 95%;
+    }
+
+    @media (max-width: 720px) {
+        max-width: 98%;
+    }
+}
+
+/* Content Grids */
+// Ref: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/main/modifiers/_grid.scss#L28
+
+.md-typeset .grid {
+    // grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(280px), 1fr));
+    gap: convert.px2em(4px);
+
+    &.cards {
+        grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(260px), 1fr));
+
+        > :is(ul, ol)>li,
+        >.card {
+            border: convert.px2rem(2px) solid var(--md-default-fg-color--lightest) !important;
+            border-left: convert.px2rem(4px) solid var(--md-default-fg-color--lightest) !important;
+            padding: convert.px2rem(4px) convert.px2rem(12px);
+
+            &:is(:focus-within, :hover) {
+                // border-left: convert.px2rem(16px) solid var(--md-default-fg-color--lightest) !important;
+                border-color: inherit !important;
+                box-shadow: none !important;
+            }
+        }
+
+        @media (max-width: 920px) {
+            grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(220px), 1fr));
+        }
+
+        @media (max-width: 720px) {
+            grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(180px), 1fr));
+        }
+
+
+        &.noborder {
+            grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(220px), 1fr)) !important;
+            margin-top: convert.px2rem(0px) !important;
+            margin-bottom: convert.px2rem(0px) !important;
+
+            > :is(ul, ol)>li,
+            >.card {
+                border: none !important;
+                border-left: none !important;
+                padding: convert.px2rem(2px) convert.px2rem(0px);
+            }
+
+            @media (max-width: 920px) {
+                grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(180px), 1fr)) !important;
+            }
+
+            @media (max-width: 720px) {
+                grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(140px), 1fr)) !important;
+            }
+        }
+    }
+}
+
+/*-------------------------------------------------------
+    Typography Overrides
+--------------------------------------------------------*/
+
+.md-sidebar--primary,
+.md-sidebar--secondary,
+.md-tabs,
+.md-header {
+    font-family: var(--heading-font);
+}
+
+/* Header (Title Bar) */
+.md-header {
+    color: var(--md-gbl-text-color-strong);
+    background-color: var(--md-default-bg-color-nord0);
+
+    &[data-md-state='shadow'] {
+        box-shadow:
+            0 0 convert.px2rem(4px) rgba(0, 0, 0, 0.15),
+            0 0 convert.px2rem(4px) convert.px2rem(8px) rgba(0, 0, 0, 0.2);
+    }
+}
+
+/*-------------------------------------------------------
+    Navigation Elements
+--------------------------------------------------------*/
+/* "Go to Top" Button */
+.md-top {
+    background-color: var(--md-default-bg-color);
+    box-shadow: var(--md-shadow-z2);
+
+    &:hover {
+        background-color: var(--md-primary-fg-color);
+    }
+}
+
+/* Navigation Tabs */
+.md-tabs {
+    color: var(--md-gbl-text-color);
+    background-color: var(--md-default-bg-color-nord0);
+
+    &__item--active .md-tabs__link {
+        font-weight: 500;
+        color: var(--md-gbl-text-color-strong);
+        @extend .chevron-left, .chevron-right;
+    }
+}
+
+/* Search Bar */
+.md-search__input {
+    color: var(--md-text-color);
+    background-color: var(--md-default-bg-color--50);
+    border-radius: convert.px2rem(12px);
+
+    &:hover {
+        background-color: var(--md-default-bg-color--50);
+    }
+
+    &::placeholder {
+        color: var(--md-default-fg-color--light);
+    }
+
+    ~.md-search__icon {
+        color: var(--md-text-color);
+    }
+}
+
+/* Link */
+.md-content {
+    --md-typeset-a-color: var(--md-gbl-link-color);
+
+    :is(.emojione, .twemoji, .gemoji) {
+        vertical-align: convert.px2em(-3px);
+    }
+}
+
+// .md-nav {
+//     .md-nav__item {
+//         .md-nav__link {
+//             padding-top: convert.px2rem(0.5px);
+//             padding-bottom: convert.px2rem(0.5px);
+
+//             &:hover {
+//                 transition: background-color 360ms;
+//                 color: var(--md-gbl-text-color-strong);
+//                 background-color: var(--md-primary-fg-color--transparent);
+//                 border-radius: convert.px2rem(3px);
+//             }
+//         }
+//     }
+// }
