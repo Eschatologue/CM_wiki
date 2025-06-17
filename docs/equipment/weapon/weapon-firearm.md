@@ -45,14 +45,14 @@ You do **not** add your ability modifier to the Firearms's damage roll, unless o
 
 The Firearm tables in this section shows the game's main weapons. These table lists the cost and weight of each weapon, as well as the following details:
 
-**Category**{.inl} Every weapon falls into a category: Short-Arm and Long-Arm. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Simple weapons.  
+**Category**{.inl} Every firearms falls into a category: Short-Arm and Long-Arm. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Short-Arm.  
 &emsp;Firearms are considered Ranged weapons for the purposes of effects, abilities, feats, and spells that refer to weapons unless a restriction or limitation explicitly prevents their use. If an ability or spell refers to "ranged weapons" or simply "weapons," firearms are included unless stated otherwise.
 
 **Damage**{.inl} The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage. You do **not** add your ability modifier to the Firearms's damage, unless otherwise stated. 
 
 **Properties**{.inl} Any properties a weapon has are listed in the Properties column. Each property is defined in the [Properties](index.md#weapon-properties) section.
 
-**Mastery**{.inl} Each weapon has a mastery property, which is defined in the [Mastery Properties](mastery.md) section. To use or replace that property, you must have a feature that lets you use it.
+**Mastery**{.inl} Each weapon has a mastery property, which is defined in the [Mastery Properties](mastery.md) section. To use or replace that property, you must have a feature that lets you do it.
 
 ### Short-Arm
 
