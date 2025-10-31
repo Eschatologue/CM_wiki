@@ -830,10 +830,12 @@ table:not([class]) .smallcap {
   color: hsl(77, 98%, 34%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
-  margin-right: 0.04rem !important;
 }
 .dmg-acid :is(.emojione, .twemoji, .gemoji) {
   margin-left: -0.125em;
+}
+.dmg-acid {
+  margin-right: 0.04rem !important;
 }
 
 .dmg-cold {
@@ -845,10 +847,12 @@ table:not([class]) .smallcap {
   color: hsl(199, 91%, 64%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
-  margin-right: 0.04rem !important;
 }
 .dmg-cold :is(.emojione, .twemoji, .gemoji) {
   margin-left: -0.125em;
+}
+.dmg-cold {
+  margin-right: 0.04rem !important;
 }
 
 .dmg-fire {
@@ -860,10 +864,12 @@ table:not([class]) .smallcap {
   color: hsl(28, 75%, 53%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
-  margin-right: 0.04rem !important;
 }
 .dmg-fire :is(.emojione, .twemoji, .gemoji) {
   margin-left: -0.125em;
+}
+.dmg-fire {
+  margin-right: 0.04rem !important;
 }
 
 .dmg-posn {
@@ -875,10 +881,12 @@ table:not([class]) .smallcap {
   color: hsl(102, 100%, 36%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
-  margin-right: 0.04rem !important;
 }
 .dmg-posn :is(.emojione, .twemoji, .gemoji) {
   margin-left: -0.125em;
+}
+.dmg-posn {
+  margin-right: 0.04rem !important;
 }
 
 .dmg-thun {
@@ -890,10 +898,12 @@ table:not([class]) .smallcap {
   color: hsl(262, 43%, 65%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
-  margin-right: 0.04rem !important;
 }
 .dmg-thun :is(.emojione, .twemoji, .gemoji) {
   margin-left: -0.125em;
+}
+.dmg-thun {
+  margin-right: 0.04rem !important;
 }
 
 .dmg-psyc {
@@ -905,10 +915,12 @@ table:not([class]) .smallcap {
   color: hsl(328, 61%, 66%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
-  margin-right: 0.04rem !important;
 }
 .dmg-psyc :is(.emojione, .twemoji, .gemoji) {
   margin-left: -0.125em;
+}
+.dmg-psyc {
+  margin-right: 0.04rem !important;
 }
 
 .dmg-lgtn {
@@ -920,10 +932,12 @@ table:not([class]) .smallcap {
   color: hsl(208, 80%, 55%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
-  margin-right: 0.04rem !important;
 }
 .dmg-lgtn :is(.emojione, .twemoji, .gemoji) {
   margin-left: -0.125em;
+}
+.dmg-lgtn {
+  margin-right: 0.04rem !important;
 }
 
 .dmg-necr {
@@ -935,10 +949,12 @@ table:not([class]) .smallcap {
   color: hsl(129, 47%, 47%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
-  margin-right: 0.04rem !important;
 }
 .dmg-necr :is(.emojione, .twemoji, .gemoji) {
   margin-left: -0.125em;
+}
+.dmg-necr {
+  margin-right: 0.04rem !important;
 }
 
 .dmg-radi {
@@ -950,10 +966,12 @@ table:not([class]) .smallcap {
   color: hsl(45, 100%, 63%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
-  margin-right: 0.04rem !important;
 }
 .dmg-radi :is(.emojione, .twemoji, .gemoji) {
   margin-left: -0.125em;
+}
+.dmg-radi {
+  margin-right: 0.04rem !important;
 }
 
 .dmg-force {
@@ -965,10 +983,12 @@ table:not([class]) .smallcap {
   color: hsl(4, 100%, 71%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
-  margin-right: 0.04rem !important;
 }
 .dmg-force :is(.emojione, .twemoji, .gemoji) {
   margin-left: -0.125em;
+}
+.dmg-force {
+  margin-right: 0.04rem !important;
 }
 
 .dmg-bps {
@@ -980,10 +1000,12 @@ table:not([class]) .smallcap {
   color: hsl(214, 4%, 68%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
-  margin-right: 0.04rem !important;
 }
 .dmg-bps :is(.emojione, .twemoji, .gemoji) {
   margin-left: -0.125em;
+}
+.dmg-bps {
+  margin-right: 0.04rem !important;
 }
 
 .dmg-heal {
@@ -995,10 +1017,12 @@ table:not([class]) .smallcap {
   color: hsl(180, 51%, 60%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
-  margin-right: 0.04rem !important;
 }
 .dmg-heal :is(.emojione, .twemoji, .gemoji) {
   margin-left: -0.125em;
+}
+.dmg-heal {
+  margin-right: 0.04rem !important;
 }
 
 .dmg-temp {
@@ -1010,10 +1034,12 @@ table:not([class]) .smallcap {
   color: hsl(219, 28%, 88%) !important;
   white-space: nowrap;
   margin: 0 0.125rem !important;
-  margin-right: 0.04rem !important;
 }
 .dmg-temp :is(.emojione, .twemoji, .gemoji) {
   margin-left: -0.125em;
+}
+.dmg-temp {
+  margin-right: 0.04rem !important;
 }
 
 .nw, .mv {
