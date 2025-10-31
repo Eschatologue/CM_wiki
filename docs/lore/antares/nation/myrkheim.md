@@ -5,6 +5,9 @@ search:
 
 # **:nation-myrkheim:**{ .x8l } <br> **Myrkheim**{ .chev-lr } { .align-center }
 
+"*The mountains brood, scarred with collapsed holds and half-buried halls. Forges burn in the deep, their glow a ward against memory and betrayal. To trust with one hand and keep an axe in the other—an elven teaching they hold dear.*"
+{ .quote .align-center }
+
 ## Overview  
 
 *"Stone endures where flesh withers. The mountain does not kneel."*{ .emq }  

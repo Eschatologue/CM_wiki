@@ -5,40 +5,16 @@ search:
 
 # **:nation-albion:**{ .x8l } <br> **Albion**{ .chev-lr } { .align-center }
 
+"*Smoke stacks belch over iron avenues. The factories thrum; the air tastes of soot and ambition. The hegemonic nation once slew their god-empress to crown the nation itself — and in doing so, birthed an empire that knows no restraint*"
+{ .quote .align-center }
+
 ## Overview  
 
-> *"You will find no sorcery in Albion, no incantations whispered into the wind, no divine miracles granted by the gods. We build our future with blood and toil, not superstition."*{ .emq }  
+<!-- > *"You will find no sorcery in Albion, no incantations whispered into the wind, no divine miracles granted by the gods. We build our future with blood and toil, not superstition."*{ .emq }  
 — Commander Elias Hargrove, addressing foreign emissaries
-{ .quote }
+{ .quote } -->
 
-The **Dominion of Albion**, known colloquially as **London**, stands as the pinnacle of industry and military discipline in Antares. While other nations wield magic and tradition, Albion’s strength lies in unyielding pragmatism and technological ingenuity. Towering edifices of steel and glass dominate its skyline, while airships swarms between its crevices. Albion's industry thunders.
-
-<!--
-
-### General Information
-
-**Capital** 
-: New London
-
-**Type** 
-: Federal Dominant-party Stratocracy
-
-**Demonym** 
-: Londoners, Londoners, British
-
-**Head of State** 
-: Chancellor
-
-**Head of Government** 
-: High Minister
-
-**Military Strength** 
-: Dominion's Army (Air Force & Land Fleet)
-
-**Currency** 
-: British Sovereign, Gallian Silver
-
--->
+The **Dominion of Albion**, known colloquially as **London**, stands as the pinnacle of industry and military discipline in Antares. While other nations wield magic and tradition, Albion’s strength lies in unyielding pragmatism and technological ingenuity. Towering edifices of steel and glass dominate its skyline, while airships pours out from between its crevices. Albion's industry thunders.
 
 ## History  
 
@@ -52,7 +28,7 @@ The origins of Albion remain an enigma even to this day. The elves, meticulous i
 
 What emerged was no invading army, no celestial emissary, but a bedraggled mass of humans, draped in rags and bearing wounds of unknown origin. They called themselves *British*, and while their bodies bore the scars of hardship, their minds harboured knowledge beyond comprehension. Even in those early days, when they built their first ramshackle settlements in the shadow of elven spires, there was something different about them.  
 
-They did not wield magic. They had no ties to the gods. Yet their hands shaped metal into weapons unseen, their minds conjured machines that defied nature’s order. And where others took centuries to build a nation, they accomplished it within a single lifetime.  
+They did not wield magic. They had no ties to the gods. Yet their hands shaped metal into weapons unseen, their minds conjured constructs that defied nature’s order. And where others took centuries to build a nation, they accomplished it within a single lifetime.  
 
 ### Rising Tensions with the Elves  
 
@@ -80,8 +56,6 @@ The elves fought with spells and summoned beasts. Albion answered with artillery
 
 And then, the unthinkable happened. The **Yggdrasil**, the heart of elven dominion, fell. Whether by bombardment or some final act of defiance, none can say for certain. What is known is this—when the sacred tree was reduced to cinders, so too was the elves' supremacy.  
 
-Their age had ended. Albion’s had begun.  
-
 ## Society  
 
 > *"Other nations dream of glory. We dream of survival."*{ .emq }   
@@ -102,6 +76,4 @@ Albion is a borderline stratocracy, though its governance is more complex. Every
 
 While it may appear rigid, Albion’s inclusivity is born not from virtue, but necessity. The state has no patience for petty divisions—only competence matters. Those who serve, regardless of origin, become part of Albion.  
 
-For in Albion, there are no lords, no chosen bloodlines.  
-
-There is only the Dominion.  
+For in Albion, there are no lords, no chosen bloodlines. There is only the Dominion.  

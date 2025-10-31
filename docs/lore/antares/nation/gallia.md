@@ -79,7 +79,7 @@ Yet for all its inequalities, Gallia remains the pinnacle of arcane knowledge. I
 
 ### Government Structure
 
-*"A throne is not a seat of power. It is a burden—one that must never be allowed to fall."*{ .emq }  
+> *"A throne is not a seat of power. It is a burden—one that must never be allowed to fall."*{ .emq }  
 — Chancellor Étienne Vaudrin, Imperial Advisor
 { .quote }
 

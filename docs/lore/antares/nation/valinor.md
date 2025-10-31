@@ -5,11 +5,10 @@ search:
 
 # **:nation-valinor:**{ .x8l } <br> **Valinor**{ .chev-lr } { .align-center }
 
-## Overview  
+"*The last hearth beneath the northern stars, where the exiled kindle knowledge in place of faith, and the Irminsul blazes so their ghosts may not freeze to outlast the world that cast them aside*"
+{ .quote .align-center }
 
-> *"We did not flee to Valinor to hide—we came to outlast the world that cast us aside."*{ .emq }  
-— Chancellor Elyndor Laaksonen, inaugural address  
-{ .quote }
+## Overview  
 
 The **State of Valinor**, often referred to simply as **Valinor**, stands as a lone beacon of warmth in the frozen northern wastelands of Antares. A city-state built upon perseverance, it shelters elves who once called the verdant forests and great halls of Myrkheim home—refugees, exiles, and those who sought to escape the oppression of their past.   
 
@@ -31,25 +30,19 @@ What began as a slow erosion of freedom became outright persecution. Art, academ
 
 ### War and Resistance  
 
-> *"We stole the very blade meant to cut us down."*{ .emq }  
-— Captain Aethor Keskitalo, Valinor Resistance  
-{ .quote }
-
 As the war against Albion raged, a splinter faction within elven society refused to take part. Branded as traitors, they sought to escape rather than die in a conflict they did not believe in. Their opportunity came with the discovery of an abandoned **Dreadnought**, left behind by retreating Albion forces. Though foreign and incomprehensible, the rebels seized it, learning its secrets through captured Albion engineers.   
 
 With the landship under their control, they turned their eyes northward—away from their persecutors, away from war.  
 
 ### The Escape  
 
-The journey was perilous. Pursued by their own kin and burdened by the sheer weight of survival, the exiles endured internal conflict, betrayal, and hardship. The **HMD Valinore**, as the dreadnought came to be known, carried them through frozen tundras and desolate wastes until, at last, they reached a place where none would follow.   
-
-The north.  
+The journey was perilous. Pursued by their own kin and burdened by the sheer weight of survival, the exiles endured internal conflict, betrayal, and hardship. The **HMD Valinore**, as the dreadnought came to be known, carried them through frozen tundras and desolate wastes until, at last, they reached a place where none would follow. The north.  
 
 It was here, amidst the ice and howling winds, that they built their new home.  
 
 ### Lady Grey  
 
-> *"It came with no warning. The cold stole breath from our lungs, turned flesh to ice, and nearly brought Valinor to ruin before it had even begun."*{ .emq }  
+> *"IThe cold stole breath from our lungs, turned flesh to ice, and nearly brought Valinor to ruin before it had even begun."*{ .emq }  
 — Scholar Thaelorin Nevalainen  
 { .quote }
 
@@ -59,7 +52,7 @@ Though pushed to its absolute limit, the machine endured. When the storm finally
 
 ## Society  
 
-> *"We do not wait for salvation. We carve it from the ice with our own hands."*{ .emq }  
+> *"We do not wait for salvation. We carve it from the ice with our own hands. We have survived."*{ .emq }  
 — Valinor Proclamation of Founding  
 { .quote }
 

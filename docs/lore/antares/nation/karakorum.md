@@ -5,11 +5,10 @@ search:
 
 # **:nation-kamikaze:**{ .x6l } **:nation-tianming:**{ .x6l } **:nation-urga:**{ .x6l } <br>**Karakorum**{ .chev-lr } { .align-center }
 
-## Overview
+"*Three arks remain — a trident that braves the perilous sea under heaven’s broken mandate, bound to a single vow: to light the aeon dark*"
+{ .quote .align-center }
 
-> *"The alliance is built upon a promise."*{ .emq }  
-– Elder Yurukhan, Keeper of the Grand Charter
-{ .quote }
+## Overview
 
 The **Karakorum Alliance** is a nomadic coalition of colossal arks that navigate the coasts of Antares, bound not by land but by a shared mission: to find sanctuary beyond the reach of the Warp. Unlike traditional nations, Karakorum’s existence depends on its fleet—once five, now three. 
 
