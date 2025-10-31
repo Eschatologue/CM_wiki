@@ -1,0 +1,274 @@
+@use '../base/typeset';
+@use "../palette/nord";
+@use '../base/table';
+@use '../utility/convert';
+@use '../palette/accent';
+
+/*-------------------------------------------------------
+    Base Styles
+-------------------------------------------------------*/
+
+.jost {
+    font-family: var(--heading-font);
+}
+
+@mixin jetbrains($word-spacing: convert.px2rem(-2px), $letter-spacing: null) {
+    @extend .jetbrains-icon;
+    font-size: calc(var(--gbl-font-size) * 0.8250); /* DON'T CHANGE THIS */
+    font-family: var(--jetbrains);
+    font-weight: 600 !important;
+    word-spacing: $word-spacing;
+    
+    // Apply letter-spacing only if passed in (if not null)
+    @if $letter-spacing != null {
+        letter-spacing: $letter-spacing !important;
+    }
+}
+
+.jetbrains {
+    @include jetbrains(); // Default values
+}
+
+.jetbrains-icon {
+    :is(.emojione, .twemoji, .gemoji) {
+        font-size: calc(var(--gbl-font-size) * 0.95);
+        margin-right: convert.px2rem(-2.5px);
+        vertical-align: text-top !important;
+    }
+}
+
+.f-lg {
+    font-size: calc(var(--gbl-font-size) * 1.25) !important;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+/*-------------------------------------------------------
+    Heading Modification
+-------------------------------------------------------*/
+
+@for $i from 1 through 6 {
+    // Remove bottom border for headings with .noborder
+    h#{$i}.noborder {
+        border-bottom: none !important;
+        margin: 0 0 convert.px2rem(-8px) 0 !important;
+    }
+
+    // Hide heading visually for table of contents with .hide
+    h#{$i}.hide {
+        position: absolute;
+        left: -999px;
+    }
+}
+
+/*-------------------------------------------------------
+    Utility Classes
+-------------------------------------------------------*/
+
+.align-center {
+    text-align: center !important;
+}
+
+.align-right {
+    text-align: right !important;
+}
+
+/*-------------------------------------------------------
+    Typography & Text Effects
+-------------------------------------------------------*/
+
+.em {
+    @extend .disable-abbr;
+    color: var(--md-gbl-text-color-strong);
+}
+
+.disable-abbr abbr {
+    border-bottom: none !important;
+}
+
+// Small caps effect
+.smallcap {
+    font-size: calc(var(--gbl-font-size) * 1.1);
+    font-variant: small-caps !important;
+    letter-spacing: calc(var(--gbl-font-size) * 0.04) !important;
+
+    :is(.emojione, .twemoji, .gemoji) {
+        font-size: var(--gbl-font-size);
+        vertical-align: convert.px2em(-3px);
+    }
+
+    table:not([class]) & {
+        font-size: var(--gbl-font-size) !important;
+    }
+}
+
+// Highlighted background for text
+.back {
+    color: var(--md-gbl-text-color) !important;
+    background-color: var(--md-code-bg-color);
+    box-decoration-break: clone;
+    padding: 0 convert.px2em(3px);
+    border-radius: convert.px2em(3px);
+    font-weight: 400 !important;
+
+    strong {
+        color: var(--md-gbl-text-color-strong) !important;
+    }
+}
+
+// Quotes and Emphasis
+.emq {
+    @extend .em;
+    font-size: calc(var(--gbl-font-size) * 0.9);
+}
+
+.fg-light {
+    color: var(--md-default-fg-color--light) !important;
+}
+
+.quote {
+    @extend .fg-light;
+    font-size: calc(var(--gbl-font-size) * 0.9);
+    font-weight: 400;
+
+    strong {
+        color: var(--md-default-fg-color--light) !important;
+    }
+}
+
+.author {
+    @extend .quote, .align-right;
+}
+
+/*-------------------------------------------------------
+    Component-Specific Styles
+-------------------------------------------------------*/
+
+// Used for d20 test
+.d20 {
+    @extend .em, .nowrap;
+    letter-spacing: convert.px2em(-0.4px) !important;
+    font-weight: 500 !important;
+    color: nord.$nord8 !important;
+}
+
+// Resources, such as Actions, spell slots, etc.
+.rsc {
+    @extend .em, .nowrap, .jetbrains, .brack-lr;
+    letter-spacing: convert.px2em(-0.4px) !important;
+}
+
+.cond {
+    @extend .em, .nowrap, .jetbrains, .curl-lr;
+    letter-spacing: convert.px2em(-0.4px) !important;
+    color: var(--md-gbl-text-color) !important;
+}
+
+// Weapons
+.wp {
+    @extend .nowrap, .disable-abbr, .jetbrains;
+    font-weight: 600 !important;
+    font-style: italic;
+    color: var(--md-gbl-text-color) !important;
+    border-radius: convert.px2em(3px);
+    padding: convert.px2em(1.5px) convert.px2em(3px);
+    background-color: var(--md-code-bg-color);
+}
+
+/*-------------------------------------------------------
+    Indentation & Inline Styling
+-------------------------------------------------------*/
+
+// Used for Inline Subheading
+.inl {
+    @extend .em, .nowrap;
+    font-weight: 600 !important;
+    // font-style: italic;
+    display: inline-block;
+    position: relative;
+
+    &::after {
+        content: ' —'; // This is cleaner
+        color: var(--md-default-fg-color--light) !important;
+    }
+}
+
+.indt {
+    text-indent: calc((var(--gbl-font-size) * 1.25) * (-1));
+    padding-left: calc((var(--gbl-font-size) * 1.25) * (2));
+}
+
+/*-------------------------------------------------------
+    Brackets and Emphasizes
+-------------------------------------------------------*/
+
+// Mixin for icon-like elements
+@mixin mirror($content) {
+    content: $content;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    color: var(--md-default-fg-color--light) !important;
+}
+
+/// --- Chevrons --- //
+.chevron-right::after {
+    @include mirror('»');
+    margin-left: convert.px2em(3px);
+}
+
+.chevron-left::before {
+    @include mirror('«');
+    margin-right: convert.px2em(3px);
+}
+
+// Combined Chevrons
+.chev-lr {
+    @extend .chevron-left;
+    @extend .chevron-right;
+}
+
+// --- Brackets --- //
+.bracket-right::after {
+    @include mirror(']');
+    margin-left: convert.px2em(0.5px);
+}
+
+.bracket-left::before {
+    @include mirror('[');
+    margin-right: convert.px2em(-0.5px);
+}
+
+// Combined Brackets
+.brack-lr {
+    @extend .bracket-left;
+    @extend .bracket-right;
+}
+
+// --- Curlies --- //
+.curl-right::after {
+    @include mirror('}');
+    margin-left: convert.px2em(1px);
+}
+
+.curl-left::before {
+    @include mirror('{');
+    margin-right: convert.px2em(1px);
+}
+
+// Combined Brackets
+.curl-lr {
+    @extend .curl-left;
+    @extend .curl-right;
+}
+
+/*-------------------------------------------------------
+    Text Sizes
+-------------------------------------------------------*/
+
+@for $i from 2 through 8 {
+    .x#{$i}l {
+        font-size: calc(var(--gbl-font-size) * #{$i}) !important;
+    }
+}

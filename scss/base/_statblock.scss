@@ -1,0 +1,105 @@
+@use "sass:color";
+@use "../utility/convert";
+@use "./admonition";
+@use "./table";
+
+/*------------------------------------------------------- 
+    Monster Statblock
+--------------------------------------------------------*/
+
+.md-typeset {
+    $colorAdmonition_statblock: convert.hex3hsl(#ffb624);
+
+    .admonition.statblock,
+    details.statblock {
+        border-color: $colorAdmonition_statblock;
+        border-width: 2px !important;
+
+        & table:not([class]) {
+            // width: auto !important;
+            white-space: nowrap !important;
+            box-shadow: none !important;
+
+            td,
+            th {
+                padding: convert.px2em(8px) !important;
+            }
+
+            th {
+                font-size: var(--gbl-font-size) !important;
+                background-color: transparent !important;
+                border-bottom: transparent;
+                font-weight: normal;
+                color: var(--md-default-wht--050);
+                text-transform: capitalize !important;
+            }
+
+            td {
+                font-size: calc(var(--gbl-font-size) * 1.15) !important;
+            }
+
+            tr:nth-child(odd),
+            tr:nth-child(even) {
+                background-color: transparent !important;
+            }
+
+            // Ability Names & Score
+            td:nth-child(1),
+            td:nth-child(2) {
+                padding-left: convert.px2em(12px) !important;
+                padding-right: convert.px2em(12px) !important;
+                background-color: var(--md-default-blk--0125) !important;
+                font-weight: strong;
+                color: var(--md-text-color);
+            }
+
+            // Ability Name Only
+            td:nth-child(1) {
+                font-variant: small-caps;
+            }
+
+            td:nth-child(3),
+            td:nth-child(4) {
+                background-color: var(--md-primary-bg-color-light) !important;
+            }
+
+            // Adjust font sizes for smaller screens
+            @media screen and (max-width: 720px) {
+                width: 100% !important;
+
+                th {
+                    font-size: calc(var(--gbl-font-size) * 0.8) !important;
+                }
+
+                td {
+                    font-size: var(--gbl-font-size) !important;
+                }
+            }
+        }
+
+        .grid {
+            grid-template-columns: repeat(auto-fit, minmax(convert.px2rem(96px), 1fr));
+            grid-gap: convert.px2em(4px);
+
+            &.cards > :is(ul, ol) > li,
+            > .card {
+                border: convert.px2rem(1.5px) solid var(--md-default-wht--0125);
+                padding: convert.px2rem(10px) convert.px2rem(16px);
+            }
+        }
+    }
+
+    .statblock {
+        > .admonition-title,
+        > summary {
+            background-color: color.adjust($colorAdmonition_statblock, $alpha: -0.9);
+        }
+
+        > .admonition-title::before,
+        > summary::before {
+            background-color: $colorAdmonition_statblock;
+            -webkit-mask-image: var(--md-icon--statblock);
+            mask-image: var(--md-icon--statblock);
+        }
+    }
+}

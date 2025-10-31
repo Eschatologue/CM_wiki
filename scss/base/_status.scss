@@ -1,0 +1,35 @@
+@use "../utility/convert";
+
+/*------------------------------------------------------- 
+    Mkdocs Material Statuses
+--------------------------------------------------------*/
+
+.md-status {
+    // Status icon
+    &::after {
+        width: convert.px2em(18px);
+        height: convert.px2em(18px);
+        vertical-align: baseline;
+        mask-position: center;
+    }
+}
+
+//---------//
+
+/* Homebrew Status */
+.md-status--homebrew::after {
+    mask-image: var(--md-icon--homebrew);
+    -webkit-mask-image: var(--md-icon--homebrew);
+}
+
+/* Draft Status */
+.md-status--draft::after {
+    mask-image: var(--md-icon--draft);
+    -webkit-mask-image: var(--md-icon--draft);
+}
+
+/* Adapted Status */
+.md-status--adapted::after {
+    mask-image: var(--md-icon--adapted);
+    -webkit-mask-image: var(--md-icon--adapted);
+}

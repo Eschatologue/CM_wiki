@@ -1,0 +1,95 @@
+@use 'sass:color';
+@use '../utility/convert';
+@use '../palette/accent';
+
+/*------------------------------------------------------- 
+    Admonitions
+--------------------------------------------------------*/
+
+.md-typeset {
+    // Reset to default
+    .admonition,
+    details {
+        border: 0 solid;
+        border-left-width: convert.px2rem(4px);
+        box-shadow: var(--md-shadow-z3);
+    }
+
+    .admonition {
+        .admonition-title {
+            &::before {
+                width: px2rem(18px) !important;
+                height: px2rem(18px) !important;
+            }
+        }
+    }
+
+    .admonition-title,
+    summary {
+        background-color: accent.$nord-polar0-darkest !important;
+    }
+
+    .admonition {
+        border-color: var(--md-admonition-icon-color--note);
+        transition: box-shadow 250ms;
+
+        .admonition-title {
+            color: var(--md-gbl-text-color-strong);
+
+            abbr {
+                border-bottom: none !important;
+            }
+        }
+
+        .grid {
+            grid-template-columns: repeat(auto-fit, minmax(#{convert.px2rem(320px)}, 1fr));
+        }
+    }
+
+    // Custom Admonition Styling
+    @mixin admonitionStyles($type, $colour) {
+        $converted: convert.hex3hsl($colour);
+
+        // Borders
+        .admonition.#{$type},
+        details.#{$type} {
+            border-color: $converted;
+        }
+
+        // Icons
+        .admonition.#{$type} > .admonition-title::before {
+            background-color: $converted;
+            -webkit-mask-image: var(--md-icon--#{$type});
+            mask-image: var(--md-icon--#{$type});
+        }
+
+        details.#{$type} > summary::before {
+            content: '';
+            display: inline-block;
+            width: convert.px2rem(18px);
+            height: convert.px2rem(18px);
+            background-color: $converted;
+            -webkit-mask-image: var(--md-icon--#{$type});
+            mask-image: var(--md-icon--#{$type});
+            -webkit-mask-repeat: no-repeat;
+            mask-repeat: no-repeat;
+            -webkit-mask-position: center;
+            mask-position: center;
+            margin-inline-end: 0.5em;
+        }
+    }
+
+    $admonition-types: (
+        'homebrew': #ffb624,
+        'glossary': #4db6ac,
+        'dice': accent.$nord-red,
+        'action': #00bfa5,
+        'bonusaction': #ffab00,
+        'reaction': accent.$nord-indigo,
+        'move': #ffd600
+    );
+
+    @each $type, $colour in $admonition-types {
+        @include admonitionStyles($type, $colour);
+    }
+}
